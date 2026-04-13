@@ -4,7 +4,7 @@
 
 | Date | Weight (lbs) | Notes |
 |------|-------------|-------|
-| *(pending first weigh-in)* | — | — |
+| 2026-04-13 | 156 | Week 1, Day 1 |
 
 ---
 
@@ -70,7 +70,7 @@ Use a simple feel rating when reporting back: **Easy** (4+ reps left in tank), *
 ## Session Logs
 
 ### 2026-04-13 — Lower A (Week 1, Day 1)
-**Body Weight:** (pending — Paul to report)
+**Body Weight:** 156 lbs
 
 | Exercise | Weight Used | Sets×Reps | Feel | Notes |
 |----------|-------------|-----------|------|-------|
