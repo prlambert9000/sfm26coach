@@ -263,19 +263,19 @@ Two workouts per week (A and B), each ~35–40 minutes. These target the glutes,
 
 **Main Circuit — 3 rounds**
 
-| Exercise | Reps | Notes |
-|----------|------|-------|
-| Single-leg squat to bench | 8 each leg | Sit all the way down to a bench/chair, stand on one leg. This is THE exercise for runner's knee prevention. Control the descent for 3 seconds. |
-| Romanian deadlift (dumbbell) | 10 each leg | Single-leg. Hinge at hips, slight knee bend. Builds posterior chain to balance quad dominance. |
-| Step-downs | 8 each leg | Stand on a step (6–8 inches). Slowly lower the opposite foot to the floor, tap, and return. 3-second descent. |
-| Copenhagen plank | 20 sec each side | Side plank with top leg on bench, bottom leg hanging. Builds adductors — commonly weak in runners. |
-| Calf raises | 15 each leg | Single-leg on a step, full range of motion (drop heel below step level). Slow on the way down. |
+| Exercise | Reps | Wk 1 Start | Notes |
+|----------|------|------------|-------|
+| Single-leg squat to bench | 8 each leg | Bodyweight | Sit all the way down to a bench/chair, stand on one leg. This is THE exercise for runner's knee prevention. Control the descent for 3 seconds. |
+| Romanian deadlift (dumbbell) | 10 each leg | 15 lbs/hand | Single-leg. Hinge at hips, slight knee bend. Builds posterior chain to balance quad dominance. |
+| Step-downs | 8 each leg | Bodyweight | Stand on a step (6–8 inches). Slowly lower the opposite foot to the floor, tap, and return. 3-second descent. |
+| Copenhagen plank | 20 sec each side | Bodyweight | Side plank with top leg on bench, bottom leg hanging. Builds adductors — commonly weak in runners. |
+| Calf raises | 15 each leg | Bodyweight | Single-leg on a step, full range of motion (drop heel below step level). Slow on the way down. |
 
 **Finisher — 3 sets**
 
-| Exercise | Duration | Notes |
-|----------|----------|-------|
-| Wall sit | 30–45 sec | Back flat against wall, thighs parallel to floor, knees at 90°. Strengthens VMO with zero shearing force on the knee. Progress to 60 sec, then single-leg. |
+| Exercise | Duration | Wk 1 Start | Notes |
+|----------|----------|------------|-------|
+| Wall sit | 30–45 sec | Bodyweight | Back flat against wall, thighs parallel to floor, knees at 90°. Strengthens VMO with zero shearing force on the knee. Progress to 60 sec, then single-leg. |
 
 **Cool-down (3 min)** — Foam roll quads and IT band (30 sec each side), then pigeon stretch and calf stretch (30 sec each side). Foam rolling has better evidence for recovery than static stretching. If you're short on time, prioritize the foam rolling over the stretches.
 
@@ -290,26 +290,26 @@ Two workouts per week (A and B), each ~35–40 minutes. These target the glutes,
 
 **Main Circuit — 3 rounds**
 
-| Exercise | Reps | Notes |
-|----------|------|-------|
-| Bulgarian split squat | 10 each leg | Rear foot elevated on bench. Bread and butter for single-leg strength. Add dumbbells as you progress. |
-| Side-lying hip abduction | 15 each side | Lie on side, lift top leg 45°. Add ankle weight (2–5 lbs) when easy. Weak hip abductors are the #1 biomechanical cause of runner's knee. |
-| Lateral band walks | 15 each direction | Mini band above knees, athletic stance, stay low. |
-| Single-leg glute bridge | 12 each side | Drive through heel, squeeze glute at top, 2-second hold. |
-| Eccentric step-up | 8 each leg | Step up normally, lower yourself down on one leg over 4 seconds. Use a 12–16 inch step. |
+| Exercise | Reps | Wk 1 Start | Notes |
+|----------|------|------------|-------|
+| Bulgarian split squat | 10 each leg | Bodyweight | Rear foot elevated on bench. Bread and butter for single-leg strength. Add dumbbells as you progress. |
+| Side-lying hip abduction | 15 each side | Bodyweight | Lie on side, lift top leg 45°. Add ankle weight (2–5 lbs) when easy. Weak hip abductors are the #1 biomechanical cause of runner's knee. |
+| Lateral band walks | 15 each direction | Light band | Mini band above knees, athletic stance, stay low. |
+| Single-leg glute bridge | 12 each side | Bodyweight | Drive through heel, squeeze glute at top, 2-second hold. |
+| Eccentric step-up | 8 each leg | Bodyweight | Step up normally, lower yourself down on one leg over 4 seconds. Use a 12–16 inch step. |
 
 **Supplemental (every Lower session)**
 
-| Exercise | Reps | Notes |
-|----------|------|-------|
-| Dead bug | 10 each side | Core stability without loading the spine. Opposite arm/leg extension. |
-| Pallof press | 10 each side | Anti-rotation core work with band. |
+| Exercise | Reps | Wk 1 Start | Notes |
+|----------|------|------------|-------|
+| Dead bug | 10 each side | Bodyweight | Core stability without loading the spine. Opposite arm/leg extension. |
+| Pallof press | 10 each side | Light band | Anti-rotation core work with band. |
 
 **Finisher — 3 sets**
 
-| Exercise | Duration | Notes |
-|----------|----------|-------|
-| Wall sit | 30–45 sec | Same as Lower A. Back flat, thighs parallel, knees at 90°. |
+| Exercise | Duration | Wk 1 Start | Notes |
+|----------|----------|------------|-------|
+| Wall sit | 30–45 sec | Bodyweight | Same as Lower A. Back flat, thighs parallel, knees at 90°. |
 
 **Cool-down (3 min)** — Foam roll IT band and quads (30 sec each side), figure-4 stretch for piriformis (30 sec each side). Same rule: foam rolling first, stretches if you have time.
 
@@ -323,13 +323,13 @@ Two push sessions, two pull sessions per week. On Mon/Fri paired with lower body
 
 **3 rounds**
 
-| Exercise | Reps | Notes |
-|----------|------|-------|
-| Dumbbell bench press | 10 | Flat bench. Moderate weight — finish each set with 2–3 reps in reserve. Don't go to failure during marathon training. |
-| Overhead press (dumbbell) | 10 | Standing. Engages core as a bonus. |
-| Push-ups | 12–15 | Slow and controlled. Elevate feet for more challenge when bodyweight gets easy. |
-| Dumbbell lateral raise | 12 | Light weight (8–12 lbs). Shoulder health and aesthetics. |
-| Tricep dips (bench) or overhead extension | 10 | Bench dips or single dumbbell overhead extension. |
+| Exercise | Reps | Wk 1 Start | Notes |
+|----------|------|------------|-------|
+| Dumbbell bench press | 10 | 30 lbs/hand | Flat bench. Moderate weight — finish each set with 2–3 reps in reserve. Don't go to failure during marathon training. |
+| Overhead press (dumbbell) | 10 | 20 lbs/hand | Standing. Engages core as a bonus. |
+| Push-ups | 12–15 | Bodyweight | Slow and controlled. Elevate feet for more challenge when bodyweight gets easy. |
+| Dumbbell lateral raise | 12 | 10 lbs | Light weight (8–12 lbs). Shoulder health and aesthetics. |
+| Tricep dips (bench) or overhead extension | 10 | Bodyweight / 20 lbs | Bench dips or single dumbbell overhead extension. |
 
 ---
 
@@ -337,13 +337,13 @@ Two push sessions, two pull sessions per week. On Mon/Fri paired with lower body
 
 **3 rounds**
 
-| Exercise | Reps | Notes |
-|----------|------|-------|
-| Pull-ups or lat pulldown | 8–10 | If you can do 8+ pull-ups, use those. Add weight via belt/dumbbell between feet when bodyweight is easy. |
-| Dumbbell row | 10 each arm | Single-arm, knee on bench. Squeeze shoulder blade at top. |
-| Face pulls (band or cable) | 15 | Light resistance, high reps. Critical for shoulder health and posture — counteracts the forward-hunching of late-race marathon form. |
-| Bicep curls (dumbbell) | 12 | Alternating or simultaneous. |
-| Band pull-aparts | 15 | Light band, arms extended. Rear delt and posture work. |
+| Exercise | Reps | Wk 1 Start | Notes |
+|----------|------|------------|-------|
+| Pull-ups or lat pulldown | 8–10 | Bodyweight (or 85 lbs lat pulldown) | If you can do 8+ pull-ups, use those. Add weight via belt/dumbbell between feet when bodyweight is easy. |
+| Dumbbell row | 10 each arm | 30 lbs/hand | Single-arm, knee on bench. Squeeze shoulder blade at top. |
+| Face pulls (band or cable) | 15 | Light band / 20 lbs | Light resistance, high reps. Critical for shoulder health and posture — counteracts the forward-hunching of late-race marathon form. |
+| Bicep curls (dumbbell) | 12 | 15 lbs/hand | Alternating or simultaneous. |
+| Band pull-aparts | 15 | Light band | Light band, arms extended. Rear delt and posture work. |
 
 ---
 
