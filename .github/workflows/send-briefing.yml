@@ -1,0 +1,35 @@
+name: Send Briefing Email
+
+on:
+  push:
+    branches: [main]
+    paths: ['briefings/latest.json']
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Send email via Resend
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+        run: |
+          response=$(curl -s -w "\n%{http_code}" -X POST https://api.resend.com/emails \
+            -H "Authorization: Bearer $RESEND_API_KEY" \
+            -H "Content-Type: application/json" \
+            -d @briefings/latest.json)
+
+          http_code=$(echo "$response" | tail -1)
+          body=$(echo "$response" | head -n -1)
+
+          echo "Response ($http_code): $body"
+
+          if [ "$http_code" -ge 400 ]; then
+            echo "::error::Failed to send email"
+            exit 1
+          fi
