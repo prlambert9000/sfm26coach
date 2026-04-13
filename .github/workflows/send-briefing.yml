@@ -2,7 +2,9 @@ name: Send Briefing Email
 
 on:
   push:
+    branches: [main]
     paths: ['briefings/latest.json']
+  workflow_dispatch:
 
 permissions:
   contents: read
