@@ -89,7 +89,7 @@ When modifying the plan, update TRAINING_PLAN.md directly with the changes and n
 
 ## Automated Data Pipeline
 
-- **Strava integration:** A GitHub Action (`pull-strava.yml`) polls Strava at 7am, 9am, 1pm, and 7pm PT for new activities. It auto-logs objective data (distance, pace, HR, splits, elevation, cadence) to WORKOUT_LOG.md. Entries from Strava have `Knee Status: (pending)` — Paul fills that in via feedback.
+- **Strava integration:** A GitHub Action (`pull-strava.yml`) polls Strava at 7am, 9am, 1pm, and 7pm PT for new activities. It auto-logs objective data (distance, pace, HR, splits, elevation, cadence) to WORKOUT_LOG.md. Entries from Strava have `Knee Status: (pending)` — Paul fills that in via feedback. The workflow also triggers on every push to `main`, so you can manually kick off a sync at any time by running: `git commit --allow-empty -m "trigger strava sync" && git push origin main`
 - **Daily briefing:** A Claude Code scheduled task runs at 5:30am PT, writes the briefing to `briefings/latest.json`, and pushes. A GitHub Action (`send-briefing.yml`) picks it up and sends it via Resend to prlambert9000@gmail.com.
 - **Feedback via Dispatch:** Paul provides subjective feedback (knee status, perceived effort, notes) via Claude Code Dispatch on his phone. When he does, update the pending Strava entries in WORKOUT_LOG.md with his feedback, commit, and push.
 
