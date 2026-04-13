@@ -55,7 +55,7 @@ When composing the briefing:
 3. If today includes a strength session, read STRENGTH_LOG.md for current recommended weights
 4. Compose a briefing that includes:
    - **Today's workout** with specific distances, paces, and exercises
-   - **For gym days:** list recommended weights for every exercise from STRENGTH_LOG.md "Current Recommended Weights" section
+   - **For gym days:** include the dynamic warm-up (rep-based, not time-based): leg swings forward/back + lateral (10 reps each direction, each leg), bodyweight squats (10 reps), hip circles (10 each direction), glute bridges (10 reps), ankle circles (10 each direction). Then list recommended weights for every exercise from STRENGTH_LOG.md "Current Recommended Weights" section
    - **Focus cue** — one thing to pay attention to (form, effort level, knee feel, etc.)
    - **Context** — where this fits in the bigger picture (e.g., "Week 7 of 15, you're in the build phase, 8 weeks to race day")
    - **Adaptation notes** — any modifications based on recent feedback
