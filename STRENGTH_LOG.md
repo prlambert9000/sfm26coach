@@ -10,7 +10,7 @@
 
 ## Current Recommended Weights
 
-*Last updated: 2026-04-13 (Week 1 baseline — adjust after first sessions)*
+*Last updated: 2026-04-13*
 
 Use a simple feel rating when reporting back: **Easy** (4+ reps left in tank), **Good** (2–3 reps in reserve), **Heavy** (grinding last rep), **Too heavy** (couldn't complete reps).
 
@@ -21,7 +21,7 @@ Use a simple feel rating when reporting back: **Easy** (4+ reps left in tank), *
 | Romanian deadlift (single-leg) | 15 lbs/hand | Good |
 | Step-downs | Bodyweight | Form focus — 3-sec descent |
 | Copenhagen plank | Bodyweight | 20-sec holds each side |
-| Calf raises | Bodyweight | Full ROM on step; slow lowering |
+| Calf raises (single-leg eccentric) | Bodyweight | Raise with both legs, lower on one leg 3–4 sec |
 | Wall sit | Bodyweight, 30–45 sec | — |
 
 ### Lower B
@@ -69,7 +69,21 @@ Use a simple feel rating when reporting back: **Easy** (4+ reps left in tank), *
 
 ## Session Logs
 
-*(No sessions logged yet — Week 1 starts April 13, 2026)*
+### 2026-04-13 — Lower A (Week 1, Day 1)
+**Body Weight:** (pending — Paul to report)
+
+| Exercise | Weight Used | Sets×Reps | Feel | Notes |
+|----------|-------------|-----------|------|-------|
+| Single-leg squat to bench | Bodyweight | 3×8 each | Good | Right leg tougher than left — normal asymmetry for first session |
+| Single-leg RDL | 15 lbs/hand | 3×10 each | Good | Did 10 reps (vs 8 prescribed); felt right at this weight |
+| Step-downs | Bodyweight | 3×10 each | Good | Used riser stack (~6–7"). Upgrade to plyometric box when available |
+| Copenhagen plank | Bodyweight | 3×20 sec each | Good | Movement felt awkward — learning curve, not a problem |
+| Calf raises (single-leg eccentric) | Bodyweight | 3×15 each | — | Flat BW raises felt like filler; upgraded to single-leg eccentric on step going forward |
+| Wall sit | Bodyweight | 3×30–45 sec | Good | Finisher after all 3 rounds |
+
+**Upper Push:** Skipped — ran out of time (first session, learning movements). Not a concern.
+**Knee during session:** 🟢 Green — no awareness throughout. Right knee is the one with history.
+**Overall notes:** Solid first session. Everything felt appropriately hard for Week 1. No weight changes warranted — all Good. Calf raise variation upgraded to single-leg eccentric on step.
 
 ---
 
