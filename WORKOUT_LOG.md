@@ -35,3 +35,18 @@
 - **Type:** Gym
 - **Knee Status:** 🟢 Green during session → 🟡 Yellow by afternoon (awareness developing ~4:30pm)
 - **Notes:** Right leg noticeably weaker than left on single-leg work — expected asymmetry. Skipped Upper Push due to time (first session, learning curve). Calf raises upgraded to single-leg eccentric on step. Full session log in STRENGTH_LOG.md. Tuesday rest day inserted due to Yellow knee.
+
+## April 12, 2026
+
+- **Workout:** Getting lost in Cambria
+- **Type:** Run
+- **Distance:** 10.56 mi
+- **Time:** 1:28:43
+- **Avg Pace:** 8:24/mi
+- **Elevation Gain:** 879 ft
+- **Avg Heart Rate:** 158 bpm (max 182)
+- **Avg Cadence:** N/A
+- **Splits:** 8:11, 8:06, 8:23, 8:30, 9:19, 8:16, 8:08, 8:12, 8:41, 8:38, 7:37
+- **Relative Effort:** 252.0
+- **Knee Status:** (pending — update after reviewing)
+- **Notes:** Auto-logged from Strava. Awaiting athlete feedback.
