@@ -1,0 +1,39 @@
+name: Pull Strava Data
+
+on:
+  schedule:
+    - cron: '0 14,17,20,23,2 * * *'  # 7am, 10am, 1pm, 4pm, 7pm PT
+  workflow_dispatch:  # Manual trigger
+
+jobs:
+  pull:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Pull Strava activities
+        env:
+          STRAVA_CLIENT_ID: ${{ secrets.STRAVA_CLIENT_ID }}
+          STRAVA_CLIENT_SECRET: ${{ secrets.STRAVA_CLIENT_SECRET }}
+          STRAVA_REFRESH_TOKEN: ${{ secrets.STRAVA_REFRESH_TOKEN }}
+        run: python scripts/pull_strava.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add WORKOUT_LOG.md
+          if git diff --staged --quiet; then
+            echo "No new activities to log"
+          else
+            git commit -m "Auto-log workout from Strava"
+            git push
+          fi
