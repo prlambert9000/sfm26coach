@@ -1,0 +1,14 @@
+{
+  "hooks": {
+    "UserPromptSubmit": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo \"Current Pacific Time: $(TZ='America/Los_Angeles' date '+%A %B %-d, %Y %-I:%M %p %Z')\""
+          }
+        ]
+      }
+    ]
+  }
+}
