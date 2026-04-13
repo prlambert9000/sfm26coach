@@ -2,7 +2,7 @@ name: Pull Strava Data
 
 on:
   schedule:
-    - cron: '0 14,17,20,23,2 * * *'  # 7am, 10am, 1pm, 4pm, 7pm PT
+    - cron: '0 14,16,20,2 * * *'  # 7am, 9am, 1pm, 7pm PT
   workflow_dispatch:  # Manual trigger
 
 permissions:
