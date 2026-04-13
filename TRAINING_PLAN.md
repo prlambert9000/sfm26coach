@@ -21,10 +21,10 @@
 
 | Code | Type | Description |
 |------|------|-------------|
-| **Easy** | Easy Run | Conversational pace. ~9:15–9:45/mi. Should feel genuinely easy. |
-| **Tempo** | Tempo Run | "Comfortably hard." ~7:40–7:55/mi. Short phrases only. This is the key workout for closing your VO2 max → marathon performance gap. |
-| **Long** | Long Run | Easy pace for the first 75%, with the option to run the last 2–4 miles at marathon pace during build/peak phases. |
-| **MP** | Marathon Pace | ~8:00–8:10/mi, your target race pace for a sub-3:32 finish. |
+| **Easy** | Easy Run | HR below 140 bpm. Fully conversational — full sentences, no effort. Pace will likely be 9:15–10:00/mi on flat ground; slower on hills. This will feel embarrassingly slow. That's correct. |
+| **Tempo** | Tempo Run | "Comfortably hard." HR ~165–172 bpm. ~7:40–7:55/mi on flat. Short phrases only. This is the key workout for closing your VO2 max → marathon performance gap. |
+| **Long** | Long Run | Easy HR (below 140) for the first 75%, with the option to run the last 2–4 miles at marathon pace during build/peak phases. |
+| **MP** | Marathon Pace | ~8:00–8:10/mi, HR ~155–162 bpm. Your target race pace for a sub-3:32 finish. |
 | **Strides** | Strides | 6–8 x 20-second accelerations to ~5K effort with full recovery between. Good for running economy. Do these on a flat, soft surface. |
 
 ---
