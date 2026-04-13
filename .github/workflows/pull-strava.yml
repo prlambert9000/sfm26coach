@@ -2,7 +2,7 @@ name: Pull Strava Data
 
 on:
   schedule:
-    - cron: '0 14,16,20,2 * * *'  # 7am, 9am, 1pm, 7pm PT
+    - cron: '30 14,16,20,2 * * *'  # 7:30am, 9am, 1pm, 7pm PT
   workflow_dispatch:  # Manual trigger
   push:
     branches: [main]  # Also runs on push to main (use blank commit to trigger manually)
