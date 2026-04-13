@@ -4,6 +4,9 @@ on:
   push:
     paths: ['briefings/latest.json']
 
+permissions:
+  contents: read
+
 jobs:
   send:
     runs-on: ubuntu-latest
