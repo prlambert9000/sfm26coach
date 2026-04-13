@@ -55,7 +55,7 @@ You ran 10.5 mi at 8:24 with 900 ft of gain on April 12 and had a kick left. The
 | Day | Workout | Notes |
 |-----|---------|-------|
 | Mon | Lower A + Upper Push | ✓ Done. Knee Green during session, Yellow-ish by afternoon |
-| Tue | Rest | Knee Yellow — moved Easy 5 to Thu, rest day inserted |
+| Tue | Rest + Upper Push | Knee Yellow — no running. Upper Push fine (no leg load) |
 | Wed | Upper Pull | Legs rest |
 | Thu | Easy 5 mi | Reassess knee Wed night — drop to 3 mi or rest if still aware |
 | Fri | Lower B + Upper Push | |
