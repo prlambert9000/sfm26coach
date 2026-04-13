@@ -54,10 +54,10 @@ You ran 10.5 mi at 8:24 with 900 ft of gain on April 12 and had a kick left. The
 
 | Day | Workout | Notes |
 |-----|---------|-------|
-| Mon | Lower A + Upper Push | |
-| Tue | Easy 5 mi | |
+| Mon | Lower A + Upper Push | ✓ Done. Knee Green during session, Yellow-ish by afternoon |
+| Tue | Rest | Knee Yellow — moved Easy 5 to Thu, rest day inserted |
 | Wed | Upper Pull | Legs rest |
-| Thu | Easy 5 mi + strides | 6x20s strides |
+| Thu | Easy 5 mi | Reassess knee Wed night — drop to 3 mi or rest if still aware |
 | Fri | Lower B + Upper Push | |
 | Sat | Easy 5 mi | |
 | Sun | Long 8 mi | Easy effort. Knee check — how does it feel at mile 6+? |
