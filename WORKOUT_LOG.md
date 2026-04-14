@@ -1,5 +1,12 @@
 # Workout Log
 
+## April 14, 2026
+
+- **Workout:** Upper Push (Week 1, Day 2)
+- **Type:** Gym
+- **Knee Status:** 🟢 Green
+- **Notes:** No running day. Knee recovered overnight from Monday's Yellow. Full session log in STRENGTH_LOG.md (pending — add weights/feel if you want recommendations updated).
+
 ## April 12, 2026 (Pre-training)
 
 - **Workout:** Unplanned long run (got lost)
