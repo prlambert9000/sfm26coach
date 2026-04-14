@@ -69,6 +69,24 @@ Use a simple feel rating when reporting back: **Easy** (4+ reps left in tank), *
 
 ## Session Logs
 
+### 2026-04-14 — Upper Push (Week 1, Day 2)
+**Body Weight:** Not recorded
+
+| Exercise | Weight Used | Sets×Reps | Feel | Notes |
+|----------|-------------|-----------|------|-------|
+| Dip | Bodyweight | 4×(11/10/10/5) | Heavy | Last set fell to 5 — near failure |
+| Barbell Bench Press | 115 lb | 75 warmup → 3×(5/5/3) | Heavy | Last set dropped to 3; 115 lb is the working ceiling for now |
+| DB Rear Delt Raise | 20 lb/hand | 3×6 | Heavy | PR (est. 1RM 25.4 lb); 6-rep sets near max |
+| DB Skullcrusher | 20 lb/hand | 3×6 | Heavy | Supersetted with rear delt raise |
+| Single Arm OH Press | 25 lb/hand | 4×6 | Good | Consistent across 4 sets — slightly above plan's 20 lb recommendation |
+| Push Up | Bodyweight | 3×(10/10/8) | Good | Minor dropoff on last set |
+
+**Session source:** Fitbod app — exercise selection differs from prescribed Upper Push (e.g., barbell bench vs. dumbbell bench, skullcrusher vs. tricep extension). Heavier/lower-rep protocol than plan's 10–12 rep target. Fine for marathon training as long as upper DOMS doesn't affect running form.
+**Knee during session:** 🟢 Green
+**Overall notes:** No weight increases warranted — all Heavy holds, Good holds. Single Arm OH Press at 25 lb (above plan's 20 lb) is fine; maintain there.
+
+---
+
 ### 2026-04-13 — Lower A (Week 1, Day 1)
 **Body Weight:** 156 lbs
 

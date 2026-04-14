@@ -2,10 +2,12 @@
 
 ## April 14, 2026
 
-- **Workout:** Upper Push (Week 1, Day 2)
+- **Workout:** Upper Push — Push Day via Fitbod (Week 1, Day 2)
 - **Type:** Gym
+- **Duration:** 46 min
+- **Volume:** 4,735 lb | **Calories:** 245 kCal | **PRs:** 2
 - **Knee Status:** 🟢 Green
-- **Notes:** No running day. Knee recovered overnight from Monday's Yellow. Full session log in STRENGTH_LOG.md (pending — add weights/feel if you want recommendations updated).
+- **Notes:** Dips, barbell bench (115 lb), rear delt raise, skullcrusher, single-arm OH press, push-ups. Heavier/lower-rep protocol than plan (5–6 rep sets). No running. Full session in STRENGTH_LOG.md.
 
 ## April 12, 2026 (Pre-training)
 
