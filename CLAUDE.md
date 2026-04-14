@@ -55,11 +55,12 @@ When composing the briefing:
 3. If today includes a strength session, read STRENGTH_LOG.md for current recommended weights
 4. Compose a briefing that includes:
    - **Today's workout** with specific distances, paces, and exercises
-   - **For gym days:** include the dynamic warm-up (rep-based, not time-based): leg swings forward/back + lateral (10 reps each direction, each leg), bodyweight squats (10 reps), hip circles (10 each direction), glute bridges (10 reps), ankle circles (10 each direction). Then list recommended weights for every exercise from STRENGTH_LOG.md "Current Recommended Weights" section, including sets × reps for each exercise (Lower body: 3×8–10; Upper body: 3×10–12; isometric holds use time not reps)
+   - **For gym days:** include a dynamic warm-up (rep-based, not time-based). **Lower body or full-body days:** leg swings forward/back + lateral (10 reps each direction, each leg), bodyweight squats (10 reps), hip circles (10 each direction), glute bridges (10 reps), ankle circles (10 each direction). **Upper body days (Upper Push / Upper Pull):** arm circles (10 each direction), shoulder rolls (10 forward/back), scapular retractions (10 reps), cat-cow (10 reps), band pull-aparts or chest openers (10 reps). Then list recommended weights for every exercise from STRENGTH_LOG.md "Current Recommended Weights" section, including sets × reps for each exercise (Lower body: 3×8–10; Upper body: 3×10–12; isometric holds use time not reps)
    - **Focus cue** — one thing to pay attention to (form, effort level, knee feel, etc.)
    - **Context** — where this fits in the bigger picture (e.g., "Week 7 of 15, you're in the build phase, 8 weeks to race day")
    - **Adaptation notes** — any modifications based on recent feedback
 5. Keep it concise — 8–10 sentences max for the narrative. Weight table is additive and doesn't count against the limit. No filler.
+6. **Morning context:** The briefing arrives at ~5:30am and is the first thing Paul reads — before the workout. Write temporal references accordingly. Post-workout advice should say "after your workout" or "this evening after the gym," not "tonight" phrased as if the workout is already done. Phrases like "don't sit all afternoon" are fine but should read as forward-looking instructions, not assumed current state.
 
 ## When Paul Provides Feedback
 
