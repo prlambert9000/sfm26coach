@@ -367,6 +367,18 @@ If a push or pull session falls on the same day as a lower session (Mon/Fri), do
 
 ---
 
+## Cross-Training: Cycling
+
+Paul has a road bike available. Cycling is the designated substitute for easy runs on Yellow knee days — same aerobic stimulus, zero impact.
+
+**Substitution rule:** Any scheduled easy run on a Yellow knee day can be swapped 1:1 for 45–60 min easy cycling (conversational effort, HR below 140). Do not substitute tempo runs or long runs with cycling — those require running-specific load.
+
+**Diagnostic use:** Cycling can also help characterize the knee issue before PT. If cycling aggravates the medial/tendon area, note it. If it doesn't, that's useful information for the PT.
+
+Do not add cycling on top of scheduled runs — substitution only.
+
+---
+
 ## Knee Monitoring Protocol
 
 **Green light (keep training):**
