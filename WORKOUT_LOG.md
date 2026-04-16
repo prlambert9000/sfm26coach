@@ -59,3 +59,18 @@
 - **Relative Effort:** 252.0
 - **Knee Status:** (pending — update after reviewing)
 - **Notes:** Auto-logged from Strava. Awaiting athlete feedback.
+
+## April 16, 2026
+
+- **Workout:** Easy runs are the hardest
+- **Type:** Run
+- **Distance:** 5.06 mi
+- **Time:** 47:26
+- **Avg Pace:** 9:22/mi
+- **Elevation Gain:** 270 ft
+- **Avg Heart Rate:** 130 bpm (max 142)
+- **Avg Cadence:** N/A
+- **Splits:** 9:26, 9:06, 9:04, 9:26, 9:46, 10:02
+- **Relative Effort:** 26.0
+- **Knee Status:** (pending — update after reviewing)
+- **Notes:** Auto-logged from Strava. Awaiting athlete feedback.
