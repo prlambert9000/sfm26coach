@@ -10,31 +10,35 @@
 
 ## Current Recommended Weights
 
-*Last updated: 2026-04-13*
+*Last updated: 2026-04-17 (PT-driven rebuild — Phase 0: Chassis Build)*
 
 Use a simple feel rating when reporting back: **Easy** (4+ reps left in tank), **Good** (2–3 reps in reserve), **Heavy** (grinding last rep), **Too heavy** (couldn't complete reps).
 
-### Lower A
-| Exercise | Recommended | Feel Target |
-|----------|-------------|-------------|
-| Single-leg squat to bench | Bodyweight | Form focus — 3-sec descent, knee tracks over toe |
-| Romanian deadlift (single-leg) | 15 lbs/hand | Good |
-| Step-downs | Bodyweight | Form focus — 3-sec descent |
-| Copenhagen plank | Bodyweight | 20-sec holds each side |
-| Calf raises (single-leg eccentric) | Bodyweight | Raise with both legs, lower on one leg 3–4 sec |
-| Wall sit | Bodyweight, 30–45 sec | — |
+**Chassis Build rule:** The goal here is NOT to add load. It's to build the hip mobility, hip strength, and core strength the PT identified as missing. Stay light, stay strict on form. Do 1 extra set or 2 extra reps on the RIGHT side on every single-leg exercise.
 
-### Lower B
+### Hip & Core A (replaces Lower A during Chassis Build)
 | Exercise | Recommended | Feel Target |
 |----------|-------------|-------------|
-| Bulgarian split squat | Bodyweight | Form focus — hips square, knee tracks toe |
-| Side-lying hip abduction | Bodyweight | Good — add 2 lb ankle weight when easy |
-| Lateral band walks | Light band | Stay low, controlled |
-| Single-leg glute bridge | Bodyweight | 2-sec hold at top |
-| Eccentric step-up | Bodyweight | 4-sec lowering phase |
-| Dead bug | Bodyweight | — |
-| Pallof press | Light band | — |
-| Wall sit | Bodyweight, 30–45 sec | — |
+| 90/90 PAILs/RAILs | Bodyweight | Hard contraction — go to ~80% effort on isometric |
+| Side-lying clamshell (banded) | Light band | Good — slow, 2-sec hold at top |
+| Single-leg glute bridge | Bodyweight | Good — 2-sec hold at top |
+| Hip airplane | Bodyweight | Balance and control first; add 5 lb DB in front hand when stable |
+| Copenhagen plank | Bodyweight | Start at 20 sec, build to 30 sec by Week 3 |
+| Dead bug | Bodyweight | Slow — low back pressed to floor the whole time |
+| Pallof press (isometric) | Light band | 3 × 15-sec holds each side |
+| Wall sit | Bodyweight, 45 sec × 3 | — |
+
+### Hip & Core B (replaces Lower B during Chassis Build)
+| Exercise | Recommended | Feel Target |
+|----------|-------------|-------------|
+| Bulgarian split squat | Bodyweight (weeks 1–2) → 10 lb DBs (weeks 3–4) | Good — 3-sec eccentric, hips square |
+| Single-leg RDL | 15 lbs/hand | Good — hinge, don't bend knee |
+| Side plank with top-leg abduction | Bodyweight | Form focus — no hip drop |
+| Banded lateral walks | Light band above knees | Stay low, controlled |
+| Bird dog | Bodyweight | 2-sec hold — pelvis level, don't rotate |
+| Pallof press with rotation | Light band | Slow rotation, controlled |
+| Front plank with shoulder tap | Bodyweight | Anti-rotation — don't let hips sway |
+| Wall sit | Bodyweight, 45 sec × 3 | — |
 
 ### Upper Push
 | Exercise | Recommended | Feel Target |
@@ -64,6 +68,7 @@ Use a simple feel rating when reporting back: **Easy** (4+ reps left in tank), *
 - **Too heavy** → drop 10%, confirm form, rebuild from there
 - **Lower body:** Never increase weight if knee gave any Yellow/Red signals that week
 - **Upper body:** Pure maintenance — don't chase PRs during marathon training
+- **Chassis Build phase (Apr 20 – May 17):** Hold load light. Progress is measured in hip IR range of motion, Copenhagen plank time, and right-side symmetry — not dumbbell weight. Only add load to Bulgarian split squat and single-leg RDL once form is clean and knee is green across a full week.
 
 ---
 
