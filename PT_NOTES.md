@@ -8,7 +8,7 @@ Source of truth for PT guidance. Current PT: **Akanksha A Sojitra, PT**.
 
 ### Key Findings
 
-1. **Hip internal rotation limited — bilaterally.** Paul reports right side feels worse.
+1. **Hip internal rotation limited — bilaterally.** Work both sides equally.
 2. **Mild right-knee extension limitation** (terminal range).
 3. **Weakness in hip external rotators and abductors.**
 4. **Diagnosis: patellofemoral pain — specifically medial patellofemoral joint irritation.** The hip/core limitations drive extra load into the patellofemoral joint during running.

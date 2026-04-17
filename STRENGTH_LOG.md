@@ -14,7 +14,7 @@
 
 Use a simple feel rating when reporting back: **Easy** (4+ reps left in tank), **Good** (2–3 reps in reserve), **Heavy** (grinding last rep), **Too heavy** (couldn't complete reps).
 
-**Chassis Build rule:** The goal here is NOT to add load. It's to build the hip mobility, hip strength, and core strength the PT identified as missing. Stay light, stay strict on form. Do 1 extra set or 2 extra reps on the RIGHT side on every single-leg exercise.
+**Chassis Build rule:** The goal here is NOT to add load. It's to build the hip mobility, hip strength, and core strength the PT identified as missing. Stay light, stay strict on form. Work both sides equally — hip IR limitation is bilateral. The only right-side-specific work is Terminal Knee Extension (TKE) in the finisher.
 
 **Exercises marked (PT) are prescribed directly by Akanksha A Sojitra, PT.** See PT_NOTES.md for cues and references. Form: exhale slowly on effort; slow down on single-leg work.
 
@@ -55,7 +55,7 @@ Use a simple feel rating when reporting back: **Easy** (4+ reps left in tank), *
 | Foam roller T-spine extensions (PT) | 8–10 reps |
 | Standing lunges with hip IR + extension (PT) | 8–10 reps each side |
 | World's greatest stretch | 5 each side |
-| 90/90 hip stretch (IR emphasis, focus right) | 60 sec each side |
+| 90/90 hip stretch (IR emphasis) | 60 sec each side |
 | Half-kneeling couch stretch | 60 sec each side |
 | Hip CARs | 3 each direction, each leg |
 | Cat-cow | 10 reps |
@@ -88,7 +88,7 @@ Use a simple feel rating when reporting back: **Easy** (4+ reps left in tank), *
 - **Too heavy** → drop 10%, confirm form, rebuild from there
 - **Lower body:** Never increase weight if knee gave any Yellow/Red signals that week
 - **Upper body:** Pure maintenance — don't chase PRs during marathon training
-- **Chassis Build phase (Apr 20 – May 17):** Hold load light. Progress is measured in hip IR range of motion, Copenhagen plank time, and right-side symmetry — not dumbbell weight. Only add load to Bulgarian split squat and single-leg RDL once form is clean and knee is green across a full week.
+- **Chassis Build phase (Apr 20 – May 17):** Hold load light. Progress is measured in bilateral hip IR range of motion and Copenhagen plank time — not dumbbell weight. Only add load to Bulgarian split squat and single-leg RDL once form is clean and knee is green across a full week.
 
 ---
 

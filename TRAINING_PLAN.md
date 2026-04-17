@@ -11,7 +11,7 @@
 
 PT evaluation (Akanksha A Sojitra, PT) diagnosed **medial patellofemoral joint irritation** — a patellofemoral pain variant driven by upstream mechanical issues:
 
-1. **Hip internal rotation limited — bilaterally** (Paul reports right feels worse)
+1. **Hip internal rotation limited — bilaterally** (work both sides equally)
 2. **Hip external rotator / abductor weakness** (glute med, deep external rotators)
 3. **Core strength / control** (anti-rotation, anterior chain)
 4. **Mild right-knee extension limitation** (terminal range)
@@ -29,7 +29,7 @@ Net effect: the knee absorbs load it shouldn't during running, and flares up onc
 1. **The chassis comes first.** No amount of aerobic fitness matters if the mechanical system can't carry the load. Mobility and hip/core strength are the primary work for the next 4 weeks.
 2. **The knee is still the boss.** Any knee discomfort = immediate modification. Red signals stop running that day.
 3. **Strength training is non-negotiable.** 4 sessions/week continues through all phases. During Chassis Build, lower body sessions are rebuilt around hip mobility, glute/core strength, and knee stability — not load.
-4. **Right side deserves extra work.** On any single-side exercise, do an extra set or extra reps on the right.
+4. **Both sides get equal attention.** Hip IR limitation is bilateral. Work left and right identically on every single-side exercise. The only exception is terminal knee extension (TKE), which targets the PT's specific right-knee finding.
 5. **Never increase long run AND weekly mileage in the same week** (applies post-May 18).
 6. **80/20 rule** (applies post-May 18). During Chassis Build, running is all easy.
 7. **Soft surfaces when possible.** Sawyer Camp Trail, Bayfront paths, Rancho San Antonio. Save pavement for race-specific long runs.
@@ -54,9 +54,9 @@ Net effect: the knee absorbs load it shouldn't during running, and flares up onc
 
 **Daily mobility flush (~12 min, every day including run/bike days):**
 - **Foam roller T-spine extensions (PT):** 8–10 reps — lie on foam roller across mid-back, raise arms overhead back and forth
-- **Standing lunges with hip IR + extension (PT):** 8–10 reps each side — deliberate internal rotation of the back hip
+- **Standing lunges with hip IR + extension (PT):** 8–10 reps each side — deliberate internal rotation of the back hip, equal work on both sides
 - World's greatest stretch: 5 each side
-- 90/90 hip stretch with IR emphasis: 60 sec each side (focus right)
+- 90/90 hip stretch with IR emphasis: 60 sec each side
 - Half-kneeling couch stretch: 60 sec each side
 - Hip CARs (controlled articular rotations): 3 each direction, each leg
 - Cat-cow: 10 reps
@@ -108,7 +108,7 @@ Net effect: the knee absorbs load it shouldn't during running, and flares up onc
 | Tue May 12 | Easy run 4 mi | |
 | Wed May 13 | Mobility Deep-Dive + Upper Pull | |
 | Thu May 14 | Cycling 45 min easy | Dial back volume day before PT. |
-| **Fri May 15** | **PT appointment** + light mobility only | Bring specific questions: IR range progress, right-side strength balance, clearance for tempo work. |
+| **Fri May 15** | **PT appointment** + light mobility only | Bring specific questions: IR range progress (both sides), hip strength balance, clearance for tempo work. |
 | Sat May 16 | Upper Pull + mobility | |
 | Sun May 17 | Easy run 5 mi OR cycling 75 min | Transition day into marathon phase. |
 
@@ -259,7 +259,7 @@ Tempo work returns. Long runs grow. Cutback every 3rd week given the compressed 
 **Warm-up (10 min)**
 - Foam roll: IT band, TFL, glutes, quads, adductors — 30 sec each, both sides (5 min)
 - **Quadruped banded hip IR / lateral band pull (PT):** 8 reps each side
-- Banded hip distraction with IR emphasis: 90 sec each side — **extra 30 sec on right**
+- Banded hip distraction with IR emphasis: 90 sec each side
 - 90/90 transitions: 10 reps (switch sides seated on floor)
 - Glute bridges (banded above knees): 15 reps, 2-sec squeeze at top
 
@@ -270,7 +270,7 @@ Form cues from the PT: exhale slowly on effort; slow down on single-leg work.
 | Exercise | Reps | Week 1 | Notes |
 |----------|------|--------|-------|
 | 90/90 PAILs/RAILs (hip IR isometric) | 3 × 10 sec each direction, each side | Bodyweight | Sit in 90/90, push front knee into ground for 10 sec (RAIL), then pull up for 10 sec (PAIL). #1 exercise for hip IR. |
-| Side-lying clamshell (banded) | 15 each side (+5 extra right) | Light band | 2-sec hold at top. Keep hips stacked, don't rotate backward. |
+| Side-lying clamshell (banded) | 15 each side | Light band | 2-sec hold at top. Keep hips stacked, don't rotate backward. |
 | Single-leg glute bridge | 12 each side, 2-sec hold | Bodyweight | Drive through heel, squeeze glute at top. |
 | Hip airplane | 8 each side | Bodyweight | Stand on one leg, hinge forward, rotate torso open/closed. |
 | Copenhagen plank | 20 sec each side | Bodyweight | Progress to 30 sec by Week 3. |
@@ -303,8 +303,8 @@ Form cues from the PT: exhale slowly on effort; slow down on single-leg work.
 
 | Exercise | Reps | Week 1 | Notes |
 |----------|------|--------|-------|
-| Bulgarian split squat | 10 each (+2 extra right) | Bodyweight → 10 lb DBs wk 3 | Rear foot elevated. Slow 3-sec eccentric. Hips square. |
-| Single-leg RDL | 10 each (+2 extra right) | 15 lb DBs | Posterior chain + balance. |
+| Bulgarian split squat | 10 each side | Bodyweight → 10 lb DBs wk 3 | Rear foot elevated. Slow 3-sec eccentric. Hips square. |
+| Single-leg RDL | 10 each side | 15 lb DBs | Posterior chain + balance. |
 | **Side plank with hip abduction (PT)** | 8 reps each side | Bodyweight | Hold side plank, lift top leg. **Keep top toe pointing toward the floor** (internal rotation of the lifting leg) — explicit PT cue. |
 | Banded lateral walks | 15 each direction | Light band above knees | Stay low, controlled. |
 | Bird dog | 10 each side, 2-sec hold | Bodyweight | Keep pelvis level — don't let hips rotate. |
@@ -325,13 +325,13 @@ Form cues from the PT: exhale slowly on effort; slow down on single-leg work.
 
 ## Mobility Deep-Dive (Wednesday, ~35 min before Upper Pull)
 
-Target: hip internal rotation (both sides, right prioritized), adductors, hip flexors, T-spine. Also the third weekly session for PT-prescribed core/control work.
+Target: bilateral hip internal rotation, adductors, hip flexors, T-spine. Also the third weekly session for PT-prescribed core/control work.
 
 1. **Foam roll full lower** — 5 min (IT band, TFL, glutes, quads, adductors)
 2. **Foam roller T-spine extensions (PT)** — 10 reps, raise arms overhead back and forth
 3. **Quadruped banded hip IR / lateral band pull (PT)** — 8 reps each side
 4. **Standing lunges with hip IR + extension (PT)** — 10 reps each side
-5. **Seated 90/90 flow** — 5 min. Cycle sides every 30 sec. Add light forward fold over front knee (IR stretch). Spend 30% more time on right.
+5. **Seated 90/90 flow** — 5 min. Cycle sides every 30 sec. Add light forward fold over front knee (IR stretch). Equal time each side.
 6. **Couch stretch** — 90 sec each side
 7. **Pigeon pose** — 90 sec each side
 8. **Banded hip distraction** — 2 min each side
