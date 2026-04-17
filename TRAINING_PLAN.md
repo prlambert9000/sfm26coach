@@ -9,13 +9,16 @@
 
 ## What Changed in v4 (April 17, 2026)
 
-PT appointment on April 17 identified three root-cause issues driving the right-knee symptoms:
+PT evaluation (Akanksha A Sojitra, PT) diagnosed **medial patellofemoral joint irritation** — a patellofemoral pain variant driven by upstream mechanical issues:
 
-1. **Hip mobility**, especially internal rotation (only a few degrees, should be ~30–45°)
-2. **Hip strength** (glute med, external rotators)
-3. **Core strength** (anti-rotation, anterior chain)
+1. **Hip internal rotation limited — bilaterally** (Paul reports right feels worse)
+2. **Hip external rotator / abductor weakness** (glute med, deep external rotators)
+3. **Core strength / control** (anti-rotation, anterior chain)
+4. **Mild right-knee extension limitation** (terminal range)
 
-Right side is weaker and less mobile than left. Net effect: the knee is being asked to absorb load it shouldn't, and flares up once mileage climbs. PT cleared short runs (<5 mi) and cycling during rehab.
+Net effect: the knee absorbs load it shouldn't during running, and flares up once mileage climbs. PT cleared short runs (<5 mi) and cycling during rehab.
+
+**See PT_NOTES.md** for the full PT email and prescribed exercises. Exercises marked "(PT)" below are her explicit prescription — non-negotiable. Everything else is supplemental and consistent with her goals.
 
 **Decision:** Pause marathon-specific training. Four weeks of "chassis work" — mobility, hip strength, core — come first. Next PT visit is Friday, May 15, 2026. Marathon training resumes Monday, May 18.
 
@@ -49,13 +52,17 @@ Right side is weaker and less mobile than left. Net effect: the knee is being as
 | Sat | Upper Pull + extended mobility | ~45 min |
 | Sun | Long aerobic cross-train: cycling 60–90 min OR hike 90 min | ~75 min |
 
-**Daily mobility flush (~10 min, every day including run/bike days):**
+**Daily mobility flush (~12 min, every day including run/bike days):**
+- **Foam roller T-spine extensions (PT):** 8–10 reps — lie on foam roller across mid-back, raise arms overhead back and forth
+- **Standing lunges with hip IR + extension (PT):** 8–10 reps each side — deliberate internal rotation of the back hip
 - World's greatest stretch: 5 each side
 - 90/90 hip stretch with IR emphasis: 60 sec each side (focus right)
 - Half-kneeling couch stretch: 60 sec each side
 - Hip CARs (controlled articular rotations): 3 each direction, each leg
-- T-spine open book: 10 each side
 - Cat-cow: 10 reps
+
+**Pre-workout activator (5 reps, before Hip & Core A, B, and Mobility Deep-Dive):**
+- **Quadruped banded hip internal rotation / lateral band pull (PT):** 5–10 reps each side. Reference: https://www.youtube.com/watch?v=EEihm9fb2tk&t=5s
 
 ### Week 1 — April 20 (Establish the routine)
 
@@ -249,26 +256,31 @@ Tempo work returns. Long runs grow. Cutback every 3rd week given the compressed 
 
 ## Hip & Core A — Internal Rotation & Posterior Chain
 
-**Warm-up (8 min)**
+**Warm-up (10 min)**
 - Foam roll: IT band, TFL, glutes, quads, adductors — 30 sec each, both sides (5 min)
-- Banded hip distraction with IR emphasis (band anchored to rack, looped high on right femur, pulls femur into socket while you rotate): 90 sec each side — **extra 30 sec on right**
+- **Quadruped banded hip IR / lateral band pull (PT):** 8 reps each side
+- Banded hip distraction with IR emphasis: 90 sec each side — **extra 30 sec on right**
 - 90/90 transitions: 10 reps (switch sides seated on floor)
 - Glute bridges (banded above knees): 15 reps, 2-sec squeeze at top
 
 **Main circuit — 3 rounds**
 
+Form cues from the PT: exhale slowly on effort; slow down on single-leg work.
+
 | Exercise | Reps | Week 1 | Notes |
 |----------|------|--------|-------|
-| 90/90 PAILs/RAILs (hip IR isometric) | 3 × 10 sec each direction, each side | Bodyweight | Sit in 90/90, push front knee into ground for 10 sec (RAIL), then pull up for 10 sec (PAIL). This is the #1 exercise for hip IR. |
+| 90/90 PAILs/RAILs (hip IR isometric) | 3 × 10 sec each direction, each side | Bodyweight | Sit in 90/90, push front knee into ground for 10 sec (RAIL), then pull up for 10 sec (PAIL). #1 exercise for hip IR. |
 | Side-lying clamshell (banded) | 15 each side (+5 extra right) | Light band | 2-sec hold at top. Keep hips stacked, don't rotate backward. |
 | Single-leg glute bridge | 12 each side, 2-sec hold | Bodyweight | Drive through heel, squeeze glute at top. |
-| Hip airplane | 8 each side | Bodyweight | Stand on one leg, hinge forward, rotate torso open/closed. Tests and trains hip control. |
+| Hip airplane | 8 each side | Bodyweight | Stand on one leg, hinge forward, rotate torso open/closed. |
 | Copenhagen plank | 20 sec each side | Bodyweight | Progress to 30 sec by Week 3. |
-| Dead bug | 10 each side | Bodyweight | Slow, low back pressed to floor. |
+| **Dead bug — slow march with banded pulldown (PT)** | 2–3 sets × 10 marches | Light band overhead | Band anchored high (doorframe or rack), pull down to thighs while marching very slowly. Low back pressed to floor. |
+| **Chin tuck + lifts — front and diagonal (PT)** | 2 reps each direction (front, diag L, diag R), 3-sec hold | Bodyweight | Lying on back. Tuck chin, lift head just off floor, hold 3 sec. Repeat looking front, then diagonal left, then diagonal right. |
 | Pallof press (isometric hold) | 3 × 15 sec each side | Light band | Arms straight out, resist rotation. |
 
 **Finisher**
 - Wall sit: 45 sec × 3
+- **Terminal knee extension (TKE), right leg:** 3 × 15 — band anchored low behind, loop around back of right knee, step forward to create tension, extend knee fully against band resistance. Targets PT's finding of mild right-knee extension limitation.
 
 **Cool-down**
 - Pigeon pose: 60 sec each side
@@ -278,26 +290,32 @@ Tempo work returns. Long runs grow. Cutback every 3rd week given the compressed 
 
 ## Hip & Core B — Hip Strength & Anti-Rotation
 
-**Warm-up (8 min)**
+**Warm-up (10 min)**
 - Foam roll lower body: 5 min
+- **Quadruped banded hip IR / lateral band pull (PT):** 8 reps each side
 - 90/90 PAILs/RAILs: 2 × 10 sec each direction, each side
 - Cossack squats (bodyweight): 8 each side — slow, stay low
 - Fire hydrants: 15 each side
 
 **Main circuit — 3 rounds**
 
+Form cues from the PT: exhale slowly on effort; slow down on single-leg work.
+
 | Exercise | Reps | Week 1 | Notes |
 |----------|------|--------|-------|
 | Bulgarian split squat | 10 each (+2 extra right) | Bodyweight → 10 lb DBs wk 3 | Rear foot elevated. Slow 3-sec eccentric. Hips square. |
 | Single-leg RDL | 10 each (+2 extra right) | 15 lb DBs | Posterior chain + balance. |
-| Side plank with top-leg abduction | 8 reps each side | Bodyweight | Hold side plank, lift top leg up and down. |
+| **Side plank with hip abduction (PT)** | 8 reps each side | Bodyweight | Hold side plank, lift top leg. **Keep top toe pointing toward the floor** (internal rotation of the lifting leg) — explicit PT cue. |
 | Banded lateral walks | 15 each direction | Light band above knees | Stay low, controlled. |
 | Bird dog | 10 each side, 2-sec hold | Bodyweight | Keep pelvis level — don't let hips rotate. |
+| **Dead bug — slow march with banded pulldown (PT)** | 2–3 sets × 10 marches | Light band overhead | Same as Hip & Core A. Slow. |
+| **Chin tuck + lifts — front and diagonal (PT)** | 2 reps each direction, 3-sec hold | Bodyweight | Same as Hip & Core A. |
 | Pallof press with rotation | 12 each side | Light band | Press out, rotate slowly to one side, back to center. |
-| Front plank with shoulder tap | 20 reps total | Bodyweight | No hip rotation — the whole point is anti-rotation. |
+| Front plank with shoulder tap | 20 reps total | Bodyweight | No hip rotation — anti-rotation is the point. |
 
 **Finisher**
 - Wall sit: 45 sec × 3
+- **Terminal knee extension (TKE), right leg:** 3 × 15 — same as Hip & Core A.
 
 **Cool-down**
 - Pigeon pose: 60 sec each side
@@ -305,19 +323,22 @@ Tempo work returns. Long runs grow. Cutback every 3rd week given the compressed 
 
 ---
 
-## Mobility Deep-Dive (Wednesday, ~30 min before Upper Pull)
+## Mobility Deep-Dive (Wednesday, ~35 min before Upper Pull)
 
-Target: right hip internal rotation, adductors, hip flexors, T-spine.
+Target: hip internal rotation (both sides, right prioritized), adductors, hip flexors, T-spine. Also the third weekly session for PT-prescribed core/control work.
 
 1. **Foam roll full lower** — 5 min (IT band, TFL, glutes, quads, adductors)
-2. **Seated 90/90 flow** — 5 min. Cycle sides every 30 sec. Add light forward fold over front knee (IR stretch). **Spend 30% more time on right.**
-3. **Couch stretch** — 90 sec each side
-4. **Pigeon pose** — 90 sec each side
-5. **Banded hip distraction** — weight or band pulling femur away from socket while you work IR range: 2 min each side
-6. **Standing hip CARs** — 5 each direction, each leg
-7. **World's greatest stretch with T-spine rotation** — 8 reps each side
-8. **Quadruped thread-the-needle** — 10 each side
-9. **Cat-cow + bird dog** — 2 rounds of 10
+2. **Foam roller T-spine extensions (PT)** — 10 reps, raise arms overhead back and forth
+3. **Quadruped banded hip IR / lateral band pull (PT)** — 8 reps each side
+4. **Standing lunges with hip IR + extension (PT)** — 10 reps each side
+5. **Seated 90/90 flow** — 5 min. Cycle sides every 30 sec. Add light forward fold over front knee (IR stretch). Spend 30% more time on right.
+6. **Couch stretch** — 90 sec each side
+7. **Pigeon pose** — 90 sec each side
+8. **Banded hip distraction** — 2 min each side
+9. **Standing hip CARs** — 5 each direction, each leg
+10. **Quadruped thread-the-needle** — 10 each side
+11. **Dead bug — slow march with banded pulldown (PT)** — 2 sets × 10 marches (third weekly core session)
+12. **Chin tuck + lifts (PT)** — 2 reps each direction, 3-sec hold
 
 Then Upper Pull (15–25 min).
 

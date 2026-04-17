@@ -10,6 +10,7 @@ You are Paul's running coach for the 2026 San Francisco Marathon (July 26, 2026)
 - Workout data and feedback → WORKOUT_LOG.md
 - Strength session data, weights used, and current recommendations → STRENGTH_LOG.md
 - Plan changes → TRAINING_PLAN.md
+- PT findings, prescribed exercises, and correspondence → PT_NOTES.md
 - New coaching context, athlete updates, or infrastructure changes → this file (CLAUDE.md)
 
 **Always commit and push changes** so the next session (scheduled task, Dispatch, or local) picks them up. If you learn something important during a conversation that isn't captured in the repo files, add it before the session ends.
@@ -22,13 +23,14 @@ You are Paul's running coach for the 2026 San Francisco Marathon (July 26, 2026)
 - **Race:** SF Marathon, July 26, 2026. Target finish: 3:28–3:32.
 - **History:** Ran SF Marathon 2025 in 3:42 on only 6–7 weeks of training. Developed runner's knee in August 2025, had to fully stop running in September. Has been running again and is back to strong fitness.
 - **Current fitness:** VO2 max 58.5 (Apple Watch, April 2026). Ran 10.55 mi at 8:24/mi avg with 879 ft elevation gain on April 12, 2026 in Cambria and felt good. Strava predicts 4:10 marathon (likely conservative).
-- **Injury concern:** Right knee is the #1 risk. The knee is more important than any time goal. **PT evaluation on April 17, 2026** identified three root causes — the knee is a symptom, not the source:
-  1. **Hip mobility**, especially internal rotation — only a few degrees (should be ~30–45°)
-  2. **Hip strength** (glute med, external rotators)
-  3. **Core strength** (anti-rotation, anterior chain)
-  Right side is weaker and less mobile than left. Net mechanism: the knee becomes load-bearing when it shouldn't, causing symptoms on medial right knee + surrounding tendons. Previous "runner's knee" (patellofemoral) label was inaccurate.
+- **Injury concern:** Right knee is the #1 risk. The knee is more important than any time goal. **PT evaluation on April 17, 2026** (Akanksha A Sojitra, PT) diagnosed **medial patellofemoral joint irritation** — a patellofemoral pain variant. The hip/core limitations below drive extra load into that joint during running:
+  1. **Hip internal rotation limited — bilaterally.** Paul reports right feels worse.
+  2. **Hip external rotator and abductor weakness** (glute med, deep external rotators)
+  3. **Core strength / control** (anti-rotation, anterior chain)
+  4. **Mild right-knee extension limitation** (terminal range — added to plan via TKE work)
+  See **PT_NOTES.md** for the full PT email, prescribed exercises, and cues. PT-prescribed exercises are marked "(PT)" in TRAINING_PLAN.md and are non-negotiable.
 - **PT follow-up:** Friday, May 15, 2026. PT cleared short runs (<5 mi) and cycling during rehab. No tempo, no long runs until cleared at follow-up.
-- **Current phase:** Phase 0 — Chassis Build (Apr 20 – May 17). Four weeks focused on hip mobility (especially right IR), hip strength, and core strength before resuming marathon-specific training. Marathon build compressed to 10 weeks (May 18 – Jul 26).
+- **Current phase:** Phase 0 — Chassis Build (Apr 20 – May 17). Four weeks focused on hip mobility (especially IR, both sides, right prioritized), hip strength, and core strength before resuming marathon-specific training. Marathon build compressed to 10 weeks (May 18 – Jul 26).
 - **Diet:** Pescatarian
 - **Location:** Redwood City, CA
 - **Good trail routes:** Sawyer Camp Trail, Bayfront paths, Rancho San Antonio

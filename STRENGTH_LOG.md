@@ -10,35 +10,55 @@
 
 ## Current Recommended Weights
 
-*Last updated: 2026-04-17 (PT-driven rebuild — Phase 0: Chassis Build)*
+*Last updated: 2026-04-17 (PT-driven rebuild — Phase 0: Chassis Build, incorporating PT-prescribed exercises from April 17 evaluation)*
 
 Use a simple feel rating when reporting back: **Easy** (4+ reps left in tank), **Good** (2–3 reps in reserve), **Heavy** (grinding last rep), **Too heavy** (couldn't complete reps).
 
 **Chassis Build rule:** The goal here is NOT to add load. It's to build the hip mobility, hip strength, and core strength the PT identified as missing. Stay light, stay strict on form. Do 1 extra set or 2 extra reps on the RIGHT side on every single-leg exercise.
 
+**Exercises marked (PT) are prescribed directly by Akanksha A Sojitra, PT.** See PT_NOTES.md for cues and references. Form: exhale slowly on effort; slow down on single-leg work.
+
 ### Hip & Core A (replaces Lower A during Chassis Build)
 | Exercise | Recommended | Feel Target |
 |----------|-------------|-------------|
+| Quadruped banded hip IR / lateral band pull (PT) — warm-up | Light band | 8 reps each side before main work |
 | 90/90 PAILs/RAILs | Bodyweight | Hard contraction — go to ~80% effort on isometric |
 | Side-lying clamshell (banded) | Light band | Good — slow, 2-sec hold at top |
 | Single-leg glute bridge | Bodyweight | Good — 2-sec hold at top |
 | Hip airplane | Bodyweight | Balance and control first; add 5 lb DB in front hand when stable |
 | Copenhagen plank | Bodyweight | Start at 20 sec, build to 30 sec by Week 3 |
-| Dead bug | Bodyweight | Slow — low back pressed to floor the whole time |
+| Dead bug — slow march with banded pulldown (PT) | Light band overhead | 2–3 sets × 10 slow marches. Band pulled down to thighs. Low back pressed to floor. |
+| Chin tuck + lifts, front and diagonal (PT) | Bodyweight | 2 reps each direction (front, diag L, diag R), 3-sec hold |
 | Pallof press (isometric) | Light band | 3 × 15-sec holds each side |
 | Wall sit | Bodyweight, 45 sec × 3 | — |
+| Terminal knee extension (TKE), right leg | Light band | 3 × 15. For PT's right-knee extension finding. |
 
 ### Hip & Core B (replaces Lower B during Chassis Build)
 | Exercise | Recommended | Feel Target |
 |----------|-------------|-------------|
+| Quadruped banded hip IR / lateral band pull (PT) — warm-up | Light band | 8 reps each side before main work |
 | Bulgarian split squat | Bodyweight (weeks 1–2) → 10 lb DBs (weeks 3–4) | Good — 3-sec eccentric, hips square |
 | Single-leg RDL | 15 lbs/hand | Good — hinge, don't bend knee |
-| Side plank with top-leg abduction | Bodyweight | Form focus — no hip drop |
+| Side plank with hip abduction (PT) | Bodyweight | **Toe pointing to floor** (IR of lifting leg). 8 reps each side. |
 | Banded lateral walks | Light band above knees | Stay low, controlled |
 | Bird dog | Bodyweight | 2-sec hold — pelvis level, don't rotate |
+| Dead bug — slow march with banded pulldown (PT) | Light band overhead | 2–3 sets × 10 slow marches |
+| Chin tuck + lifts, front and diagonal (PT) | Bodyweight | 2 reps each direction, 3-sec hold |
 | Pallof press with rotation | Light band | Slow rotation, controlled |
 | Front plank with shoulder tap | Bodyweight | Anti-rotation — don't let hips sway |
 | Wall sit | Bodyweight, 45 sec × 3 | — |
+| Terminal knee extension (TKE), right leg | Light band | 3 × 15 |
+
+### Daily Mobility Flush (every day, ~12 min)
+| Exercise | Dose |
+|----------|------|
+| Foam roller T-spine extensions (PT) | 8–10 reps |
+| Standing lunges with hip IR + extension (PT) | 8–10 reps each side |
+| World's greatest stretch | 5 each side |
+| 90/90 hip stretch (IR emphasis, focus right) | 60 sec each side |
+| Half-kneeling couch stretch | 60 sec each side |
+| Hip CARs | 3 each direction, each leg |
+| Cat-cow | 10 reps |
 
 ### Upper Push
 | Exercise | Recommended | Feel Target |
