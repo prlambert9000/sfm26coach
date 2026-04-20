@@ -44,13 +44,13 @@ Net effect: the knee absorbs load it shouldn't during running, and flares up onc
 
 | Day | Workout | Duration |
 |-----|---------|----------|
-| Mon | Hip & Core A + Upper Push | ~60 min |
-| Tue | Easy run 3–4 mi (soft surface) + mobility flush | ~40 min |
-| Wed | Mobility Deep-Dive + Upper Pull | ~45 min |
-| Thu | Cycling 45–60 min easy (HR <140) + mobility flush | ~55 min |
-| Fri | Hip & Core B + Upper Push | ~60 min |
-| Sat | Upper Pull + extended mobility | ~45 min |
-| Sun | Long aerobic cross-train: cycling 60–90 min OR hike 90 min | ~75 min |
+| Mon | Hip & Core A | ~45 min |
+| Tue | Upper Push | ~25 min |
+| Wed | Mobility Deep-Dive | ~35 min |
+| Thu | Easy run 3–4 mi (soft surface) + mobility flush | ~40 min |
+| Fri | Hip & Core B | ~45 min |
+| Sat | Upper Pull | ~25 min |
+| Sun | Cross-train: cycling 60–90 min easy OR hike 90 min | ~75 min |
 
 **Daily mobility flush (~12 min, every day including run/bike days):**
 - **Foam roller T-spine extensions (PT):** 8–10 reps — lie on foam roller across mid-back, raise arms overhead back and forth
@@ -68,48 +68,48 @@ Net effect: the knee absorbs load it shouldn't during running, and flares up onc
 
 | Day | Workout | Notes |
 |-----|---------|-------|
-| Mon Apr 20 | Hip & Core A + Upper Push | Learn the movements. Bodyweight everywhere on lower body. |
-| Tue Apr 21 | Easy run 3 mi | Soft surface. Pace doesn't matter — 9:30–10:00/mi is fine. |
-| Wed Apr 22 | Mobility Deep-Dive + Upper Pull | |
-| Thu Apr 23 | Cycling 45 min easy | Stationary or road. HR <140. |
-| Fri Apr 24 | Hip & Core B + Upper Push | |
-| Sat Apr 25 | Upper Pull + mobility | |
+| Mon Apr 20 | Hip & Core A | Learn the movements. Bodyweight everywhere on lower body. |
+| Tue Apr 21 | Upper Push | |
+| Wed Apr 22 | Mobility Deep-Dive | |
+| Thu Apr 23 | Easy run 3 mi | Soft surface. Pace doesn't matter — 9:30–10:00/mi is fine. |
+| Fri Apr 24 | Hip & Core B | |
+| Sat Apr 25 | Upper Pull | |
 | Sun Apr 26 | Cycling 60 min easy OR 90-min hike | Pick whichever keeps the knee calm. |
 
 ### Week 2 — April 27 (Add tempo to mobility, hold running volume)
 
 | Day | Workout | Notes |
 |-----|---------|-------|
-| Mon Apr 27 | Hip & Core A + Upper Push | Progress hold times on isometrics (+5 sec). |
-| Tue Apr 28 | Easy run 4 mi | |
-| Wed Apr 29 | Mobility Deep-Dive + Upper Pull | |
-| Thu Apr 30 | Cycling 60 min easy | |
-| Fri May 1 | Hip & Core B + Upper Push | |
-| Sat May 2 | **Foster City 5K — SKIP or jog untimed** | Recommend skip. If you show up, jog it as your "easy run" (keeps it <5 mi). Do NOT race it. |
+| Mon Apr 27 | Hip & Core A | Progress hold times on isometrics (+5 sec). |
+| Tue Apr 28 | Upper Push | |
+| Wed Apr 29 | Mobility Deep-Dive | |
+| Thu Apr 30 | Easy run 4 mi | |
+| Fri May 1 | Hip & Core B | |
+| Sat May 2 | Upper Pull | Foster City 5K — skip or jog untimed as a separate easy effort. Do NOT race it. |
 | Sun May 3 | Cycling 75 min easy OR hike 90 min | |
 
 ### Week 3 — May 4 (Add load to hip strength)
 
 | Day | Workout | Notes |
 |-----|---------|-------|
-| Mon May 4 | Hip & Core A (add light DBs) + Upper Push | Start adding load to RDL and split squat if knee has been green. |
-| Tue May 5 | Easy run 4 mi | |
-| Wed May 6 | Mobility Deep-Dive + Upper Pull | |
-| Thu May 7 | Cycling 60 min easy | |
-| Fri May 8 | Hip & Core B (add light DBs) + Upper Push | |
-| Sat May 9 | Upper Pull + mobility | |
+| Mon May 4 | Hip & Core A (add light DBs) | Start adding load to RDL and split squat if knee has been green. |
+| Tue May 5 | Upper Push | |
+| Wed May 6 | Mobility Deep-Dive | |
+| Thu May 7 | Easy run 4 mi | |
+| Fri May 8 | Hip & Core B (add light DBs) | |
+| Sat May 9 | Upper Pull | |
 | Sun May 10 | Easy run 5 mi OR cycling 75 min | First time back at 5 mi if the knee has been green all week. |
 
 ### Week 4 — May 11 (Consolidate, taper lightly into PT)
 
 | Day | Workout | Notes |
 |-----|---------|-------|
-| Mon May 11 | Hip & Core A + Upper Push | |
-| Tue May 12 | Easy run 4 mi | |
-| Wed May 13 | Mobility Deep-Dive + Upper Pull | |
-| Thu May 14 | Cycling 45 min easy | Dial back volume day before PT. |
+| Mon May 11 | Hip & Core A | |
+| Tue May 12 | Upper Push | |
+| Wed May 13 | Mobility Deep-Dive | |
+| Thu May 14 | Easy run 3 mi | Dial back volume day before PT. |
 | **Fri May 15** | **PT appointment** + light mobility only | Bring specific questions: IR range progress (both sides), hip strength balance, clearance for tempo work. |
-| Sat May 16 | Upper Pull + mobility | |
+| Sat May 16 | Upper Pull | |
 | Sun May 17 | Easy run 5 mi OR cycling 75 min | Transition day into marathon phase. |
 
 ---
