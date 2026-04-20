@@ -200,7 +200,7 @@ Tempo work returns. Long runs grow. Cutback every 3rd week given the compressed 
 
 ## Phase 3: Peak (Weeks 11–12, June 29 – July 12)
 
-### Week 11 — June 29 (Target: 40 mi, long 17)
+### Week 11 — June 29 (Target: 36 mi, long 18)
 
 | Day | Workout | Notes |
 |-----|---------|-------|
@@ -210,9 +210,9 @@ Tempo work returns. Long runs grow. Cutback every 3rd week given the compressed 
 | Thu | Easy 6 mi + strides | |
 | Fri | Lower B | |
 | Sat | Upper | |
-| Sun | Long 17 mi, last 3 mi at MP | |
+| Sun | Long 18 mi, last 3 mi at MP | |
 
-### Week 12 — July 6 (Target: 42 mi, long 18–20)
+### Week 12 — July 6 (Target: 39–41 mi, long 20–22)
 
 | Day | Workout | Notes |
 |-----|---------|-------|
@@ -222,7 +222,7 @@ Tempo work returns. Long runs grow. Cutback every 3rd week given the compressed 
 | Thu | Easy 6 mi | |
 | Fri | Lower B | |
 | Sat | Upper | |
-| Sun | Long 18–20 mi, last 4 at MP | Peak long run. Full race fueling/kit rehearsal. If knee is green, go 20. If any yellow that week, cap at 18. |
+| Sun | Long 20–22 mi, last 4 at MP | Peak long run. Full race fueling/kit rehearsal. If knee is green all week, go 22. If any yellow, cap at 20. |
 
 ---
 
@@ -397,7 +397,7 @@ Unchanged from v3 unless PT follow-up on May 15 warrants recalibration. Pacing: 
 | 8 | Build | Jun 8 | 29 | 13 | Tempo 20 min |
 | 9 | Build (cutback) | Jun 15 | 23 | 10 | Tempo 15 min |
 | 10 | Build | Jun 22 | 32 | 15 | Tempo 25 min |
-| 11 | Peak | Jun 29 | 35 | 17 | Tempo 25 min |
-| 12 | Peak | Jul 6 | 37–39 | 18–20 | Tempo 25 min |
+| 11 | Peak | Jun 29 | 36 | 18 | Tempo 25 min |
+| 12 | Peak | Jul 6 | 39–41 | 20–22 | Tempo 25 min |
 | 13 | Taper | Jul 13 | 25 | 12 | Tempo 15 min |
 | 14 | Race week | Jul 20 | 7 + race | — | Strides only |
