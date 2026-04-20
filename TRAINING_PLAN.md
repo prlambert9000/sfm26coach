@@ -122,24 +122,24 @@ Assumes PT clears progressive running. If not, stay in Chassis Build and delay e
 
 | Day | Workout | Notes |
 |-----|---------|-------|
-| Mon | Lower A + Upper Push | Resume standard Lower A. |
-| Tue | Easy 4 mi + mobility | |
-| Wed | Easy 4 mi + Upper Pull | |
-| Thu | Cycling 45 min OR rest + mobility | |
-| Fri | Lower B + Upper Push | |
-| Sat | Upper Pull + mobility | |
+| Mon | Lower A | Resume standard Lower A. |
+| Tue | Upper Push | |
+| Wed | Easy 5 mi + mobility | |
+| Thu | Easy 5 mi | |
+| Fri | Lower B | |
+| Sat | Upper Pull | |
 | Sun | Long 6 mi easy | All easy. Note how knee feels at mile 5–6. |
 
 ### Week 6 — May 25 (Target: 24 mi, long 8)
 
 | Day | Workout | Notes |
 |-----|---------|-------|
-| Mon | Lower A + Upper Push | |
-| Tue | Easy 5 mi | |
-| Wed | Easy 4 mi + strides (4×20s) + Upper Pull | First strides — grass/dirt only. |
-| Thu | Cycling 45 min OR rest | |
-| Fri | Lower B + Upper Push | |
-| Sat | Easy 3 mi + Upper Pull | |
+| Mon | Lower A | |
+| Tue | Upper Push | |
+| Wed | Easy 5 mi + strides (4×20s) | First strides — grass/dirt only. |
+| Thu | Easy 5 mi | |
+| Fri | Lower B | |
+| Sat | Upper Pull | |
 | Sun | Long 8 mi easy | |
 
 ---
@@ -152,48 +152,48 @@ Tempo work returns. Long runs grow. Cutback every 3rd week given the compressed 
 
 | Day | Workout | Notes |
 |-----|---------|-------|
-| Mon | Lower A + Upper Push | |
-| Tue | Easy 5 mi | |
+| Mon | Lower A | |
+| Tue | Upper Push | |
 | Wed | Tempo: 2 mi easy + 15 min tempo + 1 mi easy (~5 mi) | First tempo back. 7:55–8:05/mi. |
-| Thu | Easy 4 mi + Upper Pull | |
-| Fri | Lower B + Upper Push | |
-| Sat | Upper Pull + mobility | |
+| Thu | Easy 5 mi | |
+| Fri | Lower B | |
+| Sat | Upper Pull | |
 | Sun | Long 10 mi easy | |
 
 ### Week 8 — June 8 (Target: 32 mi, long 13)
 
 | Day | Workout | Notes |
 |-----|---------|-------|
-| Mon | Lower A + Upper Push | |
-| Tue | Easy 6 mi | |
+| Mon | Lower A | |
+| Tue | Upper Push | |
 | Wed | Tempo: 2 mi easy + 20 min tempo + 1 mi easy (~6 mi) | |
-| Thu | Easy 5 mi + Upper Pull | |
-| Fri | Lower B + Upper Push | |
-| Sat | Easy 4 mi | |
+| Thu | Easy 6 mi | |
+| Fri | Lower B | |
+| Sat | Upper Pull | |
 | Sun | Long 13 mi easy | Introduce gel every 45 min from mile 4. |
 
 ### Week 9 — June 15 (Cutback: 24 mi, long 10)
 
 | Day | Workout | Notes |
 |-----|---------|-------|
-| Mon | Lower A + Upper Push | |
-| Tue | Easy 4 mi | |
+| Mon | Lower A | |
+| Tue | Upper Push | |
 | Wed | Tempo: 2 mi easy + 15 min tempo + 1 mi easy (~5 mi) | |
-| Thu | Upper Pull + mobility | |
-| Fri | Lower B + Upper Push | |
-| Sat | Easy 3 mi + strides | |
+| Thu | Easy 4 mi + strides | |
+| Fri | Lower B | |
+| Sat | Upper Pull | |
 | Sun | Long 10 mi easy | |
 
 ### Week 10 — June 22 (Target: 36 mi, long 15)
 
 | Day | Workout | Notes |
 |-----|---------|-------|
-| Mon | Lower A + Upper Push | |
-| Tue | Easy 6 mi | |
+| Mon | Lower A | |
+| Tue | Upper Push | |
 | Wed | Tempo: 2 mi easy + 25 min tempo + 1 mi easy (~7 mi) | |
-| Thu | Easy 5 mi + Upper Pull | |
-| Fri | Lower B + Upper Push | |
-| Sat | Easy 4 mi | |
+| Thu | Easy 6 mi | |
+| Fri | Lower B | |
+| Sat | Upper Pull | |
 | Sun | Long 15 mi, last 2 mi at MP | First MP work. |
 
 ---
@@ -204,24 +204,24 @@ Tempo work returns. Long runs grow. Cutback every 3rd week given the compressed 
 
 | Day | Workout | Notes |
 |-----|---------|-------|
-| Mon | Lower A + Upper Push | |
-| Tue | Easy 6 mi | |
+| Mon | Lower A | |
+| Tue | Upper Push | |
 | Wed | Tempo: 2 mi easy + 25 min tempo + 1 mi easy (~7 mi) | |
-| Thu | Easy 6 mi + strides + Upper Pull | |
-| Fri | Lower B + Upper Push | |
-| Sat | Easy 5 mi | |
+| Thu | Easy 6 mi + strides | |
+| Fri | Lower B | |
+| Sat | Upper Pull | |
 | Sun | Long 17 mi, last 3 mi at MP | |
 
 ### Week 12 — July 6 (Target: 42 mi, long 18–20)
 
 | Day | Workout | Notes |
 |-----|---------|-------|
-| Mon | Lower A + Upper Push | |
-| Tue | Easy 6 mi | |
+| Mon | Lower A | |
+| Tue | Upper Push | |
 | Wed | Tempo: 2 mi easy + 25 min tempo + 1 mi easy (~7 mi) | |
-| Thu | Easy 6 mi + Upper Pull | |
-| Fri | Lower B + Upper Push | |
-| Sat | Easy 5 mi | |
+| Thu | Easy 6 mi | |
+| Fri | Lower B | |
+| Sat | Upper Pull | |
 | Sun | Long 18–20 mi, last 4 at MP | Peak long run. Full race fueling/kit rehearsal. If knee is green, go 20. If any yellow that week, cap at 18. |
 
 ---
@@ -232,21 +232,21 @@ Tempo work returns. Long runs grow. Cutback every 3rd week given the compressed 
 
 | Day | Workout | Notes |
 |-----|---------|-------|
-| Mon | Lower A (50% wt) + Upper Push | |
-| Tue | Easy 5 mi | |
+| Mon | Lower A (50% wt) | |
+| Tue | Upper Push | |
 | Wed | Tempo: 1 mi easy + 15 min tempo + 1 mi easy (~5 mi) | |
-| Thu | Easy 4 mi + strides + Upper Pull | |
-| Fri | Lower B (50% wt) + Upper Push | |
-| Sat | Upper Pull + mobility | |
+| Thu | Easy 5 mi + strides | |
+| Fri | Lower B (50% wt) | |
+| Sat | Upper Pull | |
 | Sun | Long 12 mi, 8 easy + 4 at MP | Final long run. |
 
 ### Week 14 — July 20 (Race week)
 
 | Day | Workout | Notes |
 |-----|---------|-------|
-| Mon | Lower A (bodyweight, half sets) + Upper Push | Last real strength session. |
-| Tue | Easy 4 mi + 4 strides | |
-| Wed | Easy 3 mi + Upper Pull (light) | |
+| Mon | Lower A (bodyweight, half sets) | Last lower session. |
+| Tue | Upper Push (light) | Last gym session. |
+| Wed | Easy 4 mi + 4 strides | |
 | Thu | Rest | |
 | Fri | Easy 3 mi + 2 strides | Shake out. Bib pickup at Fort Mason expo. |
 | Sat | Rest | Hydrate, lay out gear, carb load, sleep early. |
@@ -323,7 +323,7 @@ Form cues from the PT: exhale slowly on effort; slow down on single-leg work.
 
 ---
 
-## Mobility Deep-Dive (Wednesday, ~35 min before Upper Pull)
+## Mobility Deep-Dive (Wednesday, ~35 min)
 
 Target: bilateral hip internal rotation, adductors, hip flexors, T-spine. Also the third weekly session for PT-prescribed core/control work.
 
@@ -391,13 +391,13 @@ Unchanged from v3 unless PT follow-up on May 15 warrants recalibration. Pacing: 
 | 2 | Chassis | Apr 27 | 4 | — | Hip & Core A+B |
 | 3 | Chassis | May 4 | 9 | — | Hip & Core A+B (add load) |
 | 4 | Chassis | May 11 | 9 | — | PT Fri May 15 |
-| 5 | Re-base | May 18 | 20 | 6 | — |
-| 6 | Re-base | May 25 | 24 | 8 | Strides |
-| 7 | Build | Jun 1 | 28 | 10 | Tempo 15 min |
-| 8 | Build | Jun 8 | 32 | 13 | Tempo 20 min |
-| 9 | Build (cutback) | Jun 15 | 24 | 10 | Tempo 15 min |
-| 10 | Build | Jun 22 | 36 | 15 | Tempo 25 min |
-| 11 | Peak | Jun 29 | 40 | 17 | Tempo 25 min |
-| 12 | Peak | Jul 6 | 42 | 18–20 | Tempo 25 min |
-| 13 | Taper | Jul 13 | 28 | 12 | Tempo 15 min |
-| 14 | Race week | Jul 20 | 10 + race | — | Strides only |
+| 5 | Re-base | May 18 | 16 | 6 | — |
+| 6 | Re-base | May 25 | 18 | 8 | Strides |
+| 7 | Build | Jun 1 | 20 | 10 | Tempo 15 min |
+| 8 | Build | Jun 8 | 25 | 13 | Tempo 20 min |
+| 9 | Build (cutback) | Jun 15 | 19 | 10 | Tempo 15 min |
+| 10 | Build | Jun 22 | 28 | 15 | Tempo 25 min |
+| 11 | Peak | Jun 29 | 30 | 17 | Tempo 25 min |
+| 12 | Peak | Jul 6 | 31–33 | 18–20 | Tempo 25 min |
+| 13 | Taper | Jul 13 | 22 | 12 | Tempo 15 min |
+| 14 | Race week | Jul 20 | 7 + race | — | Strides only |
