@@ -60,7 +60,7 @@ Use a simple feel rating when reporting back: **Easy** (4+ reps left in tank), *
 | Hip CARs | 3 each direction, each leg |
 | Cat-cow | 10 reps |
 
-### Upper Push
+### Upper Push (Tue, Weeks 1–4 only)
 | Exercise | Recommended | Feel Target |
 |----------|-------------|-------------|
 | Dumbbell bench press | 30 lbs/hand | Good (2–3 reps in reserve) |
@@ -69,7 +69,7 @@ Use a simple feel rating when reporting back: **Easy** (4+ reps left in tank), *
 | Lateral raise | 10 lbs | Good |
 | Tricep overhead extension | 20 lbs | Good |
 
-### Upper Pull
+### Upper Pull (Sat, Weeks 1–4 only)
 | Exercise | Recommended | Feel Target |
 |----------|-------------|-------------|
 | Pull-ups | Bodyweight | Good — if <8 reps, use lat pulldown at 85 lbs |
@@ -77,6 +77,20 @@ Use a simple feel rating when reporting back: **Easy** (4+ reps left in tank), *
 | Face pulls | Light band / 20 lbs cable | Good — high reps, never heavy |
 | Bicep curls | 15 lbs/hand | Good |
 | Band pull-aparts | Light band | — |
+
+### Upper Combined (Sat, Week 5 onward)
+Push + pull in one session. Pure maintenance — 3×10–12 each, get in and out.
+
+| Exercise | Recommended | Feel Target |
+|----------|-------------|-------------|
+| Dumbbell bench press | 30 lbs/hand | Good |
+| Pull-ups | Bodyweight | Good — if <8 reps, use lat pulldown at 85 lbs |
+| Overhead press | 20 lbs/hand | Good |
+| Dumbbell row | 30 lbs/hand | Good |
+| Lateral raise | 10 lbs | Good |
+| Face pulls | Light band / 20 lbs cable | Good — high reps |
+| Tricep overhead extension | 20 lbs | Good |
+| Bicep curls | 15 lbs/hand | Good |
 
 ---
 
