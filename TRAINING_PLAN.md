@@ -340,8 +340,6 @@ Target: bilateral hip internal rotation, adductors, hip flexors, T-spine. Also t
 11. **Dead bug — slow march with banded pulldown (PT)** — 2 sets × 10 marches (third weekly core session)
 12. **Chin tuck + lifts (PT)** — 2 reps each direction, 3-sec hold
 
-Then Upper Pull (15–25 min).
-
 ---
 
 ## Running Substitution Rules (during Chassis Build)
