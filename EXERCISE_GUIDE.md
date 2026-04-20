@@ -116,7 +116,7 @@ All exercises above in the Daily Flush + Hip & Core sessions, plus:
 
 ---
 
-## Upper Push (Mon, Fri)
+## Upper Push (Tue)
 
 Pure maintenance — don't chase PRs.
 
@@ -130,7 +130,7 @@ Pure maintenance — don't chase PRs.
 
 ---
 
-## Upper Pull (Wed, Sat)
+## Upper Pull (Sat)
 
 | Exercise | Video | What good looks like | Common mistake |
 |----------|-------|----------------------|----------------|
