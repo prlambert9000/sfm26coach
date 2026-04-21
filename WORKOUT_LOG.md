@@ -1,5 +1,12 @@
 # Workout Log
 
+## April 21, 2026
+
+- **Workout:** Upper Push (Chassis Build Week 1, Day 2) + Daily Mobility Flush
+- **Type:** Gym + mobility
+- **Knee Status:** 🟢 Green (no complaints)
+- **Notes:** Session felt good. Daily mobility flush completed (T-spine extensions, standing lunges w/ hip IR, world's greatest stretch, 90/90, couch stretch, hip CARs, cat-cow). Specific weights/reps per exercise not reported — pending.
+
 ## April 14, 2026
 
 - **Workout:** Upper Push — Push Day via Fitbod (Week 1, Day 2)
