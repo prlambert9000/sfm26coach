@@ -59,7 +59,7 @@ The daily briefing is sent automatically at 5:30am PT via a Claude Code schedule
 
 When composing the briefing:
 
-1. Read TRAINING_PLAN.md to determine today's scheduled workout
+1. Read TRAINING_PLAN.md to determine today's scheduled workout. **Anchor explicitly:** state today's date, locate the current week's table in the plan, find the row whose date matches today, and copy the workout name from that row verbatim. Do not rely on any schedule you remember from prior sessions, scheduled-task prompts, or generic training patterns — the plan is the only source of truth and it changes frequently. If today's row says "Upper Push," the briefing is for Upper Push; if it says "Easy run 3 mi," the briefing is for a run. Never substitute based on what Tuesday "usually" is.
 2. Read WORKOUT_LOG.md for recent entries to understand current state
 3. If today includes a strength session, read STRENGTH_LOG.md for current recommended weights
 4. Compose a briefing that includes:
