@@ -10,7 +10,7 @@
 
 ## Current Recommended Weights
 
-*Last updated: 2026-04-21 (Upper Push progression: OH press 20→25, tricep ext 20→25; push-ups progressed to feet-elevated)*
+*Last updated: 2026-04-21 (Upper Push progression: OH press 20→25, tricep ext 20→25; push-ups hold at flat bodyweight)*
 
 Use a simple feel rating when reporting back: **Easy** (4+ reps left in tank), **Good** (2–3 reps in reserve), **Heavy** (grinding last rep), **Too heavy** (couldn't complete reps).
 
@@ -65,7 +65,7 @@ Use a simple feel rating when reporting back: **Easy** (4+ reps left in tank), *
 |----------|-------------|-------------|
 | Dumbbell bench press | 30 lbs/hand (regular gym) / 25 lbs/hand (home adjustable ceiling) | Good (2–3 reps in reserve) |
 | Overhead press | 25 lbs/hand | Good |
-| Push-ups | Bodyweight, feet elevated | Good — progressed from flat (hit 15 easy on Apr 21) |
+| Push-ups | Bodyweight (flat) | Good — hold at flat; Apr 21 sets 2–3 required breaking up to reach 15 |
 | Lateral raise | 10 lbs | Good |
 | Tricep overhead extension | 25 lbs (single DB, two-handed) | Good |
 
@@ -116,17 +116,16 @@ Push + pull in one session. Pure maintenance — 3×10–12 each, get in and out
 | Bench press (adjustable barbell) | 25 lb/hand equivalent | ~3×12 | Good (probably Easy at this load — home-gym ceiling) | Home adjustable barbell, hard to change weight. Plan rec was 30/hand at regular gym; 25 is the home ceiling. |
 | Overhead press | 25 lb/hand | ~3×8–10 | Good | Above plan's old rec of 20; confirmed at 25 twice now (Apr 14 single-arm + today). Updated rec to 25. |
 | Tricep overhead extension | 25 lb (single DB, two-handed) | Reps not recorded | Good | Above plan's old rec of 20. Updated rec to 25. |
-| Push-ups | Bodyweight (flat) | 15 reps | Easy | Hit 15 easy → progress to feet-elevated next session. |
+| Push-ups | Bodyweight (flat) | 3×15 (sets 2–3 broken up to reach 15) | Heavy | Not a clean 15. Hold at flat bodyweight; revisit progression to feet-elevated once all 3 sets are unbroken. |
 | Lateral raise | 10 lb | Reps not recorded | — | Matches plan rec. Hold at 10. |
 
 **Warm-up:** Upper-body dynamic warm-up completed per CLAUDE.md template (arm circles, shoulder rolls, scapular retractions, cat-cow, band pull-aparts, dead hangs).
 **Daily Mobility Flush:** Completed (T-spine extensions, standing lunges w/ hip IR, world's greatest stretch, 90/90, couch stretch, hip CARs, cat-cow).
 **Knee during session:** 🟢 Green
-**Overall notes:** Session felt good. Home-gym setup means bench press is capped around 25 lb/hand, which is lighter than optimal for a maintenance rep range but fine for Chassis Build ("don't chase PRs"). OH press and tricep extension both getting bumped on the rec table based on Apr 14 + today. Push-ups progressing to feet-elevated next time.
+**Overall notes:** Session felt good. Home-gym setup means bench press is capped around 25 lb/hand, which is lighter than optimal for a maintenance rep range but fine for Chassis Build ("don't chase PRs"). OH press and tricep extension both getting bumped on the rec table based on Apr 14 + today. Push-ups holding at flat bodyweight — sets 2–3 required break-ups to reach 15, so the progression target (clean 3×15) isn't met yet.
 
-**Open items (for Paul to confirm):**
-- "Adjustable barbell set to 25" — interpreted as 25 lb/hand equivalent. If that's 25 lb total (not per side), let me know and I'll correct the log.
-- Exact set/rep counts on tricep ext and laterals — I assumed 3×10–12 per plan.
+**Confirmed by Paul:** "Set to 25" = 25 lb/hand equivalent on the adjustable barbell.
+**Open items:** Exact set/rep counts on tricep ext and laterals — assumed 3×10–12 per plan.
 
 ---
 
