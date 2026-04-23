@@ -10,7 +10,7 @@
 
 ## Current Recommended Weights
 
-*Last updated: 2026-04-21 (Upper Push progression: OH press 20→25, tricep ext 20→25; push-ups hold at flat bodyweight)*
+*Last updated: 2026-04-23 (Bulgarian split squat: bodyweight → 15 lb/hand; cleared Good with Green knee on swap-day Hip & Core B, ahead of plan progression)*
 
 Use a simple feel rating when reporting back: **Easy** (4+ reps left in tank), **Good** (2–3 reps in reserve), **Heavy** (grinding last rep), **Too heavy** (couldn't complete reps).
 
@@ -37,7 +37,7 @@ Use a simple feel rating when reporting back: **Easy** (4+ reps left in tank), *
 | Exercise | Recommended | Feel Target |
 |----------|-------------|-------------|
 | Quadruped banded hip IR / lateral band pull (PT) — warm-up | Light band | 8 reps each side before main work |
-| Bulgarian split squat | Bodyweight (weeks 1–2) → 10 lb DBs (weeks 3–4) | Good — 3-sec eccentric, hips square |
+| Bulgarian split squat | 15 lbs/hand | Good — 3-sec eccentric, hips square. Cleared Good Apr 23 in Week 1 (jumped past planned BW→10 lb progression). Hold at 15 until knee data from a full running week confirms. |
 | Single-leg RDL | 15 lbs/hand | Good — hinge, don't bend knee |
 | Side plank with hip abduction (PT) | Bodyweight | **Toe pointing to floor** (IR of lifting leg). 8 reps each side. |
 | Banded lateral walks | Light band above knees | Stay low, controlled |
@@ -107,6 +107,32 @@ Push + pull in one session. Pure maintenance — 3×10–12 each, get in and out
 ---
 
 ## Session Logs
+
+### 2026-04-23 — Hip & Core B (Chassis Build Week 1, Day 4 — swapped from Fri)
+**Body Weight:** Not reported
+
+| Exercise | Weight Used | Sets×Reps | Feel | Notes |
+|----------|-------------|-----------|------|-------|
+| Bulgarian split squat | 15 lb/hand | 2×10 each side | Good | Jumped past plan progression (BW Wk 1–2 → 10 lb Wk 3–4). Cleared clean. Updated rec to 15 lb. |
+| Single-leg RDL | 15 lb/hand (assumed per plan) | 2×10 each side (assumed) | Good ("felt good all around") | Hold at 15. |
+| Side plank w/ hip abduction (PT) | Bodyweight | 2 rounds | — | Specific reps/IR cue execution not reported. |
+| Banded lateral walks | Light band | 2 rounds | — | Not reported individually. |
+| Bird dog | Bodyweight | 2 rounds | — | Not reported individually. |
+| Dead bug — slow march w/ banded pulldown (PT) | Light band | 2 rounds | — | Not reported individually. |
+| Chin tuck + lifts (PT) | Bodyweight | 2 rounds | — | Not reported individually. |
+| Pallof press w/ rotation | Light band | 2 rounds | — | Not reported individually. |
+| Front plank w/ shoulder tap | Bodyweight | 2 rounds | — | Not reported individually. |
+| Wall sit | Bodyweight | (not reported) | — | Finisher. |
+| TKE, right leg | Light band | (not reported) | — | Finisher. |
+
+**Schedule note:** Today was originally scheduled as Easy run 3 mi; Paul swapped today ↔ Friday to give the right knee an extra rest day before first run of the week. Plan updated.
+**Rounds:** 2 rounds completed (vs. 3 planned) — time-limited. Acceptable for first Hip & Core B with PT additions.
+**Warm-up:** Assumed per session template (foam roll + activator + 90/90 PAILs/RAILs + cossack squats + fire hydrants).
+**Knee during session:** 🟢 Green throughout, including post-set check.
+**Overall notes:** Big positive — split squat at 15 lb/hand cleared Good with no knee complaint. That's a real signal the chassis work is already paying off (last knee data point: 🟡 Yellow on the Apr 16 easy run). Hold at 15 lb until we see how the knee handles tomorrow's 3 mi.
+**Open items:** Per-exercise rep/feel data on the PT-prescribed core block (dead bug, chin tuck, pallof, front plank). Capture next session so we can tune the core progression.
+
+---
 
 ### 2026-04-21 — Upper Push (Chassis Build Week 1, Day 2) — Home Gym
 **Body Weight:** Not reported

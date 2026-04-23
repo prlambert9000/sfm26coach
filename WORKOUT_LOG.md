@@ -1,5 +1,12 @@
 # Workout Log
 
+## April 23, 2026
+
+- **Workout:** Hip & Core B (Chassis Build Week 1, Day 4 — swapped from Fri)
+- **Type:** Gym (hip + core, PT-prescribed block)
+- **Knee Status:** 🟢 Green throughout
+- **Notes:** Schedule swap: today ↔ Fri Apr 24 to give the right knee an extra day before first run of the week. Completed 2 rounds (vs. 3 planned, time-limited). Bulgarian split squat at 15 lb/hand cleared Good — jumped past the planned BW→10 lb progression with no knee complaint. Single-leg RDL at 15 lb/hand also Good. Per-exercise data on the PT core block (dead bug, chin tuck, pallof, front plank) not captured. Easy run 3 mi pushed to Fri Apr 24. Full session detail in STRENGTH_LOG.md.
+
 ## April 21, 2026
 
 - **Workout:** Upper Push (Chassis Build Week 1, Day 2) + Daily Mobility Flush
