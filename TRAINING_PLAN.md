@@ -71,8 +71,8 @@ Net effect: the knee absorbs load it shouldn't during running, and flares up onc
 | Mon Apr 20 | Hip & Core A | Learn the movements. Bodyweight everywhere on lower body. |
 | Tue Apr 21 | Upper Push | |
 | Wed Apr 22 | Mobility Deep-Dive | |
-| Thu Apr 23 | Easy run 3 mi | Soft surface. Pace doesn't matter — 9:30–10:00/mi is fine. |
-| Fri Apr 24 | Hip & Core B | |
+| Thu Apr 23 | Hip & Core B | Swapped with Fri — extra rest day for the knee before first run of the week. |
+| Fri Apr 24 | Easy run 3 mi | Swapped with Thu. Soft surface. Pace doesn't matter — 9:30–10:00/mi is fine. |
 | Sat Apr 25 | Upper Pull | |
 | Sun Apr 26 | Cycling 60 min easy OR 90-min hike | Pick whichever keeps the knee calm. |
 
