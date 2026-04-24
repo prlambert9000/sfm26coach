@@ -88,3 +88,18 @@
 - **Relative Effort:** 26.0
 - **Knee Status:** 🟡 Yellow — some awareness at start (possibly phantom from paying close attention), felt it more in shower post-run. No pain during run. Outside of inner right knee (medial side) + tendons.
 - **Notes:** PT appointment being booked for proper diagnosis. Previous "runner's knee" label may be inaccurate — symptom location and tendon involvement suggest different etiology. Knee felt manageable during run itself.
+
+## April 24, 2026
+
+- **Workout:** Morning Run
+- **Type:** Run
+- **Distance:** 3.57 mi
+- **Time:** 32:41
+- **Avg Pace:** 9:08/mi
+- **Elevation Gain:** 463 ft
+- **Avg Heart Rate:** 138 bpm (max 163)
+- **Avg Cadence:** N/A
+- **Splits:** 9:36, 10:13, 8:33, 7:24
+- **Relative Effort:** 38.0
+- **Knee Status:** (pending — update after reviewing)
+- **Notes:** Auto-logged from Strava. Awaiting athlete feedback.
