@@ -91,7 +91,7 @@
 
 ## April 24, 2026
 
-- **Workout:** Morning Run
+- **Workout:** Morning Run (Chassis Build Week 1 — first run back, easy 3 mi)
 - **Type:** Run
 - **Distance:** 3.57 mi
 - **Time:** 32:41
@@ -101,5 +101,5 @@
 - **Avg Cadence:** N/A
 - **Splits:** 9:36, 10:13, 8:33, 7:24
 - **Relative Effort:** 38.0
-- **Knee Status:** (pending — update after reviewing)
-- **Notes:** Auto-logged from Strava. Awaiting athlete feedback.
+- **Knee Status:** 🟢 Green — felt good.
+- **Notes:** First run in 8 days (post-PT rehab ramp). Went 0.57 mi long vs. 3 mi plan. HR avg 138 is solidly aerobic; pace trended down sharply in final two splits (8:33, 7:24) — last mile drifting out of easy. 463 ft of gain for a short run is real — negative splits likely reflect downhill return. Knee Green through and after. Clean first-run signal for the plan.
