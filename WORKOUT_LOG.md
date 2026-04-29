@@ -103,3 +103,18 @@
 - **Relative Effort:** 38.0
 - **Knee Status:** 🟢 Green — felt good.
 - **Notes:** First run in 8 days (post-PT rehab ramp). Went 0.57 mi long vs. 3 mi plan. HR avg 138 is solidly aerobic; pace trended down sharply in final two splits (8:33, 7:24) — last mile drifting out of easy. 463 ft of gain for a short run is real — negative splits likely reflect downhill return. Knee Green through and after. Clean first-run signal for the plan.
+
+## April 29, 2026
+
+- **Workout:** Morning Run
+- **Type:** Run
+- **Distance:** 5.79 mi
+- **Time:** 47:33
+- **Avg Pace:** 8:13/mi
+- **Elevation Gain:** 286 ft
+- **Avg Heart Rate:** 148 bpm (max 177)
+- **Avg Cadence:** N/A
+- **Splits:** 8:08, 7:53, 7:40, 8:56, 8:56, 7:33
+- **Relative Effort:** 85.0
+- **Knee Status:** (pending — update after reviewing)
+- **Notes:** Auto-logged from Strava. Awaiting athlete feedback.
