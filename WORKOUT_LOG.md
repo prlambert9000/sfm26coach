@@ -118,3 +118,18 @@
 - **Relative Effort:** 85.0
 - **Knee Status:** (pending — update after reviewing)
 - **Notes:** Auto-logged from Strava. Awaiting athlete feedback.
+
+## May 1, 2026
+
+- **Workout:** Morning Run
+- **Type:** Run
+- **Distance:** 5.08 mi
+- **Time:** 39:22
+- **Avg Pace:** 7:45/mi
+- **Elevation Gain:** 243 ft
+- **Avg Heart Rate:** 152 bpm (max 177)
+- **Avg Cadence:** N/A
+- **Splits:** 7:46, 7:36, 7:32, 7:38, 8:25, 5:35
+- **Relative Effort:** 95.0
+- **Knee Status:** (pending — update after reviewing)
+- **Notes:** Auto-logged from Strava. Awaiting athlete feedback.
