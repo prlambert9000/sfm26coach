@@ -133,3 +133,18 @@
 - **Relative Effort:** 95.0
 - **Knee Status:** (pending — update after reviewing)
 - **Notes:** Auto-logged from Strava. Awaiting athlete feedback.
+
+## May 3, 2026
+
+- **Workout:** Warm up
+- **Type:** Run
+- **Distance:** 1.35 mi
+- **Time:** 12:34
+- **Avg Pace:** 9:18/mi
+- **Elevation Gain:** 18 ft
+- **Avg Heart Rate:** 128 bpm (max 156)
+- **Avg Cadence:** N/A
+- **Splits:** 9:26, 8:22
+- **Relative Effort:** 6.0
+- **Knee Status:** (pending — update after reviewing)
+- **Notes:** Auto-logged from Strava. Awaiting athlete feedback.
