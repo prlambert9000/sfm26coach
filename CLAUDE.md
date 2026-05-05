@@ -58,15 +58,15 @@ Three benchmarks built into the plan. Each carries a coaching purpose, not just 
 
 ## Daily Briefing Task
 
-The daily briefing is sent automatically at 5:30am PT via a Claude Code scheduled task. The task writes a JSON email payload to `briefings/latest.json`, commits and pushes, and a GitHub Action sends it via the Resend API.
+The daily briefing is sent the **evening before** at ~9:00 PM PT via a Claude Code routine. The routine writes a JSON email payload to `briefings/latest.json`, commits and pushes, and a GitHub Action sends it via the Resend API. Paul reads it before bed so he knows what's coming the next morning.
 
 When composing the briefing:
 
-1. Read TRAINING_PLAN.md to determine today's scheduled workout. **Anchor explicitly:** state today's date, locate the current week's table in the plan, find the row whose date matches today, and copy the workout name from that row verbatim. Do not rely on any schedule you remember from prior sessions, scheduled-task prompts, or generic training patterns — the plan is the only source of truth and it changes frequently. If today's row says "Upper Push," the briefing is for Upper Push; if it says "Easy run 3 mi," the briefing is for a run. Never substitute based on what Tuesday "usually" is.
+1. Read TRAINING_PLAN.md to determine **tomorrow's** scheduled workout. **Anchor explicitly:** compute tomorrow's date (today + 1 day in Pacific Time), locate the current week's table in the plan, find the row whose date matches tomorrow, and copy the workout name from that row verbatim. Do not rely on any schedule you remember from prior sessions, scheduled-task prompts, or generic training patterns — the plan is the only source of truth and it changes frequently. If tomorrow's row says "Heavy Strength," the briefing is for Heavy Strength; if it says "Easy run 6 mi," the briefing is for a run. Never substitute based on what a given weekday "usually" is.
 2. Read WORKOUT_LOG.md for recent entries to understand current state
-3. If today includes a strength session, read STRENGTH_LOG.md for current recommended weights
+3. If tomorrow includes a strength session, read STRENGTH_LOG.md for current recommended weights
 4. Compose a briefing that includes:
-   - **Today's workout** with specific distances, paces, and exercises.
+   - **Tomorrow's workout** with specific distances, paces, and exercises.
    - **For run days:** state the 5-min pre-run activation (hip CARs, banded lateral walks, glute bridges) plus the PT-prescribed quadruped banded hip IR (5–10 reps each side). For track days, write the warm-up jog distance, the interval set with target pace, and the cool-down. For long runs, state target pace zone and any embedded MP segments explicitly.
    - **For gym days:** include a dynamic warm-up. **Wed Heavy Strength:** foam roll quads/IT band 1 min each + glute bridges 10 reps + hip CARs 3 each leg + bodyweight squats 10 reps + RDL pattern with empty bar 10 reps. **Fri Stability & Power:** foam roll + 90/90 PAILs 30 sec each + banded lateral walks 10 each direction + Spanish squat hold 30 sec + Copenhagen plank 20 sec each. **Mon Hip Complex Circuit:** the session itself is the warm-up — list the exercises and timing. Then list recommended weights for every weighted exercise from STRENGTH_LOG.md "Current Recommended Weights" section, with sets × reps (Wed heavy: 3–4×6–8; Fri stability: 3×8–10 or time-based; Mon: time/rep-based circuit).
    - **Schedule rule:** Strength and running never share the same day. The structure is fixed: Mon hip circuit, Tue track, Wed heavy lift, Thu run (base or progression), Fri stability lift, Sat shakeout/rest, Sun long run.
@@ -74,7 +74,7 @@ When composing the briefing:
    - **Context** — where this fits in the V6 plan (e.g., "Week 1 of 12, Phase 1 Foundation — 12 weeks to race day" or "Week 7 of 12 — Presidio HM Saturday is the Pivot test").
    - **Adaptation notes** — any modifications based on recent feedback or knee-scale readings.
 5. Keep it concise — 8–10 sentences max for the narrative. Weight table is additive and doesn't count against the limit. No filler.
-6. **Morning context:** The briefing arrives at ~5:30am and is the first thing Paul reads — before the workout. Write temporal references accordingly. Post-workout advice should say "after your workout" or "this evening after the gym," not "tonight" phrased as if the workout is already done. Phrases like "don't sit all afternoon" are fine but should read as forward-looking instructions, not assumed current state.
+6. **Evening context:** The briefing arrives at ~9 PM the night before and is the last thing Paul reads before bed. Frame it as "Tomorrow's workout" — not "today's." Sleep, fueling, and prep advice is welcome ("get to bed by 10," "lay out gym clothes tonight," "set 5:30 AM alarm"). Avoid morning-of phrasing like "this evening after the gym" since the workout hasn't happened yet. The subject line should name tomorrow's day (e.g., "🏃 Wednesday — Heavy Strength (Wk 1)" sent on Tuesday night).
 
 ## When Paul Provides Feedback
 
@@ -130,7 +130,7 @@ When modifying the plan, update TRAINING_PLAN.md directly with the changes and n
 ## Automated Data Pipeline
 
 - **Strava integration:** A GitHub Action (`pull-strava.yml`) polls Strava at 7:30am, 9am, 1pm, and 7pm PT for new activities. It auto-logs objective data (distance, pace, HR, splits, elevation, cadence) to WORKOUT_LOG.md. Entries from Strava have `Knee Status: (pending)` — Paul fills that in via feedback. The workflow also triggers on every push to `main`, so you can manually kick off a sync at any time by running: `git commit --allow-empty -m "trigger strava sync" && git push origin main`
-- **Daily briefing:** A Claude Code scheduled task runs at 4:30am PT, writes the briefing to `briefings/latest.json`, and pushes. A GitHub Action (`send-briefing.yml`) picks it up and sends it via Resend to prlambert9000@gmail.com.
+- **Daily briefing:** A Claude Code routine runs at ~9:00 PM PT (evening before), writes the next day's briefing to `briefings/latest.json`, and pushes. A GitHub Action (`send-briefing.yml`) picks it up and sends it via Resend to prlambert9000@gmail.com.
 - **Feedback via Dispatch:** Paul provides subjective feedback (knee status, perceived effort, notes) via Claude Code Dispatch on his phone. When he does, update the pending Strava entries in WORKOUT_LOG.md with his feedback, commit, and push.
 
 ## Infrastructure Reference
