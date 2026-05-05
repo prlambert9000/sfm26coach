@@ -10,87 +10,59 @@
 
 ## Current Recommended Weights
 
-*Last updated: 2026-04-23 (Bulgarian split squat: bodyweight → 15 lb/hand; cleared Good with Green knee on swap-day Hip & Core B, ahead of plan progression)*
+*Last updated: 2026-05-05 (V6 plan adopted — Wed Heavy / Fri Stability split. Upper body dropped for the 12-week build. Carryover: Bulgarian split squat 15 lb/hand, single-leg RDL pattern 15 lb/hand both cleared Good in late April.)*
 
 Use a simple feel rating when reporting back: **Easy** (4+ reps left in tank), **Good** (2–3 reps in reserve), **Heavy** (grinding last rep), **Too heavy** (couldn't complete reps).
 
-**Chassis Build rule:** The goal here is NOT to add load. It's to build the hip mobility, hip strength, and core strength the PT identified as missing. Stay light, stay strict on form. Work both sides equally — hip IR limitation is bilateral. The only right-side-specific work is Terminal Knee Extension (TKE) in the finisher.
+**V6 strength rule:** This is marathon-specific strength. Wed builds raw force in the posterior chain and quads; Fri trains single-leg stability and tendon resilience. Slow eccentrics on heavy day (3 sec down). Form first, load second. Knee at 2+ on the 5-point scale → don't add lower-body load that week.
 
-**Exercises marked (PT) are prescribed directly by Akanksha A Sojitra, PT.** See PT_NOTES.md for cues and references. Form: exhale slowly on effort; slow down on single-leg work.
+**Exercises marked (PT) are prescribed directly by Akanksha A Sojitra, PT.** See PT_NOTES.md for cues and references. Folded into Mon mobility and Fri stability sessions. Form: exhale slowly on effort; slow down on single-leg work.
 
-### Hip & Core A (replaces Lower A during Chassis Build)
+### Wed — Heavy Strength (Cañada College)
+3–4 sets × 6–8 reps. 3-sec eccentric. Compound, posterior chain, knee-protective.
+
 | Exercise | Recommended | Feel Target |
 |----------|-------------|-------------|
-| Quadruped banded hip IR / lateral band pull (PT) — warm-up | Light band | 8 reps each side before main work |
-| 90/90 PAILs/RAILs | Bodyweight | Hard contraction — go to ~80% effort on isometric |
-| Side-lying clamshell (banded) | Light band | Good — slow, 2-sec hold at top |
-| Single-leg glute bridge | Bodyweight | Good — 2-sec hold at top |
-| Hip airplane | Bodyweight | Balance and control first; add 5 lb DB in front hand when stable |
-| Copenhagen plank | Bodyweight | Start at 20 sec, build to 30 sec by Week 3 |
-| Dead bug — slow march with banded pulldown (PT) | Light band overhead | 2–3 sets × 10 slow marches. Band pulled down to thighs. Low back pressed to floor. |
-| Chin tuck + lifts, front and diagonal (PT) | Bodyweight | 2 reps each direction (front, diag L, diag R), 3-sec hold |
-| Pallof press (isometric) | Light band | 3 × 15-sec holds each side |
-| Wall sit | Bodyweight, 45 sec × 3 | — |
-| Terminal knee extension (TKE), right leg | Light band | 3 × 15. For PT's right-knee extension finding. |
+| Back squat | (seed: empty bar 45 lb → build to 95 lb working set over Weeks 1–2) | Good — 3-sec eccentric, knees track over toes |
+| Romanian deadlift (RDL) | (seed: 65 lb → build) | Good — hinge, neutral spine, hamstring stretch |
+| Reverse Nordic | Bodyweight | Good — 3-sec lower, knees together, focus on quad eccentric |
+| Standing calf raise | (seed: bodyweight, then 25 lb DB/hand) | Good — full ROM, 2-sec hold at top |
 
-### Hip & Core B (replaces Lower B during Chassis Build)
+*Working weights TBD: log first session honestly, progress per feel rules.*
+
+### Fri — Stability & Power (Cañada College)
+3 sets × 8–10 reps per side, or time-based for isometrics. Single-leg, anti-rotation, knee-stability focus.
+
 | Exercise | Recommended | Feel Target |
 |----------|-------------|-------------|
-| Quadruped banded hip IR / lateral band pull (PT) — warm-up | Light band | 8 reps each side before main work |
-| Bulgarian split squat | 15 lbs/hand | Good — 3-sec eccentric, hips square. Cleared Good Apr 23 in Week 1 (jumped past planned BW→10 lb progression). Hold at 15 until knee data from a full running week confirms. |
-| Single-leg RDL | 15 lbs/hand | Good — hinge, don't bend knee |
-| Side plank with hip abduction (PT) | Bodyweight | **Toe pointing to floor** (IR of lifting leg). 8 reps each side. |
-| Banded lateral walks | Light band above knees | Stay low, controlled |
-| Bird dog | Bodyweight | 2-sec hold — pelvis level, don't rotate |
+| Bulgarian split squat | 15 lbs/hand | Good — 3-sec eccentric, hips square. Cleared Good Apr 23. |
+| Single-leg step-up | (seed: bodyweight → 10 lb/hand) | Good — drive through heel, don't push off back foot |
+| Spanish squat hold | Light band behind knees | 3 × 30–45 sec — vertical shin, deep knee bend, isometric |
+| Copenhagen plank | Bodyweight | 3 × 20–30 sec each side — adductor tension, top leg on bench |
+| Side plank with hip abduction (PT) | Bodyweight | **Top toe pointing to floor** (IR of lifting leg). 8 reps each side. |
 | Dead bug — slow march with banded pulldown (PT) | Light band overhead | 2–3 sets × 10 slow marches |
-| Chin tuck + lifts, front and diagonal (PT) | Bodyweight | 2 reps each direction, 3-sec hold |
-| Pallof press with rotation | Light band | Slow rotation, controlled |
-| Front plank with shoulder tap | Bodyweight | Anti-rotation — don't let hips sway |
-| Wall sit | Bodyweight, 45 sec × 3 | — |
-| Terminal knee extension (TKE), right leg | Light band | 3 × 15 |
+| Chin tuck + lifts, front and diagonal (PT) | Bodyweight | 2 reps each direction (front, diag L, diag R), 3-sec hold |
 
-### Daily Mobility Flush (every day, ~12 min)
+### Mon — Hip Complex Circuit (~20 min, mobility only)
+Bodyweight only. Pre-workout activation pattern; not a lift. Two rounds.
+
 | Exercise | Dose |
 |----------|------|
 | Foam roller T-spine extensions (PT) | 8–10 reps |
 | Standing lunges with hip IR + extension (PT) | 8–10 reps each side |
-| World's greatest stretch | 5 each side |
-| 90/90 hip stretch (IR emphasis) | 60 sec each side |
-| Half-kneeling couch stretch | 60 sec each side |
+| Quadruped banded hip IR / lateral band pull (PT) | 5–10 reps each side |
+| 90/90 switches | 8–10 each side |
+| Adductor rockbacks | 8–10 reps |
 | Hip CARs | 3 each direction, each leg |
-| Cat-cow | 10 reps |
+| Half-kneeling couch stretch | 60 sec each side |
 
-### Upper Push (Tue, Weeks 1–4 only)
-| Exercise | Recommended | Feel Target |
-|----------|-------------|-------------|
-| Dumbbell bench press | 30 lbs/hand (regular gym) / 25 lbs/hand (home adjustable ceiling) | Good (2–3 reps in reserve) |
-| Overhead press | 25 lbs/hand | Good |
-| Push-ups | Bodyweight (flat) | Good — hold at flat; Apr 21 sets 2–3 required breaking up to reach 15 |
-| Lateral raise | 10 lbs | Good |
-| Tricep overhead extension | 25 lbs (single DB, two-handed) | Good |
-
-### Upper Pull (Sat, Weeks 1–4 only)
-| Exercise | Recommended | Feel Target |
-|----------|-------------|-------------|
-| Pull-ups | Bodyweight | Good — if <8 reps, use lat pulldown at 85 lbs |
-| Dumbbell row | 30 lbs/hand | Good |
-| Face pulls | Light band / 20 lbs cable | Good — high reps, never heavy |
-| Bicep curls | 15 lbs/hand | Good |
-| Band pull-aparts | Light band | — |
-
-### Upper Combined (Sat, Week 5 onward)
-Push + pull in one session. Pure maintenance — 3×10–12 each, get in and out.
-
-| Exercise | Recommended | Feel Target |
-|----------|-------------|-------------|
-| Dumbbell bench press | 30 lbs/hand | Good |
-| Pull-ups | Bodyweight | Good — if <8 reps, use lat pulldown at 85 lbs |
-| Overhead press | 20 lbs/hand | Good |
-| Dumbbell row | 30 lbs/hand | Good |
-| Lateral raise | 10 lbs | Good |
-| Face pulls | Light band / 20 lbs cable | Good — high reps |
-| Tricep overhead extension | 20 lbs | Good |
-| Bicep curls | 15 lbs/hand | Good |
+### Pre-Run Activation (every run day, 5 min)
+| Exercise | Dose |
+|----------|------|
+| Hip CARs | 3 each direction, each leg |
+| Banded lateral walks | 10 each direction |
+| Glute bridges | 10 reps, 2-sec hold at top |
+| Quadruped banded hip IR (PT) | 5–10 reps each side |
 
 ---
 
@@ -100,9 +72,10 @@ Push + pull in one session. Pure maintenance — 3×10–12 each, get in and out
 - **Good** → maintain same weight
 - **Heavy** → maintain same weight; fix form before adding load
 - **Too heavy** → drop 10%, confirm form, rebuild from there
-- **Lower body:** Never increase weight if knee gave any Yellow/Red signals that week
-- **Upper body:** Pure maintenance — don't chase PRs during marathon training
-- **Chassis Build phase (Apr 20 – May 17):** Hold load light. Progress is measured in bilateral hip IR range of motion and Copenhagen plank time — not dumbbell weight. Only add load to Bulgarian split squat and single-leg RDL once form is clean and knee is green across a full week.
+- **Lower body:** Never increase weight if knee scored 2+ on the 5-point scale that week
+- **Wed heavy strength:** progress is the goal during Phases 1–2 (Weeks 1–7). Hold load through deload weeks (3, 8) and the taper (11–12).
+- **Fri stability & power:** progress controlled — single-leg work prioritizes form and knee tracking over absolute load. Spanish squat and Copenhagen plank progress on time, not load.
+- **Upper body:** dropped for V6's 12-week build. Conscious specificity choice — revisit post-marathon.
 
 ---
 

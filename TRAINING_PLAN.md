@@ -1,401 +1,267 @@
-# SF Marathon 2026 Training Plan (v4 — PT-driven rebuild)
+# SF Marathon 2026 Training Plan (V6 — 3:30 Performance & Durability)
 
 **Race:** San Francisco Marathon — Sunday, July 26, 2026
-**Goal (provisional):** Sub-3:35, target 3:28–3:32. Re-evaluated after PT follow-up on May 15. Finish healthy is the only non-negotiable.
-**Start:** Monday, April 20, 2026
-**Duration:** 14 weeks (4 weeks Chassis Build + 10 weeks Marathon Build/Peak/Taper)
+**Baseline goal:** 3:30 (8:00/mi). Upgrade path to 3:20–3:25 contingent on Week 7 Presidio Half Marathon Pivot test.
+**Start:** Monday, May 4, 2026
+**Duration:** 12 weeks
+**Athlete:** 155 lb, 42M, VO2 max 58, May 3 5K solo benchmark 21:47 (7:00/mi, max HR 183, 1-min HRR 33).
+
+This plan bridges high aerobic capacity to the structural durability required for a strong SF finish, with a slow ramp, smoothed deloads, and explicit protective measures for patellar tendon and patellofemoral joint health.
 
 ---
 
-## What Changed in v4 (April 17, 2026)
+## What Changed in V6 (May 4, 2026)
 
-PT evaluation (Akanksha A Sojitra, PT) diagnosed **medial patellofemoral joint irritation** — a patellofemoral pain variant driven by upstream mechanical issues:
+Replaces the v4 Chassis Build / Phase 1 framework. Knee has been managing well through April easy runs — the conservative chassis-only window is no longer needed. The new framework is a 12-week periodized build with:
 
-1. **Hip internal rotation limited — bilaterally** (work both sides equally)
-2. **Hip external rotator / abductor weakness** (glute med, deep external rotators)
-3. **Core strength / control** (anti-rotation, anterior chain)
-4. **Mild right-knee extension limitation** (terminal range)
+- Pace targets anchored to a real benchmark (May 3 5K, 21:47).
+- Single-purpose strength split: Wed heavy compound, Fri stability/power. No upper body — pure marathon specificity for 12 weeks.
+- "Escape valve" rule keyed to a 5-point knee pain scale with automatic bike substitution at 3+.
+- Explicit Week 7 Pivot test at the Presidio Half Marathon to gate any upgrade from 3:30 to 3:20–3:25.
+- Built-in 90 g/hr gut training progression peaking by Week 10.
 
-Net effect: the knee absorbs load it shouldn't during running, and flares up once mileage climbs. PT cleared short runs (<5 mi) and cycling during rehab.
-
-**See PT_NOTES.md** for the full PT email and prescribed exercises. Exercises marked "(PT)" below are her explicit prescription — non-negotiable. Everything else is supplemental and consistent with her goals.
-
-**Decision:** Pause marathon-specific training. Four weeks of "chassis work" — mobility, hip strength, core — come first. Next PT visit is Friday, May 15, 2026. Marathon training resumes Monday, May 18.
+**PT follow-up (May 15) is still on.** Until then, the plan still respects PT-prescribed mobility and core work — see PT_NOTES.md. Any restrictions she places at follow-up override the plan.
 
 ---
 
-## Guiding Principles
+## I. Pace Targets
 
-1. **The chassis comes first.** No amount of aerobic fitness matters if the mechanical system can't carry the load. Mobility and hip/core strength are the primary work for the next 4 weeks.
-2. **The knee is still the boss.** Any knee discomfort = immediate modification. Red signals stop running that day.
-3. **Strength training is non-negotiable.** 4 sessions/week continues through all phases. During Chassis Build, lower body sessions are rebuilt around hip mobility, glute/core strength, and knee stability — not load.
-4. **Both sides get equal attention.** Hip IR limitation is bilateral. Work left and right identically on every single-side exercise. The only exception is terminal knee extension (TKE), which targets the PT's specific right-knee finding.
-5. **Never increase long run AND weekly mileage in the same week** (applies post-May 18).
-6. **80/20 rule** (applies post-May 18). During Chassis Build, running is all easy.
-7. **Soft surfaces when possible.** Sawyer Camp Trail, Bayfront paths, Rancho San Antonio. Save pavement for race-specific long runs.
-
----
-
-## Phase 0: Chassis Build (Weeks 1–4, April 20 – May 17)
-
-**Goal:** Restore hip internal rotation, build hip abductor/external rotator strength, build anti-rotation core strength, confirm knee calm under reduced load. Maintain aerobic fitness at low cost.
-
-**Weekly structure:**
-
-| Day | Workout | Duration |
-|-----|---------|----------|
-| Mon | Hip & Core A | ~45 min |
-| Tue | Upper Push | ~25 min |
-| Wed | Mobility Deep-Dive | ~35 min |
-| Thu | Easy run 3–4 mi (soft surface) + mobility flush | ~40 min |
-| Fri | Hip & Core B | ~45 min |
-| Sat | Upper Pull | ~25 min |
-| Sun | Cross-train: cycling 60–90 min easy OR hike 90 min | ~75 min |
-
-**Daily mobility flush (~12 min, every day including run/bike days):**
-- **Foam roller T-spine extensions (PT):** 8–10 reps — lie on foam roller across mid-back, raise arms overhead back and forth
-- **Standing lunges with hip IR + extension (PT):** 8–10 reps each side — deliberate internal rotation of the back hip, equal work on both sides
-- World's greatest stretch: 5 each side
-- 90/90 hip stretch with IR emphasis: 60 sec each side
-- Half-kneeling couch stretch: 60 sec each side
-- Hip CARs (controlled articular rotations): 3 each direction, each leg
-- Cat-cow: 10 reps
-
-**Pre-workout activator (5 reps, before Hip & Core A, B, and Mobility Deep-Dive):**
-- **Quadruped banded hip internal rotation / lateral band pull (PT):** 5–10 reps each side. Reference: https://www.youtube.com/watch?v=EEihm9fb2tk&t=5s
-
-### Week 1 — April 20 (Establish the routine)
-
-| Day | Workout | Notes |
-|-----|---------|-------|
-| Mon Apr 20 | Hip & Core A | Learn the movements. Bodyweight everywhere on lower body. |
-| Tue Apr 21 | Upper Push | |
-| Wed Apr 22 | Mobility Deep-Dive | |
-| Thu Apr 23 | Hip & Core B | Swapped with Fri — extra rest day for the knee before first run of the week. |
-| Fri Apr 24 | Easy run 3 mi | Swapped with Thu. Soft surface. Pace doesn't matter — 9:30–10:00/mi is fine. |
-| Sat Apr 25 | Upper Pull | |
-| Sun Apr 26 | Cycling 60 min easy OR 90-min hike | Pick whichever keeps the knee calm. |
-
-### Week 2 — April 27 (Add tempo to mobility, hold running volume)
-
-| Day | Workout | Notes |
-|-----|---------|-------|
-| Mon Apr 27 | Hip & Core A | Progress hold times on isometrics (+5 sec). |
-| Tue Apr 28 | Upper Push | |
-| Wed Apr 29 | Mobility Deep-Dive | |
-| Thu Apr 30 | Easy run 4 mi | |
-| Fri May 1 | Hip & Core B | |
-| Sat May 2 | Upper Pull | Foster City 5K — skip or jog untimed as a separate easy effort. Do NOT race it. |
-| Sun May 3 | Cycling 75 min easy OR hike 90 min | |
-
-### Week 3 — May 4 (Add load to hip strength)
-
-| Day | Workout | Notes |
-|-----|---------|-------|
-| Mon May 4 | Hip & Core A (add light DBs) | Start adding load to RDL and split squat if knee has been green. |
-| Tue May 5 | Upper Push | |
-| Wed May 6 | Mobility Deep-Dive | |
-| Thu May 7 | Easy run 4 mi | |
-| Fri May 8 | Hip & Core B (add light DBs) | |
-| Sat May 9 | Upper Pull | |
-| Sun May 10 | Easy run 5 mi OR cycling 75 min | First time back at 5 mi if the knee has been green all week. |
-
-### Week 4 — May 11 (Consolidate, taper lightly into PT)
-
-| Day | Workout | Notes |
-|-----|---------|-------|
-| Mon May 11 | Hip & Core A | |
-| Tue May 12 | Upper Push | |
-| Wed May 13 | Mobility Deep-Dive | |
-| Thu May 14 | Easy run 3 mi | Dial back volume day before PT. |
-| **Fri May 15** | **PT appointment** + light mobility only | Bring specific questions: IR range progress (both sides), hip strength balance, clearance for tempo work. |
-| Sat May 16 | Upper Pull | |
-| Sun May 17 | Easy run 5 mi OR cycling 75 min | Transition day into marathon phase. |
+| Workout Type | Target Pace / Effort | Purpose |
+|---|---|---|
+| Marathon Pace (MP) | 7:55 – 8:00 min/mile | 3:30 baseline |
+| VO2 reps (≤1200m) | 7:15 – 7:25 min/mile | Aerobic ceiling |
+| Threshold reps (1mi+) | 7:40 – 7:50 min/mile | Lactate threshold |
+| Easy / Recovery | 9:00 – 9:45 min/mile | Capillary density, recovery |
+| Long Run (steady) | 8:45 – 9:15 min/mile | Fat oxidation, time on feet |
 
 ---
 
-## Phase 1: Marathon Re-Base (Weeks 5–6, May 18 – May 31)
+## II. Weekly Training Structure (65-min windows, 6 AM)
 
-Assumes PT clears progressive running. If not, stay in Chassis Build and delay each phase by 1 week.
+- **Pre-run activation (every run day, 5 min):** Hip CARs, banded lateral walks, glute bridges. Plus the PT-prescribed quadruped banded hip IR (5–10 reps each side) before any workout.
+- **Monday — 20-min hip complex circuit:** 90/90 switches, adductor rockbacks, foam rolling. Plus the daily PT mobility flush (foam roller T-spine extensions, standing lunges with hip IR + extension). Active recovery only — no run.
+- **Tuesday — Track intervals.** 1.5 mi easy jog to the high school track, intervals per the day's prescription, 1.5 mi easy jog back.
+- **Wednesday — Heavy strength (Cañada College).** Back squat, RDL, reverse Nordics, standing calf raises. 3-second eccentric. No running.
+- **Thursday — Alternating base / progression.** Odd weeks: easy base. Even weeks: progression finish (last 2 mi @ 8:15).
+- **Friday — Stability & power (Cañada College).** Bulgarian split squats, single-leg step-ups, Spanish squat holds, Copenhagen planks. No running.
+- **Saturday — Shakeout (3–4 mi) or rest.**
+- **Sunday — Long run.** Smoothed progression. Explicit 90 g/hr gut training rehearsals from Week 5 onward.
 
-### Week 5 — May 18 (Target: 20 mi, long 6)
-
-| Day | Workout | Notes |
-|-----|---------|-------|
-| Mon | Lower A | Resume standard Lower A. |
-| Tue | Easy 4 mi | |
-| Wed | Easy 4 mi + mobility | |
-| Thu | Easy 4 mi | |
-| Fri | Lower B | |
-| Sat | Upper | Combined push + pull, maintenance. |
-| Sun | Long 6 mi easy | All easy. Note how knee feels at mile 5–6. |
-
-### Week 6 — May 25 (Target: 24 mi, long 8)
-
-| Day | Workout | Notes |
-|-----|---------|-------|
-| Mon | Lower A | |
-| Tue | Easy 4 mi | |
-| Wed | Easy 5 mi + strides (4×20s) | First strides — grass/dirt only. |
-| Thu | Easy 4 mi | |
-| Fri | Lower B | |
-| Sat | Upper | |
-| Sun | Long 8 mi easy | |
+**Schedule rule:** Strength and running do not stack on the same day. The Tue/Thu run / Wed/Fri lift split is intentional — it keeps lower-body fatigue from compounding across consecutive days.
 
 ---
 
-## Phase 2: Build (Weeks 7–10, June 1 – June 28)
+## III. The Escape Valve (Zero-Impact Rule)
 
-Tempo work returns. Long runs grow. Cutback every 3rd week given the compressed timeline.
+Knee pain scale (5-point): 1 = no awareness, 2 = mild awareness no progression, 3 = ache that affects mechanics, 4 = pain altering gait, 5 = sharp pain.
 
-### Week 7 — June 1 (Target: 28 mi, long 10)
+If the knee is **3 or higher upon waking**, automatically substitute any easy or steady run for an equivalent time/HR session on a stationary bike or elliptical. Track-interval and long-run days at 3+ are postponed by 24–48 hours; if still 3+ after 48 hours, contact PT.
 
-| Day | Workout | Notes |
-|-----|---------|-------|
-| Mon | Lower A | |
-| Tue | Easy 5 mi | |
-| Wed | Tempo: 2 mi easy + 15 min tempo + 1 mi easy (~5 mi) | First tempo back. 7:55–8:05/mi. |
-| Thu | Easy 4 mi | |
-| Fri | Lower B | |
-| Sat | Upper | |
-| Sun | Long 10 mi easy | |
-
-### Week 8 — June 8 (Target: 32 mi, long 13)
-
-| Day | Workout | Notes |
-|-----|---------|-------|
-| Mon | Lower A | |
-| Tue | Easy 5 mi | |
-| Wed | Tempo: 2 mi easy + 20 min tempo + 1 mi easy (~6 mi) | |
-| Thu | Easy 5 mi | |
-| Fri | Lower B | |
-| Sat | Upper | |
-| Sun | Long 13 mi easy | Introduce gel every 45 min from mile 4. |
-
-### Week 9 — June 15 (Cutback: 24 mi, long 10)
-
-| Day | Workout | Notes |
-|-----|---------|-------|
-| Mon | Lower A | |
-| Tue | Easy 4 mi | |
-| Wed | Tempo: 2 mi easy + 15 min tempo + 1 mi easy (~5 mi) | |
-| Thu | Easy 4 mi + strides | |
-| Fri | Lower B | |
-| Sat | Upper | |
-| Sun | Long 10 mi easy | |
-
-### Week 10 — June 22 (Target: 36 mi, long 15)
-
-| Day | Workout | Notes |
-|-----|---------|-------|
-| Mon | Lower A | |
-| Tue | Easy 5 mi | |
-| Wed | Tempo: 2 mi easy + 25 min tempo + 1 mi easy (~7 mi) | |
-| Thu | Easy 5 mi | |
-| Fri | Lower B | |
-| Sat | Upper | |
-| Sun | Long 15 mi, last 2 mi at MP | First MP work. |
+Two consecutive 3+ readings → automatic 7-day cycling-only block, no run testing.
 
 ---
 
-## Phase 3: Peak (Weeks 11–12, June 29 – July 12)
+## IV. Week 7 Pivot Strategy
 
-### Week 11 — June 29 (Target: 36 mi, long 18)
+The plan's pace targets are set for a conservative 3:30 finish. The Week 7 Presidio Half Marathon Benchmark (June 21) is the official reassessment. To upgrade pace targets for a 3:20–3:25 finish, all three criteria must be met:
 
-| Day | Workout | Notes |
-|-----|---------|-------|
-| Mon | Lower A | |
-| Tue | Easy 5 mi | |
-| Wed | Tempo: 2 mi easy + 25 min tempo + 1 mi easy (~7 mi) | |
-| Thu | Easy 6 mi + strides | |
-| Fri | Lower B | |
-| Sat | Upper | |
-| Sun | Long 18 mi, last 3 mi at MP | |
+- **Sub-1:44 finish time**
+- **Average HR under 170 BPM in the final 3 miles**
+- **Zero knee compensation crossing the finish line**
 
-### Week 12 — July 6 (Target: 39–41 mi, long 20–22)
-
-| Day | Workout | Notes |
-|-----|---------|-------|
-| Mon | Lower A | |
-| Tue | Easy 6 mi | |
-| Wed | Tempo: 2 mi easy + 25 min tempo + 1 mi easy (~7 mi) | |
-| Thu | Easy 6 mi | |
-| Fri | Lower B | |
-| Sat | Upper | |
-| Sun | Long 20–22 mi, last 4 at MP | Peak long run. Full race fueling/kit rehearsal. If knee is green all week, go 22. If any yellow, cap at 20. |
+Miss any one → hold 3:30 targets. Hit all three → MP drops to 7:35–7:40, threshold to 7:25–7:35.
 
 ---
 
-## Phase 4: Taper (Weeks 13–14, July 13 – July 26)
+## V. 12-Week Periodization Summary
 
-### Week 13 — July 13 (Target: 28 mi, long 12)
+### Pre-Program Benchmark (May 3) — COMPLETED
+Solo 5K simulation: **21:47 (7:00/mi)**. Max HR 183. 1-min HRR 33 BPM.
 
-| Day | Workout | Notes |
-|-----|---------|-------|
-| Mon | Lower A (50% wt) | |
-| Tue | Easy 4 mi | |
-| Wed | Tempo: 1 mi easy + 15 min tempo + 1 mi easy (~5 mi) | |
-| Thu | Easy 4 mi + strides | |
-| Fri | Lower B (50% wt) | |
-| Sat | Upper | |
-| Sun | Long 12 mi, 8 easy + 4 at MP | Final long run. |
+### Phase 1: Foundation & Durability (Weeks 1–4)
+- **Week 1 (May 4–10):** 20 mi | LR 8 mi
+- **Week 2 (May 11–17):** 24 mi | LR 10 mi (Bay to Breakers 15K, fast finish)
+- **Week 3 deload (May 18–24):** 22 mi | LR 9 mi
+- **Week 4 (May 25–31):** 26 mi | LR 11 mi (San Mateo PAL 10K benchmark, May 30)
 
-### Week 14 — July 20 (Race week)
+### Phase 2: Strength & Threshold (Weeks 5–8)
+- **Week 5 (Jun 1–7):** 26 mi | LR 12 mi (start 90 g/hr gut training)
+- **Week 6 (Jun 8–14):** 30 mi | LR 14 mi (5 mi @ MP)
+- **Week 7 (Jun 15–21):** 33 mi | LR 13.1 mi (**Presidio HM — Pivot Assessment**)
+- **Week 8 deload (Jun 22–28):** 28 mi | LR 10 mi
 
-| Day | Workout | Notes |
-|-----|---------|-------|
-| Mon | Lower A (bodyweight, half sets) | Last lower session. |
-| Tue | Easy 4 mi + 4 strides | |
-| Wed | Upper (light) | Last gym session. |
-| Thu | Rest | |
-| Fri | Easy 3 mi + 2 strides | Shake out. Bib pickup at Fort Mason expo. |
-| Sat | Rest | Hydrate, lay out gear, carb load, sleep early. |
-| **Sun Jul 26** | **🏁 RACE DAY — SF Marathon** | Go time. |
+### Phase 3: Peak Volume & Power (Weeks 9–10)
+- **Week 9 (Jun 29–Jul 5):** 34 mi | LR 16 mi (8 mi @ MP)
+- **Week 10 peak (Jul 6–12):** 42 mi | LR 20 mi
 
----
-
-## Hip & Core A — Internal Rotation & Posterior Chain
-
-**Warm-up (10 min)**
-- Foam roll: IT band, TFL, glutes, quads, adductors — 30 sec each, both sides (5 min)
-- **Quadruped banded hip IR / lateral band pull (PT):** 8 reps each side
-- Banded hip distraction with IR emphasis: 90 sec each side
-- 90/90 transitions: 10 reps (switch sides seated on floor)
-- Glute bridges (banded above knees): 15 reps, 2-sec squeeze at top
-
-**Main circuit — 3 rounds**
-
-Form cues from the PT: exhale slowly on effort; slow down on single-leg work.
-
-| Exercise | Reps | Week 1 | Notes |
-|----------|------|--------|-------|
-| 90/90 PAILs/RAILs (hip IR isometric) | 3 × 10 sec each direction, each side | Bodyweight | Sit in 90/90, push front knee into ground for 10 sec (RAIL), then pull up for 10 sec (PAIL). #1 exercise for hip IR. |
-| Side-lying clamshell (banded) | 15 each side | Light band | 2-sec hold at top. Keep hips stacked, don't rotate backward. |
-| Single-leg glute bridge | 12 each side, 2-sec hold | Bodyweight | Drive through heel, squeeze glute at top. |
-| Hip airplane | 8 each side | Bodyweight | Stand on one leg, hinge forward, rotate torso open/closed. |
-| Copenhagen plank | 20 sec each side | Bodyweight | Progress to 30 sec by Week 3. |
-| **Dead bug — slow march with banded pulldown (PT)** | 2–3 sets × 10 marches | Light band overhead | Band anchored high (doorframe or rack), pull down to thighs while marching very slowly. Low back pressed to floor. |
-| **Chin tuck + lifts — front and diagonal (PT)** | 2 reps each direction (front, diag L, diag R), 3-sec hold | Bodyweight | Lying on back. Tuck chin, lift head just off floor, hold 3 sec. Repeat looking front, then diagonal left, then diagonal right. |
-| Pallof press (isometric hold) | 3 × 15 sec each side | Light band | Arms straight out, resist rotation. |
-
-**Finisher**
-- Wall sit: 45 sec × 3
-- **Terminal knee extension (TKE), right leg:** 3 × 15 — band anchored low behind, loop around back of right knee, step forward to create tension, extend knee fully against band resistance. Targets PT's finding of mild right-knee extension limitation.
-
-**Cool-down**
-- Pigeon pose: 60 sec each side
-- Couch stretch: 60 sec each side
+### Phase 4: Taper & Race Readiness (Weeks 11–12)
+- **Week 11 (Jul 13–19):** 25 mi | LR 10 mi easy
+- **Week 12 race week (Jul 20–26):** 12 mi + **SF MARATHON (Jul 26)**
 
 ---
 
-## Hip & Core B — Hip Strength & Anti-Rotation
+## VI. Day-by-Day Schedule
 
-**Warm-up (10 min)**
-- Foam roll lower body: 5 min
-- **Quadruped banded hip IR / lateral band pull (PT):** 8 reps each side
-- 90/90 PAILs/RAILs: 2 × 10 sec each direction, each side
-- Cossack squats (bodyweight): 8 each side — slow, stay low
-- Fire hydrants: 15 each side
+### Week 1 (May 4–10) — 20 mi | LR 8 mi
+| Date | Day | Workout | Notes |
+|---|---|---|---|
+| 2026-05-04 | Mon | Hip Complex Circuit | 20-min: 90/90s, adductor rockbacks, foam roll |
+| 2026-05-05 | Tue | 5×1000m Track Intervals | 1.5mi WU; 7:15–7:25 pace; 90s rec; 1.5mi CD |
+| 2026-05-06 | Wed | Heavy Strength | Back Squat / RDL / Reverse Nordics / Calf Raises |
+| 2026-05-07 | Thu | 6 mi Steady Base | 8:30–8:45 pace |
+| 2026-05-08 | Fri | Stability & Power | Bulgarian Splits / Spanish Squat / Copenhagen |
+| 2026-05-09 | Sat | 3 mi Shakeout | 9:30+ pace. Knee ≥3 → bike. |
+| 2026-05-10 | Sun | 8 mi Long Run | 8:45–9:15 pace |
 
-**Main circuit — 3 rounds**
+### Week 2 (May 11–17) — 24 mi | LR 10 mi
+| Date | Day | Workout | Notes |
+|---|---|---|---|
+| 2026-05-11 | Mon | Hip Complex Circuit | 20-min mobility |
+| 2026-05-12 | Tue | 6×800m Track Intervals | 7:15–7:25 pace; 90s rec |
+| 2026-05-13 | Wed | Heavy Strength | Maintain 3s eccentric descent |
+| 2026-05-14 | Thu | 6 mi Progression Run | 4mi @ 9:00 / 2mi @ 8:15 |
+| 2026-05-15 | Fri | Stability & Power | Focus on Copenhagen plank adductor tension. **PT follow-up today.** |
+| 2026-05-16 | Sat | 4 mi Shakeout | 9:30+ pace |
+| 2026-05-17 | Sun | Bay to Breakers 15K | 10mi total: 1–6 @ 8:45–9:15 / 6–9.3 @ 8:00 MP |
 
-Form cues from the PT: exhale slowly on effort; slow down on single-leg work.
+### Week 3 deload (May 18–24) — 22 mi | LR 9 mi
+| Date | Day | Workout | Notes |
+|---|---|---|---|
+| 2026-05-18 | Mon | Hip Complex Circuit | Deload week start |
+| 2026-05-19 | Tue | 4 mi Easy | 9:15–9:30 |
+| 2026-05-20 | Wed | Low-Volume Strength | Technique & mobility focus |
+| 2026-05-21 | Thu | 5 mi Easy | 9:15–9:30 |
+| 2026-05-22 | Fri | Low-Volume Strength | Spanish squat holds |
+| 2026-05-23 | Sat | Rest | Full recovery |
+| 2026-05-24 | Sun | 9 mi Long Run | 9:30 easy |
 
-| Exercise | Reps | Week 1 | Notes |
-|----------|------|--------|-------|
-| Bulgarian split squat | 10 each side | Bodyweight → 10 lb DBs wk 3 | Rear foot elevated. Slow 3-sec eccentric. Hips square. |
-| Single-leg RDL | 10 each side | 15 lb DBs | Posterior chain + balance. |
-| **Side plank with hip abduction (PT)** | 8 reps each side | Bodyweight | Hold side plank, lift top leg. **Keep top toe pointing toward the floor** (internal rotation of the lifting leg) — explicit PT cue. |
-| Banded lateral walks | 15 each direction | Light band above knees | Stay low, controlled. |
-| Bird dog | 10 each side, 2-sec hold | Bodyweight | Keep pelvis level — don't let hips rotate. |
-| **Dead bug — slow march with banded pulldown (PT)** | 2–3 sets × 10 marches | Light band overhead | Same as Hip & Core A. Slow. |
-| **Chin tuck + lifts — front and diagonal (PT)** | 2 reps each direction, 3-sec hold | Bodyweight | Same as Hip & Core A. |
-| Pallof press with rotation | 12 each side | Light band | Press out, rotate slowly to one side, back to center. |
-| Front plank with shoulder tap | 20 reps total | Bodyweight | No hip rotation — anti-rotation is the point. |
+### Week 4 (May 25–31) — 26 mi | LR 11 mi
+| Date | Day | Workout | Notes |
+|---|---|---|---|
+| 2026-05-25 | Mon | Hip Complex Circuit | Pre-benchmark mobility |
+| 2026-05-26 | Tue | 6×1000m Track Intervals | 7:10–7:20 pace; 90s rec |
+| 2026-05-27 | Wed | Heavy Strength | Core stability integration |
+| 2026-05-28 | Thu | 7 mi Steady Base | 8:30–8:45 |
+| 2026-05-29 | Fri | Stability & Power | Light mobility focus |
+| 2026-05-30 | Sat | 10K Benchmark Race | San Mateo PAL 10K (Seal Point Park) |
+| 2026-05-31 | Sun | 11 mi Long Run | 8:45–9:15 |
 
-**Finisher**
-- Wall sit: 45 sec × 3
-- **Terminal knee extension (TKE), right leg:** 3 × 15 — same as Hip & Core A.
+### Week 5 (Jun 1–7) — 26 mi | LR 12 mi
+| Date | Day | Workout | Notes |
+|---|---|---|---|
+| 2026-06-01 | Mon | Hip Complex Circuit | Phase 2 start |
+| 2026-06-02 | Tue | 4×1600m Track Tempo | 7:45 pace; 2 min rec |
+| 2026-06-03 | Wed | Heavy Strength | Back Squat / RDL / Reverse Nordics / Calf Raises |
+| 2026-06-04 | Thu | 7 mi Progression Run | 5mi @ 9:00 / 2mi @ 8:15 |
+| 2026-06-05 | Fri | Stability & Power | Bulgarians / Spanish / Copenhagen |
+| 2026-06-06 | Sat | 3 mi Shakeout | 9:30+ |
+| 2026-06-07 | Sun | 12 mi Long Run | 8:45–9:15. **Begin 90 g/hr gut training rehearsal.** |
 
-**Cool-down**
-- Pigeon pose: 60 sec each side
-- Adductor rock-back (quadruped): 10 reps
+### Week 6 (Jun 8–14) — 30 mi | LR 14 mi
+| Date | Day | Workout | Notes |
+|---|---|---|---|
+| 2026-06-08 | Mon | Hip Complex Circuit | Volume ramp |
+| 2026-06-09 | Tue | 4×1600m Track Tempo | 7:45 pace; 2 min rec |
+| 2026-06-10 | Wed | Heavy Strength | Relative strength benchmarks |
+| 2026-06-11 | Thu | 8 mi Steady Base | 8:30 pace |
+| 2026-06-12 | Fri | Stability & Power | Knee tracking focus |
+| 2026-06-13 | Sat | 4 mi Shakeout | 9:30+ |
+| 2026-06-14 | Sun | 14 mi Long Run | inc 5 mi @ 8:00 MP. Fuel 90 g/hr. |
+
+### Week 7 (Jun 15–21) — 33 mi | LR 13.1 mi (Pivot)
+| Date | Day | Workout | Notes |
+|---|---|---|---|
+| 2026-06-15 | Mon | Hip Complex Circuit | Pre-HM focus |
+| 2026-06-16 | Tue | 5×1600m Track Tempo | 7:45 pace; 2 min rec |
+| 2026-06-17 | Wed | Heavy Strength | Structural insurance |
+| 2026-06-18 | Thu | 6 mi Progression Run | 4mi @ 9:00 / 2mi @ 8:15 |
+| 2026-06-19 | Fri | Stability & Power | Spanish squat holds |
+| 2026-06-20 | Sat | Rest | Taper for HM |
+| 2026-06-21 | Sun | **Half Marathon Benchmark** | Presidio HM. **Pivot test:** sub-1:44 / HR<170 final 3mi / zero knee comp. |
+
+### Week 8 deload (Jun 22–28) — 28 mi | LR 10 mi
+| Date | Day | Workout | Notes |
+|---|---|---|---|
+| 2026-06-22 | Mon | Hip Complex Circuit | Deload start |
+| 2026-06-23 | Tue | 4 mi Easy | 9:15–9:30 |
+| 2026-06-24 | Wed | Low-Volume Strength | Mobility & soft tissue |
+| 2026-06-25 | Thu | 6 mi Easy | 9:15–9:30 |
+| 2026-06-26 | Fri | Low-Volume Strength | Spanish squat holds |
+| 2026-06-27 | Sat | Rest | Full recovery |
+| 2026-06-28 | Sun | 10 mi Long Run | Easy aerobic flush |
+
+### Week 9 (Jun 29–Jul 5) — 34 mi | LR 16 mi
+| Date | Day | Workout | Notes |
+|---|---|---|---|
+| 2026-06-29 | Mon | Hip Complex Circuit | Peak phase start |
+| 2026-06-30 | Tue | 6×1600m Track Tempo | 7:45 pace; 2 min rec |
+| 2026-07-01 | Wed | Heavy Strength | Maintain intensity |
+| 2026-07-02 | Thu | 8 mi Steady Base | 8:30 pace |
+| 2026-07-03 | Fri | Stability & Power | Copenhagen focus |
+| 2026-07-04 | Sat | 4 mi Shakeout | 9:30+ |
+| 2026-07-05 | Sun | 16 mi Long Run | inc 8 mi @ 7:55 MP. Fuel 90 g/hr. |
+
+### Week 10 peak (Jul 6–12) — 42 mi | LR 20 mi
+| Date | Day | Workout | Notes |
+|---|---|---|---|
+| 2026-07-06 | Mon | Hip Complex Circuit | Final volume push |
+| 2026-07-07 | Tue | 3×2 mi Track Intervals | 7:40 pace; 3 min rec |
+| 2026-07-08 | Wed | Heavy Strength | Final heavy session |
+| 2026-07-09 | Thu | 8 mi Progression Run | 6mi @ 9:00 / 2mi @ 8:15 |
+| 2026-07-10 | Fri | Stability & Power | Final power session |
+| 2026-07-11 | Sat | 4 mi Shakeout | Fueling check (90 g/hr) |
+| 2026-07-12 | Sun | 20 mi Long Run | Peak distance. Form focus. Fuel 90 g/hr. |
+
+### Week 11 taper (Jul 13–19) — 25 mi | LR 10 mi
+| Date | Day | Workout | Notes |
+|---|---|---|---|
+| 2026-07-13 | Mon | Hip Complex Circuit | Taper start |
+| 2026-07-14 | Tue | 4×1200m Track @ MP | 7:55 pace; 2 min rec |
+| 2026-07-15 | Wed | Maintenance Strength | Low volume / high intensity |
+| 2026-07-16 | Thu | 6 mi Easy | 9:15–9:30 |
+| 2026-07-17 | Fri | Maintenance Strength | Spanish squat holds |
+| 2026-07-18 | Sat | Rest | Taper consistency |
+| 2026-07-19 | Sun | 10 mi Long Run | Easy taper distance |
+
+### Week 12 race week (Jul 20–26) — 12 mi + Marathon
+| Date | Day | Workout | Notes |
+|---|---|---|---|
+| 2026-07-20 | Mon | Hip Complex Circuit | Race week start |
+| 2026-07-21 | Tue | 2 mi + Strides | 4×20s near sprint |
+| 2026-07-22 | Wed | Mobility Only | Hip & ankle focus |
+| 2026-07-23 | Thu | 3 mi Easy | Mental prep |
+| 2026-07-24 | Fri | Rest | Carb loading start |
+| 2026-07-25 | Sat | 2 mi Shakeout | Quiet feet prep |
+| 2026-07-26 | Sun | **SF MARATHON** | **Baseline goal: 3:30 (8:00 pace)** |
 
 ---
 
-## Mobility Deep-Dive (Wednesday, ~35 min)
+## VII. Strength Programming Reference
 
-Target: bilateral hip internal rotation, adductors, hip flexors, T-spine. Also the third weekly session for PT-prescribed core/control work.
+Detailed exercise lists, weights, and progression rules live in **STRENGTH_LOG.md**. The high level:
 
-1. **Foam roll full lower** — 5 min (IT band, TFL, glutes, quads, adductors)
-2. **Foam roller T-spine extensions (PT)** — 10 reps, raise arms overhead back and forth
-3. **Quadruped banded hip IR / lateral band pull (PT)** — 8 reps each side
-4. **Standing lunges with hip IR + extension (PT)** — 10 reps each side
-5. **Seated 90/90 flow** — 5 min. Cycle sides every 30 sec. Add light forward fold over front knee (IR stretch). Equal time each side.
-6. **Couch stretch** — 90 sec each side
-7. **Pigeon pose** — 90 sec each side
-8. **Banded hip distraction** — 2 min each side
-9. **Standing hip CARs** — 5 each direction, each leg
-10. **Quadruped thread-the-needle** — 10 each side
-11. **Dead bug — slow march with banded pulldown (PT)** — 2 sets × 10 marches (third weekly core session)
-12. **Chin tuck + lifts (PT)** — 2 reps each direction, 3-sec hold
+- **Wed (Heavy Strength, Cañada College):** Back squat, RDL, reverse Nordic, standing calf raise. 3-second eccentric. Progress on Easy/Good feel.
+- **Fri (Stability & Power, Cañada College):** Bulgarian split squat, single-leg step-up, Spanish squat hold, Copenhagen plank. Single-leg/anti-rotation focus.
+- **Mon (Hip Complex Circuit):** Mobility only. 90/90 switches, adductor rockbacks, foam rolling. ~20 min.
+- **PT-prescribed exercises (non-negotiable):** dead bug with banded pulldown, chin tuck + lifts, side plank with hip abduction (top toe pointing toward floor). See PT_NOTES.md. These are folded into the Mon hip circuit and Fri stability day.
+- **Upper body:** dropped for the 12-week build. Conscious specificity choice — revisit post-marathon.
 
 ---
 
-## Running Substitution Rules (during Chassis Build)
+## VIII. Nutrition Reference
 
-- Any scheduled run can be swapped 1:1 for cycling if knee flags yellow that morning.
-- Never exceed 5 mi in a single run during Chassis Build.
-- All runs at easy pace (HR <140). No tempo, no strides until Week 6+.
-- Surface: Sawyer Camp, Bayfront dirt, or Rancho. Avoid concrete.
+See **NUTRITION_GUIDE.md** for the full pescatarian-aware framework: macro targets (125–140g P / 350–500g C / 60–80g F), 6 AM training-window timing, anti-inflammatory protocol (SMASH fish 3×/wk, omega-3, Vit C + collagen), and the 90 g/hr gut training progression by week.
 
 ---
 
-## Upper Body Strength Plan
+## IX. Plan Modification Authority
 
-Pure maintenance. During Chassis Build (Weeks 1–4): Upper Push on Tuesday, Upper Pull on Saturday — 2 sessions/week. From Week 5 onward: consolidated into a single "Upper" session on Saturday (push + pull combined) — 1 session/week. Follow current recommendations in STRENGTH_LOG.md.
+Coach can and should modify this plan when:
+- Knee feedback warrants it (always conservative).
+- Paul is consistently beating pace targets by wide margins (progress threshold/MP).
+- Paul is consistently underperforming (more recovery).
+- Travel, illness, or life stress requires schedule shifts.
+- Extreme weather days in Redwood City.
+- PT places new restrictions at the May 15 follow-up.
 
----
-
-## Knee Monitoring Protocol
-
-**Green:** No pain, no awareness. Full training.
-**Yellow:** Mild ache or awareness that doesn't worsen. Swap next run for cycling. Double the mobility work that day. If yellow persists 3 days, message the PT.
-**Red:** Pain during/after, sharp, or persisting into next day. Stop running. 48 hours complete rest. Contact PT.
-
-Two consecutive yellow days = automatic cycling-only week. Do not "test" the knee with a run.
-
----
-
-## Benchmark Race Status
-
-**Foster City 5K (May 2):** Deprioritized. The race falls in Week 2 of Chassis Build. Racing an all-out 5K will stress the exact mechanics we're trying to rebuild. Recommendation: skip, or show up and jog untimed as the Saturday easy run.
-
-VDOT recalibration of MP pace will happen instead via a tempo workout in Week 9 or 10 — not via a race.
-
----
-
-## Race Day Strategy
-
-Unchanged from v3 unless PT follow-up on May 15 warrants recalibration. Pacing: 8:10–8:20/mi first half, negative split through Golden Gate Park. Gel every 45 min from mile 4. If knee talks: slow down immediately. 3:45 healthy > 3:28 injured.
-
----
-
-## Weekly Volume Summary
-
-| Week | Phase | Dates | Run Miles | Long Run | Key Workout |
-|------|-------|-------|-----------|----------|-------------|
-| 1 | Chassis | Apr 20 | 3 | — | Hip & Core A+B |
-| 2 | Chassis | Apr 27 | 4 | — | Hip & Core A+B |
-| 3 | Chassis | May 4 | 9 | — | Hip & Core A+B (add load) |
-| 4 | Chassis | May 11 | 9 | — | PT Fri May 15 |
-| 5 | Re-base | May 18 | 18 | 6 | — |
-| 6 | Re-base | May 25 | 21 | 8 | Strides |
-| 7 | Build | Jun 1 | 24 | 10 | Tempo 15 min |
-| 8 | Build | Jun 8 | 29 | 13 | Tempo 20 min |
-| 9 | Build (cutback) | Jun 15 | 23 | 10 | Tempo 15 min |
-| 10 | Build | Jun 22 | 32 | 15 | Tempo 25 min |
-| 11 | Peak | Jun 29 | 36 | 18 | Tempo 25 min |
-| 12 | Peak | Jul 6 | 39–41 | 20–22 | Tempo 25 min |
-| 13 | Taper | Jul 13 | 25 | 12 | Tempo 15 min |
-| 14 | Race week | Jul 20 | 7 + race | — | Strides only |
+When modifying, edit this file directly and note what changed and why in the commit message.
