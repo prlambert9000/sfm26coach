@@ -148,3 +148,18 @@
 - **Relative Effort:** 6.0
 - **Knee Status:** (pending — update after reviewing)
 - **Notes:** Auto-logged from Strava. Awaiting athlete feedback.
+
+## May 5, 2026
+
+- **Workout:** Track 5x1000
+- **Type:** Run
+- **Distance:** 8.39 mi
+- **Time:** 1:09:00
+- **Avg Pace:** 8:13/mi
+- **Elevation Gain:** 215 ft
+- **Avg Heart Rate:** 155 bpm (max 190)
+- **Avg Cadence:** N/A
+- **Splits:** 8:00, 8:07, 8:42, 8:09, 7:53, 8:32, 7:48, 8:30, 8:18
+- **Relative Effort:** 168.0
+- **Knee Status:** (pending — update after reviewing)
+- **Notes:** Auto-logged from Strava. Awaiting athlete feedback.
