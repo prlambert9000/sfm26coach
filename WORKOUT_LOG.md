@@ -116,8 +116,8 @@
 - **Avg Cadence:** N/A
 - **Splits:** 8:08, 7:53, 7:40, 8:56, 8:56, 7:33
 - **Relative Effort:** 85.0
-- **Knee Status:** (pending — update after reviewing)
-- **Notes:** Auto-logged from Strava. Awaiting athlete feedback.
+- **Knee Status:** 1/5 — no awareness (confirmed May 5 retroactively).
+- **Notes:** Auto-logged from Strava. Knee good throughout V6 ramp-up runs.
 
 ## May 1, 2026
 
@@ -131,8 +131,8 @@
 - **Avg Cadence:** N/A
 - **Splits:** 7:46, 7:36, 7:32, 7:38, 8:25, 5:35
 - **Relative Effort:** 95.0
-- **Knee Status:** (pending — update after reviewing)
-- **Notes:** Auto-logged from Strava. Awaiting athlete feedback.
+- **Knee Status:** 1/5 — no awareness (confirmed May 5 retroactively).
+- **Notes:** Auto-logged from Strava. Strong session at 7:45 avg — well above easy. Knee handled it cleanly.
 
 ## May 3, 2026
 
@@ -146,8 +146,8 @@
 - **Avg Cadence:** N/A
 - **Splits:** 9:26, 8:22
 - **Relative Effort:** 6.0
-- **Knee Status:** (pending — update after reviewing)
-- **Notes:** Auto-logged from Strava. Awaiting athlete feedback.
+- **Knee Status:** 1/5 — no awareness (confirmed May 5 retroactively).
+- **Notes:** Warm-up before the solo 5K benchmark (21:47). Knee clean.
 
 ## May 5, 2026
 
@@ -161,5 +161,5 @@
 - **Avg Cadence:** N/A
 - **Splits:** 8:00, 8:07, 8:42, 8:09, 7:53, 8:32, 7:48, 8:30, 8:18
 - **Relative Effort:** 168.0
-- **Knee Status:** (pending — update after reviewing)
-- **Notes:** Auto-logged from Strava. Awaiting athlete feedback.
+- **Knee Status:** 1/5 — no awareness (confirmed May 5).
+- **Notes:** V6 Week 1 Tuesday — first track session. 5×1000m with 1.5mi WU/CD. Total 8.39 mi. Knee good throughout. Pace targets for 1000m reps were 7:15–7:25 (VO2). The recorded mile splits include warmup/cooldown so the actual rep paces are masked — share lap data if useful for tuning W4's 6×1000 prescription.

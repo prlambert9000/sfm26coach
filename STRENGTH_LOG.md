@@ -19,16 +19,16 @@ Use a simple feel rating when reporting back: **Easy** (4+ reps left in tank), *
 **Exercises marked (PT) are prescribed directly by Akanksha A Sojitra, PT.** See PT_NOTES.md for cues and references. Folded into Mon mobility and Fri stability sessions. Form: exhale slowly on effort; slow down on single-leg work.
 
 ### Wed — Heavy Strength (Cañada College)
-3–4 sets × 6–8 reps. 3-sec eccentric. Compound, posterior chain, knee-protective.
+3–4 sets × 6–8 reps at **75–85% 1RM**. 3-sec eccentric. Compound, posterior chain, knee-protective.
 
 | Exercise | Recommended | Feel Target |
 |----------|-------------|-------------|
-| Back squat | (seed: empty bar 45 lb → build to 95 lb working set over Weeks 1–2) | Good — 3-sec eccentric, knees track over toes |
-| Romanian deadlift (RDL) | (seed: 65 lb → build) | Good — hinge, neutral spine, hamstring stretch |
-| Reverse Nordic | Bodyweight | Good — 3-sec lower, knees together, focus on quad eccentric |
-| Standing calf raise | (seed: bodyweight, then 25 lb DB/hand) | Good — full ROM, 2-sec hold at top |
+| Back squat | 135 lb working (W1 calibration target) | Good — 3-sec eccentric, knees track over toes |
+| Romanian deadlift (RDL) | 155 lb working (W1 calibration target) | Good — hinge, neutral spine, hamstring stretch |
+| Reverse Nordic | Bodyweight, 3 × 8 | Good — 3-sec lower, knees together, quad eccentric focus |
+| Standing calf raise | 30 lb/hand DBs, 3 × 10 | Good — full ROM, 2-sec hold at top |
 
-*Working weights TBD: log first session honestly, progress per feel rules.*
+**W1 calibration protocol (Wed May 6, first heavy session):** Warm up the bar (45 × 10, 95 × 5, 115 × 5), then build to a top set of 6 reps that feels Good (2–3 reps in reserve). Whatever weight that lands on becomes the working weight for Sets 2–4 and the W2 starting load. The seeds above are educated guesses for a 155-lb 42M with single-leg strength baseline (Bulgarian splits at 15 lb/hand cleared Good); they'll move 10–20 lb either way after one honest session. Same approach for RDL.
 
 ### Fri — Stability & Power (Cañada College)
 3 sets × 8–10 reps per side, or time-based for isometrics. Single-leg, anti-rotation, knee-stability focus.
