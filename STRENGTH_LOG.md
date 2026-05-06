@@ -53,13 +53,13 @@ Bodyweight only. Pre-workout activation pattern; not a lift. Two rounds.
 | Quadruped banded hip IR / lateral band pull (PT) | 5–10 reps each side |
 | 90/90 switches | 8–10 each side |
 | Adductor rockbacks | 8–10 reps |
-| Hip CARs | 3 each direction, each leg |
+| Quadruped hip CARs | 3 each direction, each leg — slow, sink into IR at bottom |
 | Half-kneeling couch stretch | 60 sec each side |
 
 ### Pre-Run Activation (every run day, 5 min)
 | Exercise | Dose |
 |----------|------|
-| Hip CARs | 3 each direction, each leg |
+| Quadruped hip CARs | 3 each direction, each leg — slow, no momentum, sink into IR at bottom |
 | Banded lateral walks | 10 each direction |
 | Glute bridges | 10 reps, 2-sec hold at top |
 | Quadruped banded hip IR (PT) | 5–10 reps each side |
