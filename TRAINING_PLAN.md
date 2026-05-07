@@ -43,7 +43,7 @@ Replaces the v4 Chassis Build / Phase 1 framework. Knee has been managing well t
 - **Tuesday — Track intervals.** 1.5 mi easy jog to the high school track, intervals per the day's prescription, 1.5 mi easy jog back.
 - **Wednesday — Heavy strength (Cañada College).** Back squat, RDL, reverse Nordics, standing calf raises. 3-second eccentric. No running.
 - **Thursday — Alternating base / progression.** Odd weeks: easy base. Even weeks: progression finish (last 2 mi @ 8:15).
-- **Friday — Stability & power (Cañada College).** Bulgarian split squats, single-leg step-ups, Spanish squat holds, Copenhagen planks. No running.
+- **Friday — Stability & power (Cañada College).** Bulgarian split squats, single-leg RDLs (DB contralateral), Spanish squat holds, Copenhagen planks. No running.
 - **Saturday — Shakeout (3–4 mi) or rest.**
 - **Sunday — Long run.** Smoothed progression. Explicit 90 g/hr gut training rehearsals from Week 5 onward.
 
@@ -241,7 +241,7 @@ Solo 5K simulation: **21:47 (7:00/mi)**. Max HR 183. 1-min HRR 33 BPM.
 Detailed exercise lists, weights, and progression rules live in **STRENGTH_LOG.md**. The high level:
 
 - **Wed (Heavy Strength, Cañada College):** Back squat, RDL, reverse Nordic, standing calf raise. 3-second eccentric. Progress on Easy/Good feel.
-- **Fri (Stability & Power, Cañada College):** Bulgarian split squat, single-leg step-up, Spanish squat hold, Copenhagen plank. Single-leg/anti-rotation focus.
+- **Fri (Stability & Power, Cañada College):** Bulgarian split squat, single-leg RDL (DB contralateral), Spanish squat hold, Copenhagen plank. Single-leg/anti-rotation focus, balanced knee-dominant + hip-dominant patterns.
 - **Mon (Hip Complex Circuit):** Mobility only. 90/90 switches, adductor rockbacks, foam rolling. ~20 min.
 - **PT-prescribed exercises (non-negotiable):** dead bug with banded pulldown, chin tuck + lifts, side plank with hip abduction (top toe pointing toward floor). See PT_NOTES.md. These are folded into the Mon hip circuit and Fri stability day.
 - **Upper body:** dropped for the 12-week build. Conscious specificity choice — revisit post-marathon.

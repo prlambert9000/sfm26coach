@@ -36,7 +36,7 @@ Use a simple feel rating when reporting back: **Easy** (4+ reps left in tank), *
 | Exercise | Recommended | Feel Target |
 |----------|-------------|-------------|
 | Bulgarian split squat | 15 lbs/hand | Good — 3-sec eccentric, hips square. Cleared Good Apr 23. |
-| Single-leg step-up | (seed: bodyweight → 10 lb/hand) | Good — drive through heel, don't push off back foot |
+| Single-leg RDL (DB, contralateral) | 15 lbs/hand | Good — DB in opposite hand from working leg, free hand reaches forward as counterbalance, 3-sec eccentric, hinge — don't bend the working knee. Cleared Good Apr 23. |
 | Spanish squat hold | Light band behind knees | 3 × 30–45 sec — vertical shin, deep knee bend, isometric |
 | Copenhagen plank | Bodyweight | 3 × 20–30 sec each side — adductor tension, top leg on bench |
 | Side plank with hip abduction (PT) | Bodyweight | **Top toe pointing to floor** (IR of lifting leg). 8 reps each side. |
