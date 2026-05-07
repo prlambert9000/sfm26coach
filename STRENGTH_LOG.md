@@ -25,7 +25,7 @@ Use a simple feel rating when reporting back: **Easy** (4+ reps left in tank), *
 |----------|-------------|-------------|
 | Back squat | 135 lb working (W1 calibration target) | Good — 3-sec eccentric, knees track over toes |
 | Romanian deadlift (RDL) | 155 lb working (W1 calibration target) | Good — hinge, neutral spine, hamstring stretch |
-| Reverse Nordic | Bodyweight, 3 × 8 | Good — 3-sec lower, knees together, quad eccentric focus |
+| Reverse Nordic | Bodyweight, 3 × 8 | Good — kneel on pad, knees hip-width, glutes squeezed (lock hip extension), 3-sec lower, shallow ROM first then build depth. Stop on any sharp PF pain. |
 | Standing calf raise | 30 lb/hand DBs, 3 × 10 | Good — full ROM, 2-sec hold at top |
 
 **W1 calibration protocol (Wed May 6, first heavy session):** Warm up the bar (45 × 10, 95 × 5, 115 × 5), then build to a top set of 6 reps that feels Good (2–3 reps in reserve). Whatever weight that lands on becomes the working weight for Sets 2–4 and the W2 starting load. The seeds above are educated guesses for a 155-lb 42M with single-leg strength baseline (Bulgarian splits at 15 lb/hand cleared Good); they'll move 10–20 lb either way after one honest session. Same approach for RDL.
