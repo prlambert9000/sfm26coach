@@ -102,7 +102,7 @@ Solo 5K simulation: **21:47 (7:00/mi)**. Max HR 183. 1-min HRR 33 BPM.
 
 ## VI. Day-by-Day Schedule
 
-### Week 1 (May 4–10) — 20 mi | LR 8 mi
+### Week 1 (May 4–10) — 17 mi | LR 8 mi
 | Date | Day | Workout | Notes |
 |---|---|---|---|
 | 2026-05-04 | Mon | Hip Complex Circuit | 20-min: 90/90s, adductor rockbacks, foam roll |
@@ -110,8 +110,8 @@ Solo 5K simulation: **21:47 (7:00/mi)**. Max HR 183. 1-min HRR 33 BPM.
 | 2026-05-06 | Wed | Heavy Strength | Back Squat / RDL / Reverse Nordics / Calf Raises |
 | 2026-05-07 | Thu | 6 mi Steady Base | 8:30–8:45 pace |
 | 2026-05-08 | Fri | Stability & Power | Bulgarian Splits / Spanish Squat / Copenhagen |
-| 2026-05-09 | Sat | 3 mi Shakeout | 9:30+ pace. Knee ≥3 → bike. |
-| 2026-05-10 | Sun | 8 mi Long Run | 8:45–9:15 pace |
+| 2026-05-09 | Sat | 8 mi Long Run | Travel-shifted from Sun. 8:45–9:15 pace. Stretch to 9 mi only if knee 1/5 and legs fresh. Knee ≥3 → bike. |
+| 2026-05-10 | Sun | Rest (Travel) | Was 8 mi LR — moved to Sat. Mobility flush only if convenient. |
 
 ### Week 2 (May 11–17) — 24 mi | LR 10 mi
 | Date | Day | Workout | Notes |
