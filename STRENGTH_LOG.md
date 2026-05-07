@@ -10,7 +10,7 @@
 
 ## Current Recommended Weights
 
-*Last updated: 2026-05-05 (V6 plan adopted — Wed Heavy / Fri Stability split. Upper body dropped for the 12-week build. Carryover: Bulgarian split squat 15 lb/hand, single-leg RDL pattern 15 lb/hand both cleared Good in late April.)*
+*Last updated: 2026-05-06 (W1 calibration — Wed Heavy: back squat 135→155 (Good), RDL 155 held (grip-limited, get straps), reverse Nordic 3×10 BW confirmed at ~45° depth, calf raise 30→40 lb/hand (grip + balance limiters, get straps/vest).*
 
 Use a simple feel rating when reporting back: **Easy** (4+ reps left in tank), **Good** (2–3 reps in reserve), **Heavy** (grinding last rep), **Too heavy** (couldn't complete reps).
 
@@ -23,10 +23,10 @@ Use a simple feel rating when reporting back: **Easy** (4+ reps left in tank), *
 
 | Exercise | Recommended | Feel Target |
 |----------|-------------|-------------|
-| Back squat | 135 lb working (W1 calibration target) | Good — 3-sec eccentric, knees track over toes |
-| Romanian deadlift (RDL) | 155 lb working (W1 calibration target) | Good — hinge, neutral spine, hamstring stretch |
-| Reverse Nordic | Bodyweight, 3 × 8 | Good — kneel on pad, knees hip-width, glutes squeezed (lock hip extension), 3-sec lower, shallow ROM first then build depth. Stop on any sharp PF pain. |
-| Standing calf raise | 30 lb/hand DBs, 3 × 10 | Good — full ROM, 2-sec hold at top |
+| Back squat | 155 lb, 4 × 6 | Good — 3-sec eccentric, hips break first then knees, knees track over toes |
+| Romanian deadlift (RDL) | 155 lb, 4 × 6 — **straps required** | Good — hinge, neutral spine, hamstring stretch. Grip is the limiter without straps; if no straps, drop to 135 for clean reps. |
+| Reverse Nordic | Bodyweight, 3 × 10 | Good — kneel on pad, knees hip-width, glutes squeezed (lock hip extension), 3-sec lower. Build depth slowly week over week (W1: ~45°). Stop on any sharp PF pain. |
+| Standing calf raise | 40 lb/hand DBs, 4 × 10 — **straps + step recommended** | Good — full ROM (heel below step), 2-sec hold at top, 3-sec lower. Grip + balance were W1 limiters; straps free up grip and a weight vest would free up balance. |
 
 **W1 calibration protocol (Wed May 6, first heavy session):** Warm up the bar (45 × 10, 95 × 5, 115 × 5), then build to a top set of 6 reps that feels Good (2–3 reps in reserve). Whatever weight that lands on becomes the working weight for Sets 2–4 and the W2 starting load. The seeds above are educated guesses for a 155-lb 42M with single-leg strength baseline (Bulgarian splits at 15 lb/hand cleared Good); they'll move 10–20 lb either way after one honest session. Same approach for RDL.
 
@@ -80,6 +80,26 @@ Bodyweight only. Pre-workout activation pattern; not a lift. Two rounds.
 ---
 
 ## Session Logs
+
+### 2026-05-06 — Wed Heavy Strength (V6 Week 1 — first heavy session)
+**Body Weight:** Not reported
+
+| Exercise | Weight Used | Sets×Reps | Feel | Notes |
+|----------|-------------|-----------|------|-------|
+| Back squat | 155 lb (45 lb bar + 55 lb/side) | 4 × 6 | Good (2–3 RIR) | "Felt right." Bumped 20 lb above 135 lb seed. Could have gone heavier but held to lock in clean form on session 1. New working weight = 155. |
+| Romanian deadlift (RDL) | 155 lb → 135 lb | 3 × 4 @ 155 + 1 × 4 @ 135 | Grip-limited (not posterior chain) | Bar slipped from grip on heavier sets; hands couldn't hold the static load. Hinge/hamstrings were not the limiter. **Action:** order lifting straps before next Wed. Hold 155 lb rec. |
+| Reverse Nordic | Bodyweight | 3 × 10 | Quad flexibility + some strength was the limiter | First exposure. Got to ~45° back, not full mat. "Started to get the hang at the end." Hip-width knees, glutes locked per corrected cue. No PF pain reported. Build depth gradually over the next 2–3 weeks. |
+| Standing calf raise | 40 lb/hand DBs (on step) | 2 × 10 + 2 × 7 | Grip + balance on step were limiters | Bumped 10 lb above 30 lb seed. Calves themselves had room. Last 2 sets dropped to 7 reps as grip and step balance fatigued. **Action:** straps will help grip; weight vest would free hands for balance. |
+
+**Warm-up:** Foam roll quads/IT band + glute bridges + quadruped hip CARs + bodyweight squats + RDL pattern with empty bar (per CLAUDE.md template).
+**Knee during session:** 1/5 — no awareness, no PF pain through any movement (including reverse Nordic at 45°).
+**Overall notes:** Strong calibration session. Two of four exercises (back squat, calf raise) cleared above seed weights. RDL and calf raise both grip-limited — straps are the single highest-leverage equipment purchase before next Wednesday. Reverse Nordic introduced cleanly with corrected hip-width cue and no PF complaint, which is a green light for that movement. Knee 1/5 throughout a heavy session is the most important data point of the day.
+**Action items:**
+- Order lifting straps (~$15) before Wed May 13
+- Consider adjustable weight vest (20–40 lb, ~$80) for Fri stability work (Bulgarians, single-leg step-ups) and to free hands on calves
+- Build reverse Nordic depth: target ~60° next week, full mat by Week 4 if quad flexibility cooperates
+
+---
 
 ### 2026-04-23 — Hip & Core B (Chassis Build Week 1, Day 4 — swapped from Fri)
 **Body Weight:** Not reported

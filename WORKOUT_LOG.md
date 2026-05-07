@@ -1,5 +1,12 @@
 # Workout Log
 
+## May 6, 2026
+
+- **Workout:** Wed Heavy Strength (V6 Week 1 — first heavy session)
+- **Type:** Gym (Cañada College)
+- **Knee Status:** 1/5 — no awareness throughout, including reverse Nordic eccentrics at ~45° depth.
+- **Notes:** Back squat 4×6 @ 155 lb (Good, bumped 20 lb above seed). RDL 3×4 @ 155 + 1×4 @ 135 — grip-limited, not hinge. Reverse Nordic 3×10 BW at ~45° depth (quad flexibility + strength co-limiters). Calf raise 2×10 + 2×7 @ 40 lb/hand DBs (grip + step balance fatigued). Strong calibration. Knee handled the full heavy session cleanly. Action items: order lifting straps; consider weight vest. Full per-exercise data in STRENGTH_LOG.md.
+
 ## April 23, 2026
 
 - **Workout:** Hip & Core B (Chassis Build Week 1, Day 4 — swapped from Fri)
