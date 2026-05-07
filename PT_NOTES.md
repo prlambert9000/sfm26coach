@@ -83,3 +83,13 @@ Form cues: Exhale slowly on effort. Slow down on single-leg work.
 **Supplemental exercises (no marking):** added by the coach to accelerate the chassis rebuild — 90/90 PAILs/RAILs for hip IR, clamshells for hip ER, Copenhagen planks for adductors, Pallof press for anti-rotation, Bulgarian split squats for single-leg strength, etc. Consistent with PT goals; remove any that the PT flags at the May 15 follow-up.
 
 **Terminal knee extension (TKE):** added to finisher based on the PT's finding of mild right-knee extension limitation. Not explicitly prescribed but directly addresses that finding.
+
+---
+
+## Athlete Reframe (May 7, 2026)
+
+Paul: "Discovering it was a hip IR flexibility issue, not actually a knee issue (nothing is wrong with my knee), was a huge unlock." He's been deliberately focused on hip IR mobility since the April 17 eval.
+
+This framing is correct and the data supports it: pre-PT runs (April 12 Cambria 10.55 mi, April 16 easy 5 mi) registered yellow with post-run awareness; every V6 run since (April 24 onward) has logged 1/5 — including the May 5 track 5×1000 and May 6 heavy squats to 155 lb.
+
+**Coaching implication:** the pre-run quadruped banded hip IR (5–10 reps each side) is the load-bearing insurance for this whole rebuild. As volume ramps and the knee stays quiet, the temptation will be to skip it because "the knee is fine." Don't let that drift happen. The reason the knee is fine IS the hip work.
