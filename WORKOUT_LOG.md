@@ -173,7 +173,7 @@
 
 ## May 7, 2026
 
-- **Workout:** Morning Run
+- **Workout:** 6 mi Steady Base (V6 Week 1 Thursday)
 - **Type:** Run
 - **Distance:** 6.09 mi
 - **Time:** 54:18
@@ -183,5 +183,5 @@
 - **Avg Cadence:** N/A
 - **Splits:** 8:37, 9:01, 8:50, 8:59, 8:47, 9:01, 10:44
 - **Relative Effort:** 88.0
-- **Knee Status:** (pending — update after reviewing)
-- **Notes:** Auto-logged from Strava. Awaiting athlete feedback.
+- **Knee Status:** 1/5 — no awareness.
+- **Notes:** Pace 8:54 vs. 8:30–8:45 target — slightly slower but HR signal is clean (144 avg / 158 max, fully aerobic). Splits consistent 8:37–9:01; final 10:44 is the cooldown. Discipline-over-ego execution. Knee clean. Last entry before the travel-shifted Sat 8 mi LR (Victoria, BC).
