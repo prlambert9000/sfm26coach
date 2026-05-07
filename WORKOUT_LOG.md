@@ -170,3 +170,18 @@
 - **Relative Effort:** 168.0
 - **Knee Status:** 1/5 — no awareness (confirmed May 5).
 - **Notes:** V6 Week 1 Tuesday — first track session. 5×1000m with 1.5mi WU/CD. Total 8.39 mi. Knee good throughout. Pace targets for 1000m reps were 7:15–7:25 (VO2). The recorded mile splits include warmup/cooldown so the actual rep paces are masked — share lap data if useful for tuning W4's 6×1000 prescription.
+
+## May 7, 2026
+
+- **Workout:** Morning Run
+- **Type:** Run
+- **Distance:** 6.09 mi
+- **Time:** 54:18
+- **Avg Pace:** 8:54/mi
+- **Elevation Gain:** 238 ft
+- **Avg Heart Rate:** 144 bpm (max 158)
+- **Avg Cadence:** N/A
+- **Splits:** 8:37, 9:01, 8:50, 8:59, 8:47, 9:01, 10:44
+- **Relative Effort:** 88.0
+- **Knee Status:** (pending — update after reviewing)
+- **Notes:** Auto-logged from Strava. Awaiting athlete feedback.
