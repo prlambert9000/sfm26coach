@@ -10,7 +10,7 @@
 
 ## Current Recommended Weights
 
-*Last updated: 2026-05-08 (W1 Fri Stability — Bulgarian split squat 15→20 lb/hand cleared Good in-session; Copenhagen plank progressed to 30s/side at top of prescribed range.)*
+*Last updated: 2026-05-08 (W1 Fri Stability — Bulgarian split squat 15→20 lb/hand cleared Good; Copenhagen plank progressed to 30s/side; SL-RDL 20 lb contralateral cleared Easy → progress to 25 contralateral next.)*
 
 Use a simple feel rating when reporting back: **Easy** (4+ reps left in tank), **Good** (2–3 reps in reserve), **Heavy** (grinding last rep), **Too heavy** (couldn't complete reps).
 
@@ -36,7 +36,7 @@ Use a simple feel rating when reporting back: **Easy** (4+ reps left in tank), *
 | Exercise | Recommended | Feel Target |
 |----------|-------------|-------------|
 | Bulgarian split squat | 20 lbs/hand | Good — 3-sec eccentric, hips square. Cleared 20 lb @ 10 reps May 8 (after one warm-up set at 15). |
-| Single-leg RDL (DB, contralateral) | 15 lbs/hand | Good — DB in opposite hand from working leg, free hand reaches forward as counterbalance, 3-sec eccentric, hinge — don't bend the working knee. Cleared Good Apr 23. |
+| Single-leg RDL (DB, contralateral) | 20 lbs (single, contralateral) — progress to 25 next | Cleared Easy at 20 single-hand on May 8. **Stay contralateral**, not bilateral — the anti-rotation challenge is the whole point (PT-flagged weakness). Bilateral is easier but trains less of what we need. Free hand reaches forward as counterbalance, 3-sec eccentric, don't bend the working knee. |
 | Spanish squat hold | Light band behind knees | 3 × 30–45 sec — vertical shin, deep knee bend, isometric |
 | Copenhagen plank | Bodyweight | 3 × 30 sec each side — adductor tension, top leg on bench. At top of prescribed range as of May 8; next progression is +5s or load (foot on bench → shin on bench). |
 | Side plank with hip abduction (PT) | Bodyweight | **Top toe pointing to floor** (IR of lifting leg). 8 reps each side. |
@@ -88,7 +88,7 @@ Bodyweight only. Pre-workout activation pattern; not a lift. Two rounds.
 |----------|-------------|-----------|------|-------|
 | Bulgarian split squat | 15 lb/hand → 20 lb/hand | 1×10 @ 15 + 2×10 @ 20 (each side) | Good (at 20) | Bumped from 15 lb rec mid-session. 20 lb/hand cleared at 10 reps both legs. New working weight = 20. |
 | Copenhagen plank | Bodyweight | 3×30s each side (assumed) | Good | Progressed to 30s/side, top of prescribed 20–30s range. Next progression is time (+5s) or load (shin-on-bench instead of foot-on-bench). |
-| Single-leg RDL | (pending) | (pending) | (pending) | — |
+| Single-leg RDL | 20 lb single (contralateral) → 20 lb/hand bilateral | 1×10 @ 20 contralateral + 2×10 @ 20/hand bilateral (each side) | Easy at 20 single; "felt right" bilateral | 20 contralateral was light → next session progress to **25 lb contralateral** rather than going bilateral. Bilateral is easier on balance but loses the anti-rotation challenge that the contralateral pattern is specifically prescribed for (PT-flagged weakness). |
 | Spanish squat hold | (pending) | (pending) | (pending) | — |
 | Side plank w/ hip abduction (PT) | (pending) | (pending) | (pending) | — |
 | Dead bug — slow march w/ banded pulldown (PT) | (pending) | (pending) | (pending) | — |
