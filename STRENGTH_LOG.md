@@ -10,7 +10,7 @@
 
 ## Current Recommended Weights
 
-*Last updated: 2026-05-06 (W1 calibration — Wed Heavy: back squat 135→155 (Good), RDL 155 held (grip-limited, get straps), reverse Nordic 3×10 BW confirmed at ~45° depth, calf raise 30→40 lb/hand (grip + balance limiters, get straps/vest).*
+*Last updated: 2026-05-08 (W1 Fri Stability — Bulgarian split squat 15→20 lb/hand cleared Good in-session; Copenhagen plank progressed to 30s/side at top of prescribed range.)*
 
 Use a simple feel rating when reporting back: **Easy** (4+ reps left in tank), **Good** (2–3 reps in reserve), **Heavy** (grinding last rep), **Too heavy** (couldn't complete reps).
 
@@ -35,10 +35,10 @@ Use a simple feel rating when reporting back: **Easy** (4+ reps left in tank), *
 
 | Exercise | Recommended | Feel Target |
 |----------|-------------|-------------|
-| Bulgarian split squat | 15 lbs/hand | Good — 3-sec eccentric, hips square. Cleared Good Apr 23. |
+| Bulgarian split squat | 20 lbs/hand | Good — 3-sec eccentric, hips square. Cleared 20 lb @ 10 reps May 8 (after one warm-up set at 15). |
 | Single-leg RDL (DB, contralateral) | 15 lbs/hand | Good — DB in opposite hand from working leg, free hand reaches forward as counterbalance, 3-sec eccentric, hinge — don't bend the working knee. Cleared Good Apr 23. |
 | Spanish squat hold | Light band behind knees | 3 × 30–45 sec — vertical shin, deep knee bend, isometric |
-| Copenhagen plank | Bodyweight | 3 × 20–30 sec each side — adductor tension, top leg on bench |
+| Copenhagen plank | Bodyweight | 3 × 30 sec each side — adductor tension, top leg on bench. At top of prescribed range as of May 8; next progression is +5s or load (foot on bench → shin on bench). |
 | Side plank with hip abduction (PT) | Bodyweight | **Top toe pointing to floor** (IR of lifting leg). 8 reps each side. |
 | Dead bug — slow march with banded pulldown (PT) | Light band overhead | 2–3 sets × 10 slow marches |
 | Chin tuck + lifts, front and diagonal (PT) | Bodyweight | 2 reps each direction (front, diag L, diag R), 3-sec hold |
@@ -80,6 +80,24 @@ Bodyweight only. Pre-workout activation pattern; not a lift. Two rounds.
 ---
 
 ## Session Logs
+
+### 2026-05-08 — Fri Stability & Power (V6 Week 1) — IN PROGRESS
+**Body Weight:** Not reported
+
+| Exercise | Weight Used | Sets×Reps | Feel | Notes |
+|----------|-------------|-----------|------|-------|
+| Bulgarian split squat | 15 lb/hand → 20 lb/hand | 1×10 @ 15 + 2×10 @ 20 (each side) | Good (at 20) | Bumped from 15 lb rec mid-session. 20 lb/hand cleared at 10 reps both legs. New working weight = 20. |
+| Copenhagen plank | Bodyweight | 3×30s each side (assumed) | Good | Progressed to 30s/side, top of prescribed 20–30s range. Next progression is time (+5s) or load (shin-on-bench instead of foot-on-bench). |
+| Single-leg RDL | (pending) | (pending) | (pending) | — |
+| Spanish squat hold | (pending) | (pending) | (pending) | — |
+| Side plank w/ hip abduction (PT) | (pending) | (pending) | (pending) | — |
+| Dead bug — slow march w/ banded pulldown (PT) | (pending) | (pending) | (pending) | — |
+| Chin tuck + lifts (PT) | (pending) | (pending) | (pending) | — |
+
+**Knee during session:** (pending)
+**Overall notes:** Mid-session report. Two clean progressions: Bulgarian split squat 15→20 lb/hand and Copenhagen plank 20s→30s/side. Both updated in the Current Recommended Weights table. Will fill in remaining exercises when Paul reports back.
+
+---
 
 ### 2026-05-06 — Wed Heavy Strength (V6 Week 1 — first heavy session)
 **Body Weight:** Not reported
