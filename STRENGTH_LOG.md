@@ -81,21 +81,21 @@ Bodyweight only. Pre-workout activation pattern; not a lift. Two rounds.
 
 ## Session Logs
 
-### 2026-05-08 — Fri Stability & Power (V6 Week 1) — IN PROGRESS
+### 2026-05-08 — Fri Stability & Power (V6 Week 1)
 **Body Weight:** Not reported
 
 | Exercise | Weight Used | Sets×Reps | Feel | Notes |
 |----------|-------------|-----------|------|-------|
 | Bulgarian split squat | 15 lb/hand → 20 lb/hand | 1×10 @ 15 + 2×10 @ 20 (each side) | Good (at 20) | Bumped from 15 lb rec mid-session. 20 lb/hand cleared at 10 reps both legs. New working weight = 20. |
-| Copenhagen plank | Bodyweight | 3×30s each side (assumed) | Good | Progressed to 30s/side, top of prescribed 20–30s range. Next progression is time (+5s) or load (shin-on-bench instead of foot-on-bench). |
-| Single-leg RDL | 20 lb single (contralateral) → 20 lb/hand bilateral | 1×10 @ 20 contralateral + 2×10 @ 20/hand bilateral (each side) | Easy at 20 single; "felt right" bilateral | 20 contralateral was light → next session progress to **25 lb contralateral** rather than going bilateral. Bilateral is easier on balance but loses the anti-rotation challenge that the contralateral pattern is specifically prescribed for (PT-flagged weakness). |
-| Spanish squat hold | (pending) | (pending) | (pending) | — |
-| Side plank w/ hip abduction (PT) | (pending) | (pending) | (pending) | — |
-| Dead bug — slow march w/ banded pulldown (PT) | (pending) | (pending) | (pending) | — |
-| Chin tuck + lifts (PT) | (pending) | (pending) | (pending) | — |
+| Single-leg RDL | 20 lb single (contralateral) → 20 lb/hand bilateral | 1×10 @ 20 contralateral + 2×10 @ 20/hand bilateral (each side) | Easy at 20 single; "felt right" bilateral | 20 contralateral was light → next session progress to **25 lb contralateral** rather than going bilateral. Bilateral is easier on balance but loses the anti-rotation challenge the contralateral pattern is specifically prescribed for (PT-flagged weakness). |
+| Spanish squat hold | Light band behind knees | 3 × 30 sec | As prescribed | Per plan. |
+| Copenhagen plank | Bodyweight | 3 × 30s each side | Good | Progressed to 30s/side, top of prescribed 20–30s range. Next progression is time (+5s) or load (shin-on-bench instead of foot-on-bench). |
+| Side plank w/ hip abduction (PT) | Bodyweight | As prescribed (8 each side, top toe down) | — | Per plan. |
+| Dead bug — slow march w/ banded pulldown (PT) | Light band overhead | As prescribed (2–3×10 slow marches) | — | Per plan. |
+| Chin tuck + lifts (PT) | Bodyweight | As prescribed (2 reps each direction, 3-sec hold) | — | Per plan. |
 
-**Knee during session:** (pending)
-**Overall notes:** Mid-session report. Two clean progressions: Bulgarian split squat 15→20 lb/hand and Copenhagen plank 20s→30s/side. Both updated in the Current Recommended Weights table. Will fill in remaining exercises when Paul reports back.
+**Knee during session:** 1/5 — felt good throughout.
+**Overall notes:** Strong Fri session. Three progressions logged: Bulgarian split squat 15→20 lb/hand (Good), SL-RDL 20 lb contralateral cleared Easy (→ 25 next), Copenhagen plank 20s→30s/side (top of range). Knee 1/5 across loaded single-leg work — best possible signal that the chassis work is paying off. Note for next Fri: SL-RDL stays contralateral with the heavier load; the bilateral switch today loses the anti-rotation training stimulus PT specifically targeted.
 
 ---
 
