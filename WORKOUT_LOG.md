@@ -200,3 +200,17 @@
 - **Relative Effort:** 80.0 (inflated by bogus HR — discount)
 - **Knee Status:** (pending)
 - **Notes:** Auto-logged from Strava. Travel run — Paul snuck miles in while in Victoria, BC. Second run from today not yet synced; expected on 7:30 PM PT scheduled sync or via workflow_dispatch.
+## May 9, 2026
+
+- **Workout:** Crew run 1
+- **Type:** Run
+- **Distance:** 3.59 mi
+- **Time:** 29:56
+- **Avg Pace:** 8:20/mi
+- **Elevation Gain:** 121 ft
+- **Avg Heart Rate:** 159 bpm (max 178)
+- **Avg Cadence:** N/A
+- **Splits:** 8:29, 8:34, 8:05, 8:07
+- **Relative Effort:** 80.0
+- **Knee Status:** (pending — update after reviewing)
+- **Notes:** Auto-logged from Strava. Awaiting athlete feedback.
