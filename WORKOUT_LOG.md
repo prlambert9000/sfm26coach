@@ -186,31 +186,17 @@
 - **Knee Status:** 1/5 — no awareness.
 - **Notes:** Pace 8:54 vs. 8:30–8:45 target — slightly slower but HR signal is clean (144 avg / 158 max, fully aerobic). Splits consistent 8:37–9:01; final 10:44 is the cooldown. Discipline-over-ego execution. Knee clean. Last entry before the travel-shifted Sat 8 mi LR (Victoria, BC).
 
-## May 9, 2026 — Run 1 of 2 (travel, Victoria BC)
+## May 9, 2026
 
-- **Workout:** Morning Run
+- **Workout:** Crew run 1 (travel, Victoria BC)
 - **Type:** Run
 - **Distance:** 3.59 mi
 - **Time:** 29:56
 - **Avg Pace:** 8:20/mi
 - **Elevation Gain:** 121 ft
-- **Avg Heart Rate:** 159 bpm reported (max 178) — **SCRATCHED as Apple Watch artifact.** Athlete reported conversational RPE, estimated true HR 135–140 (low aerobic). Same wrist-sensor failure pattern as the May 5 track cooldown 190 spike. Do not include in HR trend.
+- **Avg Heart Rate:** 159 bpm reported (max 178) — **SCRATCHED as Apple Watch artifact.** Athlete reported conversational RPE; true HR estimated 135–140 (low aerobic). Same wrist-sensor failure pattern as May 5 track cooldown 190 spike. Do not include in HR trend.
 - **Avg Cadence:** N/A
 - **Splits:** 8:29, 8:34, 8:05, 8:07 (negative split)
 - **Relative Effort:** 80.0 (inflated by bogus HR — discount)
-- **Knee Status:** (pending)
-- **Notes:** Auto-logged from Strava. Travel run — Paul snuck miles in while in Victoria, BC. Second run from today not yet synced; expected on 7:30 PM PT scheduled sync or via workflow_dispatch.
-## May 9, 2026
-
-- **Workout:** Crew run 1
-- **Type:** Run
-- **Distance:** 3.59 mi
-- **Time:** 29:56
-- **Avg Pace:** 8:20/mi
-- **Elevation Gain:** 121 ft
-- **Avg Heart Rate:** 159 bpm (max 178)
-- **Avg Cadence:** N/A
-- **Splits:** 8:29, 8:34, 8:05, 8:07
-- **Relative Effort:** 80.0
-- **Knee Status:** (pending — update after reviewing)
-- **Notes:** Auto-logged from Strava. Awaiting athlete feedback.
+- **Knee Status:** 1/5 — good throughout.
+- **Notes:** Travel run — snuck miles in while in Victoria, BC. Pace 8:20 with negative split, knee clean. Paul reports there should be a second run today; not on Strava as of this sync — may not have uploaded from watch, or activities were merged into one. Will pick up on next sync if/when it lands.
