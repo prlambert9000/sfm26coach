@@ -6,6 +6,7 @@ import re
 import sys
 import time
 import requests
+from collections import defaultdict
 from datetime import datetime, timedelta
 
 WORKOUT_LOG = "WORKOUT_LOG.md"
@@ -24,19 +25,18 @@ def get_access_token():
     return resp.json()["access_token"]
 
 
-def get_logged_dates():
-    """Read WORKOUT_LOG.md and return set of dates already logged.
+def get_logged_counts():
+    """Read WORKOUT_LOG.md and return {date_heading: count_of_entries}.
 
-    Matches the leading 'Month Day, Year' portion of any '## ' heading so
-    appended suffixes (e.g. '## May 9, 2026 — Run 1 of 2') still dedup.
+    Counts entries per date so multi-run days only re-log the unaccounted tail.
     """
-    dates = set()
+    counts = defaultdict(int)
     with open(WORKOUT_LOG, "r") as f:
         for line in f:
             m = re.match(r"^## ([A-Z][a-z]+ \d{1,2}, \d{4})\b", line.strip())
             if m:
-                dates.add(m.group(1).strip())
-    return dates
+                counts[m.group(1).strip()] += 1
+    return counts
 
 
 def format_pace(moving_time_s, distance_m):
@@ -100,8 +100,8 @@ def main():
     token = get_access_token()
     print("Got access token")
 
-    logged_dates = get_logged_dates()
-    print(f"Already logged dates: {logged_dates}")
+    logged_counts = get_logged_counts()
+    print(f"Already logged counts by date: {dict(logged_counts)}")
 
     # Fetch activities from the last 3 days
     after = int((datetime.now() - timedelta(days=3)).timestamp())
@@ -114,22 +114,35 @@ def main():
     activities = resp.json()
     print(f"Found {len(activities)} activities in the last 3 days")
 
-    new_entries = []
-
+    # Group runnable activities by date, sorted oldest-first within each date
+    by_date = defaultdict(list)
     for activity in activities:
         activity_type = activity.get("type", "")
         if activity_type not in ("Run", "Walk", "Hike"):
             print(f"Skipping {activity.get('name')} ({activity_type})")
             continue
-
         start_local = activity.get("start_date_local", "")
         dt = datetime.fromisoformat(start_local.replace("Z", "+00:00"))
         date_heading = format_date_heading(dt)
+        by_date[date_heading].append((dt, activity))
 
-        if date_heading in logged_dates:
-            print(f"Already logged: {activity.get('name')} on {date_heading}")
+    # For each date, only log activities beyond the count already logged
+    to_process = []
+    for date_heading, items in by_date.items():
+        items.sort(key=lambda x: x[0])  # oldest first
+        already = logged_counts.get(date_heading, 0)
+        if len(items) <= already:
+            print(f"All {len(items)} activity(s) on {date_heading} already logged")
             continue
+        new_for_date = items[already:]
+        print(f"{date_heading}: {already} logged, {len(items)} on Strava → adding {len(new_for_date)}")
+        for dt, activity in new_for_date:
+            to_process.append((date_heading, activity))
 
+    new_entries = []
+
+    for date_heading, activity in to_process:
+        activity_type = activity.get("type", "")
         activity_id = activity["id"]
         print(f"Fetching details for: {activity.get('name')} ({activity_id})")
 
@@ -193,7 +206,6 @@ def main():
 - **Notes:** Auto-logged from Strava. Awaiting athlete feedback."""
 
         new_entries.append(entry)
-        logged_dates.add(date_heading)  # Prevent duplicates within same run
 
     if not new_entries:
         print("No new activities to log")
