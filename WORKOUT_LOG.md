@@ -186,7 +186,7 @@
 - **Knee Status:** 1/5 — no awareness.
 - **Notes:** Pace 8:54 vs. 8:30–8:45 target — slightly slower but HR signal is clean (144 avg / 158 max, fully aerobic). Splits consistent 8:37–9:01; final 10:44 is the cooldown. Discipline-over-ego execution. Knee clean. Last entry before the travel-shifted Sat 8 mi LR (Victoria, BC).
 
-## May 9, 2026
+## May 9, 2026 — Run 1 of 2 (travel, Victoria BC)
 
 - **Workout:** Morning Run
 - **Type:** Run
@@ -194,9 +194,9 @@
 - **Time:** 29:56
 - **Avg Pace:** 8:20/mi
 - **Elevation Gain:** 121 ft
-- **Avg Heart Rate:** 159 bpm (max 178)
+- **Avg Heart Rate:** 159 bpm reported (max 178) — **SCRATCHED as Apple Watch artifact.** Athlete reported conversational RPE, estimated true HR 135–140 (low aerobic). Same wrist-sensor failure pattern as the May 5 track cooldown 190 spike. Do not include in HR trend.
 - **Avg Cadence:** N/A
-- **Splits:** 8:29, 8:34, 8:05, 8:07
-- **Relative Effort:** 80.0
-- **Knee Status:** (pending — update after reviewing)
-- **Notes:** Auto-logged from Strava. Awaiting athlete feedback.
+- **Splits:** 8:29, 8:34, 8:05, 8:07 (negative split)
+- **Relative Effort:** 80.0 (inflated by bogus HR — discount)
+- **Knee Status:** (pending)
+- **Notes:** Auto-logged from Strava. Travel run — Paul snuck miles in while in Victoria, BC. Second run from today not yet synced; expected on 7:30 PM PT scheduled sync or via workflow_dispatch.
