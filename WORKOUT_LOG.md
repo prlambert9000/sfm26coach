@@ -199,19 +199,19 @@
 - **Splits:** 8:29, 8:34, 8:05, 8:07 (negative split)
 - **Relative Effort:** 80.0 (inflated by bogus HR — discount)
 - **Knee Status:** 1/5 — good throughout.
-- **Notes:** Travel run — snuck miles in while in Victoria, BC. Pace 8:20 with negative split, knee clean. Paul reports there should be a second run today; not on Strava as of this sync — may not have uploaded from watch, or activities were merged into one. Will pick up on next sync if/when it lands.
+- **Notes:** Travel run — snuck miles in while in Victoria, BC. Pace 8:20 with negative split, knee clean. First of two travel runs (paired with Crew run 2 below).
 
 ## May 9, 2026
 
-- **Workout:** Crew run 2
+- **Workout:** Crew run 2 (travel, Victoria BC)
 - **Type:** Run
 - **Distance:** 4.68 mi
 - **Time:** 37:31
 - **Avg Pace:** 8:00/mi
 - **Elevation Gain:** 136 ft
-- **Avg Heart Rate:** 161 bpm (max 178)
+- **Avg Heart Rate:** 161 bpm reported (max 178) — **SCRATCHED as Apple Watch artifact** (same wrist-sensor pattern as Run 1 and May 5 cooldown spike). True HR likely 140s avg given paired session and feel.
 - **Avg Cadence:** N/A
-- **Splits:** 8:02, 8:08, 8:15, 7:52, 7:38
-- **Relative Effort:** 113.0
-- **Knee Status:** (pending — update after reviewing)
-- **Notes:** Auto-logged from Strava. Awaiting athlete feedback.
+- **Splits:** 8:02, 8:08, 8:15, 7:52, 7:38 (strong negative split, 5K-ish close)
+- **Relative Effort:** 113.0 (inflated by bogus HR — discount)
+- **Knee Status:** 1.5/5 — likely during post-run stretching, otherwise quiet. Inside the green band; no plan modification.
+- **Notes:** Second of two travel runs in Victoria BC. Day total 8.27 mi @ 8:08 — equivalent to a long run split in two. Strong negative split on both runs and a 7:38 last mile on Run 2 indicates legs are fresh and durable. Stretching-related awareness is the only signal to track; if it shows up again post-run on a non-travel day, log it; for now within tolerance.
