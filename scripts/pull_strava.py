@@ -25,11 +25,15 @@ def get_access_token():
 
 
 def get_logged_dates():
-    """Read WORKOUT_LOG.md and return set of dates already logged."""
+    """Read WORKOUT_LOG.md and return set of dates already logged.
+
+    Matches the leading 'Month Day, Year' portion of any '## ' heading so
+    appended suffixes (e.g. '## May 9, 2026 — Run 1 of 2') still dedup.
+    """
     dates = set()
     with open(WORKOUT_LOG, "r") as f:
         for line in f:
-            m = re.match(r"^## (.+)$", line.strip())
+            m = re.match(r"^## ([A-Z][a-z]+ \d{1,2}, \d{4})\b", line.strip())
             if m:
                 dates.add(m.group(1).strip())
     return dates
