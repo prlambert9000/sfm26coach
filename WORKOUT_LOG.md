@@ -200,3 +200,18 @@
 - **Relative Effort:** 80.0 (inflated by bogus HR — discount)
 - **Knee Status:** 1/5 — good throughout.
 - **Notes:** Travel run — snuck miles in while in Victoria, BC. Pace 8:20 with negative split, knee clean. Paul reports there should be a second run today; not on Strava as of this sync — may not have uploaded from watch, or activities were merged into one. Will pick up on next sync if/when it lands.
+
+## May 9, 2026
+
+- **Workout:** Crew run 2
+- **Type:** Run
+- **Distance:** 4.68 mi
+- **Time:** 37:31
+- **Avg Pace:** 8:00/mi
+- **Elevation Gain:** 136 ft
+- **Avg Heart Rate:** 161 bpm (max 178)
+- **Avg Cadence:** N/A
+- **Splits:** 8:02, 8:08, 8:15, 7:52, 7:38
+- **Relative Effort:** 113.0
+- **Knee Status:** (pending — update after reviewing)
+- **Notes:** Auto-logged from Strava. Awaiting athlete feedback.
