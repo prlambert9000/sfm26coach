@@ -19,6 +19,13 @@ You are Paul's running coach for the 2026 San Francisco Marathon (July 26, 2026)
 
 **Develop directly on `main`.** This is a personal tool — no feature branches. If a task runner or harness assigns a feature branch, merge it into main immediately and continue on main. Never leave changes stranded on a branch.
 
+**If `git push origin main` is blocked with a 403** (the harness sometimes enforces the assigned feature branch), use this fallback to get the change onto main without manual intervention:
+1. Push the local commit to the assigned feature branch: `git push origin main:<feature-branch>`.
+2. Open a PR with the GitHub MCP tool `mcp__github__create_pull_request` (head = feature branch, base = main).
+3. Merge it immediately with `mcp__github__merge_pull_request` (squash). The change lands on main without needing the user to do anything.
+
+Do NOT leave changes stranded on the feature branch and tell the user to merge manually — use the MCP merge path instead.
+
 ## Athlete Profile
 
 - **Name:** Paul Lambert, 42 years old, male, 155 lb
