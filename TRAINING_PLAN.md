@@ -42,7 +42,7 @@ Replaces the v4 Chassis Build / Phase 1 framework. Knee has been managing well t
 - **Monday — 20-min hip complex circuit:** 90/90 switches, adductor rockbacks, foam rolling. Plus the daily PT mobility flush (foam roller T-spine extensions, standing lunges with hip IR + extension). Active recovery only — no run.
 - **Tuesday — Track intervals.** 1.5 mi easy jog to the high school track, intervals per the day's prescription, 1.5 mi easy jog back.
 - **Wednesday — Heavy strength (Cañada College).** Back squat, RDL, reverse Nordics, standing calf raises. 3-second eccentric. No running.
-- **Thursday — Alternating base / progression.** Odd weeks: easy base. Even weeks: progression finish (last 2 mi @ 8:15).
+- **Thursday — Alternating base / progression.** Odd weeks: easy base. Even weeks: progression finish (last 2 mi @ 7:45 — threshold pace, 15 sec/mi under MP).
 - **Friday — Stability & power (Cañada College).** Bulgarian split squats, single-leg RDLs (DB contralateral), Spanish squat holds, Copenhagen planks. No running.
 - **Saturday — Shakeout (3–4 mi) or rest.**
 - **Sunday — Long run.** Smoothed progression. Explicit 90 g/hr gut training rehearsals from Week 5 onward.
@@ -119,7 +119,7 @@ Solo 5K simulation: **21:47 (7:00/mi)**. Max HR 183. 1-min HRR 33 BPM.
 | 2026-05-11 | Mon | Hip Complex Circuit | 20-min mobility |
 | 2026-05-12 | Tue | 6×800m Track Intervals | 7:15–7:25 pace; 90s rec |
 | 2026-05-13 | Wed | Heavy Strength | Maintain 3s eccentric descent |
-| 2026-05-14 | Thu | 6 mi Progression Run | 4mi @ 9:00 / 2mi @ 8:15 |
+| 2026-05-14 | Thu | 6 mi Progression Run | 4mi @ 9:00 / 2mi @ 7:45 (threshold) |
 | 2026-05-15 | Fri | Stability & Power | Focus on Copenhagen plank adductor tension. **PT follow-up today.** |
 | 2026-05-16 | Sat | 4 mi Shakeout | 9:30+ pace |
 | 2026-05-17 | Sun | Bay to Breakers 15K | 10mi total: 1–6 @ 8:45–9:15 / 6–9.3 @ 8:00 MP |
@@ -152,7 +152,7 @@ Solo 5K simulation: **21:47 (7:00/mi)**. Max HR 183. 1-min HRR 33 BPM.
 | 2026-06-01 | Mon | Hip Complex Circuit | Phase 2 start |
 | 2026-06-02 | Tue | 4×1600m Track Tempo | 7:45 pace; 2 min rec |
 | 2026-06-03 | Wed | Heavy Strength | Back Squat / RDL / Reverse Nordics / Calf Raises |
-| 2026-06-04 | Thu | 7 mi Progression Run | 5mi @ 9:00 / 2mi @ 8:15 |
+| 2026-06-04 | Thu | 7 mi Progression Run | 5mi @ 9:00 / 2mi @ 7:45 (threshold) |
 | 2026-06-05 | Fri | Stability & Power | Bulgarians / Spanish / Copenhagen |
 | 2026-06-06 | Sat | 3 mi Shakeout | 9:30+ |
 | 2026-06-07 | Sun | 12 mi Long Run | 8:45–9:15. **Begin 90 g/hr gut training rehearsal.** |
@@ -174,7 +174,7 @@ Solo 5K simulation: **21:47 (7:00/mi)**. Max HR 183. 1-min HRR 33 BPM.
 | 2026-06-15 | Mon | Hip Complex Circuit | Pre-HM focus |
 | 2026-06-16 | Tue | 5×1600m Track Tempo | 7:45 pace; 2 min rec |
 | 2026-06-17 | Wed | Heavy Strength | Structural insurance |
-| 2026-06-18 | Thu | 6 mi Progression Run | 4mi @ 9:00 / 2mi @ 8:15 |
+| 2026-06-18 | Thu | 6 mi Progression Run | 4mi @ 9:00 / 2mi @ 8:00 (MP — taper for HM Sun) |
 | 2026-06-19 | Fri | Stability & Power | Spanish squat holds |
 | 2026-06-20 | Sat | Rest | Taper for HM |
 | 2026-06-21 | Sun | **Half Marathon Benchmark** | Presidio HM. **Pivot test:** sub-1:44 / HR<170 final 3mi / zero knee comp. |
@@ -207,7 +207,7 @@ Solo 5K simulation: **21:47 (7:00/mi)**. Max HR 183. 1-min HRR 33 BPM.
 | 2026-07-06 | Mon | Hip Complex Circuit | Final volume push |
 | 2026-07-07 | Tue | 3×2 mi Track Intervals | 7:40 pace; 3 min rec |
 | 2026-07-08 | Wed | Heavy Strength | Final heavy session |
-| 2026-07-09 | Thu | 8 mi Progression Run | 6mi @ 9:00 / 2mi @ 8:15 |
+| 2026-07-09 | Thu | 8 mi Progression Run | 6mi @ 9:00 / 2mi @ 7:45 (threshold) |
 | 2026-07-10 | Fri | Stability & Power | Final power session |
 | 2026-07-11 | Sat | 4 mi Shakeout | Fueling check (90 g/hr) |
 | 2026-07-12 | Sun | 20 mi Long Run | Peak distance. Form focus. Fuel 90 g/hr. |
