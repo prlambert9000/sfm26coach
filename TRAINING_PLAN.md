@@ -40,7 +40,7 @@ Replaces the v4 Chassis Build / Phase 1 framework. Knee has been managing well t
 
 - **Pre-run activation (every run day, 5 min):** Hip CARs, banded lateral walks, glute bridges. Plus the PT-prescribed quadruped banded hip IR (5–10 reps each side) before any workout.
 - **Monday — 20-min hip complex circuit:** 90/90 switches, adductor rockbacks, foam rolling. Plus the daily PT mobility flush (foam roller T-spine extensions, standing lunges with hip IR + extension). Active recovery only — no run.
-- **Tuesday — Track intervals.** 1.5 mi easy jog to the high school track, intervals per the day's prescription, 1.5 mi easy jog back.
+- **Tuesday — Track intervals.** 1.9 mi easy jog to the high school track, intervals per the day's prescription, 1.9 mi easy jog back.
 - **Wednesday — Heavy strength (Cañada College).** Back squat, RDL, reverse Nordics, standing calf raises. 3-second eccentric. No running.
 - **Thursday — Alternating base / progression.** Odd weeks: easy base. Even weeks: progression finish (last 2 mi @ 7:45 — threshold pace, 15 sec/mi under MP).
 - **Friday — Stability & power (Cañada College).** Bulgarian split squats, single-leg RDLs (DB contralateral), Spanish squat holds, Copenhagen planks. No running.
@@ -106,7 +106,7 @@ Solo 5K simulation: **21:47 (7:00/mi)**. Max HR 183. 1-min HRR 33 BPM.
 | Date | Day | Workout | Notes |
 |---|---|---|---|
 | 2026-05-04 | Mon | Hip Complex Circuit | 20-min: 90/90s, adductor rockbacks, foam roll |
-| 2026-05-05 | Tue | 5×1000m Track Intervals | 1.5mi WU; 7:15–7:25 pace; 90s rec; 1.5mi CD |
+| 2026-05-05 | Tue | 5×1000m Track Intervals | 1.9mi WU; 7:15–7:25 pace; 90s rec; 1.9mi CD |
 | 2026-05-06 | Wed | Heavy Strength | Back Squat / RDL / Reverse Nordics / Calf Raises |
 | 2026-05-07 | Thu | 6 mi Steady Base | 8:30–8:45 pace |
 | 2026-05-08 | Fri | Stability & Power | Bulgarian Splits / Spanish Squat / Copenhagen |
