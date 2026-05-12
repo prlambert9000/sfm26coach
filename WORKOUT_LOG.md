@@ -7,7 +7,7 @@
 - **Distance:** 8.10 mi
 - **Time:** 1:08:58
 - **Avg Pace:** 8:31/mi
-- **Avg Heart Rate:** 147 bpm (max 167) — first session with Polar H10 chest strap; trace looks clean and credible (no Apple Watch optical artifact pattern). Source verification still pending in Strava device info.
+- **Avg Heart Rate:** 147 bpm (max 167) — first session with Polar H10 chest strap. **Source confirmed Polar:** strap paired and "Connected" in Watch Bluetooth menu pre-run; trace shows clean cardiac response with no optical-artifact signature. H10 is now primary HR source.
 - **Avg Cadence:** 167 spm
 - **Avg Power:** 229 W
 - **Structure:** 2.33 mi WU (8:33/mi) → 6×800m work / 90s recovery → 2.12 mi CD (9:10/mi)
