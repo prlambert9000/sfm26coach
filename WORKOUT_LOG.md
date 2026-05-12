@@ -1,5 +1,22 @@
 # Workout Log
 
+## May 12, 2026
+
+- **Workout:** 6×800m Track Intervals (V6 Week 2 Tuesday)
+- **Type:** Run (track)
+- **Distance:** 8.10 mi
+- **Time:** 1:08:58
+- **Avg Pace:** 8:31/mi
+- **Avg Heart Rate:** 147 bpm (max 167) — first session with Polar H10 chest strap; trace looks clean and credible (no Apple Watch optical artifact pattern). Source verification still pending in Strava device info.
+- **Avg Cadence:** 167 spm
+- **Avg Power:** 229 W
+- **Structure:** 2.33 mi WU (8:33/mi) → 6×800m work / 90s recovery → 2.12 mi CD (9:10/mi)
+- **800m splits:** 7:00, 6:51, 6:54, 6:54, 6:53, 6:40 — every rep at or under 7:00–7:10 target, negative split with a 6:40 finisher.
+- **HR zones:** Z1 1:26 / Z2 8:26 / Z3 38:04 / Z4 20:07 / Z5 0:53. Peak HR 167 = 93% of 180 max — controlled VO2 work, no spike artifacts.
+- **Post-workout HRR:** end 152 → +2min 131 (~21 BPM drop), HR back to baseline cleanly.
+- **Knee Status:** 1/5 — fine throughout, including the 6:40 finisher.
+- **Notes:** Textbook V6 Week 2 VO2 session. Every interval hit prescribed pace with negative split — strong calibration signal that current 5K fitness supports the targets. Cadence 167 spm steady. The fact that HR peaked at 167 (not 175+) on 6:40-pace 800s suggests aerobic ceiling is well above current race pace — bodes well for the Presidio Pivot test in 6 weeks. First Polar H10 use; chest strap data is markedly cleaner than the May 5 / May 9 wrist-sensor artifacts. Establish Polar as primary HR source going forward.
+
 ## May 6, 2026
 
 - **Workout:** Wed Heavy Strength (V6 Week 1 — first heavy session)
