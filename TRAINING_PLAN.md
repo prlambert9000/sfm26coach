@@ -29,7 +29,7 @@ Replaces the v4 Chassis Build / Phase 1 framework. Knee has been managing well t
 | Workout Type | Target Pace / Effort | Purpose |
 |---|---|---|
 | Marathon Pace (MP) | 7:55 – 8:00 min/mile | 3:30 baseline |
-| VO2 reps (≤1200m) | 7:15 – 7:25 min/mile | Aerobic ceiling |
+| VO2 reps (≤1200m) | 7:00 – 7:10 min/mile | Aerobic ceiling (5K pace, anchored to May 3 21:47) |
 | Threshold reps (1mi+) | 7:40 – 7:50 min/mile | Lactate threshold |
 | Easy / Recovery | 9:00 – 9:45 min/mile | Capillary density, recovery |
 | Long Run (steady) | 8:45 – 9:15 min/mile | Fat oxidation, time on feet |
@@ -117,7 +117,7 @@ Solo 5K simulation: **21:47 (7:00/mi)**. Max HR 183. 1-min HRR 33 BPM.
 | Date | Day | Workout | Notes |
 |---|---|---|---|
 | 2026-05-11 | Mon | Hip Complex Circuit | 20-min mobility |
-| 2026-05-12 | Tue | 6×800m Track Intervals | 7:15–7:25 pace; 90s rec |
+| 2026-05-12 | Tue | 6×800m Track Intervals | 7:00–7:10 pace (5K-pace VO2 ceiling); 90s rec |
 | 2026-05-13 | Wed | Heavy Strength | Maintain 3s eccentric descent |
 | 2026-05-14 | Thu | 6 mi Progression Run | 4mi @ 9:00 / 2mi @ 7:45 (threshold) |
 | 2026-05-15 | Fri | Stability & Power | Focus on Copenhagen plank adductor tension. **PT follow-up today.** |
@@ -139,7 +139,7 @@ Solo 5K simulation: **21:47 (7:00/mi)**. Max HR 183. 1-min HRR 33 BPM.
 | Date | Day | Workout | Notes |
 |---|---|---|---|
 | 2026-05-25 | Mon | Hip Complex Circuit | Pre-benchmark mobility |
-| 2026-05-26 | Tue | 6×1000m Track Intervals | 7:10–7:20 pace; 90s rec |
+| 2026-05-26 | Tue | 6×1000m Track Intervals | 7:00–7:10 pace; 90s rec |
 | 2026-05-27 | Wed | Heavy Strength | Core stability integration |
 | 2026-05-28 | Thu | 7 mi Steady Base | 8:30–8:45 |
 | 2026-05-29 | Fri | Stability & Power | Light mobility focus |
