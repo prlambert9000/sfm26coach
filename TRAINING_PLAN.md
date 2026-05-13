@@ -14,7 +14,7 @@ This plan bridges high aerobic capacity to the structural durability required fo
 
 Replaces the v4 Chassis Build / Phase 1 framework. Knee has been managing well through April easy runs — the conservative chassis-only window is no longer needed. The new framework is a 12-week periodized build with:
 
-- Pace targets anchored to a real benchmark (May 3 5K, 21:47).
+- Pace targets anchored to flat-equivalent fitness, not SF-course-adjusted average pace.
 - Single-purpose strength split: Wed heavy compound, Fri stability/power. No upper body — pure marathon specificity for 12 weeks.
 - "Escape valve" rule keyed to a 5-point knee pain scale with automatic bike substitution at 3+.
 - Explicit Week 7 Pivot test at the Presidio Half Marathon to gate any upgrade from 3:30 to 3:20–3:25.
@@ -22,17 +22,35 @@ Replaces the v4 Chassis Build / Phase 1 framework. Knee has been managing well t
 
 **PT follow-up (May 15) is still on.** Until then, the plan still respects PT-prescribed mobility and core work — see PT_NOTES.md. Any restrictions she places at follow-up override the plan.
 
+### May 12, 2026 — Flat-equivalent pace recalibration
+
+V6 originally anchored training paces to "what average pace gets you 3:30 on the hilly SF course" (~8:00/mi MP). That conflates race-day output with training physiology. Training adaptations are driven by actual pace on actual terrain — which for Paul is mostly flat (track, Bayfront, easy roads). The body adapts to the physiological zone, not the race goal.
+
+Recalibrated all training paces to **VDOT 54 flat-equivalent** (3:18 flat marathon = 3:30 SF). Source: SF is ~10 min slower than flat-equivalent fitness due to terrain.
+
+| Workout | Old (course-adjusted) | New (flat-equivalent) |
+|---|---|---|
+| MP | 7:55–8:00 | 7:35–7:45 |
+| Threshold | 7:30–7:40 | 7:15–7:25 |
+| VO2 reps | 7:00–7:10 | 6:50–7:00 |
+| Long steady | 8:45–9:15 | 8:30–9:00 |
+| Easy | 9:00–9:45 | unchanged |
+
+Race-day goal unchanged: 3:30 SF (8:00 avg output on a hilly course). Pivot test upgrade target shifts from VDOT ~52 to VDOT 56–57 (3:10–3:15 flat = 3:20–3:25 SF). Corroborating data: May 12 6×800m VO2 session all landed in 6:50–7:00 with the last rep faster — confirming the new VO2 band is the right zone.
+
 ---
 
 ## I. Pace Targets
 
+Anchored to **VDOT 54 flat-equivalent** (3:18 flat marathon = 3:30 SF). Training physiology, not race-day output.
+
 | Workout Type | Target Pace / Effort | Purpose |
 |---|---|---|
-| Marathon Pace (MP) | 7:55 – 8:00 min/mile | 3:30 baseline |
-| VO2 reps (≤1200m) | 7:00 – 7:10 min/mile | Aerobic ceiling (5K pace, anchored to May 3 21:47) |
-| Threshold reps (1mi+) | 7:30 – 7:40 min/mile | Lactate threshold (VDOT 48–49 anchor) |
-| Easy / Recovery | 9:00 – 9:45 min/mile | Capillary density, recovery |
-| Long Run (steady) | 8:45 – 9:15 min/mile | Fat oxidation, time on feet |
+| Marathon Pace (MP) | 7:35 – 7:45 min/mile | Flat MP for 3:30 SF goal (VDOT 54 M-pace) |
+| VO2 reps (≤1200m) | 6:50 – 7:00 min/mile | Aerobic ceiling (faster than May 3 5K pace — building) |
+| Threshold reps (1mi+) | 7:15 – 7:25 min/mile | Lactate threshold (VDOT 54 T-pace) |
+| Easy / Recovery | 9:00 – 9:45 min/mile | Capillary density, recovery — keep slow |
+| Long Run (steady) | 8:30 – 9:00 min/mile | Fat oxidation, time on feet |
 
 ---
 
@@ -42,7 +60,7 @@ Replaces the v4 Chassis Build / Phase 1 framework. Knee has been managing well t
 - **Monday — 20-min hip complex circuit:** 90/90 switches, adductor rockbacks, foam rolling. Plus the daily PT mobility flush (foam roller T-spine extensions, standing lunges with hip IR + extension). Active recovery only — no run.
 - **Tuesday — Track intervals.** 1.9 mi easy jog to the high school track, intervals per the day's prescription, 1.9 mi easy jog back.
 - **Wednesday — Heavy strength (Cañada College).** Back squat, RDL, reverse Nordics, standing calf raises. 3-second eccentric. No running.
-- **Thursday — Alternating base / progression.** Odd weeks: easy base. Even weeks: progression finish (last 2 mi @ 7:35–7:40 — threshold pace, ~20 sec/mi under MP).
+- **Thursday — Alternating base / progression.** Odd weeks: easy base. Even weeks: progression finish (last 2 mi @ 7:15–7:25 — threshold pace, ~20 sec/mi under MP).
 - **Friday — Stability & power (Cañada College).** Bulgarian split squats, single-leg RDLs (DB contralateral), Spanish squat holds, Copenhagen planks. No running.
 - **Saturday — Shakeout (3–4 mi) or rest.**
 - **Sunday — Long run.** Smoothed progression. Explicit 90 g/hr gut training rehearsals from Week 5 onward.
@@ -69,7 +87,9 @@ The plan's pace targets are set for a conservative 3:30 finish. The Week 7 Presi
 - **Average HR under 170 BPM in the final 3 miles**
 - **Zero knee compensation crossing the finish line**
 
-Miss any one → hold 3:30 targets. Hit all three → MP drops to 7:35–7:40, threshold to 7:25–7:35.
+Miss any one → hold 3:30 targets. Hit all three → upgrade to VDOT 56–57 paces: MP drops to 7:15–7:25, threshold to 7:00–7:10, VO2 to 6:35–6:45.
+
+**Note on the sub-1:44 gate:** This number was set when training was anchored to the slower VDOT 48–49 reference. Under the recalibrated VDOT 54 baseline, sub-1:44 is below current fitness and no longer a meaningful upgrade gate. Reassess the Pivot bar after the May 30 PAL 10K data lands — a sub-1:35 Presidio HM (with HR and knee criteria intact) would be a defensible VDOT 56–57 gate, but we'll calibrate using actual race data first.
 
 ---
 
@@ -119,7 +139,7 @@ Solo 5K simulation: **21:47 (7:00/mi)**. Max HR 183. 1-min HRR 33 BPM.
 | 2026-05-11 | Mon | Hip Complex Circuit | 20-min mobility |
 | 2026-05-12 | Tue | 6×800m Track Intervals | 7:00–7:10 pace (5K-pace VO2 ceiling); 90s rec |
 | 2026-05-13 | Wed | Heavy Strength | Maintain 3s eccentric descent |
-| 2026-05-14 | Thu | 6 mi Progression Run | 4mi @ 9:00 / 2mi @ 7:35–7:40 (threshold) |
+| 2026-05-14 | Thu | 6 mi Progression Run | 4mi @ 9:00 / 2mi @ 7:15–7:25 (threshold) |
 | 2026-05-15 | Fri | Stability & Power | Focus on Copenhagen plank adductor tension. **PT follow-up today.** |
 | 2026-05-16 | Sat | 4 mi Shakeout | 9:30+ pace |
 | 2026-05-17 | Sun | Bay to Breakers 15K | 10mi total: 1–6 @ 8:30–8:45 steady / 6–9.3 @ 7:35–7:45 threshold. Cap fast portion at 7:35 — don't let race-day adrenaline pull it to 7:10. Hayes Hill (mi 2) by effort. Knee veto: any 2+ Sat night → revert to 8:45–9:15 / 8:00 MP. |
@@ -139,42 +159,42 @@ Solo 5K simulation: **21:47 (7:00/mi)**. Max HR 183. 1-min HRR 33 BPM.
 | Date | Day | Workout | Notes |
 |---|---|---|---|
 | 2026-05-25 | Mon | Hip Complex Circuit | Pre-benchmark mobility |
-| 2026-05-26 | Tue | 6×1000m Track Intervals | 7:00–7:10 pace; 90s rec |
+| 2026-05-26 | Tue | 6×1000m Track Intervals | 6:50–7:00 pace (VO2); 90s rec |
 | 2026-05-27 | Wed | Heavy Strength | Core stability integration |
 | 2026-05-28 | Thu | 7 mi Pre-Race Sharpener | 4mi @ 8:30 / 2mi @ 7:15–7:20 (cap at 7:15 — don't race the workout) / 1mi CD @ 9:00. First continuous race-pace block before Sat's 10K. Knee 2+ Thu AM → revert to 5 mi easy @ 9:00. |
 | 2026-05-29 | Fri | Stability & Power | Light mobility focus |
 | 2026-05-30 | Sat | 10K Benchmark Race | San Mateo PAL 10K (Seal Point Park) |
-| 2026-05-31 | Sun | 11 mi Long Run | 8:45–9:15 |
+| 2026-05-31 | Sun | 11 mi Long Run | 8:30–9:00 |
 
 ### Week 5 (Jun 1–7) — 26 mi | LR 12 mi
 | Date | Day | Workout | Notes |
 |---|---|---|---|
 | 2026-06-01 | Mon | Hip Complex Circuit | Phase 2 start |
-| 2026-06-02 | Tue | 4×1600m Track Tempo | 7:35 pace; 2 min rec |
+| 2026-06-02 | Tue | 4×1600m Track Tempo | 7:15–7:25 pace (threshold); 2 min rec |
 | 2026-06-03 | Wed | Heavy Strength | Back Squat / RDL / Reverse Nordics / Calf Raises |
-| 2026-06-04 | Thu | 7 mi Progression Run | 5mi @ 9:00 / 2mi @ 7:35–7:40 (threshold) |
+| 2026-06-04 | Thu | 7 mi Progression Run | 5mi @ 9:00 / 2mi @ 7:15–7:25 (threshold) |
 | 2026-06-05 | Fri | Stability & Power | Bulgarians / Spanish / Copenhagen |
 | 2026-06-06 | Sat | 3 mi Shakeout | 9:30+ |
-| 2026-06-07 | Sun | 12 mi Long Run | 8:45–9:15. **Begin 90 g/hr gut training rehearsal.** |
+| 2026-06-07 | Sun | 12 mi Long Run | 8:30–9:00. **Begin 90 g/hr gut training rehearsal.** |
 
 ### Week 6 (Jun 8–14) — 30 mi | LR 14 mi
 | Date | Day | Workout | Notes |
 |---|---|---|---|
 | 2026-06-08 | Mon | Hip Complex Circuit | Volume ramp |
-| 2026-06-09 | Tue | 4×1600m Track Tempo | 7:35 pace; 2 min rec |
+| 2026-06-09 | Tue | 4×1600m Track Tempo | 7:15–7:25 pace (threshold); 2 min rec |
 | 2026-06-10 | Wed | Heavy Strength | Relative strength benchmarks |
 | 2026-06-11 | Thu | 8 mi Steady Base | 8:30 pace |
 | 2026-06-12 | Fri | Stability & Power | Knee tracking focus |
 | 2026-06-13 | Sat | 4 mi Shakeout | 9:30+ |
-| 2026-06-14 | Sun | 14 mi Long Run | inc 5 mi @ 8:00 MP. Fuel 90 g/hr. |
+| 2026-06-14 | Sun | 14 mi Long Run | inc 5 mi @ 7:35–7:45 MP. Fuel 90 g/hr. |
 
 ### Week 7 (Jun 15–21) — 33 mi | LR 13.1 mi (Pivot)
 | Date | Day | Workout | Notes |
 |---|---|---|---|
 | 2026-06-15 | Mon | Hip Complex Circuit | Pre-HM focus |
-| 2026-06-16 | Tue | 5×1600m Track Tempo | 7:35 pace; 2 min rec |
+| 2026-06-16 | Tue | 5×1600m Track Tempo | 7:15–7:25 pace (threshold); 2 min rec |
 | 2026-06-17 | Wed | Heavy Strength | Structural insurance |
-| 2026-06-18 | Thu | 6 mi Progression Run | 4mi @ 9:00 / 2mi @ 8:00 (MP — taper for HM Sun) |
+| 2026-06-18 | Thu | 6 mi Progression Run | 4mi @ 9:00 / 2mi @ 7:35–7:45 (MP — taper for HM Sun) |
 | 2026-06-19 | Fri | Stability & Power | Spanish squat holds |
 | 2026-06-20 | Sat | Rest | Taper for HM |
 | 2026-06-21 | Sun | **Half Marathon Benchmark** | Presidio HM. **Pivot test:** sub-1:44 / HR<170 final 3mi / zero knee comp. |
@@ -194,20 +214,20 @@ Solo 5K simulation: **21:47 (7:00/mi)**. Max HR 183. 1-min HRR 33 BPM.
 | Date | Day | Workout | Notes |
 |---|---|---|---|
 | 2026-06-29 | Mon | Hip Complex Circuit | Peak phase start |
-| 2026-06-30 | Tue | 6×1600m Track Tempo | 7:35 pace; 2 min rec |
+| 2026-06-30 | Tue | 6×1600m Track Tempo | 7:15–7:25 pace (threshold); 2 min rec |
 | 2026-07-01 | Wed | Heavy Strength | Maintain intensity |
 | 2026-07-02 | Thu | 8 mi Steady Base | 8:30 pace |
 | 2026-07-03 | Fri | Stability & Power | Copenhagen focus |
 | 2026-07-04 | Sat | 4 mi Shakeout | 9:30+ |
-| 2026-07-05 | Sun | 16 mi Long Run | inc 8 mi @ 7:55 MP. Fuel 90 g/hr. |
+| 2026-07-05 | Sun | 16 mi Long Run | inc 8 mi @ 7:35–7:45 MP. Fuel 90 g/hr. |
 
 ### Week 10 peak (Jul 6–12) — 42 mi | LR 20 mi
 | Date | Day | Workout | Notes |
 |---|---|---|---|
 | 2026-07-06 | Mon | Hip Complex Circuit | Final volume push |
-| 2026-07-07 | Tue | 3×2 mi Track Intervals | 7:35 pace; 3 min rec |
+| 2026-07-07 | Tue | 3×2 mi Track Intervals | 7:15–7:25 pace (threshold); 3 min rec |
 | 2026-07-08 | Wed | Heavy Strength | Final heavy session |
-| 2026-07-09 | Thu | 8 mi Progression Run | 6mi @ 9:00 / 2mi @ 7:35–7:40 (threshold) |
+| 2026-07-09 | Thu | 8 mi Progression Run | 6mi @ 9:00 / 2mi @ 7:15–7:25 (threshold) |
 | 2026-07-10 | Fri | Stability & Power | Final power session |
 | 2026-07-11 | Sat | 4 mi Shakeout | Fueling check (90 g/hr) |
 | 2026-07-12 | Sun | 20 mi Long Run | Peak distance. Form focus. Fuel 90 g/hr. |
@@ -216,7 +236,7 @@ Solo 5K simulation: **21:47 (7:00/mi)**. Max HR 183. 1-min HRR 33 BPM.
 | Date | Day | Workout | Notes |
 |---|---|---|---|
 | 2026-07-13 | Mon | Hip Complex Circuit | Taper start |
-| 2026-07-14 | Tue | 4×1200m Track @ MP | 7:55 pace; 2 min rec |
+| 2026-07-14 | Tue | 4×1200m Track @ MP | 7:35–7:45 pace; 2 min rec |
 | 2026-07-15 | Wed | Maintenance Strength | Low volume / high intensity |
 | 2026-07-16 | Thu | 6 mi Easy | 9:15–9:30 |
 | 2026-07-17 | Fri | Maintenance Strength | Spanish squat holds |
