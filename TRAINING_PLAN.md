@@ -59,7 +59,7 @@ Anchored to **VDOT 54 flat-equivalent** (3:18 flat marathon = 3:30 SF). Training
 - **Pre-run activation (every run day, 5 min):** Hip CARs, banded lateral walks, glute bridges. Plus the PT-prescribed quadruped banded hip IR (5–10 reps each side) before any workout.
 - **Monday — 20-min hip complex circuit:** 90/90 switches, adductor rockbacks, foam rolling. Plus the daily PT mobility flush (foam roller T-spine extensions, standing lunges with hip IR + extension). Active recovery only — no run.
 - **Tuesday — Track intervals.** 1.9 mi easy jog to the high school track, intervals per the day's prescription, 1.9 mi easy jog back.
-- **Wednesday — Heavy strength (Cañada College).** Back squat, RDL, reverse Nordics, standing calf raises. 3-second eccentric. No running.
+- **Wednesday — Heavy strength (Cañada College).** Back squat, RDL, standing calf raises, reverse Nordics. 3-second eccentric. No running.
 - **Thursday — Alternating base / progression.** Odd weeks: easy base. Even weeks: progression finish (last 2 mi @ 7:15–7:25 — threshold pace, ~20 sec/mi under MP).
 - **Friday — Stability & power (Cañada College).** Bulgarian split squats, single-leg RDLs (DB contralateral), Spanish squat holds, Copenhagen planks. No running.
 - **Saturday — Shakeout (3–4 mi) or rest.**
@@ -127,7 +127,7 @@ Solo 5K simulation: **21:47 (7:00/mi)**. Max HR 183. 1-min HRR 33 BPM.
 |---|---|---|---|
 | 2026-05-04 | Mon | Hip Complex Circuit | 20-min: 90/90s, adductor rockbacks, foam roll |
 | 2026-05-05 | Tue | 5×1000m Track Intervals | 1.9mi WU; 7:15–7:25 pace; 90s rec; 1.9mi CD |
-| 2026-05-06 | Wed | Heavy Strength | Back Squat / RDL / Reverse Nordics / Calf Raises |
+| 2026-05-06 | Wed | Heavy Strength | Back Squat / RDL / Calf Raises / Reverse Nordics |
 | 2026-05-07 | Thu | 6 mi Steady Base | 8:30–8:45 pace |
 | 2026-05-08 | Fri | Stability & Power | Bulgarian Splits / Spanish Squat / Copenhagen |
 | 2026-05-09 | Sat | 8 mi Long Run | Travel-shifted from Sun. 8:45–9:15 pace. Stretch to 9 mi only if knee 1/5 and legs fresh. Knee ≥3 → bike. |
@@ -171,7 +171,7 @@ Solo 5K simulation: **21:47 (7:00/mi)**. Max HR 183. 1-min HRR 33 BPM.
 |---|---|---|---|
 | 2026-06-01 | Mon | Hip Complex Circuit | Phase 2 start |
 | 2026-06-02 | Tue | 4×1600m Track Tempo | 7:15–7:25 pace (threshold); 2 min rec |
-| 2026-06-03 | Wed | Heavy Strength | Back Squat / RDL / Reverse Nordics / Calf Raises |
+| 2026-06-03 | Wed | Heavy Strength | Back Squat / RDL / Calf Raises / Reverse Nordics |
 | 2026-06-04 | Thu | 7 mi Progression Run | 5mi @ 9:00 / 2mi @ 7:15–7:25 (threshold) |
 | 2026-06-05 | Fri | Stability & Power | Bulgarians / Spanish / Copenhagen |
 | 2026-06-06 | Sat | 3 mi Shakeout | 9:30+ |
@@ -260,7 +260,7 @@ Solo 5K simulation: **21:47 (7:00/mi)**. Max HR 183. 1-min HRR 33 BPM.
 
 Detailed exercise lists, weights, and progression rules live in **STRENGTH_LOG.md**. The high level:
 
-- **Wed (Heavy Strength, Cañada College):** Back squat, RDL, reverse Nordic, standing calf raise. 3-second eccentric. Progress on Easy/Good feel.
+- **Wed (Heavy Strength, Cañada College):** Back squat, RDL, standing calf raise, reverse Nordic. 3-second eccentric. Progress on Easy/Good feel.
 - **Fri (Stability & Power, Cañada College):** Bulgarian split squat, single-leg RDL (DB contralateral), Spanish squat hold, Copenhagen plank. Single-leg/anti-rotation focus, balanced knee-dominant + hip-dominant patterns.
 - **Mon (Hip Complex Circuit):** Mobility only. 90/90 switches, adductor rockbacks, foam rolling. ~20 min.
 - **PT-prescribed exercises (non-negotiable):** dead bug with banded pulldown, chin tuck + lifts, side plank with hip abduction (top toe pointing toward floor). See PT_NOTES.md. These are folded into the Mon hip circuit and Fri stability day.

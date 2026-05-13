@@ -25,8 +25,8 @@ Use a simple feel rating when reporting back: **Easy** (4+ reps left in tank), *
 |----------|-------------|-------------|
 | Back squat | 155 lb, 4 × 6 | Good — 3-sec eccentric, hips break first then knees, knees track over toes |
 | Romanian deadlift (RDL) | 155 lb, 4 × 6 — **straps required** | Good — hinge, neutral spine, hamstring stretch. Grip is the limiter without straps; if no straps, drop to 135 for clean reps. |
-| Reverse Nordic | Bodyweight, 3 × 10 | Good — kneel on pad, knees hip-width, glutes squeezed (lock hip extension), 3-sec lower. Build depth slowly week over week (W1: ~45°). Stop on any sharp PF pain. |
 | Standing calf raise | 40 lb/hand DBs, 4 × 10 — **straps + step recommended** | Good — full ROM (heel below step), 2-sec hold at top, 3-sec lower. Grip + balance were W1 limiters; straps free up grip and a weight vest would free up balance. |
+| Reverse Nordic | Bodyweight, 3 × 10 | Good — kneel on pad, knees hip-width, glutes squeezed (lock hip extension), 3-sec lower. Build depth slowly week over week (W1: ~45°). Stop on any sharp PF pain. |
 
 **W1 calibration protocol (Wed May 6, first heavy session):** Warm up the bar (45 × 10, 95 × 5, 115 × 5), then build to a top set of 6 reps that feels Good (2–3 reps in reserve). Whatever weight that lands on becomes the working weight for Sets 2–4 and the W2 starting load. The seeds above are educated guesses for a 155-lb 42M with single-leg strength baseline (Bulgarian splits at 15 lb/hand cleared Good); they'll move 10–20 lb either way after one honest session. Same approach for RDL.
 
@@ -88,8 +88,8 @@ Bodyweight only. Pre-workout activation pattern; not a lift. Two rounds.
 |----------|-------------|-----------|------|-------|
 | Back squat | 155 lb | 4 × 6 (Rx) | Good ("felt right") | W2 hold at 155. Same load as W1 calibration — cleared clean again. Hold 155 for next Wed unless next session feels Easy. |
 | Romanian deadlift (RDL) | _pending_ | _pending_ | _pending_ | Straps were the W1 action item — confirm if available. |
-| Reverse Nordic | _pending_ | _pending_ | _pending_ | Target ~60° depth this week (W1 hit ~45°). |
 | Standing calf raise | _pending_ | _pending_ | _pending_ | Straps + step. |
+| Reverse Nordic | _pending_ | _pending_ | _pending_ | Target ~60° depth this week (W1 hit ~45°). |
 
 **Knee during session:** _pending_
 **Overall notes:** _in-progress — update when session complete._
