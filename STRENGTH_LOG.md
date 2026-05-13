@@ -87,7 +87,7 @@ Bodyweight only. Pre-workout activation pattern; not a lift. Two rounds.
 | Exercise | Weight Used | Sets×Reps | Feel | Notes |
 |----------|-------------|-----------|------|-------|
 | Back squat | 155 lb | 4 × 6 (Rx) | Good ("felt right") | W2 hold at 155. Same load as W1 calibration — cleared clean again. Hold 155 for next Wed unless next session feels Easy. |
-| Romanian deadlift (RDL) | _pending_ | _pending_ | _pending_ | Straps were the W1 action item — confirm if available. |
+| Romanian deadlift (RDL) | 155 lb (straps) | 4 × 6 (Rx) | Good, leaning light | Straps "helped a lot" — first clean RDL session at full load (W1 was grip-limited 155→135). Posterior chain not maxed. Hold 155 for next Wed; if W3 feels clearly Easy, bump to 165. |
 | Standing calf raise | _pending_ | _pending_ | _pending_ | Straps + step. |
 | Reverse Nordic | _pending_ | _pending_ | _pending_ | Target ~60° depth this week (W1 hit ~45°). |
 
