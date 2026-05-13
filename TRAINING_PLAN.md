@@ -142,7 +142,7 @@ Solo 5K simulation: **21:47 (7:00/mi)**. Max HR 183. 1-min HRR 33 BPM.
 | 2026-05-14 | Thu | 6 mi Progression Run | 4mi @ 9:00 / 2mi @ 7:15–7:25 (threshold) |
 | 2026-05-15 | Fri | Stability & Power | Focus on Copenhagen plank adductor tension. **PT follow-up today.** |
 | 2026-05-16 | Sat | 4 mi Shakeout | 9:30+ pace |
-| 2026-05-17 | Sun | Bay to Breakers 15K | 10mi total: 1–6 @ 8:30–8:45 steady / 6–9.3 @ 7:35–7:45 threshold. Cap fast portion at 7:35 — don't let race-day adrenaline pull it to 7:10. Hayes Hill (mi 2) by effort. Knee veto: any 2+ Sat night → revert to 8:45–9:15 / 8:00 MP. |
+| 2026-05-17 | Sun | Bay to Breakers 15K | 10mi total: 1–6 @ 8:30–8:45 steady / 6–9.3 @ 7:35–7:45 threshold. Cap fast portion at 7:35 — don't let race-day adrenaline pull it to 7:10. Hayes Hill (mi 2) by effort. Knee veto: any 2+ Sat night → run entire 10 mi easy @ 9:00, skip the fast finish. |
 
 ### Week 3 deload (May 18–24) — 22 mi | LR 9 mi
 | Date | Day | Workout | Notes |
@@ -197,7 +197,7 @@ Solo 5K simulation: **21:47 (7:00/mi)**. Max HR 183. 1-min HRR 33 BPM.
 | 2026-06-18 | Thu | 6 mi Progression Run | 4mi @ 9:00 / 2mi @ 7:35–7:45 (MP — taper for HM Sun) |
 | 2026-06-19 | Fri | Stability & Power | Spanish squat holds |
 | 2026-06-20 | Sat | Rest | Taper for HM |
-| 2026-06-21 | Sun | **Half Marathon Benchmark** | Presidio HM. **Pivot test:** sub-1:44 / HR<170 final 3mi / zero knee comp. |
+| 2026-06-21 | Sun | **Half Marathon Benchmark** | Presidio HM. **Pivot test:** finish-time gate TBD (will be recalibrated post-May 30 — original sub-1:44 was set off the old VDOT 48–49 reference) / HR<170 final 3mi / zero knee comp. |
 
 ### Week 8 deload (Jun 22–28) — 28 mi | LR 10 mi
 | Date | Day | Workout | Notes |

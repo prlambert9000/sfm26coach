@@ -29,7 +29,7 @@ Do NOT leave changes stranded on the feature branch and tell the user to merge m
 ## Athlete Profile
 
 - **Name:** Paul Lambert, 42 years old, male, 155 lb
-- **Race:** SF Marathon, July 26, 2026. **Baseline goal: 3:30 (8:00/mi).** Upgrade path to 3:20–3:25 contingent on Week 7 Presidio Half Marathon Pivot test (sub-1:44, HR<170 final 3 mi, zero knee compensation).
+- **Race:** SF Marathon, July 26, 2026. **Baseline goal: 3:30 (8:00/mi avg on hilly SF course = 3:18 flat-equivalent = VDOT 54).** Upgrade path to 3:20–3:25 (VDOT 56–57) contingent on Week 7 Presidio Half Marathon Pivot test (finish-time gate TBD post-May 30 calibration race, HR<170 final 3 mi, zero knee compensation).
 - **History:** Ran SF Marathon 2025 in 3:42 on only 6–7 weeks of training. Developed runner's knee in August 2025, had to fully stop running in September. Returned to running in spring 2026, knee has been managing well through April easy runs.
 - **Current fitness:** VO2 max 58 (Apple Watch). **May 3, 2026 solo 5K benchmark: 21:47 (7:00/mi). Working max HR: 180** (May 3 saw 183 at the 5K finishing kick; May 5 track session showed a 190 spike during cooldown that was an Apple Watch artifact, scratched). **1-min HRR 33 BPM.** Ran 10.55 mi at 8:24/mi with 879 ft elevation gain on April 12 in Cambria and felt good.
 - **HR sensor (as of May 12, 2026):** **Polar H10 chest strap** is the primary HR source, paired to Apple Watch via Bluetooth. The watch ingests strap data and writes it to HealthKit/Strava as "Apple Watch" — there is no separate source field exposing Polar specifically. Verify the strap is active before each workout by confirming "Polar H10 — Connected" in Watch Settings → Bluetooth. Trust H10 data as accurate; older wrist-optical entries (notably May 5 cooldown 190 spike and May 9 Victoria run HR readings) remain scratched.
@@ -58,11 +58,11 @@ Do NOT leave changes stranded on the feature branch and tell the user to merge m
 
 Three benchmarks built into the plan. Each carries a coaching purpose, not just a race:
 
-- **May 17 — Bay to Breakers 15K (Week 2):** 10 mi total. Miles 1–6 @ easy 8:45–9:15, miles 6–9.3 @ MP 8:00. First fast-finish stimulus.
-- **May 30 — San Mateo PAL 10K (Week 4):** Pace calibration race. First objective fitness check post-V6 start.
-- **June 21 — Presidio Half Marathon (Week 7):** **Pivot Assessment.** Three criteria gate the upgrade from 3:30 → 3:20–3:25: (1) sub-1:44 finish, (2) avg HR <170 BPM in final 3 mi, (3) zero knee compensation crossing the line. Miss any one → hold 3:30 targets.
+- **May 17 — Bay to Breakers 15K (Week 2):** 10 mi total. Miles 1–6 @ steady 8:30–8:45, miles 6–9.3 @ threshold 7:35–7:45 (cap at 7:35). First fast-finish stimulus.
+- **May 30 — San Mateo PAL 10K (Week 4):** Pace calibration race. First objective fitness check post-V6 start. Target 7:15–7:20/mi.
+- **June 21 — Presidio Half Marathon (Week 7):** **Pivot Assessment.** Three criteria gate the upgrade from 3:30 → 3:20–3:25: (1) finish time (gate to be recalibrated post-May 30 — the original sub-1:44 is now below current fitness and being revised), (2) avg HR <170 BPM in final 3 mi, (3) zero knee compensation crossing the line. Miss any one → hold 3:30 targets.
 
-**VDOT calibration:** May 3 solo 5K (21:47, 7:00/mi) is the seed. Plan pace targets are anchored to that benchmark, not generic VDOT tables. Recalibrate after each benchmark race.
+**VDOT calibration (May 12, 2026 recalibration):** Training paces anchored to **VDOT 54 flat-equivalent** (3:18 flat marathon = 3:30 SF on hilly course). The May 3 5K (21:47, VDOT ~52) is current fitness; the plan builds toward VDOT 54 over 12 weeks. Training physiology, not race-day output — adaptations happen at actual pace on actual (mostly flat) training terrain, not at SF-course-adjusted average pace. Recalibrate after each benchmark race.
 
 ## Daily Briefing Task
 
