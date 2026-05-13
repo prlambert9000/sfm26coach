@@ -88,11 +88,11 @@ Bodyweight only. Pre-workout activation pattern; not a lift. Two rounds.
 |----------|-------------|-----------|------|-------|
 | Back squat | 155 lb | 4 × 6 (Rx) | Good ("felt right") | W2 hold at 155. Same load as W1 calibration — cleared clean again. Hold 155 for next Wed unless next session feels Easy. |
 | Romanian deadlift (RDL) | 155 lb (straps) | 4 × 6 (Rx) | Good, leaning light | Straps "helped a lot" — first clean RDL session at full load (W1 was grip-limited 155→135). Posterior chain not maxed. Hold 155 for next Wed; if W3 feels clearly Easy, bump to 165. |
-| Standing calf raise | 40 lb/hand DBs (step) | 4 × 10 (Rx) | Good (completed Rx) | Grip "no problem" — straps from the RDL freed grip for calves. W1 last 2 sets dropped to 7 reps from grip+balance fatigue; this week all 40 reps clean. Hold 40 lb/hand; bump to 45 next Wed if it felt Easy. |
+| Standing calf raise | 40 lb/hand DBs (step) | 4 × 10 (Rx) | Good leaning Easy | Grip "no problem" — straps from the RDL freed grip for calves. W1 last 2 sets dropped to 7 reps from grip+balance fatigue; this week all 40 reps clean. First clean session at 40 lb/hand — hold for next Wed and bump to 45 if W3 still feels clearly Easy. |
 | Reverse Nordic | Bodyweight | 3 × 10 | Progressing | Got deeper than W1 (~45°) on some reps but not all — quad flexibility is the limiter as expected. Continue gradual build; full mat depth not the goal yet. |
 
-**Knee during session:** _to confirm (no issue volunteered mid-session)_
-**Overall notes:** Strong W2 session — all four exercises completed Rx. Straps were the standout equipment win: RDL went from grip-failed in W1 (155→135) to clean at 155, and calves went from 7-rep dropoff sets to all 40 reps clean. Squat held the W1 load comfortably. Reverse Nordic depth progressing on some reps — slow build, no PF complaint reported. Next Wed: hold all weights and reassess after one more clean rep. PT follow-up Fri May 15 will gate any aggressive lower-body progression.
+**Knee during session:** 1/5 — no awareness across a full heavy session.
+**Overall notes:** Strong W2 session — all four exercises completed Rx, knee 1/5 throughout. Straps were the standout equipment win: RDL went from grip-failed in W1 (155→135) to clean at 155 (Good leaning light), and calves went from 7-rep dropoff sets to all 40 reps clean (Good leaning Easy). Squat held the W1 load comfortably. Reverse Nordic depth progressing past W1's ~45° on some reps — slow build, no PF complaint. Knee at 1/5 across a heavy compound day is the most important data point and clears lower-body progression for W3 if these "leaning Easy" signals firm up. Next Wed: hold all weights, bump RDL to 165 and calves to 45 only if those exercises feel clearly Easy. PT follow-up Fri May 15 will gate any aggressive lower-body progression.
 
 ---
 
