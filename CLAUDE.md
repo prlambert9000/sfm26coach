@@ -58,7 +58,7 @@ Do NOT leave changes stranded on the feature branch and tell the user to merge m
 
 Three benchmarks built into the plan. Each carries a coaching purpose, not just a race:
 
-- **May 17 — Bay to Breakers 15K (Week 2):** 10 mi total. Miles 1–6 @ steady 8:30–8:45, miles 6–9.3 @ threshold 7:35–7:45 (cap at 7:35). First fast-finish stimulus.
+- **May 17 — Bay to Breakers 15K (Week 2):** 10 mi total. Miles 1–6 @ steady 8:30–8:45, miles 6–9.3 @ MP 7:35–7:45 (cap at 7:35). First fast-finish stimulus.
 - **May 30 — San Mateo PAL 10K (Week 4):** Pace calibration race. First objective fitness check post-V6 start. Target 7:15–7:20/mi.
 - **June 21 — Presidio Half Marathon (Week 7):** **Pivot Assessment.** Three criteria gate the upgrade from 3:30 → 3:20–3:25: (1) finish time (gate to be recalibrated post-May 30 — the original sub-1:44 is now below current fitness and being revised), (2) avg HR <170 BPM in final 3 mi, (3) zero knee compensation crossing the line. Miss any one → hold 3:30 targets.
 
