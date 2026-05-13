@@ -88,7 +88,7 @@ Bodyweight only. Pre-workout activation pattern; not a lift. Two rounds.
 |----------|-------------|-----------|------|-------|
 | Back squat | 155 lb | 4 × 6 (Rx) | Good ("felt right") | W2 hold at 155. Same load as W1 calibration — cleared clean again. Hold 155 for next Wed unless next session feels Easy. |
 | Romanian deadlift (RDL) | 155 lb (straps) | 4 × 6 (Rx) | Good, leaning light | Straps "helped a lot" — first clean RDL session at full load (W1 was grip-limited 155→135). Posterior chain not maxed. Hold 155 for next Wed; if W3 feels clearly Easy, bump to 165. |
-| Standing calf raise | _pending_ | _pending_ | _pending_ | Straps + step. |
+| Standing calf raise | 40 lb/hand DBs (step) | 4 × 10 (Rx) | Good (completed Rx) | Grip "no problem" — straps from the RDL freed grip for calves. W1 last 2 sets dropped to 7 reps from grip+balance fatigue; this week all 40 reps clean. Hold 40 lb/hand; bump to 45 next Wed if it felt Easy. |
 | Reverse Nordic | _pending_ | _pending_ | _pending_ | Target ~60° depth this week (W1 hit ~45°). |
 
 **Knee during session:** _pending_
