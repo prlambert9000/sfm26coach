@@ -141,7 +141,7 @@ Solo 5K simulation: **21:47 (7:00/mi)**. Max HR 183. 1-min HRR 33 BPM.
 | 2026-05-25 | Mon | Hip Complex Circuit | Pre-benchmark mobility |
 | 2026-05-26 | Tue | 6×1000m Track Intervals | 7:00–7:10 pace; 90s rec |
 | 2026-05-27 | Wed | Heavy Strength | Core stability integration |
-| 2026-05-28 | Thu | 7 mi Steady Base | 8:30–8:45 |
+| 2026-05-28 | Thu | 7 mi Pre-Race Sharpener | 4mi @ 8:30 / 2mi @ 7:15–7:20 (cap at 7:15 — don't race the workout) / 1mi CD @ 9:00. First continuous race-pace block before Sat's 10K. Knee 2+ Thu AM → revert to 5 mi easy @ 9:00. |
 | 2026-05-29 | Fri | Stability & Power | Light mobility focus |
 | 2026-05-30 | Sat | 10K Benchmark Race | San Mateo PAL 10K (Seal Point Park) |
 | 2026-05-31 | Sun | 11 mi Long Run | 8:45–9:15 |
