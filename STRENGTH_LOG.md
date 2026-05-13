@@ -81,6 +81,21 @@ Bodyweight only. Pre-workout activation pattern; not a lift. Two rounds.
 
 ## Session Logs
 
+### 2026-05-13 — Wed Heavy Strength (V6 Week 2) *(in progress)*
+**Body Weight:** Not reported
+
+| Exercise | Weight Used | Sets×Reps | Feel | Notes |
+|----------|-------------|-----------|------|-------|
+| Back squat | 155 lb | 4 × 6 (Rx) | Good ("felt right") | W2 hold at 155. Same load as W1 calibration — cleared clean again. Hold 155 for next Wed unless next session feels Easy. |
+| Romanian deadlift (RDL) | _pending_ | _pending_ | _pending_ | Straps were the W1 action item — confirm if available. |
+| Reverse Nordic | _pending_ | _pending_ | _pending_ | Target ~60° depth this week (W1 hit ~45°). |
+| Standing calf raise | _pending_ | _pending_ | _pending_ | Straps + step. |
+
+**Knee during session:** _pending_
+**Overall notes:** _in-progress — update when session complete._
+
+---
+
 ### 2026-05-08 — Fri Stability & Power (V6 Week 1)
 **Body Weight:** Not reported
 
