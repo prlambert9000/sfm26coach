@@ -10,7 +10,7 @@
 
 ## Current Recommended Weights
 
-*Last updated: 2026-05-08 (W1 Fri Stability — Bulgarian split squat 15→20 lb/hand cleared Good; Copenhagen plank progressed to 30s/side; SL-RDL 20 lb contralateral cleared Easy → progress to 25 contralateral next.)*
+*Last updated: 2026-05-13 (W2 Wed Heavy — all four exercises completed Rx, no weight changes. Squat 155 Good. RDL 155 Good leaning light w/ straps (1st clean session at full load — bump to 165 next Wed if clearly Easy). Calf raise 40 lb/hand full 4×10 clean (W1 had 7-rep dropoffs). Reverse Nordic depth progressing past W1's ~45° on some reps.)*
 
 Use a simple feel rating when reporting back: **Easy** (4+ reps left in tank), **Good** (2–3 reps in reserve), **Heavy** (grinding last rep), **Too heavy** (couldn't complete reps).
 
@@ -81,7 +81,7 @@ Bodyweight only. Pre-workout activation pattern; not a lift. Two rounds.
 
 ## Session Logs
 
-### 2026-05-13 — Wed Heavy Strength (V6 Week 2) *(in progress)*
+### 2026-05-13 — Wed Heavy Strength (V6 Week 2)
 **Body Weight:** Not reported
 
 | Exercise | Weight Used | Sets×Reps | Feel | Notes |
@@ -89,10 +89,10 @@ Bodyweight only. Pre-workout activation pattern; not a lift. Two rounds.
 | Back squat | 155 lb | 4 × 6 (Rx) | Good ("felt right") | W2 hold at 155. Same load as W1 calibration — cleared clean again. Hold 155 for next Wed unless next session feels Easy. |
 | Romanian deadlift (RDL) | 155 lb (straps) | 4 × 6 (Rx) | Good, leaning light | Straps "helped a lot" — first clean RDL session at full load (W1 was grip-limited 155→135). Posterior chain not maxed. Hold 155 for next Wed; if W3 feels clearly Easy, bump to 165. |
 | Standing calf raise | 40 lb/hand DBs (step) | 4 × 10 (Rx) | Good (completed Rx) | Grip "no problem" — straps from the RDL freed grip for calves. W1 last 2 sets dropped to 7 reps from grip+balance fatigue; this week all 40 reps clean. Hold 40 lb/hand; bump to 45 next Wed if it felt Easy. |
-| Reverse Nordic | _pending_ | _pending_ | _pending_ | Target ~60° depth this week (W1 hit ~45°). |
+| Reverse Nordic | Bodyweight | 3 × 10 | Progressing | Got deeper than W1 (~45°) on some reps but not all — quad flexibility is the limiter as expected. Continue gradual build; full mat depth not the goal yet. |
 
-**Knee during session:** _pending_
-**Overall notes:** _in-progress — update when session complete._
+**Knee during session:** _to confirm (no issue volunteered mid-session)_
+**Overall notes:** Strong W2 session — all four exercises completed Rx. Straps were the standout equipment win: RDL went from grip-failed in W1 (155→135) to clean at 155, and calves went from 7-rep dropoff sets to all 40 reps clean. Squat held the W1 load comfortably. Reverse Nordic depth progressing on some reps — slow build, no PF complaint reported. Next Wed: hold all weights and reassess after one more clean rep. PT follow-up Fri May 15 will gate any aggressive lower-body progression.
 
 ---
 
