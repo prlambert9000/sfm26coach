@@ -100,7 +100,7 @@ Solo 5K simulation: **21:47 (7:00/mi)**. Max HR 183. 1-min HRR 33 BPM.
 
 ### Phase 1: Foundation & Durability (Weeks 1–4)
 - **Week 1 (May 4–10):** 20 mi | LR 8 mi
-- **Week 2 (May 11–17):** 24 mi | LR 10 mi (Bay to Breakers 15K — 8:30–8:45 steady / 7:35–7:45 threshold finish)
+- **Week 2 (May 11–17):** 24 mi | LR 10 mi (Bay to Breakers 15K — 8:30–8:45 steady / 7:35–7:45 MP finish)
 - **Week 3 deload (May 18–24):** 22 mi | LR 9 mi
 - **Week 4 (May 25–31):** 26 mi | LR 11 mi (San Mateo PAL 10K benchmark, May 30)
 
@@ -142,7 +142,7 @@ Solo 5K simulation: **21:47 (7:00/mi)**. Max HR 183. 1-min HRR 33 BPM.
 | 2026-05-14 | Thu | 6 mi Progression Run | 4mi @ 9:00 / 2mi @ 7:15–7:25 (threshold) |
 | 2026-05-15 | Fri | Stability & Power | Focus on Copenhagen plank adductor tension. **PT follow-up today.** |
 | 2026-05-16 | Sat | 4 mi Shakeout | 9:30+ pace |
-| 2026-05-17 | Sun | Bay to Breakers 15K | 10mi total: 1–6 @ 8:30–8:45 steady / 6–9.3 @ 7:35–7:45 threshold. Cap fast portion at 7:35 — don't let race-day adrenaline pull it to 7:10. Hayes Hill (mi 2) by effort. Knee veto: any 2+ Sat night → run entire 10 mi easy @ 9:00, skip the fast finish. |
+| 2026-05-17 | Sun | Bay to Breakers 15K | 10mi total: 1–6 @ 8:30–8:45 steady / 6–9.3 @ 7:35–7:45 MP. Cap fast portion at 7:35 — don't let race-day adrenaline pull it to 7:10. Hayes Hill (mi 2) by effort. Knee veto: any 2+ Sat night → run entire 10 mi easy @ 9:00, skip the fast finish. |
 
 ### Week 3 deload (May 18–24) — 22 mi | LR 9 mi
 | Date | Day | Workout | Notes |
