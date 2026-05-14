@@ -1,0 +1,123 @@
+{
+  "activity_id": 18477691031,
+  "avg_cadence_spm": null,
+  "avg_hr": 146.3,
+  "avg_pace": "8:28/mi",
+  "avg_power_w": 232.8,
+  "calories": 839.0,
+  "date": "2026-05-12",
+  "date_heading": "May 12, 2026",
+  "description": "",
+  "distance_mi": 8.101,
+  "elapsed_time_s": 4139,
+  "elevation_gain_ft": 154.2,
+  "fetched_at": "2026-05-14T15:34:58Z",
+  "hr_zones": [
+    {
+      "max": 116,
+      "min": 0,
+      "time_s": 41.0
+    },
+    {
+      "max": 144,
+      "min": 117,
+      "time_s": 2013.0
+    },
+    {
+      "max": 158,
+      "min": 145,
+      "time_s": 1183.0
+    },
+    {
+      "max": 173,
+      "min": 159,
+      "time_s": 882.0
+    },
+    {
+      "max": -1,
+      "min": 174,
+      "time_s": 0.0
+    }
+  ],
+  "max_hr": 167.0,
+  "moving_time_s": 4119,
+  "name": "Track 6x800",
+  "splits": [
+    {
+      "avg_hr": 132.09638554216866,
+      "distance_mi": 1.001,
+      "elev_diff_ft": -124.7,
+      "mile": 1,
+      "moving_time_s": 498,
+      "pace": "8:17"
+    },
+    {
+      "avg_hr": 139.31322957198444,
+      "distance_mi": 1.001,
+      "elev_diff_ft": -51.2,
+      "mile": 2,
+      "moving_time_s": 514,
+      "pace": "8:33"
+    },
+    {
+      "avg_hr": 145.93801652892563,
+      "distance_mi": 0.999,
+      "elev_diff_ft": -9.8,
+      "mile": 3,
+      "moving_time_s": 496,
+      "pace": "8:16"
+    },
+    {
+      "avg_hr": 156.15454545454546,
+      "distance_mi": 1.0,
+      "elev_diff_ft": -0.7,
+      "mile": 4,
+      "moving_time_s": 456,
+      "pace": "7:35"
+    },
+    {
+      "avg_hr": 152.74248927038627,
+      "distance_mi": 1.001,
+      "elev_diff_ft": 0.7,
+      "mile": 5,
+      "moving_time_s": 505,
+      "pace": "8:24"
+    },
+    {
+      "avg_hr": 155.69230769230768,
+      "distance_mi": 0.999,
+      "elev_diff_ft": 2.0,
+      "mile": 6,
+      "moving_time_s": 498,
+      "pace": "8:18"
+    },
+    {
+      "avg_hr": 144.35154826958106,
+      "distance_mi": 1.001,
+      "elev_diff_ft": 23.6,
+      "mile": 7,
+      "moving_time_s": 549,
+      "pace": "9:08"
+    },
+    {
+      "avg_hr": 146.37408759124088,
+      "distance_mi": 0.999,
+      "elev_diff_ft": 82.7,
+      "mile": 8,
+      "moving_time_s": 548,
+      "pace": "9:08"
+    },
+    {
+      "avg_hr": 151.0566037735849,
+      "distance_mi": 0.1,
+      "elev_diff_ft": -5.2,
+      "mile": 9,
+      "moving_time_s": 55,
+      "pace": "9:10"
+    }
+  ],
+  "start_local": "2026-05-12T06:08:49Z",
+  "strava_url": "https://www.strava.com/activities/18477691031",
+  "suffer_score": 125.0,
+  "type": "Run"
+}
