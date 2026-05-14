@@ -28,19 +28,21 @@ To manage patellofemoral inflammation, dietary intervention targets systemic inf
 
 Goal: increase carbohydrate absorption efficiency to 90 g/hr by Week 10.
 
-- **Weeks 1–4:** Practice 40–50 g/hr during Sunday long runs.
-- **Weeks 5–8:** Increase to 60–75 g/hr. Hydrogel technology (Maurten) or maple-syrup-based concentrates.
-- **Weeks 9–10:** Hit 90 g/hr to simulate race-day intensity and stomach tolerance.
+**Chosen fueling system (decided pre-V6, locked in May 13):** **Neversecond C30** — both the gel and the drink mix. Each gel delivers 30 g carb (2:1 glucose:fructose dual-source). The drink mix is the matched electrolyte/carb carrier and also uses C30's dual-source ratio, so pre-run drink + in-run gels stack cleanly without flavor or absorption conflicts. No Maurten, no SiS, no Gu — single brand keeps GI variables controlled through marathon day.
+
+- **Weeks 1–4:** Practice 40–50 g/hr during Sunday long runs (≈ 1.5 C30 gels per hour, OR 1 gel + drink mix).
+- **Weeks 5–8:** 60–75 g/hr (2–2.5 gels per hour, OR gel + drink mix stack).
+- **Weeks 9–10:** 90 g/hr (3 gels per hour, OR 2 gels + concentrated drink mix flask).
 
 ### Bay to Breakers fuel rehearsal (Week 2 — first real practice)
 
-B2B (May 17) is the first race-pace effort long enough to need real fueling. The Thursday progression run before it is the dry run — same protocol, smaller dose, threshold finish to stress the gut.
+B2B (May 17) is the first race-pace effort long enough to need real fueling, and the first time C30 sees actual run-load. The Thursday progression run before it is the dry run — same brand, smaller dose, threshold finish to stress the gut.
 
-- **Thu May 14 (6 mi progression):** Pre-run 25 g carb (banana + ½ slice toast OR 1 Maurten Gel 100) + 8 oz water with electrolyte 30 min out. **One gel (~25 g) at mile 3.5,** right before the threshold transition. Note any GI complaints — this informs the Sunday gel choice.
-- **Sat May 16 (5K shakeout):** No fuel. Normal hydration only.
-- **Sun May 17 (B2B 15K, 10 mi total):** 30 g carb 60 min pre-start + electrolyte sip. **Gel at mile 3, gel at mile 6** (right before MP transition) = ~50 g across ~80 min ≈ 40 g/hr. Water at every aid station.
+- **Thu May 14 (6 mi progression):** Pre-run (30 min out): small banana (~15 g carb) + 8 oz water with **½ scoop C30 drink mix** (~15 g carb, electrolytes). **One C30 gel (30 g) at mile 3.5,** right before the threshold transition. Watch for any GI signal — taste, swallow ease, stomach feel during the threshold 2 mi.
+- **Sat May 16 (5K shakeout):** No fuel. Normal hydration only. Save the gut for Sunday.
+- **Sun May 17 (B2B 15K, 10 mi total):** Pre-race (60 min out): small banana + 8 oz water with **½ scoop C30 drink mix** (~30 g carb total). Sip 4 oz water + remaining ½ scoop drink mix 15 min before gun. **C30 gel at mile 3, C30 gel at mile 6** (right before MP transition) = 60 g across ~80 min ≈ **45 g/hr**, top of the Weeks 1–4 band. Water at every aid station.
 
-Default gel: Maurten Gel 100 (25 g carb, no flavoring artifacts on stomach). Backup: SiS Beta Fuel or Gu Roctane.
+If C30 sits well Thursday → locked for the season. If anything's off (sweetness, GI complaint, swallow effort mid-pace) we adjust before Sunday — but the goal is brand consistency from here to July 26.
 
 ## V. Metabolic Management for the CEO Schedule
 
