@@ -28,7 +28,16 @@ To manage patellofemoral inflammation, dietary intervention targets systemic inf
 
 Goal: increase carbohydrate absorption efficiency to 90 g/hr by Week 10.
 
-**Chosen fueling system (decided pre-V6, locked in May 13):** **Neversecond C30** — both the gel and the drink mix. Each gel delivers 30 g carb (2:1 glucose:fructose dual-source). The drink mix is the matched electrolyte/carb carrier and also uses C30's dual-source ratio, so pre-run drink + in-run gels stack cleanly without flavor or absorption conflicts. No Maurten, no SiS, no Gu — single brand keeps GI variables controlled through marathon day.
+**Chosen fueling system (decided pre-V6, locked in May 13):** **Neversecond C30** — both the gel and the drink mix. Single brand keeps GI variables controlled through marathon day. No Maurten, no SiS, no Gu.
+
+**Verified label specs (May 13, 2026):**
+
+| Product | Serving | Carb | Sodium | Sugars |
+|---|---|---|---|---|
+| C30 Drink Mix | 1 scoop = 32 g powder | 30 g | 200 mg | 12 g |
+| C30 Gel | 1 pack = 60 mL | 30 g | 200 mg | 10 g |
+
+Both are maltodextrin + fructose dual-source. The gel is water-based with pectin (hydrogel texture, easier swallow at pace) and adds calcium lactate + potassium. The drink mix bag's own instruction notes that **2 scoops = 70 g CHO drink mix** for a bottle — that's the brand-intended high-rate prep for Weeks 5+ when targeting 60–90 g/hr.
 
 - **Weeks 1–4:** Practice 40–50 g/hr during Sunday long runs (≈ 1.5 C30 gels per hour, OR 1 gel + drink mix).
 - **Weeks 5–8:** 60–75 g/hr (2–2.5 gels per hour, OR gel + drink mix stack).
