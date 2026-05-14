@@ -1,5 +1,19 @@
 # Workout Log
 
+## May 14, 2026
+
+- **Workout:** 6 mi Progression Run (V6 Week 2 Thursday) — executed by HR, not pace
+- **Type:** Run
+- **Distance:** 6.8 mi
+- **Time:** ~56:06
+- **Avg Pace:** ~8:15/mi
+- **Elevation Gain:** 282 ft (max elev 213 ft) — hilly home roads, first mile -131 ft net, mile 6 +24 ft, final 0.8 mi +114 ft climb back to the house
+- **Avg Heart Rate:** trended low-to-mid 140s in the easy section, 160s in the threshold section; peak 163 on the uphill close (full HR trace will come in on Strava sync)
+- **Splits (pace / elev / HR):** 1: 8:03 / -131 / 136 · 2: 8:39 / +20 / 148 · 3: 8:37 / -37 / 147 · 4: 8:37 / -24 / 149 · 5: 7:39 / -10 / 159 · 6: 7:42 / +24 / 162 · 0.8: 8:31 / +114 / 163
+- **Structure executed:** ~4 mi steady (avg ~8:29, HR 136–149, fully aerobic) → 2 mi threshold by HR (7:39 / 7:42, HR 159–162) → 0.8 mi uphill close (8:31, HR 163, peaked at 165 cap zone)
+- **Knee Status:** (pending — awaiting athlete feedback)
+- **Notes:** Smart adaptation — Paul ditched pace targets in favor of HR because the home loop has too much vertical for clean pace anchoring. Result is a textbook progression by effort. Easy section was paced 8:30-ish, faster than the 9:00 target on paper, but HR 136–149 is squarely aerobic, so the physiology matches the easy intent (the -131 ft mile 1 explains 8:03 at HR 136 — gravity, not effort). Threshold miles at 7:39 / 7:42 are *slower* than the 7:15–7:25 flat target, but HR 159–162 is genuine threshold zone (88–90% of 180 max). On a flat road that same HR would be 7:15–7:25; the pace tax is the climb. Final 0.8 mi @ HR 163 with 114 ft of gain matches the plan's "switch to HR (155–162, cap 165)" instruction for the uphill close — executed exactly as scripted. Polar H10 trace looks clean: smooth rise mile 4→5 into threshold, steady mid-160s through the climb, no optical-artifact spikes. Fuel rehearsal status pending (was it done? banana + ½ scoop C30 pre, C30 gel @ mile 3.5).
+
 ## May 12, 2026
 
 - **Workout:** 6×800m Track Intervals (V6 Week 2 Tuesday)
