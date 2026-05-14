@@ -1,15 +1,34 @@
 #!/usr/bin/env python3
-"""Pull new activities from Strava and append to WORKOUT_LOG.md."""
+"""Pull Strava activities into per-activity JSON sidecars at strava/activities/<id>.json.
 
+Architecture (locked May 14, 2026):
+- Each Strava activity is captured as one immutable JSON file at strava/activities/<activity_id>.json.
+  The file is the structured source of truth for objective workout data.
+- WORKOUT_LOG.md remains the human-readable narrative log. The coach (or athlete) writes prose
+  there, folding in numbers from the JSON sidecar when useful.
+- This script only appends a minimal stub to WORKOUT_LOG.md for a date when no entry exists for
+  that date yet. If an entry already exists, the script leaves the markdown alone — the JSON
+  is captured for the coach to read on the next pass.
+
+Run modes:
+- Default: pull activities from the last 3 days (normal polling cadence).
+- Backfill: pass --days N to pull a longer window. JSON files are immutable; re-running is safe.
+"""
+
+import argparse
+import json
 import os
 import re
 import sys
 import time
-import requests
 from collections import defaultdict
 from datetime import datetime, timedelta
+from pathlib import Path
 
-WORKOUT_LOG = "WORKOUT_LOG.md"
+import requests
+
+WORKOUT_LOG = Path("WORKOUT_LOG.md")
+ACTIVITIES_DIR = Path("strava/activities")
 STRAVA_API = "https://www.strava.com/api/v3"
 
 
@@ -25,32 +44,27 @@ def get_access_token():
     return resp.json()["access_token"]
 
 
-def get_logged_counts():
-    """Read WORKOUT_LOG.md and return {date_heading: count_of_entries}.
-
-    Counts entries per date so multi-run days only re-log the unaccounted tail.
-    """
-    counts = defaultdict(int)
-    with open(WORKOUT_LOG, "r") as f:
+def logged_dates():
+    """Return the set of '## <Date>' headings already present in WORKOUT_LOG.md."""
+    dates = set()
+    if not WORKOUT_LOG.exists():
+        return dates
+    with WORKOUT_LOG.open() as f:
         for line in f:
             m = re.match(r"^## ([A-Z][a-z]+ \d{1,2}, \d{4})\b", line.strip())
             if m:
-                counts[m.group(1).strip()] += 1
-    return counts
+                dates.add(m.group(1).strip())
+    return dates
 
 
 def format_pace(moving_time_s, distance_m):
-    """Convert to min:sec per mile."""
     if distance_m <= 0:
-        return "N/A"
+        return None
     pace_s = moving_time_s / (distance_m / 1609.344)
-    mins = int(pace_s // 60)
-    secs = int(pace_s % 60)
-    return f"{mins}:{secs:02d}/mi"
+    return f"{int(pace_s // 60)}:{int(pace_s % 60):02d}/mi"
 
 
 def format_time(seconds):
-    """Format seconds as H:MM:SS or M:SS."""
     h = seconds // 3600
     m = (seconds % 3600) // 60
     s = seconds % 60
@@ -60,163 +74,183 @@ def format_time(seconds):
 
 
 def format_date_heading(dt):
-    """Format datetime as 'Month Day, Year'."""
     return dt.strftime("%B %-d, %Y")
 
 
-def get_splits(activity_detail):
-    """Extract mile split paces from activity detail."""
-    splits = activity_detail.get("splits_standard", [])
-    if not splits:
-        return "N/A"
-    paces = []
-    for split in splits:
-        dist = split.get("distance", 0)
-        time_s = split.get("moving_time", 0)
-        if dist > 0:
-            pace_s = time_s / (dist / 1609.344)
-            mins = int(pace_s // 60)
-            secs = int(pace_s % 60)
-            paces.append(f"{mins}:{secs:02d}")
-    return ", ".join(paces)
+def extract_splits(detail):
+    """Return per-mile splits with pace, time, HR, and elevation diff (feet)."""
+    out = []
+    for i, s in enumerate(detail.get("splits_standard", []) or [], start=1):
+        dist_m = s.get("distance", 0)
+        time_s = s.get("moving_time", 0)
+        pace = None
+        if dist_m > 0:
+            pace_s = time_s / (dist_m / 1609.344)
+            pace = f"{int(pace_s // 60)}:{int(pace_s % 60):02d}"
+        out.append({
+            "mile": i,
+            "distance_mi": round(dist_m / 1609.344, 3),
+            "moving_time_s": time_s,
+            "pace": pace,
+            "avg_hr": s.get("average_heartrate"),
+            "elev_diff_ft": round((s.get("elevation_difference") or 0) * 3.28084, 1),
+        })
+    return out
 
 
-def get_hr_zones(activity_id, token):
-    """Get heart rate zone distribution."""
+def fetch_hr_zones(activity_id, token):
     resp = requests.get(
         f"{STRAVA_API}/activities/{activity_id}/zones",
         headers={"Authorization": f"Bearer {token}"},
     )
     if resp.status_code != 200:
         return None
-    zones = resp.json()
-    for z in zones:
+    for z in resp.json():
         if z.get("type") == "heartrate":
-            return z.get("distribution_buckets", [])
+            return [
+                {"min": b.get("min"), "max": b.get("max"), "time_s": b.get("time")}
+                for b in z.get("distribution_buckets", [])
+            ]
     return None
 
 
+def build_sidecar(detail, hr_zones):
+    """Build the JSON object for one activity. Curated fields only — keep stable."""
+    start_local = detail.get("start_date_local", "")
+    dt = datetime.fromisoformat(start_local.replace("Z", "+00:00"))
+    distance_m = detail.get("distance", 0)
+    moving_time = detail.get("moving_time", 0)
+    avg_cadence = detail.get("average_cadence")
+    return {
+        "activity_id": detail["id"],
+        "name": detail.get("name"),
+        "type": detail.get("type"),
+        "start_local": start_local,
+        "date": dt.strftime("%Y-%m-%d"),
+        "date_heading": format_date_heading(dt),
+        "distance_mi": round(distance_m / 1609.344, 3),
+        "moving_time_s": moving_time,
+        "elapsed_time_s": detail.get("elapsed_time", 0),
+        "avg_pace": format_pace(moving_time, distance_m),
+        "elevation_gain_ft": round((detail.get("total_elevation_gain") or 0) * 3.28084, 1),
+        "avg_hr": detail.get("average_heartrate"),
+        "max_hr": detail.get("max_heartrate"),
+        "avg_cadence_spm": int(avg_cadence * 2) if avg_cadence else None,
+        "avg_power_w": detail.get("average_watts"),
+        "calories": detail.get("calories"),
+        "suffer_score": detail.get("suffer_score"),
+        "description": detail.get("description") or "",
+        "strava_url": f"https://www.strava.com/activities/{detail['id']}",
+        "splits": extract_splits(detail),
+        "hr_zones": hr_zones,
+        "fetched_at": datetime.utcnow().isoformat(timespec="seconds") + "Z",
+    }
+
+
+def write_sidecar(sidecar):
+    """Write JSON sidecar. Returns True if written, False if already existed."""
+    path = ACTIVITIES_DIR / f"{sidecar['activity_id']}.json"
+    if path.exists():
+        return False
+    ACTIVITIES_DIR.mkdir(parents=True, exist_ok=True)
+    path.write_text(json.dumps(sidecar, indent=2, sort_keys=True) + "\n")
+    return True
+
+
+def append_stub(sidecar):
+    """Append a minimal narrative stub to WORKOUT_LOG.md for a date not yet present.
+
+    Only the bare-minimum fields. Coach is expected to expand this entry by reading the
+    JSON sidecar and folding in the analysis. The stub is here so days when no manual
+    feedback is provided still leave a visible breadcrumb in the log.
+    """
+    hr = "N/A"
+    if sidecar.get("avg_hr"):
+        hr = f"{sidecar['avg_hr']:.0f} bpm"
+        if sidecar.get("max_hr"):
+            hr += f" (max {sidecar['max_hr']:.0f})"
+    splits = ", ".join(s["pace"] for s in sidecar["splits"] if s.get("pace"))
+    cadence = f"{sidecar['avg_cadence_spm']} spm" if sidecar.get("avg_cadence_spm") else "N/A"
+    effort = ""
+    if sidecar.get("suffer_score"):
+        effort = f"\n- **Relative Effort:** {sidecar['suffer_score']}"
+    entry = f"""
+## {sidecar['date_heading']}
+
+- **Workout:** {sidecar['name']}
+- **Type:** {sidecar['type']}
+- **Distance:** {sidecar['distance_mi']:.2f} mi
+- **Time:** {format_time(sidecar['moving_time_s'])}
+- **Avg Pace:** {sidecar['avg_pace']}
+- **Elevation Gain:** {sidecar['elevation_gain_ft']:.0f} ft
+- **Avg Heart Rate:** {hr}
+- **Avg Cadence:** {cadence}
+- **Splits:** {splits}{effort}
+- **Strava sidecar:** `strava/activities/{sidecar['activity_id']}.json`
+- **Knee Status:** (pending — update after reviewing)
+- **Notes:** Auto-logged from Strava. Awaiting athlete feedback.
+"""
+    with WORKOUT_LOG.open("a") as f:
+        f.write(entry)
+
+
 def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--days", type=int, default=3, help="Activity lookback window (default: 3)")
+    args = parser.parse_args()
+
     token = get_access_token()
-    print("Got access token")
+    print(f"Got access token; pulling last {args.days} days")
 
-    logged_counts = get_logged_counts()
-    print(f"Already logged counts by date: {dict(logged_counts)}")
-
-    # Fetch activities from the last 3 days
-    after = int((datetime.now() - timedelta(days=3)).timestamp())
+    after = int((datetime.now() - timedelta(days=args.days)).timestamp())
     resp = requests.get(
         f"{STRAVA_API}/athlete/activities",
         headers={"Authorization": f"Bearer {token}"},
-        params={"after": after, "per_page": 30},
+        params={"after": after, "per_page": 100},
     )
     resp.raise_for_status()
     activities = resp.json()
-    print(f"Found {len(activities)} activities in the last 3 days")
+    print(f"Found {len(activities)} total activities in window")
 
-    # Group runnable activities by date, sorted oldest-first within each date
-    by_date = defaultdict(list)
-    for activity in activities:
-        activity_type = activity.get("type", "")
-        if activity_type not in ("Run", "Walk", "Hike"):
-            print(f"Skipping {activity.get('name')} ({activity_type})")
+    runnable = [a for a in activities if a.get("type") in ("Run", "Walk", "Hike")]
+    print(f"  {len(runnable)} runnable (Run/Walk/Hike)")
+
+    existing_dates = logged_dates()
+    written_sidecars = []
+    stubbed_dates = set()
+
+    for a in sorted(runnable, key=lambda x: x.get("start_date_local", "")):
+        aid = a["id"]
+        sidecar_path = ACTIVITIES_DIR / f"{aid}.json"
+        if sidecar_path.exists():
+            print(f"  [skip] {aid} sidecar exists ({a.get('name')})")
             continue
-        start_local = activity.get("start_date_local", "")
-        dt = datetime.fromisoformat(start_local.replace("Z", "+00:00"))
-        date_heading = format_date_heading(dt)
-        by_date[date_heading].append((dt, activity))
 
-    # For each date, only log activities beyond the count already logged
-    to_process = []
-    for date_heading, items in by_date.items():
-        items.sort(key=lambda x: x[0])  # oldest first
-        already = logged_counts.get(date_heading, 0)
-        if len(items) <= already:
-            print(f"All {len(items)} activity(s) on {date_heading} already logged")
-            continue
-        new_for_date = items[already:]
-        print(f"{date_heading}: {already} logged, {len(items)} on Strava → adding {len(new_for_date)}")
-        for dt, activity in new_for_date:
-            to_process.append((date_heading, activity))
-
-    new_entries = []
-
-    for date_heading, activity in to_process:
-        activity_type = activity.get("type", "")
-        activity_id = activity["id"]
-        print(f"Fetching details for: {activity.get('name')} ({activity_id})")
-
-        # Rate limit: be polite
         time.sleep(1)
-
-        # Get full activity detail
         detail_resp = requests.get(
-            f"{STRAVA_API}/activities/{activity_id}",
+            f"{STRAVA_API}/activities/{aid}",
             headers={"Authorization": f"Bearer {token}"},
         )
         detail_resp.raise_for_status()
         detail = detail_resp.json()
+        hr_zones = fetch_hr_zones(aid, token)
 
-        # Extract metrics
-        distance_mi = detail.get("distance", 0) / 1609.344
-        moving_time = detail.get("moving_time", 0)
-        elapsed_time = detail.get("elapsed_time", 0)
-        avg_pace = format_pace(moving_time, detail.get("distance", 0))
-        elevation_ft = detail.get("total_elevation_gain", 0) * 3.28084
-        avg_hr = detail.get("average_heartrate")
-        max_hr = detail.get("max_heartrate")
-        avg_cadence = detail.get("average_cadence")
-        calories = detail.get("calories")
-        splits = get_splits(detail)
-        name = detail.get("name", activity_type)
-        description = detail.get("description", "")
-        suffer_score = detail.get("suffer_score")
+        sidecar = build_sidecar(detail, hr_zones)
+        if write_sidecar(sidecar):
+            print(f"  [write] strava/activities/{aid}.json — {sidecar['name']} ({sidecar['date_heading']})")
+            written_sidecars.append(sidecar)
 
-        # Format cadence (Strava reports per-foot, double for spm)
-        cadence_str = "N/A"
-        if avg_cadence:
-            cadence_str = f"{int(avg_cadence * 2)} spm"
+        if (
+            sidecar["date_heading"] not in existing_dates
+            and sidecar["date_heading"] not in stubbed_dates
+        ):
+            append_stub(sidecar)
+            stubbed_dates.add(sidecar["date_heading"])
+            print(f"  [stub]  appended WORKOUT_LOG entry for {sidecar['date_heading']}")
+        else:
+            print(f"  [keep]  WORKOUT_LOG already has {sidecar['date_heading']} — leaving alone")
 
-        # Build HR string
-        hr_str = "N/A"
-        if avg_hr:
-            hr_str = f"{avg_hr:.0f} bpm"
-            if max_hr:
-                hr_str += f" (max {max_hr:.0f})"
-
-        # Build effort string
-        effort_str = ""
-        if suffer_score:
-            effort_str = f"\n- **Relative Effort:** {suffer_score}"
-
-        # Build the log entry
-        entry = f"""
-## {date_heading}
-
-- **Workout:** {name}
-- **Type:** {activity_type}
-- **Distance:** {distance_mi:.2f} mi
-- **Time:** {format_time(moving_time)}
-- **Avg Pace:** {avg_pace}
-- **Elevation Gain:** {elevation_ft:.0f} ft
-- **Avg Heart Rate:** {hr_str}
-- **Avg Cadence:** {cadence_str}
-- **Splits:** {splits}{effort_str}
-- **Knee Status:** (pending — update after reviewing)
-- **Notes:** Auto-logged from Strava. Awaiting athlete feedback."""
-
-        new_entries.append(entry)
-
-    if not new_entries:
-        print("No new activities to log")
-        return
-
-    # Append to workout log
-    with open(WORKOUT_LOG, "a") as f:
-        for entry in new_entries:
-            f.write(entry + "\n")
-
-    print(f"Logged {len(new_entries)} new activities")
+    print(f"\nDone. Wrote {len(written_sidecars)} sidecar(s); stubbed {len(stubbed_dates)} date(s).")
 
 
 if __name__ == "__main__":

@@ -3,9 +3,14 @@ name: Pull Strava Data
 on:
   schedule:
     - cron: '30 14,16,20,2 * * *'  # 7:30am, 9am, 1pm, 7pm PT
-  workflow_dispatch:  # Manual trigger
+  workflow_dispatch:
+    inputs:
+      days:
+        description: "Activity lookback window in days (use 90+ for backfill)"
+        required: false
+        default: "3"
   push:
-    branches: [main]  # Also runs on push to main (use blank commit to trigger manually)
+    branches: [main]  # Blank commit on main triggers a normal-cadence pull
 
 permissions:
   contents: write
@@ -29,16 +34,17 @@ jobs:
           STRAVA_CLIENT_ID: ${{ secrets.STRAVA_CLIENT_ID }}
           STRAVA_CLIENT_SECRET: ${{ secrets.STRAVA_CLIENT_SECRET }}
           STRAVA_REFRESH_TOKEN: ${{ secrets.STRAVA_REFRESH_TOKEN }}
-        run: python scripts/pull_strava.py
+        run: |
+          python scripts/pull_strava.py --days "${{ inputs.days || '3' }}"
 
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add WORKOUT_LOG.md
+          git add WORKOUT_LOG.md strava/activities
           if git diff --staged --quiet; then
-            echo "No new activities to log"
+            echo "No new activities or sidecars to commit"
           else
-            git commit -m "Auto-log workout from Strava"
+            git commit -m "Auto-log workouts from Strava (sidecars + stubs)"
             git push
           fi
