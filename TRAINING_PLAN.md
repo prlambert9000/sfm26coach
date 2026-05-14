@@ -139,10 +139,10 @@ Solo 5K simulation: **21:47 (7:00/mi)**. Max HR 183. 1-min HRR 33 BPM.
 | 2026-05-11 | Mon | Hip Complex Circuit | 20-min mobility |
 | 2026-05-12 | Tue | 6×800m Track Intervals | 7:00–7:10 pace (5K-pace VO2 ceiling); 90s rec |
 | 2026-05-13 | Wed | Heavy Strength | Maintain 3s eccentric descent |
-| 2026-05-14 | Thu | 6 mi Progression Run | 4mi @ 9:00 / 2mi threshold. **Last 0.5 mi is uphill home — switch to HR (155–162 BPM, cap 165) instead of pace.** **Fuel rehearsal:** pre-run 25 g carb + electrolyte; 1 gel @ mile 3.5 before threshold transition. Dry run for B2B. |
+| 2026-05-14 | Thu | 6 mi Progression Run | 4mi @ 9:00 / 2mi threshold. **Last 0.5 mi is uphill home — switch to HR (155–162 BPM, cap 165) instead of pace.** **Fuel rehearsal (Neversecond C30):** pre-run banana + ½ scoop C30 drink mix in 8 oz water; 1 C30 gel (30 g) @ mile 3.5 before threshold. Dry run for B2B. |
 | 2026-05-15 | Fri | Stability & Power | Focus on Copenhagen plank adductor tension. **PT follow-up today.** |
 | 2026-05-16 | Sat | 5K Shakeout | 9:30+ pace — flush the legs pre-B2B, not a fitness stimulus. **No fuel** — save gut load for Sunday. |
-| 2026-05-17 | Sun | Bay to Breakers 15K | 10mi total: 1–6 @ 8:30–8:45 steady / 6–9.3 @ 7:35–7:45 MP. Cap fast portion at 7:35 — don't let race-day adrenaline pull it to 7:10. Hayes Hill (mi 2) by effort. **Fuel:** 30 g carb 60 min pre-start + electrolyte; gel @ mile 3, gel @ mile 6 (before MP) = ~40 g/hr. Water every aid station. Knee veto: any 2+ Sat night → run entire 10 mi easy @ 9:00, skip the fast finish. |
+| 2026-05-17 | Sun | Bay to Breakers 15K | 10mi total: 1–6 @ 8:30–8:45 steady / 6–9.3 @ 7:35–7:45 MP. Cap fast portion at 7:35 — don't let race-day adrenaline pull it to 7:10. Hayes Hill (mi 2) by effort. **Fuel (C30):** banana + ½ scoop C30 drink mix 60 min pre-start; ½ scoop drink mix sip 15 min pre-gun; **C30 gel @ mile 3, C30 gel @ mile 6** (before MP) = 60 g over ~80 min ≈ 45 g/hr. Water every aid station. Knee veto: any 2+ Sat night → run entire 10 mi easy @ 9:00, skip the fast finish. |
 
 ### Week 3 deload (May 18–24) — 22 mi | LR 9 mi
 | Date | Day | Workout | Notes |
