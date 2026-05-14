@@ -4,16 +4,21 @@
 
 - **Workout:** 6 mi Progression Run (V6 Week 2 Thursday) — executed by HR, not pace
 - **Type:** Run
-- **Distance:** 6.8 mi
-- **Time:** ~56:06
-- **Avg Pace:** ~8:15/mi
-- **Elevation Gain:** 282 ft (max elev 213 ft) — hilly home roads, first mile -131 ft net, mile 6 +24 ft, final 0.8 mi +114 ft climb back to the house
-- **Avg Heart Rate:** trended low-to-mid 140s in the easy section, 160s in the threshold section; peak 163 on the uphill close (full HR trace will come in on Strava sync)
-- **Splits (pace / elev / HR):** 1: 8:03 / -131 / 136 · 2: 8:39 / +20 / 148 · 3: 8:37 / -37 / 147 · 4: 8:37 / -24 / 149 · 5: 7:39 / -10 / 159 · 6: 7:42 / +24 / 162 · 0.8: 8:31 / +114 / 163
-- **Structure executed:** ~4 mi steady (avg ~8:29, HR 136–149, fully aerobic) → 2 mi threshold by HR (7:39 / 7:42, HR 159–162) → 0.8 mi uphill close (8:31, HR 163, peaked at 165 cap zone)
+- **Distance:** 6.82 mi
+- **Time:** 56:16
+- **Avg Pace:** 8:15/mi
+- **Elevation Gain:** 282 ft (max elev 213 ft) — hilly home roads
+- **Avg Heart Rate:** 152 bpm (max 167)
+- **Avg Power:** 240 W
+- **Calories:** 723
+- **Relative Effort:** 123
+- **HR Zones:** Z1 0:34 / Z2 8:17 / Z3 27:55 / Z4 19:30 / Z5 0:00 — Z4 = 35% of session, Z5 zero (cap held)
+- **Splits (pace / elev / HR):** 1: 8:02 / -131 / 136 · 2: 8:39 / +20 / 148 · 3: 8:37 / -37 / 147 · 4: 8:37 / -24 / 149 · 5: 7:38 / -10 / 159 · 6: 7:42 / +24 / 162 · 0.82: 8:31 / +114 / 163
+- **Structure executed:** ~4 mi steady (HR 136–149, Z2–low Z3) → 2 mi threshold by HR (7:38 / 7:42, HR 159–162, Z4) → 0.82 mi uphill close (8:31, HR 163, peaked at 167 max with 0:00 in Z5 — cap respected)
+- **Strava sidecar:** `strava/activities/18504798286.json` · [activity](https://www.strava.com/activities/18504798286)
 - **Knee Status:** 1/5 — green throughout.
 - **Fuel rehearsal:** Completed as scripted. Banana + ½ scoop C30 drink mix pre-run, C30 gel @ mile 3.5 before threshold. GI handled it fine — no taste/swallow/stomach complaint during the threshold 2 mi. **C30 packaging issue flagged:** gel was very hard to tear open, athlete nearly cut the side of his mouth trying to open it with teeth. Real risk for B2B Sunday and race day at pace. **Outcome: switched fuel system to Maurten** (Paul has prior tolerance, hydrogel pouch is reliable). NUTRITION_GUIDE.md and Sun May 17 B2B fuel block updated. Maurten Gel 100 × 3 + Drink Mix 160 pre-race is the new B2B protocol.
-- **Notes:** Smart adaptation — Paul ditched pace targets in favor of HR because the home loop has too much vertical for clean pace anchoring. Result is a textbook progression by effort. Easy section was paced 8:30-ish, faster than the 9:00 target on paper, but HR 136–149 is squarely aerobic, so the physiology matches the easy intent (the -131 ft mile 1 explains 8:03 at HR 136 — gravity, not effort). Threshold miles at 7:39 / 7:42 are *slower* than the 7:15–7:25 flat target, but HR 159–162 is genuine threshold zone (88–90% of 180 max). On a flat road that same HR would be 7:15–7:25; the pace tax is the climb. Final 0.8 mi @ HR 163 with 114 ft of gain matches the plan's "switch to HR (155–162, cap 165)" instruction for the uphill close — executed exactly as scripted. Polar H10 trace looks clean: smooth rise mile 4→5 into threshold, steady mid-160s through the climb, no optical-artifact spikes.
+- **Notes:** Smart adaptation — Paul ditched pace targets in favor of HR because the home loop has too much vertical for clean pace anchoring. Result is a textbook progression by effort. Easy section paced 8:30-ish (faster than the 9:00 flat target) but HR 136–149 is Z2–low Z3, squarely aerobic; the -131 ft mile 1 explains 8:02 at HR 136 (gravity, not effort). Threshold miles 7:38 / 7:42 are *slower* than the 7:15–7:25 flat target but HR 159–162 is genuine Z4 (88–90% of 180 max) — on a flat road that HR would deliver 7:15–7:25 naturally; the pace tax is the climb. Final 0.82 mi @ HR 163 / 114 ft of gain matches the plan's "switch to HR (155–162, cap 165)" instruction for the uphill close — executed to script. **Z4 time-in-zone = 19:30 (35% of session) is a substantial threshold dose for a "6 mi progression"** — the hilly terrain plus HR-anchored execution pushed the aerobic stimulus closer to a tempo session. Z5 0:00 confirms the cap held under load. Max HR 167 mirrors Tuesday's track peak (also 167) — consistent ceiling under both VO2 and threshold work, suggests true max is closer to 180 not lower. Polar H10 trace clean throughout, no optical-artifact spikes.
 
 ## May 12, 2026
 
