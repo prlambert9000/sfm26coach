@@ -53,6 +53,15 @@ B2B (May 17) is the first race-pace effort long enough to need real fueling, and
 
 If C30 sits well Thursday → locked for the season. If anything's off (sweetness, GI complaint, swallow effort mid-pace) we adjust before Sunday — but the goal is brand consistency from here to July 26.
 
+### C30 packaging — learned May 14, 2026
+
+**Gel tear notch is unreliable.** On the May 14 Thursday rehearsal the gel was hard to open and Paul nearly cut his mouth using teeth. Brand stays — taste and GI tolerance were fine — but the opening procedure changes:
+
+- **Pre-notch every gel at home** the night before with scissors. Cut a small (~3 mm) starter slit at the existing tear notch so the corner pulls clean with one hand.
+- **Never open with teeth at pace.** Two-hand pull only. If hands are wet/sweaty, dry on shirt first.
+- **Race-day prep:** pre-notch all B2B and SF Marathon gels, store in a ziplock so the slit doesn't leak. Confirm each one tears cleanly with a one-handed pull before packing.
+- **Stash a backup option** in a flask (drink mix) in case a gel still fails mid-race.
+
 ## V. Metabolic Management for the CEO Schedule
 
 - **Stress & cortisol:** High work/construction stress elevates cortisol, which inhibits recovery. Maintain consistent sleep hygiene and prioritize carbohydrate intake on high-stress days to prevent muscle breakdown.
