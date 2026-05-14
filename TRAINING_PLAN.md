@@ -120,7 +120,7 @@ Solo 5K simulation: **21:47 (7:00/mi)**. Max HR 183. 1-min HRR 33 BPM.
 - **Week 1 (May 4–10):** 20 mi | LR 8 mi
 - **Week 2 (May 11–17):** 24 mi | LR 10 mi (Bay to Breakers 15K — 8:30–8:45 steady / 7:35–7:45 MP finish)
 - **Week 3 deload (May 18–24):** 22 mi | LR 9 mi
-- **Week 4 (May 25–31):** 26 mi | LR 11 mi (San Mateo PAL 10K benchmark, May 30)
+- **Week 4 (May 25–31):** ~22 mi | **benchmark taper week** (San Mateo PAL 10K, May 30). Long run shifted to Week 5.
 
 ### Phase 2: Strength & Threshold (Weeks 5–8)
 - **Week 5 (Jun 1–7):** 26 mi | LR 12 mi (start 90 g/hr gut training)
@@ -173,16 +173,16 @@ Solo 5K simulation: **21:47 (7:00/mi)**. Max HR 183. 1-min HRR 33 BPM.
 | 2026-05-23 | Sat | Rest | Full recovery |
 | 2026-05-24 | Sun | 9 mi Long Run | 9:30 easy |
 
-### Week 4 (May 25–31) — 26 mi | LR 11 mi
+### Week 4 (May 25–31) — ~22 mi | benchmark taper week (San Mateo PAL 10K, May 30)
 | Date | Day | Workout | Notes |
 |---|---|---|---|
 | 2026-05-25 | Mon | Hip Complex Circuit | Pre-benchmark mobility |
-| 2026-05-26 | Tue | 6×1000m Track Intervals | 6:50–7:00 pace (VO2); 90s rec |
-| 2026-05-27 | Wed | Heavy Strength | Core stability integration |
-| 2026-05-28 | Thu | 7 mi Pre-Race Sharpener | 4mi @ 8:30 / 2mi @ 7:15–7:20 (cap at 7:15 — don't race the workout) / 1mi CD @ 9:00. First continuous race-pace block before Sat's 10K. Knee 2+ Thu AM → revert to 5 mi easy @ 9:00. |
-| 2026-05-29 | Fri | Stability & Power | Light mobility focus |
-| 2026-05-30 | Sat | 10K Benchmark Race | San Mateo PAL 10K (Seal Point Park) |
-| 2026-05-31 | Sun | 11 mi Long Run | 8:30–9:00 |
+| 2026-05-26 | Tue | 6×1000m Track Intervals | 6:50–7:00 pace (VO2); 90s rec. Last quality session before race — 4 days out is the right window. |
+| 2026-05-27 | Wed | Maintenance Strength | **Taper-light:** same lifts (back squat, RDL, calf raise, reverse Nordic) at **~60% of normal load, 2 sets instead of 3–4**. Maintains neural drive without inducing 48–72 hr neuromuscular drag. No reverse Nordic eccentrics this week — too quad-fatiguing pre-race. |
+| 2026-05-28 | Thu | 4 mi Easy + 4 strides | 4 mi @ 9:15–9:30, then 4×20-second strides (near-sprint, full recovery between). Strides prime fast-twitch fibers; no sustained threshold work this close to race day. Knee 2+ Thu AM → drop the strides, hold 4 mi easy. |
+| 2026-05-29 | Fri | **Full Rest** | No run, no gym, no shakeout. 24 hr off before a benchmark. Mobility flush only if convenient. Hydrate, lay out race kit, bed early. |
+| 2026-05-30 | Sat | 10K Benchmark Race | **San Mateo PAL 10K (Seal Point Park).** Target 7:15–7:20/mi. Pre-race fuel: banana + Maurten Drink Mix 160 (40 g) 60 min out. 1 Maurten Gel 100 at mile 3.5 (single-gel test for a sub-50 min effort). Race goal: clean fitness readout to calibrate VDOT and the Pivot test bar. |
+| 2026-05-31 | Sun | 6 mi Recovery | 9:30+ easy. **Long run intentionally shifted to Week 5** (12 mi Sun Jun 7). Day-after-race load belongs to recovery, not training. Knee 2+ → bike instead. |
 
 ### Week 5 (Jun 1–7) — 26 mi | LR 12 mi
 | Date | Day | Workout | Notes |
