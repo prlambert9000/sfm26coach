@@ -28,39 +28,43 @@ To manage patellofemoral inflammation, dietary intervention targets systemic inf
 
 Goal: increase carbohydrate absorption efficiency to 90 g/hr by Week 10.
 
-**Chosen fueling system (decided pre-V6, locked in May 13):** **Neversecond C30** — both the gel and the drink mix. Single brand keeps GI variables controlled through marathon day. No Maurten, no SiS, no Gu.
+**Chosen fueling system (locked May 14, 2026 — replaces the May 13 C30 lock):** **Maurten.** Switched after the May 14 Thursday rehearsal exposed a C30 packaging failure (gel tear notch unreliable — Paul nearly cut his mouth opening one with his teeth at pace). C30's taste and GI tolerance were both fine; the wrapper was the disqualifier. Maurten has prior tolerance data with Paul (no GI surprises to discover), the hydrogel pouch tears reliably with a one-handed pull, and the product line spans 25 g → 40 g per gel for clean dose scaling toward 90 g/hr.
 
-**Verified label specs (May 13, 2026):**
+**Maurten product lineup (locked):**
 
-| Product | Serving | Carb | Sodium | Sugars |
+| Product | Serving | Carb | Sodium | Notes |
 |---|---|---|---|---|
-| C30 Drink Mix | 1 scoop = 32 g powder | 30 g | 200 mg | 12 g |
-| C30 Gel | 1 pack = 60 mL | 30 g | 200 mg | 10 g |
+| Maurten Gel 100 | 1 pack (40 g) | 25 g | ~35 mg | Standard race gel, 8:1 malto:fructose hydrogel |
+| Maurten Gel 100 CAF | 1 pack (40 g) | 25 g | ~35 mg | + 100 mg caffeine — reserve for late-race kicks |
+| Maurten Gel 160 | 1 pack (65 g) | 40 g | ~35 mg | Higher-dose gel for peak-volume long runs |
+| Maurten Drink Mix 160 | 1 packet | 40 g | ~70 mg | Pre-race and easy-volume fueling |
+| Maurten Drink Mix 320 | 1 packet | 80 g | ~140 mg | Long-run flask concentrate for peak weeks |
 
-Both are maltodextrin + fructose dual-source. The gel is water-based with pectin (hydrogel texture, easier swallow at pace) and adds calcium lactate + potassium. The drink mix bag's own instruction notes that **2 scoops = 70 g CHO drink mix** for a bottle — that's the brand-intended high-rate prep for Weeks 5+ when targeting 60–90 g/hr.
+- **Weeks 1–4 (40–50 g/hr):** 2 × Gel 100 per hour, OR 1 × Gel 100 + sips from Drink Mix 160.
+- **Weeks 5–8 (60–75 g/hr):** 1 × Gel 160 + 1 × Gel 100 per hour (65 g), OR 3 × Gel 100 per hour (75 g).
+- **Weeks 9–10 (90 g/hr):** 2 × Gel 160 + sips from Drink Mix 320 flask, OR 1 × Gel 160 + 2 × Gel 100 + drink-mix sips.
 
-- **Weeks 1–4:** Practice 40–50 g/hr during Sunday long runs (≈ 1.5 C30 gels per hour, OR 1 gel + drink mix).
-- **Weeks 5–8:** 60–75 g/hr (2–2.5 gels per hour, OR gel + drink mix stack).
-- **Weeks 9–10:** 90 g/hr (3 gels per hour, OR 2 gels + concentrated drink mix flask).
+### Bay to Breakers fuel rehearsal (Week 2 — first real practice, Maurten under load)
 
-### Bay to Breakers fuel rehearsal (Week 2 — first real practice)
+B2B (May 17) is the first race-pace effort long enough to need real fueling, and the first time Maurten sees actual race-load on V6.
 
-B2B (May 17) is the first race-pace effort long enough to need real fueling, and the first time C30 sees actual run-load. The Thursday progression run before it is the dry run — same brand, smaller dose, threshold finish to stress the gut.
-
-- **Thu May 14 (6 mi progression):** Pre-run (30 min out): small banana (~15 g carb) + 8 oz water with **½ scoop C30 drink mix** (~15 g carb, electrolytes). **One C30 gel (30 g) at mile 3.5,** right before the threshold transition. Watch for any GI signal — taste, swallow ease, stomach feel during the threshold 2 mi.
+- **Thu May 14 (6 mi progression):** Completed with C30 (banana + ½ scoop C30 drink mix pre + 1 C30 gel @ mile 3.5). GI tolerated fine; gel wrapper failed (see below). Historical only — Maurten in force from B2B forward.
 - **Sat May 16 (5K shakeout):** No fuel. Normal hydration only. Save the gut for Sunday.
-- **Sun May 17 (B2B 15K, 10 mi total):** Pre-race (60 min out): small banana + 8 oz water with **½ scoop C30 drink mix** (~30 g carb total). Sip 4 oz water + remaining ½ scoop drink mix 15 min before gun. **C30 gel at mile 3, C30 gel at mile 6** (right before MP transition) = 60 g across ~80 min ≈ **45 g/hr**, top of the Weeks 1–4 band. Water at every aid station.
+- **Sun May 17 (B2B 15K, 10 mi total):** Pre-race (60 min out): banana + 8 oz water with **1 packet Maurten Drink Mix 160 (40 g carb)**. Sip 4 oz water 15 min before gun (no more carb — drink mix is in). **Maurten Gel 100 at mile 3, mile 5.5, and mile 8** = 75 g across ~80 min ≈ **55 g/hr**, top of the Weeks 1–4 band. Water at every aid station.
 
-If C30 sits well Thursday → locked for the season. If anything's off (sweetness, GI complaint, swallow effort mid-pace) we adjust before Sunday — but the goal is brand consistency from here to July 26.
+If Maurten sits clean Sunday → confirmed locked for the season. The bar for further brand changes is now very high: switching mid-build costs more than it saves.
 
-### C30 packaging — learned May 14, 2026
+### C30 packaging — learned May 14, 2026 (historical, drove the brand switch)
 
-**Gel tear notch is unreliable.** On the May 14 Thursday rehearsal the gel was hard to open and Paul nearly cut his mouth using teeth. Brand stays — taste and GI tolerance were fine — but the opening procedure changes:
+The C30 gel tear notch is unreliable. On the May 14 Thursday rehearsal the gel was hard to open and Paul nearly cut his mouth using teeth. The C30 drink mix wasn't the problem — only the gel pouch. This packaging failure was the deciding factor in switching to Maurten on May 14.
 
-- **Pre-notch every gel at home** the night before with scissors. Cut a small (~3 mm) starter slit at the existing tear notch so the corner pulls clean with one hand.
-- **Never open with teeth at pace.** Two-hand pull only. If hands are wet/sweaty, dry on shirt first.
-- **Race-day prep:** pre-notch all B2B and SF Marathon gels, store in a ziplock so the slit doesn't leak. Confirm each one tears cleanly with a one-handed pull before packing.
-- **Stash a backup option** in a flask (drink mix) in case a gel still fails mid-race.
+**General fueling-procedure rules (apply to any gel, including Maurten):**
+
+- **Two-hand pull only at pace.** Never teeth. If hands are wet/sweaty, dry on shirt first.
+- **Pre-check race-day gels at home** the night before — pull-test each pouch's tear notch with a one-handed dry-run tear. If a gel doesn't pop open easy, set it aside.
+- **Carry a backup option** (drink mix in a flask) in case a gel still fails mid-race.
+
+**Existing C30 stock:** the drink mix is still good — usable as an emergency pre-race carbohydrate source or for easy-day fueling. C30 gels can be retired (or used as last-resort training-day calories where stopping to open them isn't a problem).
 
 ## V. Metabolic Management for the CEO Schedule
 
