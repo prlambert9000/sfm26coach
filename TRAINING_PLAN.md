@@ -52,6 +52,24 @@ Anchored to **VDOT 54 flat-equivalent** (3:18 flat marathon = 3:30 SF). Training
 | Easy / Recovery | 9:00 – 9:45 min/mile | Capillary density, recovery — keep slow |
 | Long Run (steady) | 8:30 – 9:00 min/mile | Fat oxidation, time on feet |
 
+### Execution rule: HR is the anchor, pace is the check (locked May 14, 2026)
+
+The paces above are anchored to **goal** fitness (VDOT 54), not current fitness. May 3 5K (21:47) puts current fitness at ~VDOT 52, with the plan building toward 54 over 12 weeks. Adaptations happen at the **physiological zone** — anchor to the input (HR), accept whatever pace your legs produce at that input as the output.
+
+| Workout | Primary anchor | Target HR | Pace role |
+|---|---|---|---|
+| Easy / Recovery | HR | ≤145 BPM (Z2, conversational) | Floats — if HR is easy, pace doesn't matter |
+| Long Run (steady) | HR | 140–155 BPM (Z2–low Z3) | Floats; embedded MP segments by HR |
+| MP segments | HR | 150–160 BPM | Target pace 7:35–7:45; accept slower if HR is correct |
+| Threshold reps (1 mi+) | HR | 155–165 BPM (Z4, 86–92% of 180 max), cap 165 | Target pace 7:15–7:25; accept slower if HR is correct |
+| VO2 reps (≤1200m) | **Pace** | n/a | Hit pace; reps too short for HR to settle |
+
+**Worked example (May 14, 2026):** progression run threshold miles ran 7:38 / 7:42 at HR 159–162 on flat ground. Pace looked short of the 7:15–7:25 prescription, but Z4 time-in-zone was 19:30 (35% of session) — threshold dose delivered. Today's LT pace is the *output* (~7:38 at HR 162); the prescription is the *goal* the plan is building toward. Pace miss at correct HR = informational about current fitness, **not** a failed workout.
+
+**Confounders that legitimately depress pace at correct HR:** terrain (climbs), heat, residual leg fatigue from prior-day strength (Wed → Thu is a known one — log it), sleep debt, dehydration. Note them in the log so we can separate trend signal from noise.
+
+**Recalibration cadence:** every benchmark race (May 30 PAL 10K, June 21 Presidio HM) updates the VDOT and the pace table. If post-race fitness lands above VDOT 54, pace targets tighten; below, they hold. HR zones don't change — those are tied to your max HR (180), not to fitness.
+
 ---
 
 ## II. Weekly Training Structure (65-min windows, 6 AM)
