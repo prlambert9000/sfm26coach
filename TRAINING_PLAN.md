@@ -119,7 +119,7 @@ Solo 5K simulation: **21:47 (7:00/mi)**. Max HR 183. 1-min HRR 33 BPM.
 ### Phase 1: Foundation & Durability (Weeks 1–4)
 - **Week 1 (May 4–10):** 20 mi | LR 8 mi
 - **Week 2 (May 11–17):** 24 mi | LR 10 mi (Bay to Breakers 15K — 8:30–8:45 steady / 7:35–7:45 MP finish)
-- **Week 3 deload (May 18–24):** 22 mi | LR 9 mi
+- **Week 3 (May 18–24):** 22 mi | LR 9 mi (originally scheduled deload — promoted May 15 to a normal build week with Tue easy as post-B2B recovery; full-Rx strength Wed/Fri)
 - **Week 4 (May 25–31):** ~22 mi | **benchmark taper week** (San Mateo PAL 10K, May 30). Long run shifted to Week 5.
 
 ### Phase 2: Strength & Threshold (Weeks 5–8)
@@ -162,16 +162,18 @@ Solo 5K simulation: **21:47 (7:00/mi)**. Max HR 183. 1-min HRR 33 BPM.
 | 2026-05-16 | Sat | **45–60 min walk** | **Modified May 15 AM** — replaces 5K shakeout. Walking flushes legs without eccentric loading or junk fatigue; better tool than a jog for an amateur with knee history coming off three hard days. Brisk (15–17 min/mi), no hills. Pre-check 3 Maurten gels Sat night (one-handed dry-tear). |
 | 2026-05-17 | Sun | Bay to Breakers 15K | 10mi total: 1–6 @ 8:30–8:45 steady / 6–9.3 @ 7:35–7:45 MP. Cap fast portion at 7:35 — don't let race-day adrenaline pull it to 7:10. Hayes Hill (mi 2) by effort. **Fuel (Maurten):** banana + 1 packet Maurten Drink Mix 160 (40 g) 60 min pre-start; 4 oz water sip 15 min pre-gun (no more carb — drink mix is in). **Maurten Gel 100 @ mile 3, mile 5.5, and mile 8** = 75 g over ~80 min ≈ 55 g/hr. Water every aid station. **Pre-check all 3 gel pouches Saturday night** — one-handed dry-tear test, set aside any that don't open clean. Knee veto: any 2+ Sat night → run entire 10 mi easy @ 9:00, skip the fast finish. |
 
-### Week 3 deload (May 18–24) — 22 mi | LR 9 mi
+### Week 3 (May 18–24) — ~22 mi | LR 9 mi
+**Modified May 15:** Originally scheduled as a full deload (low-volume strength, easy-only running). Revised to a normal build week with one concession — Tue stays easy as legitimate post-B2B recovery (48 hr after a 10-mi race with MP finish). Strength returns to full Rx Wed and Fri. Rationale: two weeks of clean signal (knee 1/5, strength progressing, HR control on threshold) doesn't warrant a calendar-based deload this early, especially with W4 already needing to taper for the May 30 PAL 10K. A full W3 deload + W4 taper would have left 2.5 weeks of no quality stimulus.
+
 | Date | Day | Workout | Notes |
 |---|---|---|---|
-| 2026-05-18 | Mon | Hip Complex Circuit | Deload week start |
-| 2026-05-19 | Tue | 4 mi Easy | 9:15–9:30 |
-| 2026-05-20 | Wed | Low-Volume Strength | Technique & mobility focus |
-| 2026-05-21 | Thu | 5 mi Easy | 9:15–9:30 |
-| 2026-05-22 | Fri | Low-Volume Strength | Spanish squat holds |
-| 2026-05-23 | Sat | Rest | Full recovery |
-| 2026-05-24 | Sun | 9 mi Long Run | 9:30 easy |
+| 2026-05-18 | Mon | Hip Complex Circuit | Mobility flush post-B2B |
+| 2026-05-19 | Tue | 4 mi Easy | 9:15–9:30. Post-B2B recovery — no track this week. |
+| 2026-05-20 | Wed | Heavy Strength | **Full Rx** — squat 155, RDL 155 (straps), calf raise 40/hand, reverse Nordic BW. Progress RDL→165 / calf→45 only if those exercises feel clearly Easy. |
+| 2026-05-21 | Thu | 6 mi Progression Run | 4 mi @ 9:00 + 2 mi threshold by HR (155–162, cap 165). Pace is the check; HR is the anchor. |
+| 2026-05-22 | Fri | Stability & Power | **Full Rx** — Bulgarian 20/hand, SL-RDL 25 single contralateral, Spanish squat hold (light band), Copenhagen 30s/side + PT block. |
+| 2026-05-23 | Sat | 3 mi Shakeout | 9:30+ |
+| 2026-05-24 | Sun | 9 mi Long Run | 8:45–9:00 (faster than the original 9:30 deload pace — this is a build LR, not a deload one). |
 
 ### Week 4 (May 25–31) — ~22 mi | benchmark taper week (San Mateo PAL 10K, May 30)
 | Date | Day | Workout | Notes |
