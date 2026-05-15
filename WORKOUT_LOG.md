@@ -1,5 +1,12 @@
 # Workout Log
 
+## May 15, 2026
+
+- **Workout:** Bodyweight Stability + PT Block (V6 Week 2 Friday — modified pre-B2B, see TRAINING_PLAN.md)
+- **Type:** Gym (mobility + stability, no loaded lifts)
+- **Knee Status:** 1/5 — green throughout.
+- **Notes:** Modified Friday delivered as Rx. Dropped DB Bulgarian splits and DB single-leg RDLs per the pre-race deload call. Completed: foam roll quads/IT band, 90/90 PAILs, banded lateral walks, BW Spanish squat hold, Copenhagen plank, side plank w/ hip abd (PT, top toe down), dead bug w/ banded pulldown (PT), chin tuck + lifts (PT). Tacked on **12/side BW Bulgarian split squats** at the end — felt good, no knee complaint. Coaching read: BW Bulgarians at 12 reps with knee 1/5 confirms the tissue is tolerating single-leg eccentrics fine; the load drop today was about cumulative fatigue from Tue–Wed–Thu, not joint sensitivity. PT follow-up with Akanksha later today — log her input separately.
+
 ## May 14, 2026
 
 - **Workout:** 6 mi Progression Run (V6 Week 2 Thursday) — executed by HR, not pace

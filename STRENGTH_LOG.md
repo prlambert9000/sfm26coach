@@ -81,6 +81,26 @@ Bodyweight only. Pre-workout activation pattern; not a lift. Two rounds.
 
 ## Session Logs
 
+### 2026-05-15 — Fri Bodyweight Stability + PT Block (V6 Week 2 — modified pre-B2B)
+**Body Weight:** Not reported
+
+| Exercise | Weight Used | Sets×Reps | Feel | Notes |
+|----------|-------------|-----------|------|-------|
+| Foam roll quads / IT band | — | 1 min each | — | Per plan. |
+| 90/90 PAILs | BW | 30 sec each side | — | Per plan. |
+| Banded lateral walks | Light band | 10 each direction | — | Per plan. |
+| Spanish squat hold | BW | 3 × 30–45 sec | As prescribed | Per plan. |
+| Copenhagen plank (PT) | BW | 3 × 30 sec each side | Good | Held W1 progression. |
+| Side plank w/ hip abduction (PT) | BW | 8 each side, top toe down | — | Per plan. |
+| Dead bug w/ banded pulldown (PT) | Light band | 2–3 × 10 slow marches | — | Per plan. |
+| Chin tuck + lifts (PT) | BW | 2 reps each direction, 3-sec hold | — | Per plan. |
+| Bulgarian split squat (added) | **BW** | 12 each side | Good | Tacked on at end of session. Added without coach prescription — knee tolerated cleanly. **No load progression signal** (BW vs Rx 20 lb/hand) — keep working weight at 20 lb/hand for next loaded Fri session. |
+
+**Knee during session:** 1/5 — green throughout, including the 12/side BW Bulgarians.
+**Overall notes:** Modified Friday delivered as Rx — loaded Bulgarian splits and DB single-leg RDLs dropped pre-B2B per the cumulative-fatigue call (Tue VO2 + Wed heavy + Thu progression with 19:30 in Z4). Athlete added 12/side BW Bulgarians at the end which the knee handled fine. **No weight changes** — the BW Bulgarian set is positive tissue-tolerance signal but not a load-progression data point, since the prescription is 20 lb/hand. Next loaded Fri (May 22, deload week) will be lower volume regardless. PT follow-up later today gates any aggressive lower-body progression for W3+.
+
+---
+
 ### 2026-05-13 — Wed Heavy Strength (V6 Week 2)
 **Body Weight:** Not reported
 
