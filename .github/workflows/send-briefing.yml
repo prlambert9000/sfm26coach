@@ -14,7 +14,18 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Skip if briefing is cleared
+        id: check
+        run: |
+          if [ "$(jq -r '.cleared // false' briefings/latest.json)" = "true" ]; then
+            echo "Briefing is cleared sentinel — nothing to send."
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Send email via Resend
+        if: steps.check.outputs.skip != 'true'
         env:
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
         run: |
