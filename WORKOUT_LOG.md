@@ -1,5 +1,21 @@
 # Workout Log
 
+## May 16, 2026
+
+- **Workout:** Easy Recovery Bike Ride (V6 Week 2 Saturday — substituted from walk per athlete suggestion)
+- **Type:** Bike (road, "Lakeview cruise" — Edgewood / Emerald Lake loop, Redwood City)
+- **Distance:** 6.11 mi
+- **Moving Time:** 33:33
+- **Elevation Gain:** 618 ft (hilly — terrain unavoidable from home)
+- **Avg Speed:** 10.9 mi/h
+- **Avg Power:** 97 W
+- **Calories:** 259
+- **Avg Heart Rate:** 102 bpm
+- **Max Heart Rate:** 125 bpm — held well under the 140 cap even on climbs
+- **HR profile:** Steady cruise from ~95 → 125 bpm, mostly in recovery/Z2 zones (Strava AI summary)
+- **Knee Status:** Not reported (cycling — knee not a concern in this modality)
+- **Notes:** Saturday pre-race spin substituted for the 45–60 min walk after athlete proposed it. Better tool than the walk — concentric-only, zero eccentric load, more blood flow per perceived effort. 618 ft of climbing over 6 mi is real elevation, and the fact that max HR only touched 125 (cap was 140) means he held the discipline — stayed seated, light gear, soft pedal on the climbs. Avg HR 102 is squarely recovery zone. Perfect dose 24 hr pre-B2B: legs flushed, glycogen barely touched (259 cal), no fatigue cost. **Coaching takeaway:** road bike at HR <130 is a validated substitute for the Saturday shakeout going forward — keep this in the toolkit for future pre-race Saturdays.
+
 ## May 15, 2026
 
 - **Workout:** Bodyweight Stability + PT Block (V6 Week 2 Friday — modified pre-B2B, see TRAINING_PLAN.md)
