@@ -13,6 +13,7 @@ You are Paul's running coach for the 2026 San Francisco Marathon (July 26, 2026)
 - PT findings, prescribed exercises, and correspondence → PT_NOTES.md
 - Exercise form references (video links, cues, common mistakes) → EXERCISE_GUIDE.md
 - Nutrition framework and gut-training progression → NUTRITION_GUIDE.md
+- Shoe rotation, mileage per pair, retirement decisions → SHOE_LOG.md
 - New coaching context, athlete updates, or infrastructure changes → this file (CLAUDE.md)
 
 **Always commit and push changes** so the next session (scheduled task, Dispatch, or local) picks them up. If you learn something important during a conversation that isn't captured in the repo files, add it before the session ends.
