@@ -1,0 +1,131 @@
+{
+  "activity_id": 18545657185,
+  "avg_cadence_spm": null,
+  "avg_hr": 159.3,
+  "avg_pace": "8:03/mi",
+  "avg_power_w": 251.5,
+  "calories": 1021.0,
+  "date": "2026-05-17",
+  "date_heading": "May 17, 2026",
+  "description": "",
+  "distance_mi": 9.327,
+  "elapsed_time_s": 4514,
+  "elevation_gain_ft": 532.8,
+  "fetched_at": "2026-05-17T17:31:04Z",
+  "hr_zones": [
+    {
+      "max": 116,
+      "min": 0,
+      "time_s": 25.0
+    },
+    {
+      "max": 144,
+      "min": 117,
+      "time_s": 566.0
+    },
+    {
+      "max": 158,
+      "min": 145,
+      "time_s": 1547.0
+    },
+    {
+      "max": 173,
+      "min": 159,
+      "time_s": 1433.0
+    },
+    {
+      "max": -1,
+      "min": 174,
+      "time_s": 939.0
+    }
+  ],
+  "max_hr": 185.0,
+  "moving_time_s": 4510,
+  "name": "Bay to Breakers + Bonus Breakers!",
+  "splits": [
+    {
+      "avg_hr": 135.14971209213053,
+      "distance_mi": 1.0,
+      "elev_diff_ft": 0.7,
+      "mile": 1,
+      "moving_time_s": 524,
+      "pace": "8:43"
+    },
+    {
+      "avg_hr": 146.3735632183908,
+      "distance_mi": 1.0,
+      "elev_diff_ft": 38.7,
+      "mile": 2,
+      "moving_time_s": 534,
+      "pace": "8:54"
+    },
+    {
+      "avg_hr": 159.81070745697897,
+      "distance_mi": 1.001,
+      "elev_diff_ft": 129.9,
+      "mile": 3,
+      "moving_time_s": 531,
+      "pace": "8:50"
+    },
+    {
+      "avg_hr": 157.55357142857142,
+      "distance_mi": 1.0,
+      "elev_diff_ft": 53.1,
+      "mile": 4,
+      "moving_time_s": 504,
+      "pace": "8:24"
+    },
+    {
+      "avg_hr": 153.23408624229978,
+      "distance_mi": 0.999,
+      "elev_diff_ft": -2.6,
+      "mile": 5,
+      "moving_time_s": 488,
+      "pace": "8:08"
+    },
+    {
+      "avg_hr": 162.255079006772,
+      "distance_mi": 1.002,
+      "elev_diff_ft": -113.5,
+      "mile": 6,
+      "moving_time_s": 443,
+      "pace": "7:22"
+    },
+    {
+      "avg_hr": 172.875,
+      "distance_mi": 0.999,
+      "elev_diff_ft": -82.0,
+      "mile": 7,
+      "moving_time_s": 432,
+      "pace": "7:12"
+    },
+    {
+      "avg_hr": 176.59591836734694,
+      "distance_mi": 0.999,
+      "elev_diff_ft": 90.6,
+      "mile": 8,
+      "moving_time_s": 496,
+      "pace": "8:16"
+    },
+    {
+      "avg_hr": 169.74537037037038,
+      "distance_mi": 1.001,
+      "elev_diff_ft": -112.9,
+      "mile": 9,
+      "moving_time_s": 435,
+      "pace": "7:14"
+    },
+    {
+      "avg_hr": 180.33333333333334,
+      "distance_mi": 0.324,
+      "elev_diff_ft": -2.0,
+      "mile": 10,
+      "moving_time_s": 123,
+      "pace": "6:19"
+    }
+  ],
+  "start_local": "2026-05-17T08:02:14Z",
+  "strava_url": "https://www.strava.com/activities/18545657185",
+  "suffer_score": 212.0,
+  "type": "Run"
+}

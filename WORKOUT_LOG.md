@@ -275,3 +275,19 @@
 - **Relative Effort:** 113.0 (inflated by bogus HR — discount)
 - **Knee Status:** 1.5/5 — likely during post-run stretching, otherwise quiet. Inside the green band; no plan modification.
 - **Notes:** Second of two travel runs in Victoria BC. Day total 8.27 mi @ 8:08 — equivalent to a long run split in two. Strong negative split on both runs and a 7:38 last mile on Run 2 indicates legs are fresh and durable. Stretching-related awareness is the only signal to track; if it shows up again post-run on a non-travel day, log it; for now within tolerance.
+
+## May 17, 2026
+
+- **Workout:** Bay to Breakers + Bonus Breakers!
+- **Type:** Run
+- **Distance:** 9.33 mi
+- **Time:** 1:15:10
+- **Avg Pace:** 8:03/mi
+- **Elevation Gain:** 533 ft
+- **Avg Heart Rate:** 159 bpm (max 185)
+- **Avg Cadence:** N/A
+- **Splits:** 8:43, 8:54, 8:50, 8:24, 8:08, 7:22, 7:12, 8:16, 7:14, 6:19
+- **Relative Effort:** 212.0
+- **Strava sidecar:** `strava/activities/18545657185.json`
+- **Knee Status:** (pending — update after reviewing)
+- **Notes:** Auto-logged from Strava. Awaiting athlete feedback.
