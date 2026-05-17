@@ -284,15 +284,15 @@
 - **Time:** 1:15:10
 - **Avg Pace:** 8:03/mi
 - **Elevation Gain:** 533 ft
-- **Avg Heart Rate:** 159 bpm (max 185, Polar H10)
-- **HR Zones (min):** Z1 0.4 / Z2 9.4 / Z3 25.8 / Z4 23.9 / Z5 15.7 — **15.7 min above 174 BPM is a serious threshold load**
+- **Avg Heart Rate:** ~~159 bpm avg / 185 max~~ **SCRATCHED — Polar H10 not worn for this race. Wrist-optical only, and these numbers fit the same artifact pattern as May 5 cooldown spike and May 9 Victoria runs. Do not use for fitness inference.**
+- **HR Zones:** scratched (see above)
 - **Splits:** 8:43, 8:54, 8:50, 8:24, 8:08, 7:22, 7:12, **8:16**, 7:14, 6:19 (last 0.32 mi)
-- **Per-mile HR:** 135, 146, 160, 158, 153, 162, 173, 177, 170, 180
+- **Per-mile HR:** scratched
 - **Per-mile elev (ft):** +1, +39, +130 (Hayes Hill), +53, -3, -114, -82, **+91**, -113, -2
 - **Relative Effort:** 212.0
 - **Suffer Score:** 212
 - **Strava sidecar:** `strava/activities/18545657185.json`
-- **Knee Status:** (pending — Paul didn't mention; ask)
+- **Knee Status:** 2/5 — mild awareness mid-race (small tweaks), no progression during/after, feels fine post-run. Within tolerance. Per protocol: double the mobility flush tonight (foam roll quads/IT band 2 min each, glute bridges 2×15, banded clamshells 2×15, 90/90 PAILs 45 sec each side).
 - **Plan vs actual:** Plan was miles 1–6 @ 8:30–8:45 steady, miles 6–9.3 @ MP 7:35–7:45 (cap 7:35). Reality: crowded festive start made the early steady block impossible to execute as scripted — first 3 mi averaged 8:49 (Hayes Hill in mile 3 explains some). Once the field opened up, miles 6–7 dropped to 7:22 / 7:12 on the long descent. Mile 8 surprise climb (+91 ft — likely the rise before Ocean Beach / through Golden Gate Park) bumped the split to 8:16. Recovered immediately with 7:14 + 6:19 kick.
-- **What the data says despite the chaos:** Mile 9 @ 7:14 and a 6:19 closing kick with HR ramping to 180+ shows fast-finish capacity is real. Avg HR 159 over 9.3 hilly mi at 8:03 pace, max 185 with quick HR recovery profile suggests aerobic fitness is tracking ahead of the May 3 5K benchmark.
-- **Notes:** Athlete reports race was more party than race, hard to execute plan structure, unexpected hill at the end of the 15K (confirmed: mile 8 +91 ft climb). Strong day given conditions — call it a successful fast-finish stimulus even if not the prescribed shape. No knee mention from athlete; following up.
+- **What the data says despite the chaos:** Pace-only read (HR is unreliable today): mile 9 @ 7:14 and a 6:19 closing kick after a hilly 8 miles indicates real fast-finish capacity. 8:03 avg on 533 ft of gain in a crowded race aligns with a fitness level ahead of the May 3 5K (VDOT ~52) but the magnitude can't be quantified without trustworthy HR — May 30 PAL 10K (flat course, H10 on) is the real calibration.
+- **Notes:** Athlete reports race was more party than race, hard to execute plan structure, unexpected hill at the end of the 15K (confirmed: mile 8 +91 ft climb). Polar H10 not worn — HR data scratched per established wrist-optical artifact pattern. Knee 2/5: mild mid-race tweaks, resolved. Strong day given conditions — successful fast-finish stimulus even if not the prescribed shape.
