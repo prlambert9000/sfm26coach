@@ -51,8 +51,16 @@ B2B (May 17) is the first race-pace effort long enough to need real fueling, and
 - **Thu May 14 (6 mi progression):** Completed with C30 (banana + ½ scoop C30 drink mix pre + 1 C30 gel @ mile 3.5). GI tolerated fine; gel wrapper failed (see below). Historical only — Maurten in force from B2B forward.
 - **Sat May 16 (5K shakeout):** No fuel. Normal hydration only. Save the gut for Sunday.
 - **Sun May 17 (B2B 15K, 10 mi total):** Pre-race (60 min out): banana + 8 oz water with **1 packet Maurten Drink Mix 160 (40 g carb)**. Sip 4 oz water 15 min before gun (no more carb — drink mix is in). **Maurten Gel 100 at mile 3, mile 5.5, and mile 8** = 75 g across ~80 min ≈ **55 g/hr**, top of the Weeks 1–4 band. Water at every aid station.
+  - **Actual (Maurten DNA, substituted with PF30):** Pre-race oatmeal + banana; in-race **2× PF30 gels at 30 min and 60 min = 60 g across 75 min ≈ 48 g/hr**. GI fine, sodium via ½ LMNT in handheld. **Athlete reported a third gel "would have been hard to do."** No GI distress, no flavor fatigue noted — the limiter was appetite/effort, not gut.
 
-If Maurten sits clean Sunday → confirmed locked for the season. The bar for further brand changes is now very high: switching mid-build costs more than it saves.
+**Gut-training takeaway from B2B (logged May 17, 2026):** Current race-effort tolerance ceiling is ~50 g/hr / 2 gels in 75 min. Marathon target is 90 g/hr by Weeks 9–10. **That's nearly a doubling of intake over 8 weeks** — non-trivial and must be deliberately trained, not assumed. Progression plan:
+
+- **Weeks 3–4 long runs:** push to 3 gels in 90 min on the 12–14 mi efforts (~60 g/hr) at easy/steady pace where appetite tolerates more than race effort does. Note GI and gel-fatigue per session.
+- **Weeks 5–6 long runs:** add a Gel 160 (or 2× PF30 + drink mix sips) to hit 65–75 g/hr on the 14–16 mi runs.
+- **Weeks 7–10:** dial to 90 g/hr on peak long runs using gel + drink-mix flask combo. Race effort is appetite-suppressing — practicing only at easy pace doesn't transfer.
+- **Race-day reality check:** if 90 g/hr proves unsustainable at marathon effort by Week 10, lock to whatever the gut actually accepts (likely 70–75 g/hr) — never force a dose that risks GI failure mid-race.
+
+Maurten lock for the season still planned (PF30 was a one-race substitution due to shipping). When Maurten arrives, the next long run is the first real rehearsal under the brand.
 
 ### C30 packaging — learned May 14, 2026 (historical, drove the brand switch)
 
