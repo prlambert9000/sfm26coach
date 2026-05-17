@@ -6,11 +6,12 @@ Track mileage and condition per pair. Update after major runs or weekly. Retire 
 
 ### Daily Trainer — TBD (3 candidates in try-on shootout, ordered May 17, 2026)
 - **Three candidates ordered together** (Amazon order #111-8162289-4739428, $717.27 total incl. race shoe, arriving Tuesday May 19):
-  1. **ASICS Novablast 5** (Gravel/White, 8.5 standard D) — bounciest ride, FF Blast Plus Eco foam. **Fit risk:** standard D width only; likely tight on Paul's 112mm left forefoot.
-  2. **Saucony Ride 18** (Azurite/Peel, 8.5 **Wide**) — PWRRUN+ foam, well-regarded modern daily trainer. Wide width fits foot scan.
-  3. **New Balance Fresh Foam X 880 V15** (Grey Matter/Afterglow, 8.5 **Wide**) — Fresh Foam X, traditional workhorse, most cushioned and most stable of the three. Wide width fits foot scan.
-- **Plan:** Try all three on carpet (preserves return eligibility). Keep the one that fits best — coach's prior order is NB 880 V15 > Saucony Ride 18 Wide > Novablast 5 (fit likely DQ's the Novablast). Return the other two within Amazon's 30-day window.
-- **Try-on protocol:** lace to normal tension, stand, check thumbnail-of-room past big toe + zero pinky pressure on left foot. Walk 5–10 min in each. Do 10 bodyweight squats + a few lateral steps. Pinky-toe pressure on left = automatic return.
+  1. **ASICS Novablast 5** (Gravel/White, 8.5 **Wide** — via Playmakers on Amazon) — bounciest ride, FF Blast Max foam. Most energetic of the three but rocker geometry can feel unstable on uneven surfaces.
+  2. **Saucony Ride 18** (Azurite/Peel, 8.5 **Wide**) — PWRRUN+ foam, well-regarded modern daily trainer. Middle ground on bounce vs stability.
+  3. **New Balance Fresh Foam X 880 V15** (Grey Matter/Afterglow, 8.5 **Wide**) — Fresh Foam X, traditional workhorse, most cushioned and most stable of the three. The "boring" knee-protective pick.
+- **All three in Wide width** — accommodates Paul's 112mm left forefoot (Volumental scan May 17). No auto-DQ on fit; shootout is genuinely about ride, stability, and personal preference.
+- **Plan:** Try all three on carpet (preserves return eligibility). Keep one, return two within Amazon's 30-day window. Coach prior given knee history: NB 880 V15 > Saucony Ride 18 > Novablast 5 — but ride preference may legitimately flip this.
+- **Try-on protocol:** lace to normal tension, stand, check thumbnail-of-room past big toe + zero pinky pressure on left foot. Walk 5–10 min in each. Do 10 bodyweight squats + 10 sec single-leg balance per foot + a few lateral steps. **Knee red flag for Novablast specifically:** if the right knee wobbles or the platform feels tippy on single-leg balance, that's a stability disqualifier — pick another shoe.
 - **Role of winner:** All easy/recovery miles (Thu base runs, easy portions of long runs). ~70% of weekly mileage.
 - **Target lifespan:** 400–500 mi
 - **Notes:** Once Paul picks the winner, update this entry with the specific shoe and retire the section header to e.g. "Daily Trainer — Saucony Ride 18 Wide (Azurite/Peel)".
@@ -21,7 +22,7 @@ Track mileage and condition per pair. Update after major runs or weekly. Retire 
 - **Mileage:** 0
 - **Role:** Race day + 1–2 MP tune-up workouts before each race. Carbon-plated super-shoe.
 - **Target lifespan:** 150–200 mi (race-pace use only)
-- **Model note:** Tokyo is the 2025 edition/colorway of the Metaspeed Sky platform — same FF Blast Turbo Plus foam, same carbon plate, same geometry as Sky Paris. Functionally identical for our purposes.
+- **Model note:** Tokyo is the 2025 edition of the Metaspeed Sky platform — same FF Blast Turbo Plus foam and carbon plate as Sky Paris, but **wider forefoot fit** (Paris is notorious for being narrow). Paul deliberately chose Tokyo over Paris because of his 112mm left forefoot — the right call for a marathon-distance race shoe where toe pressure compounds over 26.2 miles.
 - **Planned use:**
   - Break-in: ~9 mi (shakeout + Thu progression w/ 2×1 mi MP + Sat strides)
   - May 30 — PAL 10K (6.2 mi)
