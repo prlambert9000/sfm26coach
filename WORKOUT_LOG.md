@@ -5,8 +5,8 @@
 - **Workout:** Hip Complex Circuit + doubled mobility flush (V6 Week 3 Monday — post-B2B recovery)
 - **Type:** Mobility (BW only, ~20 min)
 - **Executed:** As Rx — foam roller T-spine extensions, standing lunges w/ hip IR + extension (PT), quadruped banded hip IR (PT), 90/90 switches, adductor rockbacks, quadruped hip CARs, half-kneeling couch stretch. Doubled mobility flush per knee 2/5 protocol: foam roll quads/IT band 2 min each side, glute bridges 2×15, banded clamshells 2×15, 90/90 PAILs 45 sec each side.
-- **Knee Status:** Not reported in session — follow up Tue AM pre-run.
-- **Notes:** Session reported as Rx, no flags. First completion of the full Mon Hip Complex with the protocol-mandated doubled flush layered on top after a 2/5 reading. Watch Tue AM pre-run knee check — if any medial PFJ awareness during the 4 mi easy, scratch the run and substitute easy bike per the 3/5 escape valve.
+- **Knee Status:** **1/5 — back to green** by Mon midday check-in. Sunday's 2/5 medial PFJ tingle resolved within ~24 hr.
+- **Notes:** Session reported as Rx, no flags. First completion of the full Mon Hip Complex with the protocol-mandated doubled flush layered on top after a 2/5 reading. **Knee back to 1/5 by midday Mon** — the doubled flush + 24 hr off load did the job, and the Sunday tingle stays a single isolated 2/5 reading (not two consecutive 2/5+ → no escalation, no PT message needed). Tuesday's 4 mi easy stays green-lit as planned. Still worth a brief pre-run check Tue AM, but no expected modification.
 
 ## May 17, 2026
 
