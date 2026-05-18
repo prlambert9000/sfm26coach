@@ -1,5 +1,13 @@
 # Workout Log
 
+## May 18, 2026
+
+- **Workout:** Hip Complex Circuit + doubled mobility flush (V6 Week 3 Monday — post-B2B recovery)
+- **Type:** Mobility (BW only, ~20 min)
+- **Executed:** As Rx — foam roller T-spine extensions, standing lunges w/ hip IR + extension (PT), quadruped banded hip IR (PT), 90/90 switches, adductor rockbacks, quadruped hip CARs, half-kneeling couch stretch. Doubled mobility flush per knee 2/5 protocol: foam roll quads/IT band 2 min each side, glute bridges 2×15, banded clamshells 2×15, 90/90 PAILs 45 sec each side.
+- **Knee Status:** Not reported in session — follow up Tue AM pre-run.
+- **Notes:** Session reported as Rx, no flags. First completion of the full Mon Hip Complex with the protocol-mandated doubled flush layered on top after a 2/5 reading. Watch Tue AM pre-run knee check — if any medial PFJ awareness during the 4 mi easy, scratch the run and substitute easy bike per the 3/5 escape valve.
+
 ## May 17, 2026
 
 - **Workout:** Bay to Breakers 15K + bonus (V6 Week 2 Sunday B2B benchmark — first fast-finish stimulus)
