@@ -2,8 +2,13 @@ name: Send Briefing Email
 
 on:
   push:
+    branches: [main]
     paths: ['briefings/latest.json']
   workflow_dispatch:
+
+concurrency:
+  group: send-briefing
+  cancel-in-progress: false
 
 permissions:
   contents: read
