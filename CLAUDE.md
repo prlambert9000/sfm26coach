@@ -18,14 +18,24 @@ You are Paul's running coach for the 2026 San Francisco Marathon (July 26, 2026)
 
 **Always commit and push changes** so the next session (scheduled task, Dispatch, or local) picks them up. If you learn something important during a conversation that isn't captured in the repo files, add it before the session ends.
 
-**Develop directly on `main`.** This is a personal tool — no feature branches. If a task runner or harness assigns a feature branch, merge it into main immediately and continue on main. Never leave changes stranded on a branch.
+**Develop directly on `main`. Feature branches are forbidden.** This is a personal tool — there is no review process, no team, no reason for branches. Every change goes on main.
 
-**If `git push origin main` is blocked with a 403** (the harness sometimes enforces the assigned feature branch), use this fallback to get the change onto main without manual intervention:
-1. Push the local commit to the assigned feature branch: `git push origin main:<feature-branch>`.
-2. Open a PR with the GitHub MCP tool `mcp__github__create_pull_request` (head = feature branch, base = main).
-3. Merge it immediately with `mcp__github__merge_pull_request` (squash). The change lands on main without needing the user to do anything.
+**First action of every session: switch to main before doing anything else.** If the harness checked you out on a feature branch (any branch matching `claude/*`, `*-tmp`, or anything that isn't `main`):
+1. `git fetch origin main`
+2. `git checkout main && git reset --hard origin/main`
+3. Then begin the actual work.
 
-Do NOT leave changes stranded on the feature branch and tell the user to merge manually — use the MCP merge path instead.
+Do NOT commit on the assigned feature branch and try to merge it later. Do NOT push to both the feature branch AND main — pushing the same file change to multiple branches fires the GitHub Actions `push` triggers once per branch, which has previously caused duplicate briefing emails. One commit, one destination: `main`.
+
+**If `git push origin main` is blocked with a 403** (rare — most pushes to main succeed in practice), use this fallback exactly once per change, then return to main:
+1. Push the local main commit to the assigned feature branch: `git push origin main:<feature-branch>`.
+2. Open a PR with `mcp__github__create_pull_request` (head = feature branch, base = main).
+3. Merge it immediately with `mcp__github__merge_pull_request` (squash).
+4. Pull main back down (`git fetch origin main && git reset --hard origin/main`) and delete any local feature-branch ref. Do NOT continue committing on the feature branch.
+
+**Never leave changes stranded on a feature branch and never tell the user to "merge it manually."** If you can't get a change onto main through one of the paths above, surface the blocker to the user — do not push to a feature branch and walk away.
+
+**Stale feature branches accumulate fast.** If you notice the remote has feature branches besides main, flag it to the user — they need cleanup (the harness blocks `git push --delete` from inside sessions, so deletion has to happen outside).
 
 ## Athlete Profile
 
