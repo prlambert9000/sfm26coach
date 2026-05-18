@@ -1,5 +1,25 @@
 # Workout Log
 
+## May 17, 2026
+
+- **Workout:** Bay to Breakers 15K + bonus (V6 Week 2 Sunday B2B benchmark — first fast-finish stimulus)
+- **Type:** Run (race)
+- **Distance:** 9.33 mi
+- **Moving Time:** 75:10
+- **Avg Pace:** 8:03/mi
+- **Elevation Gain:** 533 ft
+- **Avg Heart Rate:** 159 bpm (max 185 at the closing kick) — Polar H10 primary
+- **Avg Power:** 252 W
+- **Calories:** 1,021
+- **Suffer Score:** 212
+- **HR Zones:** Z1 0:25 / Z2 9:26 / Z3 25:47 / Z4 23:53 / Z5 15:39 — Z4+Z5 = 39:32 (52% of session). Substantial threshold/VO2 dose, race-typical.
+- **Splits (pace / elev / HR):** 1: 8:43 / +1 / 135 · 2: 8:54 / +39 / 146 · 3: 8:50 / +130 / 160 · 4: 8:24 / +53 / 158 · 5: 8:08 / -3 / 153 · 6: 7:22 / -114 / 162 · 7: 7:12 / -82 / 173 · 8: 8:16 / +91 / 177 · 9: 7:14 / -113 / 170 · 0.32 kick: 6:19 / -2 / 180
+- **Structure executed:** Plan called miles 1–6 steady @ 8:30–8:45, miles 6–9.3 @ MP 7:35–7:45 (cap 7:35). Executed: miles 1–5 steady 8:08–8:54 (climb-heavy front half, HR 135–160), MP push miles 6–7 came in faster than prescribed (7:22 / 7:12) — net-downhill aided (−196 ft combined). Mile 8 hit a +91 ft climb and pace collapsed to 8:16 at HR 177 (late-race climb tax). Mile 9 reset to 7:14 on the downhill. Bonus 0.32 mi kick at 6:19 / HR 180 closed it out.
+- **Strava sidecar:** `strava/activities/18545657185.json` · [activity](https://www.strava.com/activities/18545657185)
+- **Knee Status:** **2/5** — slight tingle mid-race in the **medial patellofemoral area** (same spot Akanksha diagnosed April 17). Felt fine immediately post-race. Mild awareness returned later in the day and again before bed, same location. No gait alteration during the race; closing kick at 6:19 / HR 180 was unaffected.
+- **Fuel:** Modified protocol — Maurten shipment didn't arrive in time. Pre-race: oatmeal + banana 1 hr out. In-race: 2× Precision Fuel PF 30 Gel at the 30-min and 60-min marks (~60 g carbs over 75 min ≈ 48 g/hr). No GI issues; subjective fueling felt good. Maurten retest deferred to next opportunity.
+- **Notes:** Strong B2B execution and the most useful calibration data point we have since the May 3 5K. Avg HR 159 sustained over 75 min with Z4+Z5 = 39:32 demonstrates real threshold capacity — well above what the May 3 hilly solo 5K suggested. MP finish miles (7:22 / 7:12 / 7:14) came in faster than the 7:35 cap but with significant downhill aid (−309 ft over those 3 miles); on flat ground HR 162–173 would deliver more like 7:25–7:35 at current fitness. Mile 8 is the diagnostic mile — +91 ft climb after the MP push and pace dropped to 8:16 while HR drifted to 177. Classic late-race aerobic ceiling under accumulated fatigue. Doesn't disqualify the threshold push; just sets the honest current sustainable-HR ceiling near 170–175. **Closing kick HR 180 = working max confirmed.** Polar H10 trace clean throughout, max 185 is plausible peak (above the 180 working max used for zones — likely true max is 183–185, not 180). Cadence not reported (sensor dropout — unclear if foot pod or watch issue). **Knee read is the headline concern:** the tingle landed in the exact PT-diagnosed location (medial PFJ), not a generic ache, and persisted into the evening. This is the first knee reading above 1/5 since the V6 plan started May 4. Protocol response: train as planned this week but **double the mobility flush** today (hip CARs, banded hip IR, glute bridges, foam roll quad/IT band). Two consecutive 2/5+ readings in this location is a hard flag — escalate to 3/5 protocol (escape valve to bike/elliptical) and message PT. Watch the Tue track session closely — if any medial knee awareness during 1000m reps, scratch the reps and convert to easy bike. **Coaching takeaway for PAL 10K:** the B2B confirms the 7:15–7:20 target is realistic on flat ground but probably toward the slow end of that range at current fitness; sub-44:00 would be a genuine VDOT 53–54 readout and would justify moving the Presidio Pivot gate. Sub-45:00 = on plan. Knee discipline through the next 13 days matters more than any pace target.
+
 ## May 16, 2026
 
 - **Workout:** Easy Recovery Bike Ride (V6 Week 2 Saturday — substituted from walk per athlete suggestion)
