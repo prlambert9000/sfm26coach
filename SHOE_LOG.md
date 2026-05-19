@@ -33,15 +33,12 @@ Track mileage and condition per pair. Update after major runs or weekly. Retire 
   - **Projected total:** ~70 mi by race day — well within foam life
 - **Notes:**
 
-### Gym / Cross-Training — Reebok Nano X5 (Solar Lime)
-- **Purchased:** May 17, 2026 (Amazon order #111-5970813-6259450, $98.68 + tax = $108.42, arriving May 18)
-- **Size:** 8.5 men's
-- **Mileage:** N/A — gym shoe, not tracked in running mileage table
-- **Role:** All gym sessions (Mon hip circuit, Wed heavy strength, Fri stability & power) + light cross-training (bike intervals, jump rope, elliptical if knee escape valve activates). Not for runs over ~400m.
-- **Why this shoe:** Dual-density "Lift and Run" midsole — firmer EVA under the heel for stability during Wed heavy squats/RDLs, softer responsive foam in the forefoot for circuit movement. Wider forefoot accommodates Paul's 112mm left forefoot (wider than standard D — Volumental scan May 17, 2026). TPU heel clip provides lateral lockdown for Copenhagen planks and banded lateral walks.
-- **Fit verification on arrival:** Before first real session, do an unloaded squat and a few lateral band walks at home. Confirm the left pinky toe doesn't pinch under load. If it does, return and try New Balance Minimus TR (wider). 30-day Amazon return window applies.
-- **Target lifespan:** 12–18 months of regular gym use (foam doesn't compress the way it does under run miles). Replace when heel platform feels unstable under heavy loads or upper develops holes.
-- **Notes:** Solar Lime colorway discounted $41 vs black — same shoe, just unpopular color. Paul likes bright shoes.
+### Gym / Cross-Training — TBD (Nano X5 returned, evaluating TYR CXT-1 next)
+- **Status (May 18, 2026):** Reebok Nano X5 returned after try-on — too narrow on the sides even in standard width. The Nano X5's "wider forefoot" reputation didn't translate to Paul's 112mm left forefoot. Lesson: in the cross-trainer category, "wide" is relative — most brands max out at standard D and don't offer a true wide width. Need to shop brands with foot-shaped lasts.
+- **Stopgap:** Old Metcons for the next week or two. Fine for Wed heavy strength as long as Paul doesn't push max loads (Wk 1 plan is 3–4×6–8 — well within tolerance).
+- **Next candidate (recommended):** TYR CXT-1 Trainer (~$130). Widest toe box in the cross-trainer category, purpose-built for CrossFit-style training (heavy lift + circuit + cross-train). Firm flat heel with TPU stabilizer for lifting, lateral support for stability work.
+- **Backup if TYR doesn't fit:** Altra Solstice XT 2 — widest toe box on the market (FootShape last), but zero-drop adds calf/Achilles adaptation that Paul doesn't need on top of the marathon build.
+- **Do NOT re-attempt:** Nike Metcon, NoBull standard width, Inov-8 F-Lite — same width category that just failed.
 
 ### Trail / Travel — Adidas Terrex Speed Ultra (FW2805)
 - **Purchased:** ~2023 (used as travel shoe)
@@ -53,6 +50,13 @@ Track mileage and condition per pair. Update after major runs or weekly. Retire 
 - **Notes:** Don't use for hard road tempo work or track — wrong tool, burns foam fast.
 
 ## Retired
+
+### Reebok Nano X5 — Solar Lime (returned May 18, 2026)
+- **Purchased:** May 17, 2026 (Amazon order #111-5970813-6259450, $108.42)
+- **Size:** 8.5 men's standard width
+- **Mileage:** 0 (try-on only)
+- **Reason returned:** Too narrow on the sides at try-on. Wider than the Metcon, but not wide enough for Paul's 112mm left forefoot. Reebok's "wider toe box" claim is relative to other cross-trainers, not to true-wide foot needs.
+- **Lesson:** For Paul's foot, the cross-trainer category requires brands with explicit wide widths or foot-shaped lasts (TYR, Altra). Standard-width cross-trainers — even the "wider" ones (Nano X3/X4/X5) — will not fit. Don't waste another try-on on standard-D cross-trainers.
 
 ### ASICS Metaspeed Sky — Light Blue (retired May 17, 2026)
 - **Purchased:** Jul 6, 2025
