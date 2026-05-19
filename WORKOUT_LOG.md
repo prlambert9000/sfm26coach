@@ -327,3 +327,19 @@
 - **What the data says despite the chaos:** Pace-only read (HR is unreliable today): mile 9 @ 7:14 and a 6:19 closing kick after a hilly 8 miles indicates real fast-finish capacity. 8:03 avg on 533 ft of gain in a crowded race aligns with a fitness level ahead of the May 3 5K (VDOT ~52) but the magnitude can't be quantified without trustworthy HR — May 30 PAL 10K (flat course, H10 on) is the real calibration.
 - **Fuel executed:** 2× **PF30 gels at 30 min and 60 min** (=60 g across 75 min ≈ **48 g/hr**). Plan was mile 3 + mile 5.5; by time-cadence Paul hit them at ~mile 3.7 and ~mile 7.5 — slightly later but same family. GI fine, timing felt right. **Athlete feedback: "would be hard to do more" at this dose/cadence.** This is meaningful gut-tolerance signal — a third gel was on the menu in the original Maurten plan (3 across 80 min) and would have been unwelcome. Implication for marathon: 90 g/hr target by Weeks 9–10 needs deliberate progression; the current ceiling at race effort is ~50 g/hr. Sodium: half LMNT packet in 14 oz handheld worked.
 - **Notes:** Athlete reports race was more party than race, hard to execute plan structure, unexpected hill at the end of the 15K (confirmed: mile 8 +91 ft climb). Polar H10 not worn — HR data scratched per established wrist-optical artifact pattern. Knee 2/5: mild mid-race tweaks, resolved. Strong day given conditions — successful fast-finish stimulus even if not the prescribed shape.
+
+## May 19, 2026
+
+- **Workout:** Easy morning
+- **Type:** Run
+- **Distance:** 4.59 mi
+- **Time:** 41:13
+- **Avg Pace:** 8:59/mi
+- **Elevation Gain:** 198 ft
+- **Avg Heart Rate:** 134 bpm (max 178)
+- **Avg Cadence:** N/A
+- **Splits:** 8:24, 8:34, 8:56, 9:08, 10:29
+- **Relative Effort:** 39.0
+- **Strava sidecar:** `strava/activities/18568366617.json`
+- **Knee Status:** (pending — update after reviewing)
+- **Notes:** Auto-logged from Strava. Awaiting athlete feedback.

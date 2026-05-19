@@ -1,0 +1,91 @@
+{
+  "activity_id": 18568366617,
+  "avg_cadence_spm": null,
+  "avg_hr": 134.5,
+  "avg_pace": "8:59/mi",
+  "avg_power_w": 222.1,
+  "calories": 482.0,
+  "date": "2026-05-19",
+  "date_heading": "May 19, 2026",
+  "description": "",
+  "distance_mi": 4.586,
+  "elapsed_time_s": 2477,
+  "elevation_gain_ft": 197.5,
+  "fetched_at": "2026-05-19T14:03:24Z",
+  "hr_zones": [
+    {
+      "max": 116,
+      "min": 0,
+      "time_s": 107.0
+    },
+    {
+      "max": 144,
+      "min": 117,
+      "time_s": 2358.0
+    },
+    {
+      "max": 158,
+      "min": 145,
+      "time_s": 7.0
+    },
+    {
+      "max": 173,
+      "min": 159,
+      "time_s": 0.0
+    },
+    {
+      "max": -1,
+      "min": 174,
+      "time_s": 1.0
+    }
+  ],
+  "max_hr": 178.0,
+  "moving_time_s": 2473,
+  "name": "Easy morning",
+  "splits": [
+    {
+      "avg_hr": 124.7960396039604,
+      "distance_mi": 1.001,
+      "elev_diff_ft": -130.6,
+      "mile": 1,
+      "moving_time_s": 505,
+      "pace": "8:24"
+    },
+    {
+      "avg_hr": 134.6315789473684,
+      "distance_mi": 1.0,
+      "elev_diff_ft": -45.9,
+      "mile": 2,
+      "moving_time_s": 514,
+      "pace": "8:34"
+    },
+    {
+      "avg_hr": 135.4373831775701,
+      "distance_mi": 1.0,
+      "elev_diff_ft": -2.6,
+      "mile": 3,
+      "moving_time_s": 537,
+      "pace": "8:56"
+    },
+    {
+      "avg_hr": 138.43169398907105,
+      "distance_mi": 1.001,
+      "elev_diff_ft": 44.6,
+      "mile": 4,
+      "moving_time_s": 549,
+      "pace": "9:08"
+    },
+    {
+      "avg_hr": 140.6813186813187,
+      "distance_mi": 0.585,
+      "elev_diff_ft": 108.3,
+      "mile": 5,
+      "moving_time_s": 368,
+      "pace": "10:29"
+    }
+  ],
+  "start_local": "2026-05-19T06:12:55Z",
+  "strava_url": "https://www.strava.com/activities/18568366617",
+  "suffer_score": 39.0,
+  "type": "Run"
+}
