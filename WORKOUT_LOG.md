@@ -337,7 +337,8 @@
 - **Avg Pace:** 8:59/mi
 - **Elevation Gain:** 198 ft
 - **Avg Heart Rate:** 134 bpm (max 145 — original Strava max 178 was a wrist-optical artifact, corrected)
-- **Avg Cadence:** N/A
+- **Avg Cadence:** 167 SPM (range 143–175, from Apple Fitness — Strava API returned null)
+- **Running dynamics (Apple Fitness):** Vertical oscillation 9.1 cm (8.3–9.9), Ground Contact Time 260 ms (244–291)
 - **Splits:** 8:24, 8:34, 8:56, 9:08, 10:29
 - **Relative Effort:** 39.0
 - **Strava sidecar:** `strava/activities/18568366617.json`
