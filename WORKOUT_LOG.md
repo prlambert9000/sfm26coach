@@ -341,5 +341,5 @@
 - **Splits:** 8:24, 8:34, 8:56, 9:08, 10:29
 - **Relative Effort:** 39.0
 - **Strava sidecar:** `strava/activities/18568366617.json`
-- **Knee Status:** (pending)
-- **Notes:** Clean Z2 easy run. Athlete reports strict effort cap <145 — confirmed by HR graph (steady 130–140, no real spikes). Strava reported a 178 BPM max but it appears nowhere on the trace; Polar H10 momentary dropout to wrist-optical, single bad sample. JSON corrected (max_hr → 145, 8s of zone-3/5 contamination rolled into zone 2). HR profile otherwise textbook recovery run.
+- **Knee Status:** 1/5 (green, no awareness)
+- **Notes:** Clean Z2 easy run. Athlete reports strict effort cap <145 — confirmed by HR graph (steady 130–140, no real spikes). Strava reported a 178 BPM max but it appears nowhere on the trace; Polar H10 momentary end-of-workout dropout to wrist-optical, single bad sample. JSON corrected (max_hr → 145, 8s of zone-3/5 contamination rolled into zone 2). HR profile otherwise textbook recovery run. Knee fully quiet — second consecutive green day post-B2B.
