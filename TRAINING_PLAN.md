@@ -119,7 +119,7 @@ Solo 5K simulation: **21:47 (7:00/mi)**. Max HR 183. 1-min HRR 33 BPM.
 ### Phase 1: Foundation & Durability (Weeks 1–4)
 - **Week 1 (May 4–10):** 20 mi | LR 8 mi
 - **Week 2 (May 11–17):** 24 mi | LR 10 mi (Bay to Breakers 15K — 8:30–8:45 steady / 7:35–7:45 MP finish)
-- **Week 3 (May 18–24):** 22 mi | LR 9 mi (originally scheduled deload — promoted May 15 to a normal build week with Tue easy as post-B2B recovery; full-Rx strength Wed/Fri)
+- **Week 3 (May 18–24):** 23 mi | LR 10 mi (originally scheduled deload — promoted May 15 to a normal build week with Tue easy as post-B2B recovery; full-Rx strength Wed/Fri. LR bumped 9→10 May 19 given B2B absorption.)
 - **Week 4 (May 25–31):** ~22 mi | **benchmark taper week** (San Mateo PAL 10K, May 30). Long run shifted to Week 5.
 
 ### Phase 2: Strength & Threshold (Weeks 5–8)
@@ -173,7 +173,7 @@ Solo 5K simulation: **21:47 (7:00/mi)**. Max HR 183. 1-min HRR 33 BPM.
 | 2026-05-21 | Thu | 6 mi Progression Run | 4 mi @ 9:00 + 2 mi threshold by HR (155–162, cap 165). Pace is the check; HR is the anchor. |
 | 2026-05-22 | Fri | Stability & Power | **Full Rx** — Bulgarian 20/hand, SL-RDL 25 single contralateral, Spanish squat hold (light band), Copenhagen 30s/side + PT block. |
 | 2026-05-23 | Sat | 3 mi Shakeout | 9:30+ |
-| 2026-05-24 | Sun | 9 mi Long Run | 8:45–9:00 (faster than the original 9:30 deload pace — this is a build LR, not a deload one). |
+| 2026-05-24 | Sun | 10 mi Long Run | 8:45–9:15. Bumped from 9 mi May 19 — B2B 9.3 mi at 8:03 (faster, with MP finish) was absorbed cleanly (knee 1/5 Tue), so adding one easy aerobic mile fits. Flat route (Bayfront) — pure aerobic time-on-feet, do not trade distance for pace. |
 
 ### Week 4 (May 25–31) — ~22 mi | benchmark taper week (San Mateo PAL 10K, May 30)
 | Date | Day | Workout | Notes |
