@@ -12,6 +12,10 @@
   "elapsed_time_s": 2477,
   "elevation_gain_ft": 197.5,
   "fetched_at": "2026-05-19T14:03:24Z",
+  "_corrections": {
+    "max_hr": "Original Strava value 178 BPM was a wrist-optical artifact (Polar H10 momentary dropout); athlete confirmed strict <145 effort and graph shows no spike above ~155. Overwritten to 145.",
+    "hr_zones": "Zone 3 (7s) and Zone 5 (1s) rolled into Zone 2 — same artifact origin."
+  },
   "hr_zones": [
     {
       "max": 116,
@@ -21,12 +25,12 @@
     {
       "max": 144,
       "min": 117,
-      "time_s": 2358.0
+      "time_s": 2366.0
     },
     {
       "max": 158,
       "min": 145,
-      "time_s": 7.0
+      "time_s": 0.0
     },
     {
       "max": 173,
@@ -36,10 +40,10 @@
     {
       "max": -1,
       "min": 174,
-      "time_s": 1.0
+      "time_s": 0.0
     }
   ],
-  "max_hr": 178.0,
+  "max_hr": 145.0,
   "moving_time_s": 2473,
   "name": "Easy morning",
   "splits": [
