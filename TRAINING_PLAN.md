@@ -172,7 +172,7 @@ Solo 5K simulation: **21:47 (7:00/mi)**. Max HR 183. 1-min HRR 33 BPM.
 | 2026-05-20 | Wed | Heavy Strength | **Full Rx** — squat 155, RDL 155 (straps), calf raise 40/hand, reverse Nordic BW. Progress RDL→165 / calf→45 only if those exercises feel clearly Easy. |
 | 2026-05-21 | Thu | 6 mi Progression Run | 4 mi @ 9:00 + 2 mi threshold by HR (155–162, cap 165). Pace is the check; HR is the anchor. |
 | 2026-05-22 | Fri | Stability & Power | **Full Rx** — Bulgarian 20/hand, SL-RDL 25 single contralateral, Spanish squat hold (light band), Copenhagen 30s/side + PT block. |
-| 2026-05-23 | Sat | 30–45 min Easy Bike | Swapped from 3 mi shakeout May 19 — athlete wanted variety; knee 1/5 supports it. HR cap 130 (Z1/low Z2), flat route only, solo. This is a flush before Sunday's LR, not a workout. |
+| 2026-05-23 | Sat | 3 mi Easy Shakeout **OR** 30–45 min Easy Bike (game-time call) | Game-time decision based on Saturday-morning feel. Default option: 3 mi shakeout @ 9:15–9:30 (flat). Bike alternate: 30–45 min, HR cap 130 (Z1/low Z2), flat route, solo. Either way it's a flush before Sunday's LR — do not turn it into a workout. Pick the run if legs feel fresh; pick the bike if anything is barking or you just want the variety. |
 | 2026-05-24 | Sun | 10 mi Long Run | 8:45–9:15. Bumped from 9 mi May 19 — B2B 9.3 mi at 8:03 (faster, with MP finish) was absorbed cleanly (knee 1/5 Tue), so adding one easy aerobic mile fits. Flat route (Bayfront) — pure aerobic time-on-feet, do not trade distance for pace. |
 
 ### Week 4 (May 25–31) — ~22 mi | benchmark taper week (San Mateo PAL 10K, May 30)
