@@ -10,7 +10,7 @@
 
 ## Current Recommended Weights
 
-*Last updated: 2026-05-13 (W2 Wed Heavy — all four exercises completed Rx, no weight changes. Squat 155 Good. RDL 155 Good leaning light w/ straps (1st clean session at full load — bump to 165 next Wed if clearly Easy). Calf raise 40 lb/hand full 4×10 clean (W1 had 7-rep dropoffs). Reverse Nordic depth progressing past W1's ~45° on some reps.)*
+*Last updated: 2026-05-20 (W3 Wed Heavy — squat and RDL both bumped 155 → 165, cleared Good "as prescribed." Hold 165 next Wed. Calf raise held at 40 lb/hand — equipment-limited (used 18 kg KBs ≈ 40 lb; next KB up in the gym's rack was a big jump). Reverse Nordic bodyweight 3×10 as prescribed.)*
 
 Use a simple feel rating when reporting back: **Easy** (4+ reps left in tank), **Good** (2–3 reps in reserve), **Heavy** (grinding last rep), **Too heavy** (couldn't complete reps).
 
@@ -23,8 +23,8 @@ Use a simple feel rating when reporting back: **Easy** (4+ reps left in tank), *
 
 | Exercise | Recommended | Feel Target |
 |----------|-------------|-------------|
-| Back squat | 155 lb, 4 × 6 | Good — 3-sec eccentric, hips break first then knees, knees track over toes |
-| Romanian deadlift (RDL) | 155 lb, 4 × 6 — **straps required** | Good — hinge, neutral spine, hamstring stretch. Grip is the limiter without straps; if no straps, drop to 135 for clean reps. |
+| Back squat | 165 lb, 4 × 6 | Good — 3-sec eccentric, hips break first then knees, knees track over toes |
+| Romanian deadlift (RDL) | 165 lb, 4 × 6 — **straps required** | Good — hinge, neutral spine, hamstring stretch. Grip is the limiter without straps; if no straps, drop to 135 for clean reps. |
 | Standing calf raise | 40 lb/hand DBs, 4 × 10 — **straps + step recommended** | Good — full ROM (heel below step), 2-sec hold at top, 3-sec lower. Grip + balance were W1 limiters; straps free up grip and a weight vest would free up balance. |
 | Reverse Nordic | Bodyweight, 3 × 10 | Good — kneel on pad, knees hip-width, glutes squeezed (lock hip extension), 3-sec lower. Build depth slowly week over week (W1: ~45°). Stop on any sharp PF pain. |
 
@@ -80,6 +80,21 @@ Bodyweight only. Pre-workout activation pattern; not a lift. Two rounds.
 ---
 
 ## Session Logs
+
+### 2026-05-20 — Wed Heavy Strength (V6 Week 3)
+**Body Weight:** Not reported
+
+| Exercise | Weight Used | Sets×Reps | Feel | Notes |
+|----------|-------------|-----------|------|-------|
+| Back squat | 165 lb | 4 × 6 (Rx) | Good ("as prescribed") | First session at 165 — bumped from 155 per W2 progression signal. Cleared Good. Hold 165 for next Wed unless clearly Easy. |
+| Romanian deadlift (RDL) | 165 lb (straps) | 4 × 6 (Rx) | Good ("as prescribed") | Bumped from 155 per W2 plan ("if W3 feels clearly Easy, bump to 165"). Cleared Good at the new load. Hold 165 for next Wed. |
+| Standing calf raise | 40 lb/hand (18 kg KBs) | 4 × 10 (Rx) | Not reported — equipment-limited | Used 18 kg kettlebells (≈ 39.7 lb each, calling it 40). Next available kettlebell in the rack was "quite a bit larger" — no intermediate option, so held at 40 by equipment, not by feel signal. Progression blocked until either (a) the gym's DB rack is available, or (b) a 22–24 kg / ~50 lb KB shows up. |
+| Reverse Nordic | Bodyweight | 3 × 10 (Rx) | As prescribed | Per plan — continue gradual depth build. |
+
+**Knee during session:** Not explicitly reported. Athlete said "they felt good and I felt good" referring to the loaded lifts — interpreting as no knee complaint, but not a formal 1–5 reading.
+**Overall notes:** Clean W3 progression — both heavy compounds (squat + RDL) up 10 lb from W2 and cleared Good "as prescribed." That's the third consecutive heavy session at 1/5 knee and clean form — the chassis work is paying. RDL progression is especially notable since W1 was grip-limited at 155, W2 was Good leaning light with straps, and W3 cleared 165 Good (clean +10 lb in two weeks once straps unlocked the posterior chain). Calf raise is the one open item: feel signal was good enough that we'd normally try 45 lb, but the gym only stocks 18 kg → next-size-up KBs with a big gap. **Action:** confirm whether DB rack is available on Wed (would unlock 45 lb cleanly), or grab a 22 kg KB if any single is hanging around. Reverse Nordic on track per plan. Next Wed (May 27 — deload-ish W4): hold all loads; W4 is the San Mateo 10K calibration week so we don't chase strength PRs.
+
+---
 
 ### 2026-05-15 — Fri Bodyweight Stability + PT Block (V6 Week 2 — modified pre-B2B)
 **Body Weight:** Not reported
