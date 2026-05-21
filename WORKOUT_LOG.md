@@ -347,16 +347,19 @@
 
 ## May 21, 2026
 
-- **Workout:** Morning Run
+- **Workout:** Compressed Progression Run (V6 Week 3 Thursday — shortened from 6 mi → 4.63 mi due to late start, kept the threshold stimulus)
 - **Type:** Run
 - **Distance:** 4.63 mi
-- **Time:** 37:19
+- **Moving Time:** 37:19
 - **Avg Pace:** 8:03/mi
 - **Elevation Gain:** 278 ft
-- **Avg Heart Rate:** 149 bpm (max 173)
-- **Avg Cadence:** N/A
-- **Splits:** 8:13, 8:28, 7:56, 7:29, 8:00
-- **Relative Effort:** 74.0
-- **Strava sidecar:** `strava/activities/18595852504.json`
-- **Knee Status:** (pending — update after reviewing)
-- **Notes:** Auto-logged from Strava. Awaiting athlete feedback.
+- **Avg Heart Rate:** 149 bpm — Polar H10 primary
+- **Max Heart Rate:** 173 bpm (closing climb in mile 5, not an artifact — sits cleanly inside the trace)
+- **Avg Power:** 248 W
+- **Calories:** 498
+- **Suffer Score:** 74
+- **HR Zones (working max 180):** Z1 0:33 / Z2 13:55 / Z3 10:43 / Z4 12:11 / Z5 0:00 — Z4 = 33% of moving time, substantial threshold dose
+- **Splits (pace / elev / HR):** 1: 8:13 / -95 / 133 · 2: 8:28 / +27 / 143 · 3: 7:56 / -19 / 151 · 4: 7:29 / -13 / 161 · 5 (0.65 mi): 8:00 / +95 / 164
+- **Strava sidecar:** `strava/activities/18595852504.json` · [activity](https://www.strava.com/activities/18595852504)
+- **Knee Status:** **1/5 — green, no awareness.** Threshold dose at HR 161–164 with zero knee feedback.
+- **Notes:** Plan was 6 mi (4 mi @ 9:00 + 2 mi threshold by HR 155–162, cap 165). Athlete got out the door late and compressed it — and made the right call about what to keep. Cut the easy portion to ~2 mi (8:13/8:28 at HR 133/143), then ran a continuous threshold ramp across miles 3-4-5 (7:56/7:29/8:00 at HR 151/161/164). **Mile 4 is the headline:** 7:29 at HR 161, exactly the prescribed threshold band, on net-flat terrain. Mile 5 held 8:00 pace despite +95 ft of climbing with HR ticking to 164 — same effort, slower because of the hill. Peak 173 BPM on the closing climb is real (continuous rise across the climb segment, not an end-of-workout spike — no H10 artifact signature). **Total Z4 time 12:11 = ~33% of moving time** — that's a real threshold stimulus, arguably better than the planned format would have delivered since it was continuous instead of split. The 1.4 mi of easy that got skipped is the lowest-value part of the workout; the threshold portion is what drives adaptation. Net: this was a quality compressed session, not a compromised one. Knee 1/5 with HR 164 sustained is the cleanest data point we have that the right leg is handling threshold load.
