@@ -1,0 +1,91 @@
+{
+  "activity_id": 18595852504,
+  "avg_cadence_spm": null,
+  "avg_hr": 148.8,
+  "avg_pace": "8:03/mi",
+  "avg_power_w": 247.7,
+  "calories": 498.0,
+  "date": "2026-05-21",
+  "date_heading": "May 21, 2026",
+  "description": "",
+  "distance_mi": 4.633,
+  "elapsed_time_s": 2276,
+  "elevation_gain_ft": 278.2,
+  "fetched_at": "2026-05-21T14:58:57Z",
+  "hr_zones": [
+    {
+      "max": 116,
+      "min": 0,
+      "time_s": 33.0
+    },
+    {
+      "max": 144,
+      "min": 117,
+      "time_s": 835.0
+    },
+    {
+      "max": 158,
+      "min": 145,
+      "time_s": 643.0
+    },
+    {
+      "max": 173,
+      "min": 159,
+      "time_s": 731.0
+    },
+    {
+      "max": -1,
+      "min": 174,
+      "time_s": 0.0
+    }
+  ],
+  "max_hr": 173.0,
+  "moving_time_s": 2239,
+  "name": "Morning Run",
+  "splits": [
+    {
+      "avg_hr": 132.6186612576065,
+      "distance_mi": 1.001,
+      "elev_diff_ft": -95.1,
+      "mile": 1,
+      "moving_time_s": 494,
+      "pace": "8:13"
+    },
+    {
+      "avg_hr": 142.705078125,
+      "distance_mi": 1.0,
+      "elev_diff_ft": 26.9,
+      "mile": 2,
+      "moving_time_s": 509,
+      "pace": "8:28"
+    },
+    {
+      "avg_hr": 150.64556962025316,
+      "distance_mi": 1.0,
+      "elev_diff_ft": -19.0,
+      "mile": 3,
+      "moving_time_s": 476,
+      "pace": "7:56"
+    },
+    {
+      "avg_hr": 160.74444444444444,
+      "distance_mi": 1.0,
+      "elev_diff_ft": -13.1,
+      "mile": 4,
+      "moving_time_s": 450,
+      "pace": "7:29"
+    },
+    {
+      "avg_hr": 164.20064724919095,
+      "distance_mi": 0.645,
+      "elev_diff_ft": 94.5,
+      "mile": 5,
+      "moving_time_s": 310,
+      "pace": "8:00"
+    }
+  ],
+  "start_local": "2026-05-21T06:42:33Z",
+  "strava_url": "https://www.strava.com/activities/18595852504",
+  "suffer_score": 74.0,
+  "type": "Run"
+}

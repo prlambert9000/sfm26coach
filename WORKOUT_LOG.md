@@ -344,3 +344,19 @@
 - **Strava sidecar:** `strava/activities/18568366617.json`
 - **Knee Status:** 1/5 (green, no awareness)
 - **Notes:** Clean Z2 easy run. Athlete reports strict effort cap <145 — confirmed by HR graph (steady 130–140, no real spikes). Strava reported a 178 BPM max but it appears nowhere on the trace; Polar H10 momentary end-of-workout dropout to wrist-optical, single bad sample. JSON corrected (max_hr → 145, 8s of zone-3/5 contamination rolled into zone 2). HR profile otherwise textbook recovery run. Knee fully quiet — second consecutive green day post-B2B.
+
+## May 21, 2026
+
+- **Workout:** Morning Run
+- **Type:** Run
+- **Distance:** 4.63 mi
+- **Time:** 37:19
+- **Avg Pace:** 8:03/mi
+- **Elevation Gain:** 278 ft
+- **Avg Heart Rate:** 149 bpm (max 173)
+- **Avg Cadence:** N/A
+- **Splits:** 8:13, 8:28, 7:56, 7:29, 8:00
+- **Relative Effort:** 74.0
+- **Strava sidecar:** `strava/activities/18595852504.json`
+- **Knee Status:** (pending — update after reviewing)
+- **Notes:** Auto-logged from Strava. Awaiting athlete feedback.
