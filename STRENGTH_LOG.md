@@ -10,7 +10,7 @@
 
 ## Current Recommended Weights
 
-*Last updated: 2026-05-20 (W3 Wed Heavy — squat and RDL both bumped 155 → 165, cleared Good "as prescribed." Hold 165 next Wed. Calf raise held at 40 lb/hand — equipment-limited (used 18 kg KBs ≈ 40 lb; next KB up in the gym's rack was a big jump). Reverse Nordic bodyweight 3×10 as prescribed.)*
+*Last updated: 2026-05-22 (W3 Fri Stability — Bulgarian split squat bumped 20 → 25 lb/hand mid-session (athlete-initiated, cleared 2×10 at 25 with knee 1/5). New rec 25/hand. SL-RDL held at 25 lb contralateral pending a clean feel signal (8 reps in 8–10 range, no feel rating reported). Copenhagen 30s/side held. PT block (side plank, dead bug, chin tuck) skipped to time crunch — schedule it earlier next Fri.)*
 
 Use a simple feel rating when reporting back: **Easy** (4+ reps left in tank), **Good** (2–3 reps in reserve), **Heavy** (grinding last rep), **Too heavy** (couldn't complete reps).
 
@@ -35,8 +35,8 @@ Use a simple feel rating when reporting back: **Easy** (4+ reps left in tank), *
 
 | Exercise | Recommended | Feel Target |
 |----------|-------------|-------------|
-| Bulgarian split squat | 20 lbs/hand | Good — 3-sec eccentric, hips square. Cleared 20 lb @ 10 reps May 8 (after one warm-up set at 15). |
-| Single-leg RDL (DB, contralateral) | 20 lbs (single, contralateral) — progress to 25 next | Cleared Easy at 20 single-hand on May 8. **Stay contralateral**, not bilateral — the anti-rotation challenge is the whole point (PT-flagged weakness). Bilateral is easier but trains less of what we need. Free hand reaches forward as counterbalance, 3-sec eccentric, don't bend the working knee. |
+| Bulgarian split squat | 25 lbs/hand | Good — 3-sec eccentric, hips square. Cleared 25 lb/hand @ 10 reps × 2 sets May 22 (athlete bumped mid-session from 20). |
+| Single-leg RDL (DB, contralateral) | 25 lbs (single, contralateral) | Held 25 lb contralateral May 22 at 8 reps (8–10 Rx range), no feel rating reported — hold load next loaded Fri to capture a clean signal. **Stay contralateral**, not bilateral — the anti-rotation challenge is the whole point (PT-flagged weakness). Bilateral is easier but trains less of what we need. Free hand reaches forward as counterbalance, 3-sec eccentric, don't bend the working knee. |
 | Spanish squat hold | Light band behind knees | 3 × 30–45 sec — vertical shin, deep knee bend, isometric |
 | Copenhagen plank | Bodyweight | 3 × 30 sec each side — adductor tension, top leg on bench. At top of prescribed range as of May 8; next progression is +5s or load (foot on bench → shin on bench). |
 | Side plank with hip abduction (PT) | Bodyweight | **Top toe pointing to floor** (IR of lifting leg). 8 reps each side. |
@@ -80,6 +80,24 @@ Bodyweight only. Pre-workout activation pattern; not a lift. Two rounds.
 ---
 
 ## Session Logs
+
+### 2026-05-22 — Fri Stability & Power (V6 Week 3)
+**Body Weight:** Not reported
+
+| Exercise | Weight Used | Sets×Reps | Feel | Notes |
+|----------|-------------|-----------|------|-------|
+| Bulgarian split squat | 20 → 25 lb/hand | 1×10 @ 20 + 2×10 @ 25 | Good (implied by mid-session bump) | Athlete bumped Rx 20 → 25 mid-session, cleared 2×10 at 25 with knee 1/5. Mirrors W1's 15 → 20 mid-session progression. New working weight = 25 lb/hand. |
+| Single-leg RDL (contralateral) | 25 lb single | 3 × 8 each side | Not reported | First session at full Rx 25 lb contralateral (bumped from 20 per W1 progression signal). 8 reps each side — bottom of 8–10 Rx range. No feel rating reported. Hold 25 next loaded Fri to capture clean signal. |
+| Spanish squat hold | Light band behind knees | 3 × 30–45 sec (Rx) | As prescribed | Per plan. |
+| Copenhagen plank | Bodyweight | 3 × 30 sec each side (Rx) | As prescribed | Held W1 progression (top of 20–30s range). Next progression is +5s or shin-on-bench. |
+| Side plank w/ hip abduction (PT) | — | **Skipped — time** | — | Ran out of time after Copenhagen planks. |
+| Dead bug w/ banded pulldown (PT) | — | **Skipped — time** | — | Ran out of time after Copenhagen planks. |
+| Chin tuck + lifts (PT) | — | **Skipped — time** | — | Ran out of time after Copenhagen planks. |
+
+**Knee during session:** 1/5 — green throughout, including loaded 25 lb/hand Bulgarian split squats.
+**Overall notes:** Two real progression signals in a deload week. Bulgarian split squat bumped 20 → 25 lb/hand mid-session and cleared 2×10 with knee 1/5 — that's the same self-initiated mid-session bump pattern from W1 (15 → 20), and it lands as a clean Easy-at-20 signal. New working weight 25 lb/hand. SL-RDL hit the full Rx 25 lb contralateral progression (the bump from 20 lb the plan was holding for); 8 reps per side at the lower end of the 8–10 range, no feel rating, so we hold 25 next loaded Fri to capture a clean read. Spanish squat and Copenhagen at Rx. The miss: the PT block (side plank w/ hip abd, dead bug w/ banded pulldown, chin tuck + lifts) got dropped to the time crunch — second Fri in a row those exercises haven't gotten their full dose (May 15 had them, May 22 did not). **Action:** schedule the PT block earlier in the Fri session next week, or set a hard 5-min slot for it before the main lifts. Those are PT-prescribed for the medial PFJ presentation and they're the highest-leverage exercises in the session for the actual diagnosis. Otherwise: knee silent across loaded single-leg work, two progression signals banked, deload week intact.
+
+---
 
 ### 2026-05-20 — Wed Heavy Strength (V6 Week 3)
 **Body Weight:** Not reported
