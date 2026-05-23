@@ -369,3 +369,19 @@
 - **Strava sidecar:** `strava/activities/18595852504.json` · [activity](https://www.strava.com/activities/18595852504)
 - **Knee Status:** **1/5 — green, no awareness.** Threshold dose at HR 161–164 with zero knee feedback.
 - **Notes:** Plan was 6 mi (4 mi @ 9:00 + 2 mi threshold by HR 155–162, cap 165). Athlete got out the door late and compressed it — and made the right call about what to keep. Cut the easy portion to ~2 mi (8:13/8:28 at HR 133/143), then ran a continuous threshold ramp across miles 3-4-5 (7:56/7:29/8:00 at HR 151/161/164). **Mile 4 is the headline:** 7:29 at HR 161, exactly the prescribed threshold band, on net-flat terrain. Mile 5 held 8:00 pace despite +95 ft of climbing with HR ticking to 164 — same effort, slower because of the hill. Peak 173 BPM on the closing climb is real (continuous rise across the climb segment, not an end-of-workout spike — no H10 artifact signature). **Total Z4 time 12:11 = ~33% of moving time** — that's a real threshold stimulus, arguably better than the planned format would have delivered since it was continuous instead of split. The 1.4 mi of easy that got skipped is the lowest-value part of the workout; the threshold portion is what drives adaptation. Net: this was a quality compressed session, not a compromised one. Knee 1/5 with HR 164 sustained is the cleanest data point we have that the right leg is handling threshold load.
+
+## May 23, 2026
+
+- **Workout:** Easy shakeout
+- **Type:** Run
+- **Distance:** 4.07 mi
+- **Time:** 38:44
+- **Avg Pace:** 9:31/mi
+- **Elevation Gain:** 236 ft
+- **Avg Heart Rate:** 132 bpm (max 144)
+- **Avg Cadence:** N/A
+- **Splits:** 8:56, 9:01, 9:42, 10:25, 9:31
+- **Relative Effort:** 34.0
+- **Strava sidecar:** `strava/activities/18622845652.json`
+- **Knee Status:** (pending — update after reviewing)
+- **Notes:** Auto-logged from Strava. Awaiting athlete feedback.

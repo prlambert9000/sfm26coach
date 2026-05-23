@@ -1,0 +1,91 @@
+{
+  "activity_id": 18622845652,
+  "avg_cadence_spm": null,
+  "avg_hr": 132.4,
+  "avg_pace": "9:31/mi",
+  "avg_power_w": 209.8,
+  "calories": 436.0,
+  "date": "2026-05-23",
+  "date_heading": "May 23, 2026",
+  "description": "",
+  "distance_mi": 4.066,
+  "elapsed_time_s": 2328,
+  "elevation_gain_ft": 236.2,
+  "fetched_at": "2026-05-23T15:03:28Z",
+  "hr_zones": [
+    {
+      "max": 116,
+      "min": 0,
+      "time_s": 163.0
+    },
+    {
+      "max": 144,
+      "min": 117,
+      "time_s": 2161.0
+    },
+    {
+      "max": 158,
+      "min": 145,
+      "time_s": 0.0
+    },
+    {
+      "max": 173,
+      "min": 159,
+      "time_s": 0.0
+    },
+    {
+      "max": -1,
+      "min": 174,
+      "time_s": 0.0
+    }
+  ],
+  "max_hr": 144.0,
+  "moving_time_s": 2324,
+  "name": "Easy shakeout",
+  "splits": [
+    {
+      "avg_hr": 118.91401869158878,
+      "distance_mi": 1.001,
+      "elev_diff_ft": -104.3,
+      "mile": 1,
+      "moving_time_s": 537,
+      "pace": "8:56"
+    },
+    {
+      "avg_hr": 134.66236162361625,
+      "distance_mi": 1.0,
+      "elev_diff_ft": -40.7,
+      "mile": 2,
+      "moving_time_s": 542,
+      "pace": "9:01"
+    },
+    {
+      "avg_hr": 137.43327556325823,
+      "distance_mi": 1.0,
+      "elev_diff_ft": 58.4,
+      "mile": 3,
+      "moving_time_s": 582,
+      "pace": "9:42"
+    },
+    {
+      "avg_hr": 137.0311986863711,
+      "distance_mi": 1.001,
+      "elev_diff_ft": 72.8,
+      "mile": 4,
+      "moving_time_s": 626,
+      "pace": "10:25"
+    },
+    {
+      "avg_hr": 141.94285714285715,
+      "distance_mi": 0.065,
+      "elev_diff_ft": -11.2,
+      "mile": 5,
+      "moving_time_s": 37,
+      "pace": "9:31"
+    }
+  ],
+  "start_local": "2026-05-23T07:01:25Z",
+  "strava_url": "https://www.strava.com/activities/18622845652",
+  "suffer_score": 34.0,
+  "type": "Run"
+}
