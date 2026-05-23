@@ -4,6 +4,17 @@ Track mileage and condition per pair. Update after major runs or weekly. Retire 
 
 ## Active Rotation
 
+### Long Run / Fast Day Trainer — ASICS Superblast 3
+- **Purchased:** TBD (decision and order context not captured in prior sessions — pending Paul fill-in)
+- **Size:** 8.5 (width TBD — likely Wide given 112mm L forefoot)
+- **Mileage:** 4.07 mi (debut May 23, 2026 — easy shakeout, no fit complaints, no mechanics changes)
+- **Role:** Long runs and faster days (tempo, MP work). The "supertrainer" slot — FF Turbo Plus race foam without a carbon plate, so it's race-adjacent cushioning that's still durable for high-mileage use. Sits between the daily trainer (still TBD) and the Metaspeed Sky Tokyo race shoe.
+- **Why this fits the rotation:** Daily trainer covers easy/recovery (target ~70% of mileage), Superblast covers long/tempo, Metaspeed Tokyo covers race-pace tune-ups and race day. Three-shoe rotation aligned by stress profile.
+- **Target lifespan:** 300–400 mi (supertrainer foam is between daily trainer and race shoe in durability — softer than NB 880, firmer than the plated Metaspeed)
+- **Knee watch:** Superblast 3 has a forward rocker (less aggressive than the Metaspeed but more than a typical daily trainer). Track right-knee response across the first 3–5 runs in this shoe; if any medial PFJ awareness shows up specifically on Superblast days, that's a flag.
+- **Debut notes (May 23, 2026):** 4.07 mi easy shakeout, knee 1/5, avg HR 132, "felt good" per athlete. Clean first impression. Real test is Sunday's long run.
+- **Context gap:** Decision to add the Superblast to the rotation happened in a prior session that wasn't captured in SHOE_LOG.md before that session ended. Paul to fill in: purchase date, width, price/order, and how this slots with the 3-candidate daily-trainer shootout (does it replace one of the candidates, or sit alongside them?).
+
 ### Daily Trainer — TBD (3 candidates in try-on shootout, ordered May 17, 2026)
 - **Three candidates ordered together** (Amazon order #111-8162289-4739428, $717.27 total incl. race shoe, arriving Tuesday May 19):
   1. **ASICS Novablast 5** (Gravel/White, 8.5 **Wide** — via Playmakers on Amazon) — bounciest ride, FF Blast Max foam. Most energetic of the three but rocker geometry can feel unstable on uneven surfaces.
@@ -72,4 +83,4 @@ When logging a workout in WORKOUT_LOG.md, append the shoe used and add the miles
 
 | Date | Workout | Shoe | Miles | Cumulative |
 |---|---|---|---|---|
-| — | — | — | — | — |
+| 2026-05-23 | Easy shakeout | ASICS Superblast 3 | 4.07 | 4.07 (Superblast) |

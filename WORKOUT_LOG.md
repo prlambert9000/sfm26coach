@@ -372,16 +372,19 @@
 
 ## May 23, 2026
 
-- **Workout:** Easy shakeout
+- **Workout:** Easy shakeout (V6 Week 3 Saturday — pre-long-run prep)
 - **Type:** Run
 - **Distance:** 4.07 mi
-- **Time:** 38:44
+- **Moving Time:** 38:44
 - **Avg Pace:** 9:31/mi
 - **Elevation Gain:** 236 ft
-- **Avg Heart Rate:** 132 bpm (max 144)
-- **Avg Cadence:** N/A
-- **Splits:** 8:56, 9:01, 9:42, 10:25, 9:31
-- **Relative Effort:** 34.0
-- **Strava sidecar:** `strava/activities/18622845652.json`
-- **Knee Status:** (pending — update after reviewing)
-- **Notes:** Auto-logged from Strava. Awaiting athlete feedback.
+- **Avg Heart Rate:** 132 bpm (max 144) — Polar H10
+- **Avg Power:** 210 W
+- **Calories:** 436
+- **Suffer Score:** 34
+- **HR Zones:** Z1 2:43 / Z2 36:01 / Z3 0:00 / Z4 0:00 / Z5 0:00 — 100% recovery/aerobic, exactly the shakeout intent
+- **Splits (pace / elev / HR):** 1: 8:56 / -104 / 119 · 2: 9:01 / -41 / 135 · 3: 9:42 / +58 / 137 · 4: 10:25 / +73 / 137 · 0.07 kick: 9:31 / -11 / 142
+- **Shoes:** ASICS Superblast 3 (debut run — felt good)
+- **Strava sidecar:** `strava/activities/18622845652.json` · [activity](https://www.strava.com/activities/18622845652)
+- **Knee Status:** **1/5 — green throughout.**
+- **Notes:** Clean shakeout, executed to script. Max HR 144 = 80% of working max, avg 132 = 73% — squarely Z2 recovery, zero stimulus debt going into tomorrow's long run. Pace fade across miles 3–4 (9:42 / 10:25) is gravity, not fatigue: HR flat at 137 across both climbing miles (+58 / +73 ft) while pace slowed by 43 sec — exactly the HR-flat / pace-slows signature of climbing terrain. The 0.07 mi kick @ 9:31 / HR 142 ticked up a hair on the back-half of a climb, still well inside Z2. **Knee 1/5 after Friday's loaded Bulgarian split squats at 25 lb/hand** is a meaningful read: the right knee absorbed a real single-leg eccentric dose on Friday and ran clean 36 hr later. That's the durability signal we've been building toward in Phase 1. **Superblast 3 debut went smoothly** — no hot spots, no fit complaints, no mechanics changes worth flagging. Tomorrow's long run will be a more useful test of the shoe under fatigue, but today is a good sign. Net: textbook Saturday, everything green-lit for Sunday's long run as planned.
