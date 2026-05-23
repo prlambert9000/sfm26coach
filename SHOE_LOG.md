@@ -5,15 +5,16 @@ Track mileage and condition per pair. Update after major runs or weekly. Retire 
 ## Active Rotation
 
 ### Long Run / Fast Day Trainer — ASICS Superblast 3
-- **Purchased:** TBD (decision and order context not captured in prior sessions — pending Paul fill-in)
-- **Size:** 8.5 (width TBD — likely Wide given 112mm L forefoot)
+- **Purchased:** May 22, 2026 (Amazon)
+- **Size:** 8.5 **standard D** (Superblast 3 does not come in Wide — Paul tried standard, fit was good with the upper laced loose to give the 112mm L forefoot room).
 - **Mileage:** 4.07 mi (debut May 23, 2026 — easy shakeout, no fit complaints, no mechanics changes)
 - **Role:** Long runs and faster days (tempo, MP work). The "supertrainer" slot — FF Turbo Plus race foam without a carbon plate, so it's race-adjacent cushioning that's still durable for high-mileage use. Sits between the daily trainer (still TBD) and the Metaspeed Sky Tokyo race shoe.
-- **Why this fits the rotation:** Daily trainer covers easy/recovery (target ~70% of mileage), Superblast covers long/tempo, Metaspeed Tokyo covers race-pace tune-ups and race day. Three-shoe rotation aligned by stress profile.
+- **Why this slots into the rotation:** Paul wants the long-run/tempo shoe to feel close to the Metaspeed Tokyo he'll race in, so race-day mechanics aren't a surprise. Superblast 3 uses the same FF Turbo Plus foam as the Metaspeed platform (minus the carbon plate) — the ride character carries over, the long-run miles do specificity work on top of aerobic work. Smart pick.
+- **Rotation framing:** Three-shoe rotation aligned by stress profile — daily trainer (TBD from 3-candidate shootout) for easy/recovery (~70% of mileage), **Superblast 3 for long runs + faster days**, Metaspeed Tokyo for race-pace tune-ups and race day. The Superblast does *not* replace any of the three daily-trainer candidates — the shootout continues for the easy-day slot.
+- **Fit lesson — ASICS sizing notes:** Both performance shoes Paul owns now (Metaspeed Tokyo, Superblast 3) fit him in **standard D** with normal-to-loose lacing, despite the 112mm L forefoot that drove the Wide width on the daily-trainer candidates. ASICS race/super-platform lasts run wider than their daily-trainer lasts. **Action:** when shopping future ASICS performance shoes, try standard D first; reserve Wide for daily trainers and other brands.
 - **Target lifespan:** 300–400 mi (supertrainer foam is between daily trainer and race shoe in durability — softer than NB 880, firmer than the plated Metaspeed)
 - **Knee watch:** Superblast 3 has a forward rocker (less aggressive than the Metaspeed but more than a typical daily trainer). Track right-knee response across the first 3–5 runs in this shoe; if any medial PFJ awareness shows up specifically on Superblast days, that's a flag.
-- **Debut notes (May 23, 2026):** 4.07 mi easy shakeout, knee 1/5, avg HR 132, "felt good" per athlete. Clean first impression. Real test is Sunday's long run.
-- **Context gap:** Decision to add the Superblast to the rotation happened in a prior session that wasn't captured in SHOE_LOG.md before that session ended. Paul to fill in: purchase date, width, price/order, and how this slots with the 3-candidate daily-trainer shootout (does it replace one of the candidates, or sit alongside them?).
+- **Debut notes (May 23, 2026):** 4.07 mi easy shakeout, knee 1/5, avg HR 132, "felt good" per athlete. Upper laced loose to accommodate forefoot — no hot spots, no mechanics changes. Real test is Sunday's long run.
 
 ### Daily Trainer — TBD (3 candidates in try-on shootout, ordered May 17, 2026)
 - **Three candidates ordered together** (Amazon order #111-8162289-4739428, $717.27 total incl. race shoe, arriving Tuesday May 19):
