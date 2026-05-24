@@ -368,3 +368,19 @@
 - **Strava sidecar:** `strava/activities/18622845652.json` · [activity](https://www.strava.com/activities/18622845652)
 - **Knee Status:** **1/5 — green throughout.**
 - **Notes:** Clean shakeout, executed to script. Max HR 144 = 80% of working max, avg 132 = 73% — squarely Z2 recovery, zero stimulus debt going into tomorrow's long run. Pace fade across miles 3–4 (9:42 / 10:25) is gravity, not fatigue: HR flat at 137 across both climbing miles (+58 / +73 ft) while pace slowed by 43 sec — exactly the HR-flat / pace-slows signature of climbing terrain. The 0.07 mi kick @ 9:31 / HR 142 ticked up a hair on the back-half of a climb, still well inside Z2. **Knee 1/5 after Friday's loaded Bulgarian split squats at 25 lb/hand** is a meaningful read: the right knee absorbed a real single-leg eccentric dose on Friday and ran clean 36 hr later. That's the durability signal we've been building toward in Phase 1. **Superblast 3 debut went smoothly** — no hot spots, no fit complaints, no mechanics changes worth flagging. Tomorrow's long run will be a more useful test of the shoe under fatigue, but today is a good sign. Net: textbook Saturday, everything green-lit for Sunday's long run as planned.
+
+## May 24, 2026
+
+- **Workout:** First double digits mileage in awhile
+- **Type:** Run
+- **Distance:** 10.50 mi
+- **Time:** 1:24:29
+- **Avg Pace:** 8:02/mi
+- **Elevation Gain:** 274 ft
+- **Avg Heart Rate:** 160 bpm (max 183)
+- **Avg Cadence:** N/A
+- **Splits:** 8:22, 8:03, 7:59, 8:00, 8:53, 8:03, 7:54, 8:03, 7:56, 7:43, 6:58
+- **Relative Effort:** 239.0
+- **Strava sidecar:** `strava/activities/18636817559.json`
+- **Knee Status:** (pending — update after reviewing)
+- **Notes:** Auto-logged from Strava. Awaiting athlete feedback.
