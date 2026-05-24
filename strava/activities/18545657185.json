@@ -1,4 +1,12 @@
 {
+  "_corrections": {
+    "hr_source": {
+      "issue": "Polar H10 chest strap NOT worn for this race (race-day decision — bib chafing risk / didn't want extra layer). All HR fields (avg_hr 159.3, max_hr 185, hr_zones) came from Apple Watch wrist-optical sensor only.",
+      "confidence": "low",
+      "guidance": "Do not anchor fitness inferences (aerobic ceiling, threshold HR, working max) to these HR values. Pace splits, elevation, time, power, and cadence-null remain trustworthy. Confirmed by athlete 2026-05-23.",
+      "values_preserved": "avg_hr, max_hr, hr_zones left as raw device output per CLAUDE.md JSON correction policy — only flagged, not overwritten, because no validated replacement values exist."
+    }
+  },
   "activity_id": 18545657185,
   "avg_cadence_spm": null,
   "avg_hr": 159.3,
