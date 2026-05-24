@@ -371,16 +371,18 @@
 
 ## May 24, 2026
 
-- **Workout:** First double digits mileage in awhile
-- **Type:** Run
+- **Workout:** 10 mi Long Run (V6 Week 3 Sunday) — "First double digits mileage in awhile"
+- **Type:** Run (road, San Francisco Peninsula Watershed area)
 - **Distance:** 10.50 mi
-- **Time:** 1:24:29
-- **Avg Pace:** 8:02/mi
+- **Moving Time:** 1:24:29
+- **Avg Pace:** 8:03/mi
 - **Elevation Gain:** 274 ft
-- **Avg Heart Rate:** 160 bpm (max 183)
-- **Avg Cadence:** N/A
-- **Splits:** 8:22, 8:03, 7:59, 8:00, 8:53, 8:03, 7:54, 8:03, 7:56, 7:43, 6:58
-- **Relative Effort:** 239.0
-- **Strava sidecar:** `strava/activities/18636817559.json`
-- **Knee Status:** (pending — update after reviewing)
-- **Notes:** Auto-logged from Strava. Awaiting athlete feedback.
+- **Avg Power:** 250 W
+- **Calories:** 1,106
+- **Suffer Score:** 239
+- **Avg/Max HR:** **invalidated — H10 left at home, wrist-optical only.** Per-mile HR climbed 138 → 179 at steady 8:00/mi pace on near-flat terrain (Strava reported avg 160 / max 183), classic cadence-lock drift. All HR fields nulled in the sidecar JSON; originals preserved in `_corrections` block. Do not use this HR data for any fitness inference.
+- **Splits (pace / elev):** 1: 8:22 / -8 · 2: 8:03 / +1 · 3: 7:59 / +5 · 4: 8:00 / +14 · 5: 8:53 / +109 · 6: 8:03 / -93 · 7: 7:54 / -43 · 8: 8:03 / +5 · 9: 7:56 / -5 · 10: 7:43 / +13 · 0.5: 6:58 / -18
+- **Strava sidecar:** `strava/activities/18636817559.json` · [activity](https://www.strava.com/activities/18636817559) · **Strava PR: fastest 10 mi in 2026 by 5m 10s**
+- **Shoes:** ASICS Superblast 3 (2nd run; "felt good" — see SHOE_LOG.md)
+- **Knee Status:** **1/5 — no awareness at all during the run.** Long-run-distance debut for the rebuild handled cleanly.
+- **Notes:** Big positive: 10.5 mi at 8:03 with knee 1/5, smooth pace profile (mile 5 single hill at 8:53 absorbed cleanly, every other mile sub-8:30), strong close (last 1.5 mi at 7:43 + 6:58). First double-digit run since the September 2025 shutdown — durability box checked. Superblast 3 cleared its real test (long run + faster paces) with no fit or mechanics complaints. **Coaching flag (direct):** the prescription was 8:45–9:15 aerobic time-on-feet on a flat route — "do not trade distance for pace." Today ran 8:03 avg with a progression-style close. That's MP+25 sec, not Z2 aerobic — closer to a steady-state effort than the easy long run the plan called for. Without HR I can't confirm whether you actually stayed aerobic, but the pace profile alone says you went harder than the prescription. **This is now the second long-format outing in a row run at 8:03 avg** (B2B race 8:03 with MP finish was by design; today was not). The aerobic-base purpose of Phase 1 long runs is undermined if every long run becomes a tempo. **Two consequences:** (1) the H10 is the whole point of the HR-anchored execution rule — a forgotten strap on a long run flies the workout blind; pre-checking the strap goes on the Saturday-night routine alongside fuel from here forward; (2) next long run (12 mi, Jun 7) gets an explicit HR cap at ≤155 BPM (low Z3) with pace as the float, not the anchor. Knee tolerated the faster-than-prescribed effort fine, so no plan modification needed beyond that — but the discipline cue stands.

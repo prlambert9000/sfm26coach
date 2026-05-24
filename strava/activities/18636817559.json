@@ -1,7 +1,27 @@
 {
+  "_corrections": {
+    "hr_data": {
+      "issue": "Polar H10 chest strap NOT worn — left at home. All HR fields (avg_hr 159.6, max_hr 183.0, hr_zones, per-mile avg_hr in splits) came from Apple Watch wrist-optical sensor only and showed classic cadence-lock drift (per-mile HR climbing 138 → 179 at steady 8:00/mi pace on near-flat terrain). Athlete explicitly directed: 'completely ignore/delete the HR data' (2026-05-24).",
+      "confidence": "data invalid",
+      "action": "All HR fields nulled and hr_zones zeroed. Originals preserved here for audit.",
+      "originals": {
+        "avg_hr": 159.6,
+        "max_hr": 183.0,
+        "hr_zones": [
+          {"min": 0, "max": 116, "time_s": 0.0},
+          {"min": 117, "max": 144, "time_s": 703.0},
+          {"min": 145, "max": 158, "time_s": 1883.0},
+          {"min": 159, "max": 173, "time_s": 688.0},
+          {"min": 174, "max": -1, "time_s": 1795.0}
+        ],
+        "splits_avg_hr": [137.6, 144.1, 146.7, 149.2, 151.6, 161.9, 173.0, 175.1, 175.4, 176.2, 178.9]
+      },
+      "guidance": "Do not use any HR data from this run for fitness inferences. Pace splits, elevation, time, power, calories, and suffer score remain trustworthy."
+    }
+  },
   "activity_id": 18636817559,
   "avg_cadence_spm": null,
-  "avg_hr": 159.6,
+  "avg_hr": null,
   "avg_pace": "8:02/mi",
   "avg_power_w": 249.7,
   "calories": 1106.0,
@@ -21,30 +41,30 @@
     {
       "max": 144,
       "min": 117,
-      "time_s": 703.0
+      "time_s": 0.0
     },
     {
       "max": 158,
       "min": 145,
-      "time_s": 1883.0
+      "time_s": 0.0
     },
     {
       "max": 173,
       "min": 159,
-      "time_s": 688.0
+      "time_s": 0.0
     },
     {
       "max": -1,
       "min": 174,
-      "time_s": 1795.0
+      "time_s": 0.0
     }
   ],
-  "max_hr": 183.0,
+  "max_hr": null,
   "moving_time_s": 5069,
   "name": "First double digits mileage in awhile",
   "splits": [
     {
-      "avg_hr": 137.60636182902584,
+      "avg_hr": null,
       "distance_mi": 1.002,
       "elev_diff_ft": -7.9,
       "mile": 1,
@@ -52,7 +72,7 @@
       "pace": "8:22"
     },
     {
-      "avg_hr": 144.064182194617,
+      "avg_hr": null,
       "distance_mi": 1.0,
       "elev_diff_ft": 1.3,
       "mile": 2,
@@ -60,7 +80,7 @@
       "pace": "8:03"
     },
     {
-      "avg_hr": 146.68475991649268,
+      "avg_hr": null,
       "distance_mi": 0.999,
       "elev_diff_ft": 5.2,
       "mile": 3,
@@ -68,7 +88,7 @@
       "pace": "7:59"
     },
     {
-      "avg_hr": 149.18879668049792,
+      "avg_hr": null,
       "distance_mi": 1.003,
       "elev_diff_ft": 13.8,
       "mile": 4,
@@ -76,7 +96,7 @@
       "pace": "8:00"
     },
     {
-      "avg_hr": 151.6446124763705,
+      "avg_hr": null,
       "distance_mi": 0.998,
       "elev_diff_ft": 108.9,
       "mile": 5,
@@ -84,7 +104,7 @@
       "pace": "8:53"
     },
     {
-      "avg_hr": 161.86514522821577,
+      "avg_hr": null,
       "distance_mi": 1.0,
       "elev_diff_ft": -93.2,
       "mile": 6,
@@ -92,7 +112,7 @@
       "pace": "8:03"
     },
     {
-      "avg_hr": 172.9978947368421,
+      "avg_hr": null,
       "distance_mi": 1.001,
       "elev_diff_ft": -43.3,
       "mile": 7,
@@ -100,7 +120,7 @@
       "pace": "7:54"
     },
     {
-      "avg_hr": 175.12422360248448,
+      "avg_hr": null,
       "distance_mi": 0.999,
       "elev_diff_ft": 5.2,
       "mile": 8,
@@ -108,7 +128,7 @@
       "pace": "8:03"
     },
     {
-      "avg_hr": 175.44747899159663,
+      "avg_hr": null,
       "distance_mi": 0.999,
       "elev_diff_ft": -5.2,
       "mile": 9,
@@ -116,7 +136,7 @@
       "pace": "7:56"
     },
     {
-      "avg_hr": 176.1530172413793,
+      "avg_hr": null,
       "distance_mi": 1.001,
       "elev_diff_ft": 13.1,
       "mile": 10,
@@ -124,7 +144,7 @@
       "pace": "7:43"
     },
     {
-      "avg_hr": 178.94202898550725,
+      "avg_hr": null,
       "distance_mi": 0.5,
       "elev_diff_ft": -17.7,
       "mile": 11,
