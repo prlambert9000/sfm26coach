@@ -187,15 +187,17 @@ Solo 5K simulation: **21:47 (7:00/mi)**. Max HR 183. 1-min HRR 33 BPM.
 | 2026-05-31 | Sun | 6 mi Recovery | 9:30+ easy. **Long run intentionally shifted to Week 5** (12 mi Sun Jun 7). Day-after-race load belongs to recovery, not training. Knee 2+ → bike instead. |
 
 ### Week 5 (Jun 1–7) — 26 mi | LR 12 mi
+**Modified May 25 — Boston work trip Jun 1–5 (Hilton Boston Park Plaza, 5-min walk to Charles River Esplanade).** SFO→BOS Mon 10:05 AM (lands 6:59 PM ET), BOS→SFO Fri 9:07 AM (lands 12:34 PM PT). Three-hour eastbound jet lag hits hardest Tue/Wed. Track and Cañada gym both unavailable Tue–Fri; hotel gym is DB/machine only (no squat rack). Strategy: track tempo → Esplanade tempo by HR, Heavy Strength → DB-substituted maintenance, Fri lift → bodyweight room circuit before the early flight. Sat shakeout + Sun 12 mi LR held as written — Fri midday arrival gives a full Sat to absorb travel before the Phase 2 kickoff long run.
+
 | Date | Day | Workout | Notes |
 |---|---|---|---|
-| 2026-06-01 | Mon | Hip Complex Circuit | Phase 2 start |
-| 2026-06-02 | Tue | 4×1600m Track Tempo | 7:15–7:25 pace (threshold); 2 min rec |
-| 2026-06-03 | Wed | Heavy Strength | Back Squat / RDL / Calf Raises / Reverse Nordics |
-| 2026-06-04 | Thu | 7 mi Progression Run | 5mi @ 9:00 / 2mi @ 7:15–7:25 (threshold) |
-| 2026-06-05 | Fri | Stability & Power | Bulgarians / Spanish / Copenhagen |
-| 2026-06-06 | Sat | 3 mi Shakeout | 9:30+ |
-| 2026-06-07 | Sun | 12 mi Long Run | 8:30–9:00. **Begin 90 g/hr gut training rehearsal.** |
+| 2026-06-01 | Mon | Hip Complex Circuit (hotel room, PM) | **Travel day SFO→BOS.** Do the 20-min hip circuit in the hotel room after check-in (~7:30 PM ET / 4:30 PM PT body clock). 90/90s, adductor rockbacks, foam roll if you packed the travel roller — otherwise lacrosse ball / tennis ball substitute is fine. Lights out by 10 PM ET to start defusing the jet lag. |
+| 2026-06-02 | Tue | 4×1 mi Threshold on the Esplanade | **No track — substituting time on flat river path.** 1 mi easy WU from hotel to the Esplanade (over the footbridge to the river), 4×1 mi threshold with 90s walk/jog rec, 1 mi CD back. **HR is the anchor (155–165 BPM, cap 165) — pace is the check.** Target pace 7:15–7:25 but accept slower at correct HR: this is jet-lag day 2 (body clock 3 AM PT at 6 AM ET), and the legs will know. Pick the BU Bridge ↔ Mass Ave Bridge stretch (~1 mi flat straight) for the reps so you're not fighting bridge crossings. ~7 mi total. |
+| 2026-06-03 | Wed | DB Heavy Strength (hotel gym) | **No squat rack — DB substitution, treat as maintenance, not progression.** Goblet squat 3×8 (heaviest single DB, 3s eccentric), DB RDL 3×8 (two DBs), single-leg calf raise off a step 3×12/side (DB in hand), reverse Nordic BW 3×8. Cap to whatever the hotel's DB rack tops out at (usually 70–80 lb) — don't try to "make up" load with reps. Log feel ratings to STRENGTH_LOG.md and we'll resume regular Wed progression Jun 10 at Cañada. |
+| 2026-06-04 | Thu | 7 mi Progression on the Esplanade | 5 mi @ 9:00 easy / 2 mi @ threshold (HR 155–162, cap 165; target pace 7:15–7:25). Jet lag should be mostly absorbed by Thu morning. Esplanade is flat — pure clean signal, no terrain confounder. Pre-run PT block + activation in hotel room. |
+| 2026-06-05 | Fri | Bodyweight Stability (hotel room, pre-flight) | **Travel day BOS→SFO 9:07 AM — out the door ~6:30 AM ET.** 15-min bodyweight circuit in the room before shower/checkout: Bulgarian split squat BW 2×10/side, single-leg RDL BW 2×10/side (slow), Spanish squat hold 3×30s, Copenhagen plank 3×20s/side, PT block (dead bug with banded pulldown if you packed the band, side plank w/ hip abduction top-toe-down, chin tuck + lifts). Drop if it would cost you sleep or the flight — Sat shakeout absorbs the miss. |
+| 2026-06-06 | Sat | 3 mi Shakeout | 9:30+ easy, flat. Day after a cross-country return — you gain 3 hr back but residual travel fatigue is real. If anything is barking (knee, low back from the flight), swap for a 30-min easy walk. |
+| 2026-06-07 | Sun | 12 mi Long Run | 8:30–9:00. **Phase 2 kickoff — begin 90 g/hr gut training rehearsal.** Bayfront flat. Held as written; the full Sat absorption day was the whole reason for not pushing this back. Knee 2+ Sat night → drop to 10 mi and re-evaluate. |
 
 ### Week 6 (Jun 8–14) — 30 mi | LR 14 mi
 | Date | Day | Workout | Notes |
