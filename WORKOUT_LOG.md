@@ -1,5 +1,13 @@
 # Workout Log
 
+## May 25, 2026
+
+- **Workout:** Hip Complex Circuit + PT Block (V6 Week 4 Monday — PAL 10K taper week)
+- **Type:** Mobility (BW only, ~25 min)
+- **Executed:** Full circuit as Rx — foam roller T-spine extensions, standing lunges w/ hip IR + extension (PT), quadruped banded hip IR (PT), 90/90 switches, adductor rockbacks, quadruped hip CARs, half-kneeling couch stretch. **PT block completed:** side plank w/ hip abduction (top toe down), dead bug w/ banded pulldown, chin tuck + lifts.
+- **Knee Status:** 1/5 — green throughout.
+- **Notes:** Clean execution of the full Rx — circuit plus the appended PT block that's been missed the last two Fridays. This is exactly what we asked for in the briefing: 5 extra minutes, no time-crunch cuts. Knee 1/5 24 hr after yesterday's 10.5 mi long run is the read we wanted — no residual irritation from the unintended steady-state pace. Taper opens cleanly. Tue 6×1000m VO2 session is green-lit; the H10 reminder for race day still stands.
+
 ## May 22, 2026
 
 - **Workout:** Stability & Power (V6 Week 3 Friday) — partial Rx, time-limited
