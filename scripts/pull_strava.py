@@ -307,6 +307,24 @@ def main():
         aid = a["id"]
         sidecar_path = ACTIVITIES_DIR / f"{aid}.json"
         if sidecar_path.exists():
+            # Opportunistic in-window laps backfill: if a sidecar predates the laps schema
+            # (no laps key) or has laps=null because the prior puller didn't fetch them,
+            # try once now. Idempotent — populated sidecars are left alone.
+            try:
+                existing = json.loads(sidecar_path.read_text())
+            except Exception:
+                existing = None
+            if existing is not None and existing.get("laps") in (None, []) and "laps" not in existing.get("_corrections", {}):
+                if "laps" not in existing or existing.get("laps") is None:
+                    time.sleep(1)
+                    laps = fetch_laps(aid, token)
+                    existing["laps"] = laps
+                    sidecar_path.write_text(json.dumps(existing, indent=2, sort_keys=True) + "\n")
+                    if laps:
+                        print(f"  [laps] {aid} — backfilled {len(laps)} laps into existing sidecar")
+                    else:
+                        print(f"  [laps] {aid} — Strava returned no lap data; set null")
+                    continue
             print(f"  [skip] {aid} sidecar exists ({a.get('name')})")
             continue
 
