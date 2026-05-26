@@ -394,3 +394,19 @@
 - **Shoes:** ASICS Superblast 3 (2nd run; "felt good" — see SHOE_LOG.md)
 - **Knee Status:** **1/5 — no awareness at all during the run.** Long-run-distance debut for the rebuild handled cleanly.
 - **Notes:** Big positive: 10.5 mi at 8:03 with knee 1/5, smooth pace profile (mile 5 single hill at 8:53 absorbed cleanly, every other mile sub-8:30), strong close (last 1.5 mi at 7:43 + 6:58). First double-digit run since the September 2025 shutdown — durability box checked. Superblast 3 cleared its real test (long run + faster paces) with no fit or mechanics complaints. **Coaching flag (direct):** the prescription was 8:45–9:15 aerobic time-on-feet on a flat route — "do not trade distance for pace." Today ran 8:03 avg with a progression-style close. That's MP+25 sec, not Z2 aerobic — closer to a steady-state effort than the easy long run the plan called for. Without HR I can't confirm whether you actually stayed aerobic, but the pace profile alone says you went harder than the prescription. **This is now the second long-format outing in a row run at 8:03 avg** (B2B race 8:03 with MP finish was by design; today was not). The aerobic-base purpose of Phase 1 long runs is undermined if every long run becomes a tempo. **Two consequences:** (1) the H10 is the whole point of the HR-anchored execution rule — a forgotten strap on a long run flies the workout blind; pre-checking the strap goes on the Saturday-night routine alongside fuel from here forward; (2) next long run (12 mi, Jun 7) gets an explicit HR cap at ≤155 BPM (low Z3) with pace as the float, not the anchor. Knee tolerated the faster-than-prescribed effort fine, so no plan modification needed beyond that — but the discipline cue stands.
+
+## May 26, 2026
+
+- **Workout:** Track 6x1000
+- **Type:** Run
+- **Distance:** 8.85 mi
+- **Time:** 1:14:20
+- **Avg Pace:** 8:24/mi
+- **Elevation Gain:** 198 ft
+- **Avg Heart Rate:** 146 bpm (max 166)
+- **Avg Cadence:** N/A
+- **Splits:** 8:03, 8:16, 7:59, 8:08, 7:41, 8:37, 8:34, 9:00, 9:26
+- **Relative Effort:** 131.0
+- **Strava sidecar:** `strava/activities/18661709486.json`
+- **Knee Status:** (pending — update after reviewing)
+- **Notes:** Auto-logged from Strava. Awaiting athlete feedback.
