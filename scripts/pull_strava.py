@@ -60,8 +60,8 @@ def logged_dates():
 def format_pace(moving_time_s, distance_m):
     if distance_m <= 0:
         return None
-    pace_s = moving_time_s / (distance_m / 1609.344)
-    return f"{int(pace_s // 60)}:{int(pace_s % 60):02d}/mi"
+    pace_s = round(moving_time_s / (distance_m / 1609.344))
+    return f"{pace_s // 60}:{pace_s % 60:02d}/mi"
 
 
 def format_time(seconds):
@@ -85,8 +85,8 @@ def extract_splits(detail):
         time_s = s.get("moving_time", 0)
         pace = None
         if dist_m > 0:
-            pace_s = time_s / (dist_m / 1609.344)
-            pace = f"{int(pace_s // 60)}:{int(pace_s % 60):02d}"
+            pace_s = round(time_s / (dist_m / 1609.344))
+            pace = f"{pace_s // 60}:{pace_s % 60:02d}"
         out.append({
             "mile": i,
             "distance_mi": round(dist_m / 1609.344, 3),
@@ -136,8 +136,8 @@ def fetch_laps(activity_id, token):
         moving_s = lap.get("moving_time", 0) or 0
         pace = None
         if dist_m > 0 and moving_s > 0:
-            pace_s = moving_s / (dist_m / 1609.344)
-            pace = f"{int(pace_s // 60)}:{int(pace_s % 60):02d}"
+            pace_s = round(moving_s / (dist_m / 1609.344))
+            pace = f"{pace_s // 60}:{pace_s % 60:02d}"
         out.append({
             "lap_index": lap.get("lap_index"),
             "name": lap.get("name"),
