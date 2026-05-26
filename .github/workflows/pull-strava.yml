@@ -9,6 +9,11 @@ on:
         description: "Activity lookback window in days (use 90+ for backfill)"
         required: false
         default: "3"
+      backfill_laps:
+        description: "Add the `laps` field to existing sidecars (additive only)."
+        required: false
+        type: boolean
+        default: false
   push:
     branches: [main]  # Blank commit on main triggers a normal-cadence pull
 
@@ -35,7 +40,11 @@ jobs:
           STRAVA_CLIENT_SECRET: ${{ secrets.STRAVA_CLIENT_SECRET }}
           STRAVA_REFRESH_TOKEN: ${{ secrets.STRAVA_REFRESH_TOKEN }}
         run: |
-          python scripts/pull_strava.py --days "${{ inputs.days || '3' }}"
+          if [ "${{ inputs.backfill_laps }}" = "true" ]; then
+            python scripts/pull_strava.py --backfill-laps
+          else
+            python scripts/pull_strava.py --days "${{ inputs.days || '3' }}"
+          fi
 
       - name: Commit and push if changed
         run: |
@@ -45,6 +54,10 @@ jobs:
           if git diff --staged --quiet; then
             echo "No new activities or sidecars to commit"
           else
-            git commit -m "Auto-log workouts from Strava (sidecars + stubs)"
+            if [ "${{ inputs.backfill_laps }}" = "true" ]; then
+              git commit -m "Backfill laps field on existing Strava sidecars"
+            else
+              git commit -m "Auto-log workouts from Strava (sidecars + stubs)"
+            fi
             git push
           fi

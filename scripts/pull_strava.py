@@ -114,7 +114,47 @@ def fetch_hr_zones(activity_id, token):
     return None
 
 
-def build_sidecar(detail, hr_zones):
+def fetch_laps(activity_id, token):
+    """Return per-lap data (watch lap-button or auto-lap segments).
+
+    Strava's per-mile splits live in the activity detail; these are the *lap* segments,
+    which are what matter for track workouts (each interval and recovery is its own lap).
+    Returns None if Strava has no lap data for the activity.
+    """
+    resp = requests.get(
+        f"{STRAVA_API}/activities/{activity_id}/laps",
+        headers={"Authorization": f"Bearer {token}"},
+    )
+    if resp.status_code != 200:
+        return None
+    laps = resp.json() or []
+    if not laps:
+        return None
+    out = []
+    for lap in laps:
+        dist_m = lap.get("distance", 0) or 0
+        moving_s = lap.get("moving_time", 0) or 0
+        pace = None
+        if dist_m > 0 and moving_s > 0:
+            pace_s = moving_s / (dist_m / 1609.344)
+            pace = f"{int(pace_s // 60)}:{int(pace_s % 60):02d}"
+        out.append({
+            "lap_index": lap.get("lap_index"),
+            "name": lap.get("name"),
+            "distance_mi": round(dist_m / 1609.344, 3),
+            "distance_m": round(dist_m, 1),
+            "moving_time_s": moving_s,
+            "elapsed_time_s": lap.get("elapsed_time"),
+            "pace": pace,
+            "avg_hr": lap.get("average_heartrate"),
+            "max_hr": lap.get("max_heartrate"),
+            "avg_cadence_spm": int(lap["average_cadence"] * 2) if lap.get("average_cadence") else None,
+            "elev_gain_ft": round((lap.get("total_elevation_gain") or 0) * 3.28084, 1),
+        })
+    return out
+
+
+def build_sidecar(detail, hr_zones, laps):
     """Build the JSON object for one activity. Curated fields only — keep stable."""
     start_local = detail.get("start_date_local", "")
     dt = datetime.fromisoformat(start_local.replace("Z", "+00:00"))
@@ -142,6 +182,7 @@ def build_sidecar(detail, hr_zones):
         "description": detail.get("description") or "",
         "strava_url": f"https://www.strava.com/activities/{detail['id']}",
         "splits": extract_splits(detail),
+        "laps": laps,
         "hr_zones": hr_zones,
         "fetched_at": datetime.utcnow().isoformat(timespec="seconds") + "Z",
     }
@@ -194,12 +235,55 @@ def append_stub(sidecar):
         f.write(entry)
 
 
+def backfill_laps(token):
+    """Add the `laps` field to existing sidecars that don't have it.
+
+    Additive only — does not overwrite any other field. Use when extending the schema
+    so historical sidecars get the same data shape as new ones. Idempotent: skips any
+    sidecar that already has a non-null `laps` field.
+    """
+    if not ACTIVITIES_DIR.exists():
+        print("No sidecars directory; nothing to backfill")
+        return
+    paths = sorted(ACTIVITIES_DIR.glob("*.json"))
+    print(f"Scanning {len(paths)} sidecar(s) for missing laps")
+    updated = 0
+    for path in paths:
+        data = json.loads(path.read_text())
+        if "laps" in data and data["laps"] is not None:
+            continue
+        aid = data.get("activity_id")
+        if not aid:
+            continue
+        time.sleep(1)
+        laps = fetch_laps(aid, token)
+        if laps is None:
+            print(f"  [none]  {aid} — Strava returned no lap data")
+            data["laps"] = None
+        else:
+            print(f"  [add]   {aid} — {len(laps)} laps")
+            data["laps"] = laps
+        path.write_text(json.dumps(data, indent=2, sort_keys=True) + "\n")
+        updated += 1
+    print(f"Backfill complete. Updated {updated} sidecar(s).")
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--days", type=int, default=3, help="Activity lookback window (default: 3)")
+    parser.add_argument(
+        "--backfill-laps",
+        action="store_true",
+        help="Add the `laps` field to existing sidecars that don't have it (additive only), then exit.",
+    )
     args = parser.parse_args()
 
     token = get_access_token()
+
+    if args.backfill_laps:
+        backfill_laps(token)
+        return
+
     print(f"Got access token; pulling last {args.days} days")
 
     after = int((datetime.now() - timedelta(days=args.days)).timestamp())
@@ -234,8 +318,9 @@ def main():
         detail_resp.raise_for_status()
         detail = detail_resp.json()
         hr_zones = fetch_hr_zones(aid, token)
+        laps = fetch_laps(aid, token)
 
-        sidecar = build_sidecar(detail, hr_zones)
+        sidecar = build_sidecar(detail, hr_zones, laps)
         if write_sidecar(sidecar):
             print(f"  [write] strava/activities/{aid}.json — {sidecar['name']} ({sidecar['date_heading']})")
             written_sidecars.append(sidecar)

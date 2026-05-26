@@ -43,6 +43,25 @@ Skipping by filename means re-running the puller is always safe.
     }
     // ...
   ],
+  "laps": [
+    // Per-lap segments — watch lap-button or auto-lap. Critical for track workouts
+    // (each interval + recovery shows up as its own lap). May be null if Strava has
+    // no lap data for the activity.
+    {
+      "lap_index": 1,
+      "name": "Lap 1",
+      "distance_mi": 0.621,
+      "distance_m": 1000.0,
+      "moving_time_s": 263,
+      "elapsed_time_s": 263,
+      "pace": "7:03",
+      "avg_hr": 158.0,
+      "max_hr": 165.0,
+      "avg_cadence_spm": 178,
+      "elev_gain_ft": 2.3
+    }
+    // ...
+  ],
   "hr_zones": [
     {"min": 0, "max": 122, "time_s": 60},
     {"min": 122, "max": 145, "time_s": 480}
