@@ -32,19 +32,18 @@ Track mileage and condition per pair. Update after major runs or weekly. Retire 
 ### Race Shoe — ASICS Metaspeed Sky Tokyo (Flash Red/Black)
 - **Purchased:** May 17, 2026 (Amazon order #111-8162289-4739428, arriving Tuesday May 19)
 - **Size:** 8.5M
-- **Mileage:** 0
-- **Role:** Race day + 1–2 MP tune-up workouts before each race. Carbon-plated super-shoe.
+- **Mileage:** 8.85 mi (debut May 26 — 6×1000m track session)
+- **Role:** Race day **only** (policy change May 26 — see below). Carbon-plated super-shoe.
 - **Target lifespan:** 150–200 mi (race-pace use only)
 - **Model note:** Tokyo is the 2025 edition of the Metaspeed Sky platform — same FF Blast Turbo Plus foam and carbon plate as Sky Paris, but **wider forefoot fit** (Paris is notorious for being narrow). Paul deliberately chose Tokyo over Paris because of his 112mm left forefoot — the right call for a marathon-distance race shoe where toe pressure compounds over 26.2 miles.
-- **Planned use:**
-  - Break-in: ~9 mi (shakeout + Thu progression w/ 2×1 mi MP + Sat strides)
+- **Policy (athlete-set May 26, 2026):** **Races only from here forward.** No tune-up wears, no pre-race shakeouts in this shoe. Break-in done, race-day fit confirmed, foam saved for races.
+- **Revised planned use:**
+  - **Break-in: DONE** (May 26 — 6×1000m track session, 8.85 mi, felt good)
   - May 30 — PAL 10K (6.2 mi)
-  - Pre-HM tune-up (~5 mi)
   - Jun 21 — Presidio HM (13.1 mi)
-  - Pre-marathon tune-ups (~10 mi)
   - Jul 26 — SF Marathon (26.2 mi)
-  - **Projected total:** ~70 mi by race day — well within foam life
-- **Notes:**
+  - **Projected total:** ~54 mi by race day — comfortably inside foam life, leaves headroom for a possible post-marathon race
+- **Debut notes (May 26, 2026):** First wear was today's 6×1000m track session — 8.85 mi total (warm-up + 6 reps at 6:53–6:59 + 90s recoveries + cool-down jog home). Athlete reported "felt good." Knee 1/5 throughout. No fit complaints, no hot spots, no mechanics issues. Carbon-plate engine survived a hard interval set on the track — race-pace mechanics are confirmed. Coaching note: this was a deliberate athlete substitution for the originally-planned shakeout-distance break-in — went straight to race-pace work in the shoe. Acceptable because (a) Paul has 400–600 mi of prior Metaspeed Sky platform experience, so lower legs are already adapted to the carbon plate, and (b) the original 9-mi break-in target landed almost exactly at today's 8.85 mi.
 
 ### Gym / Cross-Training — TBD (Nano X5 returned, evaluating TYR CXT-1 next)
 - **Status (May 18, 2026):** Reebok Nano X5 returned after try-on — too narrow on the sides even in standard width. The Nano X5's "wider forefoot" reputation didn't translate to Paul's 112mm left forefoot. Lesson: in the cross-trainer category, "wide" is relative — most brands max out at standard D and don't offer a true wide width. Need to shop brands with foot-shaped lasts.
@@ -87,3 +86,4 @@ When logging a workout in WORKOUT_LOG.md, append the shoe used and add the miles
 |---|---|---|---|---|
 | 2026-05-23 | Easy shakeout | ASICS Superblast 3 | 4.07 | 4.07 (Superblast) |
 | 2026-05-24 | 10 mi Long Run | ASICS Superblast 3 | 10.50 | 14.57 (Superblast) |
+| 2026-05-26 | 6×1000m Track | ASICS Metaspeed Sky Tokyo | 8.85 | 8.85 (Metaspeed Tokyo) |
