@@ -13,22 +13,22 @@
 - **Avg Power:** 243 W · **Calories:** 929 · **Suffer Score:** 131
 - **Warm-up:** 2.35 mi @ 8:18/mi, HR 137 avg / 144 max — clean Z2 jog to track
 - **Cool-down:** 2.18 mi @ 9:14/mi, HR 143 avg — easy jog home
-- **Intervals (6×1000m, target 6:50–7:00):**
-  | # | Pace | Time | Avg HR | Max HR |
+- **Intervals (6×1000m, target 6:50–7:00) — paces from Apple Fitness (workout-template 1000m laps, accurate). Strava lap paces are GPS-underread by ~3–7 sec/mi; do not use:**
+  | # | Time | Pace (AF) | Avg HR | Max HR |
   |---|---|---|---|---|
-  | 1 | **6:59** | 4:16 | 152 | 161 |
-  | 2 | **6:59** | 4:17 | 156 | 163 |
-  | 3 | **6:57** | 4:17 | 157 | 163 |
-  | 4 | **6:56** | 4:17 | 157 | 164 |
-  | 5 | **6:56** | 4:18 | 157 | 163 |
-  | 6 | **6:53** | 4:14 | 158 | 166 |
+  | 1 | 4:16 | **6:53** | 152 | 161 |
+  | 2 | 4:17 | **6:54** | 156 | 163 |
+  | 3 | 4:18 | **6:55** | 157 | 163 |
+  | 4 | 4:17 | **6:54** | 157 | 164 |
+  | 5 | 4:19 | **6:57** | 157 | 163 |
+  | 6 | 4:15 | **6:50** | 158 | 166 |
 - **Recoveries (90s jog):** HR consistently dropped back to 142–147 between reps (~20 bpm clearance from rep peak in 1:29). Recovery jog distance creep 189 → 152m across the set — jog pace fading by the back half, but rest interval held at 89s for all five.
 - **Mile splits (blended, for reference):** 1: 8:03 / 132 / -126 · 2: 8:16 / 140 / -51 · 3: 7:59 / 147 / -9 · 4: 8:08 / 150 / +1 · 5: 7:41 / 156 / -1 · 6: 8:37 / 153 / 0 · 7: 8:34 / 148 / +5 · 8: 9:00 / 142 / +30 · 9 (0.84): 9:26 / 147 / +129
 - **Strava sidecar:** `strava/activities/18661709486.json` · [activity](https://www.strava.com/activities/18661709486)
 - **Shoes:** ASICS Metaspeed Sky Tokyo — **debut** (8.85 mi, felt good, race-only from here forward per athlete — see SHOE_LOG.md)
 - **Knee Status:** **1/5 — green throughout.**
 - **Athlete notes:** Got it done. Legs felt tired/heavy, probably from Sunday's 10.5 mi. Wore the new Metaspeed Sky Tokyo for the first time — felt good. Race-only from here forward; will wear Saturday at PAL 10K.
-- **Notes:** This is the **cleanest VO2 set I've seen from you on this rebuild.** Every rep landed inside the 6:50–7:00 prescription window — first rep at the top (6:59), progressive descent through the set, fastest split last (6:53). Disciplined pacing: didn't overcook rep 1, didn't fade rep 6. **HR progression is the headline:** avg HR climbed 152 → 158 across 6 reps — that's **6 bpm of cardiovascular drift at stable pace**, which is the signature of an aerobic engine that's matched to the workload. A less-conditioned athlete (or one running closer to threshold) would drift 10–15 bpm. Max HR per rep capped at 166 — same neighborhood as May 12's 6×800m peak (167) and May 14's progression close (167), and still **zero seconds above the Z4 ceiling (173).** Working max ≥180 remains un-tested; PAL 10K finishing kick is the next planned shot at a clean H10 max read. Recovery HR drop ~20 bpm in 89s between reps = strong HRR throughout the set. **Average rep pace ~6:57 maps to VDOT 54 1000m interval pace** (Daniels' tables) — that's the VDOT we're TRAINING for; current fitness sits at 52–53. Hitting target paces controllably is exactly the adaptation we want. Density compare: today was 6×1000m at faster pace than May 12's 6×800m, same HR ceiling — 14 days of fitness gain visible in the data. **Knee 1/5 through a VO2 set 48 hr after a 10.5 mi long run** is the read we wanted — durability check the taper week was designed to deliver. **Heavy legs are the predicted cost of Sunday's 8:03 long-run pace** — system is paying for it on Tuesday. Five-day taper (Wed 60% lift / Thu 4 easy + strides / Fri full rest) is more than enough to clear it. **Coaching call:** taper holds. PAL 10K green-lit with confidence — the data says you're ahead of where I thought you were entering this week.
+- **Notes:** This is the **cleanest VO2 set I've seen from you on this rebuild.** All 6 reps landed inside the 6:50–7:00 prescription window. **Pacing shape:** held tight at 6:53–6:55 for reps 1–4, drifted to 6:57 on rep 5 (the only one over 6:55), kicked to 6:50 on rep 6 — closed fastest. Held → dipped → kicked, not a clean progressive descent (an earlier read of this entry called it that — that was a GPS-distance artifact from Strava's lap data, corrected after reviewing the Apple Fitness Intervals view). **HR progression is the headline:** avg HR climbed 152 → 158 across 6 reps — that's **6 bpm of cardiovascular drift at stable pace**, which is the signature of an aerobic engine that's matched to the workload. A less-conditioned athlete (or one running closer to threshold) would drift 10–15 bpm. Max HR per rep capped at 166 — same neighborhood as May 12's 6×800m peak (167) and May 14's progression close (167), and still **zero seconds above the Z4 ceiling (173).** Working max ≥180 remains un-tested; PAL 10K finishing kick is the next planned shot at a clean H10 max read. Recovery HR drop ~20 bpm in 89s between reps = strong HRR throughout the set. **Average rep pace 6:54 maps to ~VDOT 54–55 1000m interval pace** (Daniels' tables, ~6:55 = VDOT 54) — that's the VDOT we're TRAINING for; current fitness sits at 52–53. Hitting target paces controllably is exactly the adaptation we want. Density compare: today was 6×1000m at faster pace than May 12's 6×800m, same HR ceiling — 14 days of fitness gain visible in the data. **Knee 1/5 through a VO2 set 48 hr after a 10.5 mi long run** is the read we wanted — durability check the taper week was designed to deliver. **Heavy legs are the predicted cost of Sunday's 8:03 long-run pace** — system is paying for it on Tuesday. Five-day taper (Wed 60% lift / Thu 4 easy + strides / Fri full rest) is more than enough to clear it. **Coaching call:** taper holds. PAL 10K green-lit with confidence — the data says you're ahead of where I thought you were entering this week.
 
 ## May 25, 2026
 
