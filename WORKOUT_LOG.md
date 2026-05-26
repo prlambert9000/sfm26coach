@@ -1,5 +1,22 @@
 # Workout Log
 
+## May 26, 2026
+
+- **Workout:** 6×1000m Track Intervals (V6 Week 4 Tuesday — last quality session before PAL 10K, 4 days out)
+- **Type:** Run (track + warm-up/cool-down jog to local high school)
+- **Distance:** 8.85 mi total
+- **Moving Time:** 1:14:20
+- **Avg Pace:** 8:24/mi (blended — includes WU, intervals, recoveries, CD)
+- **Elevation Gain:** 198 ft (rolling round trip to track)
+- **Avg/Max HR:** **146 / 166 bpm** (H10) — peak well below the 173 Z4 ceiling; **zero seconds in Z5**
+- **HR zones:** Z1 57s · Z2 40:05 · Z3 16:26 · Z4 16:52 · Z5 0s
+- **Avg Power:** 243 W · **Calories:** 929 · **Suffer Score:** 131
+- **Splits (mile / HR / elev):** 1: 8:03 / 132 / -126 · 2: 8:16 / 140 / -51 · 3: 7:59 / 147 / -9 · 4: 8:08 / 150 / +1 · 5: **7:41 / 156** / -1 · 6: 8:37 / 153 / 0 · 7: 8:34 / 148 / +5 · 8: 9:00 / 142 / +30 · 9 (0.84): 9:26 / 147 / +129
+- **Strava sidecar:** `strava/activities/18661709486.json` · [activity](https://www.strava.com/activities/18661709486)
+- **Knee Status:** **1/5 — green throughout.**
+- **Athlete notes:** Got it done. Legs felt tired/heavy, probably from Sunday's 10.5 mi.
+- **Notes:** Last hard session before Saturday lands cleanly. **Knee 1/5 through a VO2 set 48 hr after a 10.5 mi long run** is the read we wanted — the durability check the taper week was designed to deliver. **HR profile is the headline:** max 166 bpm, **zero time above Z4 ceiling (173)** despite 6×1000m at VO2 prescription. That is a perfectly-paced quality session 4 days out — controlled stimulus, no race-week withdrawal from the tank. Mile 5 at 7:41 (HR 156) is the only mile that clearly straddles two intervals + their recovery — interval segments inside that mile were likely in the 6:50–7:00 prescription window, though without lap data I can't verify exact rep paces (briefing didn't call for lap captures and the JSON only has mile splits — fine, the HR ceiling is the better read anyway). Heavy legs are the predicted cost of Sunday's 8:03 long-run pace: that pace was 35–60 sec/mi hotter than the 8:45–9:15 Rx and the system is paying for it on Tuesday. **Five-day taper window is more than enough to clear it** — Wed maintenance lift at 60% load (no eccentrics), Thu 4 mi easy + strides, Fri full rest. By Saturday morning the Sunday cost should be gone. **Coaching call:** taper holds as written. PAL 10K green-lit. Suffer 131 in the same neighborhood as recent quality work — moderate stimulus, not race-day depleted.
+
 ## May 25, 2026
 
 - **Workout:** Hip Complex Circuit + PT Block (V6 Week 4 Monday — PAL 10K taper week)
@@ -395,18 +412,3 @@
 - **Knee Status:** **1/5 — no awareness at all during the run.** Long-run-distance debut for the rebuild handled cleanly.
 - **Notes:** Big positive: 10.5 mi at 8:03 with knee 1/5, smooth pace profile (mile 5 single hill at 8:53 absorbed cleanly, every other mile sub-8:30), strong close (last 1.5 mi at 7:43 + 6:58). First double-digit run since the September 2025 shutdown — durability box checked. Superblast 3 cleared its real test (long run + faster paces) with no fit or mechanics complaints. **Coaching flag (direct):** the prescription was 8:45–9:15 aerobic time-on-feet on a flat route — "do not trade distance for pace." Today ran 8:03 avg with a progression-style close. That's MP+25 sec, not Z2 aerobic — closer to a steady-state effort than the easy long run the plan called for. Without HR I can't confirm whether you actually stayed aerobic, but the pace profile alone says you went harder than the prescription. **This is now the second long-format outing in a row run at 8:03 avg** (B2B race 8:03 with MP finish was by design; today was not). The aerobic-base purpose of Phase 1 long runs is undermined if every long run becomes a tempo. **Two consequences:** (1) the H10 is the whole point of the HR-anchored execution rule — a forgotten strap on a long run flies the workout blind; pre-checking the strap goes on the Saturday-night routine alongside fuel from here forward; (2) next long run (12 mi, Jun 7) gets an explicit HR cap at ≤155 BPM (low Z3) with pace as the float, not the anchor. Knee tolerated the faster-than-prescribed effort fine, so no plan modification needed beyond that — but the discipline cue stands.
 
-## May 26, 2026
-
-- **Workout:** Track 6x1000
-- **Type:** Run
-- **Distance:** 8.85 mi
-- **Time:** 1:14:20
-- **Avg Pace:** 8:24/mi
-- **Elevation Gain:** 198 ft
-- **Avg Heart Rate:** 146 bpm (max 166)
-- **Avg Cadence:** N/A
-- **Splits:** 8:03, 8:16, 7:59, 8:08, 7:41, 8:37, 8:34, 9:00, 9:26
-- **Relative Effort:** 131.0
-- **Strava sidecar:** `strava/activities/18661709486.json`
-- **Knee Status:** (pending — update after reviewing)
-- **Notes:** Auto-logged from Strava. Awaiting athlete feedback.
