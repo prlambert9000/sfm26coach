@@ -1,22 +1,54 @@
 {
   "_corrections": {
     "hr_data": {
-      "issue": "Polar H10 chest strap NOT worn — left at home. All HR fields (avg_hr 159.6, max_hr 183.0, hr_zones, per-mile avg_hr in splits) came from Apple Watch wrist-optical sensor only and showed classic cadence-lock drift (per-mile HR climbing 138 → 179 at steady 8:00/mi pace on near-flat terrain). Athlete explicitly directed: 'completely ignore/delete the HR data' (2026-05-24).",
-      "confidence": "data invalid",
       "action": "All HR fields nulled and hr_zones zeroed. Originals preserved here for audit.",
+      "confidence": "data invalid",
+      "guidance": "Do not use any HR data from this run for fitness inferences. Pace splits, elevation, time, power, calories, and suffer score remain trustworthy.",
+      "issue": "Polar H10 chest strap NOT worn \u2014 left at home. All HR fields (avg_hr 159.6, max_hr 183.0, hr_zones, per-mile avg_hr in splits) came from Apple Watch wrist-optical sensor only and showed classic cadence-lock drift (per-mile HR climbing 138 \u2192 179 at steady 8:00/mi pace on near-flat terrain). Athlete explicitly directed: 'completely ignore/delete the HR data' (2026-05-24).",
       "originals": {
         "avg_hr": 159.6,
-        "max_hr": 183.0,
         "hr_zones": [
-          {"min": 0, "max": 116, "time_s": 0.0},
-          {"min": 117, "max": 144, "time_s": 703.0},
-          {"min": 145, "max": 158, "time_s": 1883.0},
-          {"min": 159, "max": 173, "time_s": 688.0},
-          {"min": 174, "max": -1, "time_s": 1795.0}
+          {
+            "max": 116,
+            "min": 0,
+            "time_s": 0.0
+          },
+          {
+            "max": 144,
+            "min": 117,
+            "time_s": 703.0
+          },
+          {
+            "max": 158,
+            "min": 145,
+            "time_s": 1883.0
+          },
+          {
+            "max": 173,
+            "min": 159,
+            "time_s": 688.0
+          },
+          {
+            "max": -1,
+            "min": 174,
+            "time_s": 1795.0
+          }
         ],
-        "splits_avg_hr": [137.6, 144.1, 146.7, 149.2, 151.6, 161.9, 173.0, 175.1, 175.4, 176.2, 178.9]
-      },
-      "guidance": "Do not use any HR data from this run for fitness inferences. Pace splits, elevation, time, power, calories, and suffer score remain trustworthy."
+        "max_hr": 183.0,
+        "splits_avg_hr": [
+          137.6,
+          144.1,
+          146.7,
+          149.2,
+          151.6,
+          161.9,
+          173.0,
+          175.1,
+          175.4,
+          176.2,
+          178.9
+        ]
+      }
     }
   },
   "activity_id": 18636817559,
@@ -57,6 +89,21 @@
       "max": -1,
       "min": 174,
       "time_s": 0.0
+    }
+  ],
+  "laps": [
+    {
+      "avg_cadence_spm": null,
+      "avg_hr": 159.6,
+      "distance_m": 16899.2,
+      "distance_mi": 10.501,
+      "elapsed_time_s": 5069,
+      "elev_gain_ft": 273.6,
+      "lap_index": 1,
+      "max_hr": 183.0,
+      "moving_time_s": 5069,
+      "name": "Lap 1",
+      "pace": "8:02"
     }
   ],
   "max_hr": null,
