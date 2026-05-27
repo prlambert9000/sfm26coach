@@ -10,7 +10,7 @@
 
 ## Current Recommended Weights
 
-*Last updated: 2026-05-22 (W3 Fri Stability — Bulgarian split squat bumped 20 → 25 lb/hand mid-session (athlete-initiated, cleared 2×10 at 25 with knee 1/5). New rec 25/hand. SL-RDL held at 25 lb contralateral pending a clean feel signal (8 reps in 8–10 range, no feel rating reported). Copenhagen 30s/side held. PT block (side plank, dead bug, chin tuck) skipped to time crunch — schedule it earlier next Fri.)*
+*Last updated: 2026-05-27 (W4 Wed Maintenance Strength taper-light — Rx execution at 60% loads (squat 100, RDL 100, calf 25 lb/hand) × 2 sets, reverse Nordic skipped per protocol, PT block appended and completed, knee 1/5. **No weight changes — taper sessions don't generate progression signals.** All working weights hold for the post-race normal-load Wed on June 3.)*
 
 Use a simple feel rating when reporting back: **Easy** (4+ reps left in tank), **Good** (2–3 reps in reserve), **Heavy** (grinding last rep), **Too heavy** (couldn't complete reps).
 
@@ -80,6 +80,24 @@ Bodyweight only. Pre-workout activation pattern; not a lift. Two rounds.
 ---
 
 ## Session Logs
+
+### 2026-05-27 — Wed Maintenance Strength, taper-light (V6 Week 4 — PAL 10K race week)
+**Body Weight:** Not reported
+
+| Exercise | Weight Used | Sets×Reps | Feel | Notes |
+|----------|-------------|-----------|------|-------|
+| Back squat | 100 lb (60% of 165 working) | 2 × 6 (Rx) | As prescribed (taper-light) | Rx taper load. No progression signal — not a load-testing session. Working weight stays 165 for next normal-load Wed. |
+| Romanian deadlift (RDL) | 100 lb (60% of 165 working) | 2 × 6 (Rx) | As prescribed (taper-light) | Rx taper load. Working weight stays 165 for next normal-load Wed. |
+| Standing calf raise | 25 lb/hand (60% of 40 working) | 2 × 10 (Rx) | As prescribed (taper-light) | Rx taper load. Working weight stays 40 for next normal-load Wed. Calf raise progression to 45 lb still blocked by gym KB rack gap (last flagged May 20). |
+| Reverse Nordic | — | **Skipped per Rx** | — | Skipped this week — too quad-fatiguing 3 days before PAL 10K, per V6 taper protocol. |
+| Side plank w/ hip abduction (PT) | BW | As Rx (8 each side, top toe down) | — | **PT block appended per briefing call.** Third Fri-or-equivalent completion of the full PT block; prior two Fridays (May 22, May 15-partial) had this dropped to time crunch. |
+| Dead bug w/ banded pulldown (PT) | Light band | As Rx (2–3 × 10 slow marches) | — | Per plan. |
+| Chin tuck + lifts (PT) | BW | As Rx (2 reps each direction, 3-sec hold) | — | Per plan. |
+
+**Knee during session:** 1/5 — green throughout.
+**Overall notes:** Clean Rx execution of the taper-light maintenance session — exactly the rehearsal-not-workout stimulus the V6 protocol is designed for. **The win here isn't weight on the bar, it's that the PT block got done.** The briefing specifically asked for it to be tacked on since Friday is full rest, and it landed. That's three consecutive sessions where the PT block has been honored (Mon May 25 mobility, Tue May 26 included via pre-run activation patterns, and today) after two Fridays where it slipped — meaning the medial PFJ exercises are finally getting their full dose into a race week. **No weight changes** — taper sessions don't generate progression signals by design. Working weights all hold for the post-race normal-load Wed (June 3): squat 165, RDL 165, calf raise 40 (rack-blocked from 45), Bulgarian 25 lb/hand, SL-RDL 25 lb contralateral. Reverse Nordic resumes June 3. Knee 1/5 through a light loaded session 3 days out from PAL 10K = systems all clear for race-week funnel: Thu 4 mi easy + strides, Fri full rest, Sat PAL 10K.
+
+---
 
 ### 2026-05-22 — Fri Stability & Power (V6 Week 3)
 **Body Weight:** Not reported
