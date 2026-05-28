@@ -1,5 +1,13 @@
 # Workout Log
 
+## May 28, 2026
+
+- **Workout:** 4 mi Easy + 4 strides (V6 Week 4 Thursday — PAL 10K race week, 2 days out)
+- **Type:** **DNS — illness skip.** No activity.
+- **Knee Status:** N/A (no run).
+- **Illness status (reported AM, day 2 of cold):** More congested than Wed, poor sleep, energy low. Passes the neck test (above-the-neck symptoms, no chest involvement, no fever reported). **Fails the run gate on criteria 4 (energy near-normal) and 5 (symptoms clearly improving, not stable).** Athlete still leaning toward Saturday PAL 10K being a go.
+- **Notes:** Correct call to skip. The Thursday briefing made the run conditional on a five-point check; two of the five failed. Neck test passing is necessary but not sufficient — the protocol specifically requires *improving* trajectory and near-normal energy, both of which are missing. Forcing 4 mi easy on a worsening day 2 of a viral URI buys zero training benefit (4 mi at HR 145 is a maintenance stimulus, not a fitness driver) and risks deepening the illness — exactly the trade we don't take 2 days out from a benchmark and 8 weeks out from the marathon. **Implication for Saturday PAL 10K:** the go-call deteriorated today. The Friday-night decision requires "symptoms clearly improving, not stable" — we're now behind that curve. Not a DNS call yet, but the probability of racing went down. Friday AM + Friday night are the read points: if symptoms reverse to clearly improving by Friday evening (RHR back near baseline, congestion easing, energy recovering, no fever), 10K is still on. If Friday looks like today, it's a DNS. **Do not white-knuckle the go-call against worsening data.** PAL 10K is a calibration race; Presidio HM in 24 days is the actual Pivot. No version of forcing Saturday when sick serves the SF Marathon, full stop. **Today's priorities:** zero training stress, aggressive hydration (electrolytes if you have them), zinc/Vit C, bed by 9:30 with a real nap window in the afternoon if you can get one. Resting HR tonight and tomorrow AM is the honest signal — track it in the watch or count manually on waking. Fri is already a full rest day, so the schedule absorbs this skip cleanly.
+
 ## May 27, 2026
 
 - **Workout:** Wed Maintenance Strength, taper-light (V6 Week 4 — PAL 10K race week, 3 days out)
