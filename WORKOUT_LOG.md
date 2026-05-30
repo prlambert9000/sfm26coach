@@ -450,16 +450,22 @@
 
 ## May 30, 2026
 
-- **Workout:** Warm up
-- **Type:** Run
-- **Distance:** 1.40 mi
-- **Time:** 11:35
-- **Avg Pace:** 8:17/mi
-- **Elevation Gain:** 19 ft
-- **Avg Heart Rate:** 143 bpm (max 160)
-- **Avg Cadence:** N/A
-- **Splits:** 8:23, 7:58
-- **Relative Effort:** 18.0
-- **Strava sidecar:** `strava/activities/18718170957.json`
-- **Knee Status:** (pending — update after reviewing)
-- **Notes:** Auto-logged from Strava. Awaiting athlete feedback.
+- **Workout:** **San Mateo PAL 10K — V6 Week 4 pace calibration race** (Benchmark #2). Confounded by illness — see notes.
+- **Type:** Race (10K) + warm-up
+- **Warm-up:** 1.40 mi @ 8:17/mi, avg HR 143 (max 160), 19 ft gain — `strava/activities/18718170957.json`. Proper warm-up done, good.
+- **Race distance:** 6.32 mi (course ran ~0.1 long vs 6.21 mi 10K)
+- **Workout Time:** 46:01 (moving 46:02)
+- **Avg Pace:** 7:17/mi
+- **Elevation Gain:** 101 ft (Apple) / 36 ft (Strava)
+- **Avg Heart Rate:** 160 bpm — Polar H10 primary
+- **Max Heart Rate:** 166 bpm (closing 0.31 mi @ 6:38 / HR 164–166 — clean, sits inside the trace, no end-of-workout artifact; Z5 0:00)
+- **Avg Power:** 274 W
+- **Avg Cadence:** 174 spm (from Apple Fitness — Strava null)
+- **Active / Total Calories:** 656 / 726
+- **Apple Effort:** 6 — Moderate
+- **Suffer Score:** 134
+- **HR Zones (working max 180):** Z1 0:08 / Z2 0:35 / Z3 5:04 / Z4 (159–173) 40:15 / Z5 0:00 — **87% of the race in Z4, avg HR 160 = 89% of working max.** Sustained hard-aerobic dose, never spiked to true max.
+- **Splits (Apple — pace / HR / power):** 1: 7:10 / 155 / 279 · 2: 7:13 / 161 / 278 · 3: 7:10 / 161 / 279 · 4: 7:24 / 160 / 268 · 5: 7:32 / 160 / 265 · 6: 7:25 / 160 / 270 · 0.31 kick: 6:38 / 164 / 296
+- **Strava sidecar:** `strava/activities/18718171482.json` · [activity](https://www.strava.com/activities/18718171482)
+- **Knee Status:** **Not explicitly reported.** No knee complaint in athlete feedback after a 7:17/mi sustained-Z4 effort — provisional 1/5 pending confirmation.
+- **Notes:** **Hit the calibration target — 7:17/mi avg vs the 7:15–7:20 PAL target — while fighting a cold, poor sleep, and a stitch.** That's the headline, and it's a positive one. Per the race-eve briefing this calibration is **confounded by illness and does NOT recalibrate VDOT** — but it's now a hard floor: 7:17 on a bad day means fit-day fitness sits faster. **The HR/pace profile tells the whole story:** HR pinned flat at 160 (89% max) the entire race, yet pace faded from 7:10 (miles 1–3) → 7:25–7:32 (miles 4–6). That's the textbook "couldn't push, tank capped" signature — not a pacing error. On a healthy day, holding 160 BPM should *hold* 7:10–7:15, not bleed 20 sec/mi. The cold + poor sleep + a heavier-than-normal breakfast (leftover oatmeal w/ eggs, more protein/volume than usual) capped the engine, and the heavy gut produced the mid-race stitch. Athlete's read ("harder than expected, hardest run in a while, no energy, hard to push") matches the data exactly. Max only 166 and Apple effort "Moderate 6" confirm he never got to redline — illness, not effort, was the ceiling. **Coaching reads:** (1) **Do not over-interpret the fade as fitness regression** — it's an illness artifact; the front three miles at 7:10 / HR ~159 are the truer fitness signal and they're strong. (2) **Fueling note for race day:** keep the pre-race breakfast light and familiar — the eggs/protein-heavy oatmeal was too much volume and almost certainly drove the stitch; standard low-fiber carb (toast/banana/plain oats) from here. (3) **VDOT 54 anchor holds** — no recalibration off a confounded race; next clean data point is a healthy effort. (4) Cadence 174 and steady power (265–279 W) were dead-consistent — mechanics held up fine under fatigue. **Net: a sick athlete hit his calibration pace. Close Phase 1 on that. Recover the cold first — easy/rest until the chest is clear, no pushing into a respiratory infection.**
