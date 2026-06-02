@@ -1,5 +1,26 @@
 # Workout Log
 
+## June 2, 2026
+
+- **Workout:** 4×1 mi Threshold on the Boston Esplanade (V6 Week 5 Tuesday — track substitute, jet-lag day 2). **HR-anchored (155–165, cap 165), pace as the check.**
+- **Type:** Run (threshold) — **split across 3 Strava activities** (logistics, not training): open run started before remembering the programmed workout → stopped and started the wrong program (only 1 mi) → quit and on-the-fly programmed a fresh 4×1 mi. The physiological session is intact; the fragmentation cost nothing.
+- **Total distance (all 3):** **6.99 mi** (0.42 WU + 1.36 false-start + 5.23 main) — hit the ~7 mi plan exactly.
+- **Total time:** ~58 min across the three files.
+- **Threshold miles actually run: FIVE** (the "false-start" mile counts — it was a clean 7:08 at HR 157), one more than the planned four.
+- **The reps (GPS-derived pace from ~1.00 mi laps — clean open-river GPS, no track-oval underread):**
+  - "False-start" mile: **7:08/mi · HR 157 (max 162)** — `18762405447` lap 2
+  - Rep 1: **7:01/mi · HR 157 (max 162)**
+  - Rep 2: **7:23/mi · HR 160 (max 163)**
+  - Rep 3: **7:44/mi · HR 159 (max 163)**
+  - Rep 4: **8:09/mi · HR 151 (max 158)** — the sightseeing/lost/bridges rep; he eased off, HR confirms it
+  - Recoveries: 89s each (~90s walk/jog as Rx'd) · Cooldown 0.75 mi @ ~10:18, HR 146
+- **Avg/Max HR (main 4×1 activity):** 153.8 / **163** (H10). **Max never breached the 165 cap; HR zones show 0 sec above 173, no end-of-workout spike artifact.**
+- **Elevation:** main activity **+111 ft** (the bridge crossings over the Charles) vs ~flat plan. Suffer score 98.
+- **Avg Cadence:** N/A (Apple Watch → Strava null — known gap; provide Apple Fitness screenshot to fold in).
+- **Strava sidecars:** `strava/activities/18762405166.json` (WU) · `strava/activities/18762405447.json` (false start) · `strava/activities/18762405929.json` (main) · [WU](https://www.strava.com/activities/18762405166) · [false start](https://www.strava.com/activities/18762405447) · [main](https://www.strava.com/activities/18762405929)
+- **Knee Status:** **NOT REPORTED — following up.** No knee read provided with the narrative; need it before this entry is complete (would be the only gap in an otherwise unbroken 1/5 streak).
+- **Notes:** **Logistically a mess, physiologically a win — and the win is the part that matters.** Strip away the three-activity fumble and the data is excellent: five threshold miles instead of four, with the false-start mile + reps 1–3 all pinned at **HR 157–160 — textbook threshold**, max topping out at 163 *under* the 165 cap, on **jet-lag day 2** (body clock ~3 AM PT at the 6 AM ET window the plan flagged). The pace decay (7:01 → 7:23 → 7:44 → 8:09) reads alarming on paper but is fully explained and *fine*: HR was the anchor by design, +111 ft of bridge climbing diluted the flat-pace target, and rep 4 fell off because he was navigating/sightseeing and got lost — HR 151 confirms he wasn't fighting fatigue, he was easing to find his way. First two reps (7:01, 7:23) bracket the 7:15–7:25 target; everything held the right effort band where it was run on flat ground. **The only real lesson is logistical, and it's two-part:** (1) **check the watch for a programmed workout before pressing start** — would've saved the three-file fragmentation; (2) **on a quality day in an unfamiliar city, pick a known flat out-and-back** (the BU Bridge ↔ Mass Ave stretch the brief named) and run the reps there *before* sightseeing — the bridges and getting lost are what compromised rep 4, not the legs. View and sightseeing are a fair trade on a travel week; just bank the reps clean first. **Net: don't read the fade as fitness or fatigue — it's terrain + navigation. Threshold dose delivered, knee streak intact pending the read, jet lag handled.** Need the knee number to close this out.
+
 ## June 1, 2026
 
 - **Workout:** Hip Complex Circuit (V6 Week 5 Monday — Phase 2 kickoff + Boston travel day). Home, 6 AM before the SFO→BOS flight.
@@ -496,19 +517,3 @@
 - **Relative Effort:** 21.0
 - **Knee Status:** 🟢 Green (short errand run, no issues reported)
 - **Notes:** Auto-logged from Strava.
-
-## June 2, 2026
-
-- **Workout:** Warm up
-- **Type:** Run
-- **Distance:** 0.42 mi
-- **Time:** 3:43
-- **Avg Pace:** 8:56/mi
-- **Elevation Gain:** 7 ft
-- **Avg Heart Rate:** 121 bpm (max 134)
-- **Avg Cadence:** N/A
-- **Splits:** 8:56
-- **Relative Effort:** 1.0
-- **Strava sidecar:** `strava/activities/18762405166.json`
-- **Knee Status:** (pending — update after reviewing)
-- **Notes:** Auto-logged from Strava. Awaiting athlete feedback.
