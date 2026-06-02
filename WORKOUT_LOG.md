@@ -1,5 +1,55 @@
 # Workout Log
 
+## June 1, 2026
+
+- **Workout:** Hip Complex Circuit (V6 Week 5 Monday — Phase 2 kickoff + Boston travel day). Home, 6 AM before the SFO→BOS flight.
+- **Type:** Mobility (BW only, ~20 min)
+- **Executed:** **Done as Rx** — full two-round circuit: foam roller T-spine extensions (PT), standing lunges w/ hip IR + extension (PT), quadruped banded hip IR (PT), 90/90 switches, adductor rockbacks, quadruped hip CARs (sink into IR at bottom), half-kneeling couch stretch. No deviations.
+- **Knee Status:** **1/5 — "totally fine."** Green throughout.
+- **Illness status (reported 8:37 AM PT):** **90%+ recovered — only the faintest remnants, nothing in the chest.** Cold is effectively resolved (day ~6–7, well past peak), above-the-neck throughout with no chest involvement at any point. **Tuesday's 4×1 mi Esplanade threshold is green-lit** — the illness caveat from yesterday's briefing is cleared. Routine pre-session neck check Tuesday AM, but no modification expected.
+- **Notes:** Clean Rx execution of the Phase 2 opener, and notably the first session of the new block landed on a 6 AM travel-day window without getting cut — exactly the discipline this Boston week needs since the hotel-room sessions later in the week run on the same tight margins. Knee 1/5 continues an unbroken streak from Phase 1 (every session 1/5 through a VO2 set and a hard 10K while sick). **Forward:** travel-day priorities now take over — hydrate aggressively on the 5h54m flight, walk the aisle every ~90 min, lights out by 10 PM ET to start defusing the 3-hr eastbound jet lag before Tuesday's threshold. With the cold cleared, the only remaining Tuesday variable is travel/jet-lag fatigue — run the reps on feel and let HR confirm threshold rather than chasing pace if the legs are flat from the flight. No knee or musculoskeletal concerns — systems green.
+
+## May 31, 2026
+
+- **Workout:** 6 mi Recovery (V6 Week 4 Sunday — day after the PAL 10K, closes Phase 1 / Foundation block). Plan: 9:30+ easy, knee 2+ → bike instead.
+- **Type:** Run (recovery, easy)
+- **Distance:** 6.40 mi
+- **Moving Time:** 58:02
+- **Avg Pace:** 9:04/mi
+- **Elevation Gain:** 215 ft
+- **Avg/Max HR:** **134 / 142 bpm** (H10) — pure recovery aerobic; max 142 sits clean inside the trace, no end-of-workout spike artifact.
+- **HR zones (working max 180):** Z1 (≤116) 3:31 · Z2 (117–144) 54:31 · Z3+ 0:00 — **94% of the run in Z2, zero seconds above 144.** Textbook recovery distribution.
+- **Avg Power:** 222 W · **Calories:** 673 · **Suffer Score:** 55
+- **Mile splits (pace / HR / elev):** 1: 8:57 / 120 / −95 · 2: 8:37 / 133 / −38 · 3: 8:34 / 136 / −21 · 4: 8:42 / 138 / −29 · 5: 9:09 / 138 / +18 · 6: 9:34 / 136 / +57 · 0.39: 11:19 / 138 / +72. Downhill-aided early miles ran 8:34–8:57 at HR low-130s; pace settled to 9:09–9:34 as the route turned uphill, HR held flat ~136–138 throughout. Effort was dead steady; pace moved with terrain, not fatigue.
+- **Strava sidecar:** `strava/activities/18731127573.json` · [activity](https://www.strava.com/activities/18731127573)
+- **Knee Status:** **1/5 — green.** Zero awareness day after a 46-min sustained-Z4 race. The knee held through the entire race-week load (VO2 set Tue → race Sat → recovery run Sun) without a single 2+ reading. That's the durability signal Phase 1 was built to produce, and it's the cleanest read of the block.
+- **Illness status (reported during run):** **Cold on the mend but not 100% — producing a lot of snot while running.** Still above-the-neck, trending the right direction (day ~5–6, post-peak). Heavy nasal/sinus drainage on an easy run is normal and generally a *good* sign — it's the congestion clearing, not worsening, and exertion-driven mucus mobilization is expected as a URI resolves. No chest involvement reported, which is the line that matters.
+- **Notes:** **Right session, right intensity, right call to keep it easy while still clearing a cold.** Pace ran 9:04/mi avg — a hair under the 9:30+ plan floor — but that's a non-issue: avg HR 134 is ~74% of working max and 94% of the run sat in Z2 with zero seconds above 144, so the *effort* was genuine recovery regardless of the pace number. The early miles were downhill-aided (8:34–8:57 at HR ~133); HR never crept. Recovery pace (HR low Z2) is the one intensity that's safe to run through an above-the-neck URI — there's no myocarditis risk at conversational effort the way there is at race/threshold redline, and gentle aerobic movement the day after a hard race flushes the legs better than total rest. The snot is the cold draining, not a red flag; keep monitoring for any *downward* shift (chest tightness, cough turning productive/wet, fever, energy crash) — none of that is present. **Phase 1 closes here:** four weeks, knee 1/5 across the board through a VO2 set and a hard 10K, calibration pace hit while sick. Clean foundation. **Forward:** Week 5 opens the next block — the 12 mi long run lands Sun Jun 7 (shifted off this weekend deliberately to give the post-race + post-cold week to recovery). Between now and then, let the cold fully clear before any quality work; keep the early-week sessions easy/aerobic and don't chase pace until the chest is unambiguously clean and energy is back to baseline. No reason to force intensity into the tail of a respiratory infection.
+
+## May 30, 2026
+
+- **Workout:** **San Mateo PAL 10K — V6 Week 4 pace calibration race** (Benchmark #2). Confounded by illness — see notes.
+- **Type:** Race (10K) + warm-up
+- **Warm-up:** 1.40 mi @ 8:17/mi, avg HR 143 (max 160), 19 ft gain — `strava/activities/18718170957.json`. Proper warm-up done, good.
+- **Race distance:** 6.32 mi (course ran ~0.1 long vs 6.21 mi 10K)
+- **Workout Time:** 46:01 (moving 46:02)
+- **Avg Pace:** 7:17/mi
+- **Elevation Gain:** 101 ft (Apple) / 36 ft (Strava)
+- **Avg Heart Rate:** 160 bpm — Polar H10 primary
+- **Max Heart Rate:** 166 bpm (closing 0.31 mi @ 6:38 / HR 164–166 — clean, sits inside the trace, no end-of-workout artifact; Z5 0:00)
+- **Avg Power:** 274 W
+- **Avg Cadence:** 174 spm (from Apple Fitness — Strava null)
+- **Active / Total Calories:** 656 / 726
+- **Apple Effort:** 6 — Moderate
+- **Suffer Score:** 134
+- **HR Zones (working max 180):** Z1 0:08 / Z2 0:35 / Z3 5:04 / Z4 (159–173) 40:15 / Z5 0:00 — **87% of the race in Z4, avg HR 160 = 89% of working max.** Sustained hard-aerobic dose, never spiked to true max.
+- **Splits (Apple — pace / HR / power):** 1: 7:10 / 155 / 279 · 2: 7:13 / 161 / 278 · 3: 7:10 / 161 / 279 · 4: 7:24 / 160 / 268 · 5: 7:32 / 160 / 265 · 6: 7:25 / 160 / 270 · 0.31 kick: 6:38 / 164 / 296
+- **Strava sidecar:** `strava/activities/18718171482.json` · [activity](https://www.strava.com/activities/18718171482)
+- **Knee Status:** **1/5 — confirmed by athlete. "Totally fine, didn't even think about it."** Zero awareness across a 46-min sustained-Z4 race effort.
+- **Heart Rate Recovery (post-race, athlete-reported + Apple):** end 165 → **131 at 1 min (−34 BPM)** → **112 at 2 min (−53 BPM total)**. 1-min HRR of 34 BPM matches the profile baseline (33) — and this is the first HRR reading taken after a genuinely *hard* effort rather than an easy run, which makes it a stronger autonomic-fitness signal. Solid parasympathetic reactivation even while sick.
+- **Apple personalized HR zones (not working-max-180):** Z1 0:12 / Z2 0:14 / Z3 0:48 / Z4 (152–164) 44:31 / Z5 (165+) 0:12. The 12 sec in Z5 (final kick) is what confirms max 166 is real — sustained, not a single-sample artifact.
+- **Notes:** **Hit the calibration target — 7:17/mi avg vs the 7:15–7:20 PAL target — while fighting a cold, poor sleep, and a stitch.** That's the headline, and it's a positive one. Per the race-eve briefing this calibration is **confounded by illness and does NOT recalibrate VDOT** — but it's now a hard floor: 7:17 on a bad day means fit-day fitness sits faster. **The HR/pace profile tells the whole story:** HR pinned flat at 160 (89% max) the entire race, yet pace faded from 7:10 (miles 1–3) → 7:25–7:32 (miles 4–6). That's the textbook "couldn't push, tank capped" signature — not a pacing error. On a healthy day, holding 160 BPM should *hold* 7:10–7:15, not bleed 20 sec/mi. The cold + poor sleep + a heavier-than-normal breakfast (leftover oatmeal w/ eggs, more protein/volume than usual) capped the engine, and the heavy gut produced the mid-race stitch. Athlete's read ("harder than expected, hardest run in a while, no energy, hard to push") matches the data exactly. Max only 166 and Apple effort "Moderate 6" confirm he never got to redline — illness, not effort, was the ceiling. **Coaching reads:** (1) **Do not over-interpret the fade as fitness regression** — it's an illness artifact; the front three miles at 7:10 / HR ~159 are the truer fitness signal and they're strong. (2) **Fueling note for race day:** keep the pre-race breakfast light and familiar — the eggs/protein-heavy oatmeal was too much volume and almost certainly drove the stitch; standard low-fiber carb (toast/banana/plain oats) from here. (3) **VDOT 54 anchor holds** — no recalibration off a confounded race; next clean data point is a healthy effort. (4) Cadence 174 and steady power (265–279 W) were dead-consistent — mechanics held up fine under fatigue. **Net: a sick athlete hit his calibration pace. Close Phase 1 on that. Recover the cold first — easy/rest until the chest is clear, no pushing into a respiratory infection.**
+
 ## May 28, 2026
 
 - **Workout:** 4 mi Easy + 4 strides (V6 Week 4 Thursday — PAL 10K race week, 2 days out)
@@ -448,52 +498,3 @@
 - **Notes:** Big positive: 10.5 mi at 8:03 with knee 1/5, smooth pace profile (mile 5 single hill at 8:53 absorbed cleanly, every other mile sub-8:30), strong close (last 1.5 mi at 7:43 + 6:58). First double-digit run since the September 2025 shutdown — durability box checked. Superblast 3 cleared its real test (long run + faster paces) with no fit or mechanics complaints. **Coaching flag (direct):** the prescription was 8:45–9:15 aerobic time-on-feet on a flat route — "do not trade distance for pace." Today ran 8:03 avg with a progression-style close. That's MP+25 sec, not Z2 aerobic — closer to a steady-state effort than the easy long run the plan called for. Without HR I can't confirm whether you actually stayed aerobic, but the pace profile alone says you went harder than the prescription. **This is now the second long-format outing in a row run at 8:03 avg** (B2B race 8:03 with MP finish was by design; today was not). The aerobic-base purpose of Phase 1 long runs is undermined if every long run becomes a tempo. **Two consequences:** (1) the H10 is the whole point of the HR-anchored execution rule — a forgotten strap on a long run flies the workout blind; pre-checking the strap goes on the Saturday-night routine alongside fuel from here forward; (2) next long run (12 mi, Jun 7) gets an explicit HR cap at ≤155 BPM (low Z3) with pace as the float, not the anchor. Knee tolerated the faster-than-prescribed effort fine, so no plan modification needed beyond that — but the discipline cue stands.
 
 
-## May 30, 2026
-
-- **Workout:** **San Mateo PAL 10K — V6 Week 4 pace calibration race** (Benchmark #2). Confounded by illness — see notes.
-- **Type:** Race (10K) + warm-up
-- **Warm-up:** 1.40 mi @ 8:17/mi, avg HR 143 (max 160), 19 ft gain — `strava/activities/18718170957.json`. Proper warm-up done, good.
-- **Race distance:** 6.32 mi (course ran ~0.1 long vs 6.21 mi 10K)
-- **Workout Time:** 46:01 (moving 46:02)
-- **Avg Pace:** 7:17/mi
-- **Elevation Gain:** 101 ft (Apple) / 36 ft (Strava)
-- **Avg Heart Rate:** 160 bpm — Polar H10 primary
-- **Max Heart Rate:** 166 bpm (closing 0.31 mi @ 6:38 / HR 164–166 — clean, sits inside the trace, no end-of-workout artifact; Z5 0:00)
-- **Avg Power:** 274 W
-- **Avg Cadence:** 174 spm (from Apple Fitness — Strava null)
-- **Active / Total Calories:** 656 / 726
-- **Apple Effort:** 6 — Moderate
-- **Suffer Score:** 134
-- **HR Zones (working max 180):** Z1 0:08 / Z2 0:35 / Z3 5:04 / Z4 (159–173) 40:15 / Z5 0:00 — **87% of the race in Z4, avg HR 160 = 89% of working max.** Sustained hard-aerobic dose, never spiked to true max.
-- **Splits (Apple — pace / HR / power):** 1: 7:10 / 155 / 279 · 2: 7:13 / 161 / 278 · 3: 7:10 / 161 / 279 · 4: 7:24 / 160 / 268 · 5: 7:32 / 160 / 265 · 6: 7:25 / 160 / 270 · 0.31 kick: 6:38 / 164 / 296
-- **Strava sidecar:** `strava/activities/18718171482.json` · [activity](https://www.strava.com/activities/18718171482)
-- **Knee Status:** **1/5 — confirmed by athlete. "Totally fine, didn't even think about it."** Zero awareness across a 46-min sustained-Z4 race effort.
-- **Heart Rate Recovery (post-race, athlete-reported + Apple):** end 165 → **131 at 1 min (−34 BPM)** → **112 at 2 min (−53 BPM total)**. 1-min HRR of 34 BPM matches the profile baseline (33) — and this is the first HRR reading taken after a genuinely *hard* effort rather than an easy run, which makes it a stronger autonomic-fitness signal. Solid parasympathetic reactivation even while sick.
-- **Apple personalized HR zones (not working-max-180):** Z1 0:12 / Z2 0:14 / Z3 0:48 / Z4 (152–164) 44:31 / Z5 (165+) 0:12. The 12 sec in Z5 (final kick) is what confirms max 166 is real — sustained, not a single-sample artifact.
-- **Notes:** **Hit the calibration target — 7:17/mi avg vs the 7:15–7:20 PAL target — while fighting a cold, poor sleep, and a stitch.** That's the headline, and it's a positive one. Per the race-eve briefing this calibration is **confounded by illness and does NOT recalibrate VDOT** — but it's now a hard floor: 7:17 on a bad day means fit-day fitness sits faster. **The HR/pace profile tells the whole story:** HR pinned flat at 160 (89% max) the entire race, yet pace faded from 7:10 (miles 1–3) → 7:25–7:32 (miles 4–6). That's the textbook "couldn't push, tank capped" signature — not a pacing error. On a healthy day, holding 160 BPM should *hold* 7:10–7:15, not bleed 20 sec/mi. The cold + poor sleep + a heavier-than-normal breakfast (leftover oatmeal w/ eggs, more protein/volume than usual) capped the engine, and the heavy gut produced the mid-race stitch. Athlete's read ("harder than expected, hardest run in a while, no energy, hard to push") matches the data exactly. Max only 166 and Apple effort "Moderate 6" confirm he never got to redline — illness, not effort, was the ceiling. **Coaching reads:** (1) **Do not over-interpret the fade as fitness regression** — it's an illness artifact; the front three miles at 7:10 / HR ~159 are the truer fitness signal and they're strong. (2) **Fueling note for race day:** keep the pre-race breakfast light and familiar — the eggs/protein-heavy oatmeal was too much volume and almost certainly drove the stitch; standard low-fiber carb (toast/banana/plain oats) from here. (3) **VDOT 54 anchor holds** — no recalibration off a confounded race; next clean data point is a healthy effort. (4) Cadence 174 and steady power (265–279 W) were dead-consistent — mechanics held up fine under fatigue. **Net: a sick athlete hit his calibration pace. Close Phase 1 on that. Recover the cold first — easy/rest until the chest is clear, no pushing into a respiratory infection.**
-
-## May 31, 2026
-
-- **Workout:** 6 mi Recovery (V6 Week 4 Sunday — day after the PAL 10K, closes Phase 1 / Foundation block). Plan: 9:30+ easy, knee 2+ → bike instead.
-- **Type:** Run (recovery, easy)
-- **Distance:** 6.40 mi
-- **Moving Time:** 58:02
-- **Avg Pace:** 9:04/mi
-- **Elevation Gain:** 215 ft
-- **Avg/Max HR:** **134 / 142 bpm** (H10) — pure recovery aerobic; max 142 sits clean inside the trace, no end-of-workout spike artifact.
-- **HR zones (working max 180):** Z1 (≤116) 3:31 · Z2 (117–144) 54:31 · Z3+ 0:00 — **94% of the run in Z2, zero seconds above 144.** Textbook recovery distribution.
-- **Avg Power:** 222 W · **Calories:** 673 · **Suffer Score:** 55
-- **Mile splits (pace / HR / elev):** 1: 8:57 / 120 / −95 · 2: 8:37 / 133 / −38 · 3: 8:34 / 136 / −21 · 4: 8:42 / 138 / −29 · 5: 9:09 / 138 / +18 · 6: 9:34 / 136 / +57 · 0.39: 11:19 / 138 / +72. Downhill-aided early miles ran 8:34–8:57 at HR low-130s; pace settled to 9:09–9:34 as the route turned uphill, HR held flat ~136–138 throughout. Effort was dead steady; pace moved with terrain, not fatigue.
-- **Strava sidecar:** `strava/activities/18731127573.json` · [activity](https://www.strava.com/activities/18731127573)
-- **Knee Status:** **1/5 — green.** Zero awareness day after a 46-min sustained-Z4 race. The knee held through the entire race-week load (VO2 set Tue → race Sat → recovery run Sun) without a single 2+ reading. That's the durability signal Phase 1 was built to produce, and it's the cleanest read of the block.
-- **Illness status (reported during run):** **Cold on the mend but not 100% — producing a lot of snot while running.** Still above-the-neck, trending the right direction (day ~5–6, post-peak). Heavy nasal/sinus drainage on an easy run is normal and generally a *good* sign — it's the congestion clearing, not worsening, and exertion-driven mucus mobilization is expected as a URI resolves. No chest involvement reported, which is the line that matters.
-- **Notes:** **Right session, right intensity, right call to keep it easy while still clearing a cold.** Pace ran 9:04/mi avg — a hair under the 9:30+ plan floor — but that's a non-issue: avg HR 134 is ~74% of working max and 94% of the run sat in Z2 with zero seconds above 144, so the *effort* was genuine recovery regardless of the pace number. The early miles were downhill-aided (8:34–8:57 at HR ~133); HR never crept. Recovery pace (HR low Z2) is the one intensity that's safe to run through an above-the-neck URI — there's no myocarditis risk at conversational effort the way there is at race/threshold redline, and gentle aerobic movement the day after a hard race flushes the legs better than total rest. The snot is the cold draining, not a red flag; keep monitoring for any *downward* shift (chest tightness, cough turning productive/wet, fever, energy crash) — none of that is present. **Phase 1 closes here:** four weeks, knee 1/5 across the board through a VO2 set and a hard 10K, calibration pace hit while sick. Clean foundation. **Forward:** Week 5 opens the next block — the 12 mi long run lands Sun Jun 7 (shifted off this weekend deliberately to give the post-race + post-cold week to recovery). Between now and then, let the cold fully clear before any quality work; keep the early-week sessions easy/aerobic and don't chase pace until the chest is unambiguously clean and energy is back to baseline. No reason to force intensity into the tail of a respiratory infection.
-
-## June 1, 2026
-
-- **Workout:** Hip Complex Circuit (V6 Week 5 Monday — Phase 2 kickoff + Boston travel day). Home, 6 AM before the SFO→BOS flight.
-- **Type:** Mobility (BW only, ~20 min)
-- **Executed:** **Done as Rx** — full two-round circuit: foam roller T-spine extensions (PT), standing lunges w/ hip IR + extension (PT), quadruped banded hip IR (PT), 90/90 switches, adductor rockbacks, quadruped hip CARs (sink into IR at bottom), half-kneeling couch stretch. No deviations.
-- **Knee Status:** **1/5 — "totally fine."** Green throughout.
-- **Illness status (reported 8:37 AM PT):** **90%+ recovered — only the faintest remnants, nothing in the chest.** Cold is effectively resolved (day ~6–7, well past peak), above-the-neck throughout with no chest involvement at any point. **Tuesday's 4×1 mi Esplanade threshold is green-lit** — the illness caveat from yesterday's briefing is cleared. Routine pre-session neck check Tuesday AM, but no modification expected.
-- **Notes:** Clean Rx execution of the Phase 2 opener, and notably the first session of the new block landed on a 6 AM travel-day window without getting cut — exactly the discipline this Boston week needs since the hotel-room sessions later in the week run on the same tight margins. Knee 1/5 continues an unbroken streak from Phase 1 (every session 1/5 through a VO2 set and a hard 10K while sick). **Forward:** travel-day priorities now take over — hydrate aggressively on the 5h54m flight, walk the aisle every ~90 min, lights out by 10 PM ET to start defusing the 3-hr eastbound jet lag before Tuesday's threshold. With the cold cleared, the only remaining Tuesday variable is travel/jet-lag fatigue — run the reps on feel and let HR confirm threshold rather than chasing pace if the legs are flat from the flight. No knee or musculoskeletal concerns — systems green.
