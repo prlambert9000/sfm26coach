@@ -1,0 +1,74 @@
+{
+  "activity_id": 18762405166,
+  "avg_cadence_spm": null,
+  "avg_hr": 121.2,
+  "avg_pace": "8:56/mi",
+  "avg_power_w": 218.3,
+  "calories": 41.0,
+  "date": "2026-06-02",
+  "date_heading": "June 2, 2026",
+  "description": "",
+  "distance_mi": 0.416,
+  "elapsed_time_s": 226,
+  "elevation_gain_ft": 6.6,
+  "fetched_at": "2026-06-02T22:39:26Z",
+  "hr_zones": [
+    {
+      "max": 116,
+      "min": 0,
+      "time_s": 51.0
+    },
+    {
+      "max": 144,
+      "min": 117,
+      "time_s": 172.0
+    },
+    {
+      "max": 158,
+      "min": 145,
+      "time_s": 0.0
+    },
+    {
+      "max": 173,
+      "min": 159,
+      "time_s": 0.0
+    },
+    {
+      "max": -1,
+      "min": 174,
+      "time_s": 0.0
+    }
+  ],
+  "laps": [
+    {
+      "avg_cadence_spm": null,
+      "avg_hr": 121.2,
+      "distance_m": 670.1,
+      "distance_mi": 0.416,
+      "elapsed_time_s": 224,
+      "elev_gain_ft": 6.6,
+      "lap_index": 1,
+      "max_hr": 134.0,
+      "moving_time_s": 224,
+      "name": "Lap 1",
+      "pace": "8:58"
+    }
+  ],
+  "max_hr": 134.0,
+  "moving_time_s": 223,
+  "name": "Warm up",
+  "splits": [
+    {
+      "avg_hr": 121.17272727272727,
+      "distance_mi": 0.416,
+      "elev_diff_ft": -58.4,
+      "mile": 1,
+      "moving_time_s": 223,
+      "pace": "8:56"
+    }
+  ],
+  "start_local": "2026-06-02T17:18:07Z",
+  "strava_url": "https://www.strava.com/activities/18762405166",
+  "suffer_score": 1.0,
+  "type": "Run"
+}
