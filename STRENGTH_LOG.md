@@ -10,7 +10,7 @@
 
 ## Current Recommended Weights
 
-*Last updated: 2026-05-27 (W4 Wed Maintenance Strength taper-light — Rx execution at 60% loads (squat 100, RDL 100, calf 25 lb/hand) × 2 sets, reverse Nordic skipped per protocol, PT block appended and completed, knee 1/5. **No weight changes — taper sessions don't generate progression signals.** All working weights hold for the post-race normal-load Wed on June 3.)*
+*Last updated: 2026-06-03 (W5 Wed Heavy Strength, first normal-load session post-PAL-10K — squat bumped 165 → **175** (4×6 Good, knee fine during lift). **Calf raise unlocked: moved off DBs onto back-rack barbell at 155 lb** — the grip+balance ceiling that capped DB calf raises since W1 is gone. RDL held at 155 without straps (grip-limited again, hook grip helped but last set broke up) — working weight stays **165 w/ straps**; bring straps. Reverse Nordic Rx, resumed after taper-week skip. **Knee 2/5** — mild awareness on stairs at end of session, resolved quickly. **Lower-body load now frozen for the week per the 2+ rule — no further squat/calf increases until knee is back to 1/5.**)*
 
 Use a simple feel rating when reporting back: **Easy** (4+ reps left in tank), **Good** (2–3 reps in reserve), **Heavy** (grinding last rep), **Too heavy** (couldn't complete reps).
 
@@ -23,9 +23,9 @@ Use a simple feel rating when reporting back: **Easy** (4+ reps left in tank), *
 
 | Exercise | Recommended | Feel Target |
 |----------|-------------|-------------|
-| Back squat | 165 lb, 4 × 6 | Good — 3-sec eccentric, hips break first then knees, knees track over toes |
-| Romanian deadlift (RDL) | 165 lb, 4 × 6 — **straps required** | Good — hinge, neutral spine, hamstring stretch. Grip is the limiter without straps; if no straps, drop to 135 for clean reps. |
-| Standing calf raise | 40 lb/hand DBs, 4 × 10 — **straps + step recommended** | Good — full ROM (heel below step), 2-sec hold at top, 3-sec lower. Grip + balance were W1 limiters; straps free up grip and a weight vest would free up balance. |
+| Back squat | 175 lb, 4 × 6 | Good — 3-sec eccentric, hips break first then knees, knees track over toes. Cleared 175 Good Jun 3 (knee 1/5 during lift); **hold 175 — no bump while knee carries a 2+ reading.** |
+| Romanian deadlift (RDL) | 165 lb, 4 × 6 — **straps required** | Good — hinge, neutral spine, hamstring stretch. Grip is the limiter without straps; if no straps, **hook grip** helps but still fades by the last set (Jun 3: 155 hook-grip, last set broke up). Bring straps and the 165 posterior-chain load is clean. |
+| Standing calf raise | **155 lb back-rack barbell**, 4 × 10 | Good — full ROM (heel below step), 2-sec hold at top, 3-sec lower. **Moved off DBs to the bar Jun 3 — back rack kills the grip+balance ceiling that capped DB calf raises since W1.** Do it in the rack with safeties set, start flat-footed then add ROM. No feel rating captured yet at 155; calves likely still have room, but **hold 155 this week** (knee 2+) and capture a feel signal next session before progressing. |
 | Reverse Nordic | Bodyweight, 3 × 10 | Good — kneel on pad, knees hip-width, glutes squeezed (lock hip extension), 3-sec lower. Build depth slowly week over week (W1: ~45°). Stop on any sharp PF pain. |
 
 **W1 calibration protocol (Wed May 6, first heavy session):** Warm up the bar (45 × 10, 95 × 5, 115 × 5), then build to a top set of 6 reps that feels Good (2–3 reps in reserve). Whatever weight that lands on becomes the working weight for Sets 2–4 and the W2 starting load. The seeds above are educated guesses for a 155-lb 42M with single-leg strength baseline (Bulgarian splits at 15 lb/hand cleared Good); they'll move 10–20 lb either way after one honest session. Same approach for RDL.
@@ -80,6 +80,19 @@ Bodyweight only. Pre-workout activation pattern; not a lift. Two rounds.
 ---
 
 ## Session Logs
+
+### 2026-06-03 — Wed Heavy Strength (V6 Week 5 — first normal-load session post-PAL 10K)
+**Body Weight:** Not reported
+
+| Exercise | Weight Used | Sets×Reps | Feel | Notes |
+|----------|-------------|-----------|------|-------|
+| Back squat | 175 lb | 4 × 6 | Good ("doable") | Self-bumped 165 → 175. Cleared Good with knee fine *during* the lift. New working weight = 175. **No further bump while knee carries this week's 2/5** (per lower-body rule). |
+| Romanian deadlift (RDL) | 155 lb (no straps, hook grip) | 4 × 6, last set broken up | Grip-limited (not posterior chain) | No straps today — tried a hook grip, which helped vs. bare overhand but still faded by the last set. Hinge/hamstrings were not the limiter. Working weight stays **165 w/ straps**; bring straps. Hook grip is a usable backup but not a full substitute. |
+| Standing calf raise | **155 lb back-rack barbell** | 4 × 10 | Not reported (completed clean, no breakdown) | **First session on the bar — big change.** Moved off 40 lb/hand DBs (80 lb total) to a back-rack barbell at 155 lb to kill the grip+balance ceiling that's capped this exercise since W1. Completed without the rep dropoff DBs always caused → the back rack works. No feel rating captured; calves likely still have room but **hold 155 this week** (knee 2+) and get a feel signal next time. |
+| Reverse Nordic | Bodyweight | 3 × 10 (Rx) | As prescribed | Resumed after the May 27 taper-week skip. Per plan — continue gradual depth build. |
+
+**Knee during session:** **2/5** — 1/5 through all the lifting, then mild awareness walking up stairs at the end of the session; resolved quickly ("feels fine now"). First non-1 reading in a long clean run of heavy sessions.
+**Overall notes:** Strong session on the board — squat progressed to 175 Good, and the calf-raise grip problem is finally solved by moving to a back-rack barbell (155 lb, no rep dropoff, which DB calf raises always had). RDL was grip-limited again purely because the straps were left at home; hook grip is a decent stopgap but the fix is bringing straps, so the 165 working load holds. **The one thing to watch is the knee: 2/5 on stairs at the very end.** It was 1/5 through every loaded movement and resolved fast, so this is mild awareness (no gait change, no lingering) — a **2 on the scale**, not a 3, so no escape-valve trigger. Per protocol: **double the mobility flush today, and freeze lower-body load for the week — no further squat or calf increases until the knee is back to 1/5.** Likely just cumulative load (first normal-load strength day after the PAL 10K + the squat jump + a brand-new heavier calf stimulus all landing at once) plus the eccentric demand of stairs. **Action:** watch tomorrow's (Thu) run closely — if the knee reads 2+ early, the escape valve (equal-time bike/elliptical) is on the table. Two consecutive 3+ readings would trigger the cycling block, but we're not there. Get the straps in the gym bag for next Wed.
 
 ### 2026-05-27 — Wed Maintenance Strength, taper-light (V6 Week 4 — PAL 10K race week)
 **Body Weight:** Not reported
