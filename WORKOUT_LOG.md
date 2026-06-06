@@ -8,7 +8,7 @@
 - **Structure (from laps):** ~3 mi easy shakeout (Lap 1: **2.99 mi @ 9:18/mi, HR 125.7**) → **4 × ~24s strides** → 0.34 mi cooldown @ 9:39. Strides came back ~5:07–5:22/mi on Strava, but those are GPS short-segment paces — treat as "brisk ~20s pickups," the times (~24–25s) are the reliable part.
 - **Splits:** 9:07, 9:10 (both net downhill, −95 / −36 ft), 9:35, 9:38 (net uphill + strides, +34 / +85 ft).
 - **Avg/Max HR:** **128.7 / 155** (H10). Pure zone 2 — `hr_zones` show 0 sec above the 145–158 band and **no end-of-workout spike artifact**; max 155 is real and modest. Suffer score 20.
-- **Elevation:** +207 ft. **Avg Cadence:** N/A (Apple Watch → Strava null — known gap; share Apple Fitness screenshot to fold in).
+- **Elevation:** +207 ft. **Cadence (Apple Fitness Intervals, hand-folded — Strava JSON null per known gap):** shakeout **165 spm**, strides **181 / 201 / 198 / 198 spm** (turnover popping to ~200 on the pickups), cooldown **166 spm**.
 - **Strava sidecar:** `strava/activities/18811413942.json` · [activity](https://www.strava.com/activities/18811413942)
 - **Knee Status:** **1/5 — green.** "Knee felt good." Streak holds — every V6 session 1/5.
 - **Notes:** Exactly what a shakeout should be — "all pretty easy," HR parked in zone 2 the whole way, knee quiet. Strides executed (4 × ~24s) to keep the legs snappy ahead of tomorrow's Sunday long run with the embedded MP fast-finish. Nothing to flag; clean, low-cost session. Banks well into the back half of Week 5.
