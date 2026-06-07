@@ -1,0 +1,170 @@
+{
+  "activity_id": 18827005133,
+  "avg_cadence_spm": null,
+  "avg_hr": 142.6,
+  "avg_pace": "8:22/mi",
+  "avg_power_w": 239.7,
+  "calories": 1310.0,
+  "date": "2026-06-07",
+  "date_heading": "June 7, 2026",
+  "description": "",
+  "distance_mi": 12.746,
+  "elapsed_time_s": 6413,
+  "elevation_gain_ft": 44.0,
+  "fetched_at": "2026-06-07T16:46:49Z",
+  "hr_zones": [
+    {
+      "max": 116,
+      "min": 0,
+      "time_s": 31.0
+    },
+    {
+      "max": 144,
+      "min": 117,
+      "time_s": 5056.0
+    },
+    {
+      "max": 158,
+      "min": 145,
+      "time_s": 1250.0
+    },
+    {
+      "max": 173,
+      "min": 159,
+      "time_s": 63.0
+    },
+    {
+      "max": -1,
+      "min": 174,
+      "time_s": 0.0
+    }
+  ],
+  "laps": [
+    {
+      "avg_cadence_spm": null,
+      "avg_hr": 142.6,
+      "distance_m": 20500.6,
+      "distance_mi": 12.738,
+      "elapsed_time_s": 6413,
+      "elev_gain_ft": 44.0,
+      "lap_index": 1,
+      "max_hr": 162.0,
+      "moving_time_s": 6403,
+      "name": "Lap 1",
+      "pace": "8:23"
+    }
+  ],
+  "max_hr": 162.0,
+  "moving_time_s": 6402,
+  "name": "Sunday runday",
+  "splits": [
+    {
+      "avg_hr": 132.67125984251967,
+      "distance_mi": 1.001,
+      "elev_diff_ft": -7.2,
+      "mile": 1,
+      "moving_time_s": 511,
+      "pace": "8:30"
+    },
+    {
+      "avg_hr": 139.61782178217823,
+      "distance_mi": 1.0,
+      "elev_diff_ft": -6.6,
+      "mile": 2,
+      "moving_time_s": 505,
+      "pace": "8:25"
+    },
+    {
+      "avg_hr": 141.1003937007874,
+      "distance_mi": 0.999,
+      "elev_diff_ft": 3.9,
+      "mile": 3,
+      "moving_time_s": 508,
+      "pace": "8:28"
+    },
+    {
+      "avg_hr": 142.73694390715667,
+      "distance_mi": 1.0,
+      "elev_diff_ft": 4.6,
+      "mile": 4,
+      "moving_time_s": 517,
+      "pace": "8:37"
+    },
+    {
+      "avg_hr": 140.25918762088975,
+      "distance_mi": 1.001,
+      "elev_diff_ft": 0.0,
+      "mile": 5,
+      "moving_time_s": 517,
+      "pace": "8:37"
+    },
+    {
+      "avg_hr": 140.69514563106796,
+      "distance_mi": 1.0,
+      "elev_diff_ft": 0.7,
+      "mile": 6,
+      "moving_time_s": 515,
+      "pace": "8:35"
+    },
+    {
+      "avg_hr": 138.6307977736549,
+      "distance_mi": 1.0,
+      "elev_diff_ft": 0.0,
+      "mile": 7,
+      "moving_time_s": 540,
+      "pace": "9:00"
+    },
+    {
+      "avg_hr": 139.93726235741445,
+      "distance_mi": 1.001,
+      "elev_diff_ft": -0.7,
+      "mile": 8,
+      "moving_time_s": 526,
+      "pace": "8:45"
+    },
+    {
+      "avg_hr": 140.0639534883721,
+      "distance_mi": 0.998,
+      "elev_diff_ft": 0.0,
+      "mile": 9,
+      "moving_time_s": 516,
+      "pace": "8:37"
+    },
+    {
+      "avg_hr": 141.2953667953668,
+      "distance_mi": 1.001,
+      "elev_diff_ft": 2.0,
+      "mile": 10,
+      "moving_time_s": 518,
+      "pace": "8:38"
+    },
+    {
+      "avg_hr": 151.80357142857142,
+      "distance_mi": 0.999,
+      "elev_diff_ft": -0.7,
+      "mile": 11,
+      "moving_time_s": 448,
+      "pace": "7:29"
+    },
+    {
+      "avg_hr": 155.3273942093541,
+      "distance_mi": 1.0,
+      "elev_diff_ft": -1.3,
+      "mile": 12,
+      "moving_time_s": 449,
+      "pace": "7:29"
+    },
+    {
+      "avg_hr": 157.15151515151516,
+      "distance_mi": 0.745,
+      "elev_diff_ft": 0.0,
+      "mile": 13,
+      "moving_time_s": 333,
+      "pace": "7:27"
+    }
+  ],
+  "start_local": "2026-06-07T07:36:02Z",
+  "strava_url": "https://www.strava.com/activities/18827005133",
+  "suffer_score": 166.0,
+  "type": "Run"
+}

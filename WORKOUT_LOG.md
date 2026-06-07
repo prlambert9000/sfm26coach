@@ -530,3 +530,19 @@
 - **Relative Effort:** 21.0
 - **Knee Status:** 🟢 Green (short errand run, no issues reported)
 - **Notes:** Auto-logged from Strava.
+
+## June 7, 2026
+
+- **Workout:** Sunday runday
+- **Type:** Run
+- **Distance:** 12.75 mi
+- **Time:** 1:46:42
+- **Avg Pace:** 8:22/mi
+- **Elevation Gain:** 44 ft
+- **Avg Heart Rate:** 143 bpm (max 162)
+- **Avg Cadence:** N/A
+- **Splits:** 8:30, 8:25, 8:28, 8:37, 8:37, 8:35, 9:00, 8:45, 8:37, 8:38, 7:29, 7:29, 7:27
+- **Relative Effort:** 166.0
+- **Strava sidecar:** `strava/activities/18827005133.json`
+- **Knee Status:** (pending — update after reviewing)
+- **Notes:** Auto-logged from Strava. Awaiting athlete feedback.
