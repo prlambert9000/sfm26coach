@@ -1,5 +1,20 @@
 # Workout Log
 
+## June 7, 2026
+
+- **Workout:** 12 mi Long Run w/ MP fast-finish (V6 Week 5 Sunday — Phase 2 volume kickoff, longest run since B2B). Bayfront flat, 7:36 AM. Plan: first 10 mi @ 8:30–9:00 (HR cap 155) → last 2 mi @ MP 7:35–7:45 (HR 150–160).
+- **Type:** Run (long, embedded MP fast-finish)
+- **Total distance:** **12.75 mi** in 1:46:42 moving · avg **8:22/mi** · avg HR **142.6** (H10).
+- **Execution — HR discipline nailed.** First 10 mi: 8:30, 8:25, 8:28, 8:37, 8:37, 8:35, 9:00, 8:45, 8:37, 8:38 — paces parked in the 8:25–9:00 band with **HR 132–143 the entire aerobic block, well under the 155 cap.** This is the exact correction the brief asked for: the May 24 over-cooked long run (8:03 when 8:45–9:15 was Rx'd) did **not** repeat. Pace floated, HR led.
+- **MP fast-finish (last ~2.75 mi):** **7:29, 7:29, 7:27** at HR **152 / 155 / 157** (max 162). Pace ran ~6–8 sec/mi *quicker* than the 7:35–7:45 MP target, but HR sat squarely in the 150–160 band — effort was right, legs had more than the pace target. He also extended the close to ~2.75 mi (12.75 total vs 12 planned).
+- **HR zones (working max 180):** Z1 (≤116) 0:31 · Z2 (117–144) 1:24:16 · Z3 (145–158) 20:50 · Z4 (159–173) 1:03 · Z5 0:00. ~79% Z2 / ~20% Z3 — textbook long-run-with-finish distribution. **Max 162 sits clean inside the fast-finish miles; no end-of-workout spike artifact.**
+- **Elevation:** +44 ft (flat Bayfront as planned). **Avg Power:** 240 W · **Calories:** 1310 · **Suffer Score:** 166.
+- **Avg Cadence:** N/A (Apple Watch → Strava null — known gap; share Apple Fitness screenshot to fold in).
+- **Strava sidecar:** `strava/activities/18827005133.json` · [activity](https://www.strava.com/activities/18827005133)
+- **Knee Status:** **(pending athlete feedback.)** Note: the fast-finish gates required knee 1/5 **AND** fuel sitting well — he *did* run the MP segment, which implies the gates were met in the moment, but confirm the post-run knee read.
+- **Fueling (gut-training rehearsal #1, target ~65 g/hr):** plan was banana + Maurten Drink Mix 160 pre-run, then Gel 160 @ mi 3 / Gel 100 @ mi 6 / Gel 100 @ mi 9 (~51 g/hr), optional 4th gel ~mi 10.5. **Awaiting GI report** — how the three (or four) gels sat is the data point that calibrates the next 7 weeks of race fueling.
+- **Notes:** **Strong session — the headline is the HR discipline.** The whole point of this run was to break the May 24 pattern of running the easy miles too hard, and he did: 10 miles at HR 132–143 under a 155 cap is exactly the aerobic investment Phase 2 volume wants, and it left enough in the tank to close three miles at 7:27–7:29. The only thing to watch is that the MP miles came in a touch *under* target pace (7:27–7:29 vs 7:35–7:45) — HR confirms the effort was honest (152–157, not redlining), so this reads as fitness, not over-reaching, but on the next MP-finish run hold the leash slightly to keep the close at honest MP rather than drifting toward threshold. Longest run since B2B, executed clean on flat ground after two unplanned Boston rest days converted into freshness. **Open items: confirm knee post-run and the GI/fueling read.**
+
 ## June 6, 2026
 
 - **Workout:** 3 mi shakeout + strides (V6 Week 5 Saturday). Home roads, 7:11 AM.
@@ -531,18 +546,3 @@
 - **Knee Status:** 🟢 Green (short errand run, no issues reported)
 - **Notes:** Auto-logged from Strava.
 
-## June 7, 2026
-
-- **Workout:** Sunday runday
-- **Type:** Run
-- **Distance:** 12.75 mi
-- **Time:** 1:46:42
-- **Avg Pace:** 8:22/mi
-- **Elevation Gain:** 44 ft
-- **Avg Heart Rate:** 143 bpm (max 162)
-- **Avg Cadence:** N/A
-- **Splits:** 8:30, 8:25, 8:28, 8:37, 8:37, 8:35, 9:00, 8:45, 8:37, 8:38, 7:29, 7:29, 7:27
-- **Relative Effort:** 166.0
-- **Strava sidecar:** `strava/activities/18827005133.json`
-- **Knee Status:** (pending — update after reviewing)
-- **Notes:** Auto-logged from Strava. Awaiting athlete feedback.
