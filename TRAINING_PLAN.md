@@ -18,7 +18,7 @@ Replaces the v4 Chassis Build / Phase 1 framework. Knee has been managing well t
 - Single-purpose strength split: Wed heavy compound, Fri stability/power. No upper body — pure marathon specificity for 12 weeks.
 - "Escape valve" rule keyed to a 5-point knee pain scale with automatic bike substitution at 3+.
 - Explicit Week 7 Pivot test at the Presidio Half Marathon to gate any upgrade from 3:30 to 3:20–3:25.
-- Built-in 90 g/hr gut training progression peaking by Week 10.
+- Built-in gut-training progression peaking by Week 10 (PF30 gels, 70–80 g/hr race-day band; see NUTRITION_GUIDE).
 
 **PT follow-up (May 15) is still on.** Until then, the plan still respects PT-prescribed mobility and core work — see PT_NOTES.md. Any restrictions she places at follow-up override the plan.
 
@@ -70,7 +70,9 @@ The paces above are anchored to **goal** fitness (VDOT 54), not current fitness.
 
 **Worked example (May 14, 2026 — the slower-at-correct-HR case):** progression run threshold miles ran 7:38 / 7:42 at HR 159–162 on flat ground. Pace looked short of the 7:15–7:25 prescription, but Z4 time-in-zone was 19:30 (35% of session) — threshold dose delivered. Today's LT pace is the *output* (~7:38 at HR 162); the prescription is the *goal* the plan is building toward. Pace miss at correct HR = informational about current fitness, **not** a failed workout.
 
-**Confounders that legitimately depress pace at correct HR:** terrain (climbs), heat, residual leg fatigue from prior-day strength (Wed → Thu is a known one — log it), sleep debt, dehydration. Note them in the log so we can separate trend signal from noise.
+**Default terrain — hilly home roads, not flat trails (locked June 7, 2026).** Now that HR governs, terrain no longer has to be controlled-for, so the default venue for easy / steady / long runs is **out the front door onto the hilly west-side Redwood City roads** (Emerald Hills / Farm Hill / Edgewood), not the Bayfront or Sawyer Camp Trail. Two reasons: (1) **convenience** — no ~30-min round-trip drive to reach flat ground; (2) **specificity** — the SF Marathon is hilly, so hill training transfers better than pure-flat work. On hills, HR is the anchor and pace simply floats down on the climbs and up on the descents — that's expected and correct, not a confounder to fix. **Flat ground is opt-in for a stated reason only:** the high-school track for Tue VO2/interval reps (pace-anchored), and flat paths (Bayfront/Sawyer Camp) only when a session explicitly wants level terrain — e.g. an occasional goal-MP-pace rehearsal to feel exact 7:35–7:45 on the flat, or a benchmark tune-up. **Stop writing "Flat route (Bayfront)" as the long-run default.** **Knee caveat:** hills add downhill eccentric load (the patellofemoral joint's least-favorite stimulus) — control descents (shorten stride, quicker cadence, no bombing), and log any post-hilly-run knee chatter as a terrain-load signal.
+
+**Confounders that legitimately depress pace at correct HR:** terrain (climbs), heat, residual leg fatigue from prior-day strength (Wed → Thu is a known one — log it), sleep debt, dehydration. With hilly home routes now the default, **climbs are the expected condition, not a confounder** — only flag terrain when a route is unusually steep relative to the week's norm. Note the others in the log so we can separate trend signal from noise.
 
 **Recalibration cadence:** every benchmark race (May 30 PAL 10K, June 21 Presidio HM) updates the VDOT and the pace table. If post-race fitness lands above VDOT 54, pace targets tighten; below, they hold. HR zones don't change — those are tied to your max HR (180), not to fitness.
 
@@ -85,7 +87,7 @@ The paces above are anchored to **goal** fitness (VDOT 54), not current fitness.
 - **Thursday — Alternating base / progression.** Odd weeks: easy base. Even weeks: progression finish (last 2 mi @ 7:15–7:25 — threshold pace, ~20 sec/mi under MP).
 - **Friday — Stability & power (Cañada College).** Bulgarian split squats, single-leg RDLs (DB contralateral), Spanish squat holds, Copenhagen planks. No running.
 - **Saturday — Shakeout (3–4 mi) or rest.**
-- **Sunday — Long run.** Smoothed progression. Explicit 90 g/hr gut training rehearsals from Week 5 onward.
+- **Sunday — Long run.** Smoothed progression. Explicit gut-training rehearsals from Week 5 onward (PF30 gels, building toward the **70–80 g/hr race-day band** — target revised down from 90 on June 7; see NUTRITION_GUIDE).
 
 **Schedule rule:** Strength and running do not stack on the same day. The Tue/Thu run / Wed/Fri lift split is intentional — it keeps lower-body fatigue from compounding across consecutive days.
 
@@ -127,7 +129,7 @@ Solo 5K simulation: **21:47 (7:00/mi)**. Max HR 183. 1-min HRR 33 BPM.
 - **Week 4 (May 25–31):** ~22 mi | **benchmark taper week** (San Mateo PAL 10K, May 30). Long run shifted to Week 5.
 
 ### Phase 2: Strength & Threshold (Weeks 5–8)
-- **Week 5 (Jun 1–7):** 26 mi | LR 12 mi (start 90 g/hr gut training)
+- **Week 5 (Jun 1–7):** 26 mi | LR 12 mi (start gut training)
 - **Week 6 (Jun 8–14):** 30 mi | LR 14 mi (5 mi @ MP)
 - **Week 7 (Jun 15–21):** 33 mi | LR 13.1 mi (**Presidio HM — Pivot Assessment**)
 - **Week 8 deload (Jun 22–28):** 28 mi | LR 10 mi
@@ -214,7 +216,7 @@ Solo 5K simulation: **21:47 (7:00/mi)**. Max HR 183. 1-min HRR 33 BPM.
 | 2026-06-11 | Thu | 8 mi Steady Base | 8:30 pace |
 | 2026-06-12 | Fri | Stability & Power | Knee tracking focus |
 | 2026-06-13 | Sat | 4 mi Shakeout | 9:30+ |
-| 2026-06-14 | Sun | 14 mi Long Run | inc 5 mi @ 7:35–7:45 MP. Fuel 90 g/hr. |
+| 2026-06-14 | Sun | 14 mi Long Run | inc 5 mi @ MP (HR 150–160; ~7:35–7:45 readout). Hilly home route OK — HR governs. Fuel PF30 toward 70–80 g/hr. |
 
 ### Week 7 (Jun 15–21) — 33 mi | LR 13.1 mi (Pivot)
 | Date | Day | Workout | Notes |
@@ -247,7 +249,7 @@ Solo 5K simulation: **21:47 (7:00/mi)**. Max HR 183. 1-min HRR 33 BPM.
 | 2026-07-02 | Thu | 8 mi Steady Base | 8:30 pace |
 | 2026-07-03 | Fri | Stability & Power | Copenhagen focus |
 | 2026-07-04 | Sat | 4 mi Shakeout | 9:30+ |
-| 2026-07-05 | Sun | 16 mi Long Run | inc 8 mi @ 7:35–7:45 MP. Fuel 90 g/hr. |
+| 2026-07-05 | Sun | 16 mi Long Run | inc 8 mi @ MP (HR 150–160; ~7:35–7:45 readout). Hilly home route OK — HR governs. Fuel PF30 toward 70–80 g/hr. |
 
 ### Week 10 peak (Jul 6–12) — 42 mi | LR 20 mi
 | Date | Day | Workout | Notes |
@@ -257,8 +259,8 @@ Solo 5K simulation: **21:47 (7:00/mi)**. Max HR 183. 1-min HRR 33 BPM.
 | 2026-07-08 | Wed | Heavy Strength | Final heavy session |
 | 2026-07-09 | Thu | 8 mi Progression Run | 6mi @ 9:00 / 2mi @ 7:15–7:25 (threshold) |
 | 2026-07-10 | Fri | Stability & Power | Final power session |
-| 2026-07-11 | Sat | 4 mi Shakeout | Fueling check (90 g/hr) |
-| 2026-07-12 | Sun | 20 mi Long Run | Peak distance. Form focus. Fuel 90 g/hr. |
+| 2026-07-11 | Sat | 4 mi Shakeout | Fueling check (70–80 g/hr) |
+| 2026-07-12 | Sun | 20 mi Long Run | Peak distance. Form focus. Hilly home route OK — HR governs. Fuel PF30 toward 70–80 g/hr. |
 
 ### Week 11 taper (Jul 13–19) — 25 mi | LR 10 mi
 | Date | Day | Workout | Notes |
@@ -298,7 +300,7 @@ Detailed exercise lists, weights, and progression rules live in **STRENGTH_LOG.m
 
 ## VIII. Nutrition Reference
 
-See **NUTRITION_GUIDE.md** for the full pescatarian-aware framework: macro targets (125–140g P / 350–500g C / 60–80g F), 6 AM training-window timing, anti-inflammatory protocol (SMASH fish 3×/wk, omega-3, Vit C + collagen), and the 90 g/hr gut training progression by week.
+See **NUTRITION_GUIDE.md** for the full pescatarian-aware framework: macro targets (125–140g P / 350–500g C / 60–80g F), 6 AM training-window timing, anti-inflammatory protocol (SMASH fish 3×/wk, omega-3, Vit C + collagen), and the gut-training progression (PF30, 70–80 g/hr race-day band) by week.
 
 ---
 

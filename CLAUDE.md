@@ -58,7 +58,7 @@ Do NOT commit on the assigned feature branch and try to merge it later. Do NOT p
 - **Location:** Redwood City, CA
 - **Gym:** Cañada College (Wed heavy strength, Fri stability & power)
 - **Track:** local high school (1.5 mi from home — Tue intervals)
-- **Good trail routes:** Sawyer Camp Trail, Bayfront paths, Rancho San Antonio
+- **Default running terrain (updated June 7, 2026):** **Run from the front door on the hilly west-side Redwood City roads** (Emerald Hills / Farm Hill / Edgewood area) as the default for easy, steady, and long runs. With HR as the governor, elevation no longer needs controlling-for — let pace float on the climbs and descents. This is both more convenient (no ~30-min round-trip drive to a trailhead) and **more race-specific** — the SF Marathon is a hilly course, so training on hills beats training on pure-flat paths. **Flat venues are now opt-in for specific purposes only:** the local high-school track (1.5 mi away) for Tue VO2/interval reps (pace-anchored), and flat paths (Bayfront, Sawyer Camp Trail) only when a session explicitly calls for flat ground — e.g. an occasional goal-MP-pace rehearsal to feel exact race pace on level terrain, or a benchmark tune-up. Do **not** default long runs to Bayfront/Sawyer Camp anymore. **Knee caveat:** hilly running adds downhill/eccentric load, the patellofemoral joint's least-favorite stimulus — control the descents (shorten stride, quicker cadence, don't bomb downhills), and treat any post-hilly-run knee chatter as a terrain-load signal worth logging.
 
 ## Key Coaching Principles
 
