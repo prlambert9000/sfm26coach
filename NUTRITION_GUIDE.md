@@ -28,21 +28,23 @@ To manage patellofemoral inflammation, dietary intervention targets systemic inf
 
 Goal: increase carbohydrate absorption efficiency to 90 g/hr by Week 10.
 
-**Chosen fueling system (locked May 14, 2026 — replaces the May 13 C30 lock):** **Maurten.** Switched after the May 14 Thursday rehearsal exposed a C30 packaging failure (gel tear notch unreliable — Paul nearly cut his mouth opening one with his teeth at pace). C30's taste and GI tolerance were both fine; the wrapper was the disqualifier. Maurten has prior tolerance data with Paul (no GI surprises to discover), the hydrogel pouch tears reliably with a one-handed pull, and the product line spans 25 g → 40 g per gel for clean dose scaling toward 90 g/hr.
+**Chosen fueling system (locked June 7, 2026 — supersedes the May 14 Maurten lock):** **Precision Fuel & Hydration — PF 30 Gel.** Maurten never shipped in time to become the working system; PF30 was substituted at B2B (May 17) and has since become the actual race-fueling product Paul trains and races on. As of June 7 he is **fully committed to PF30** — treat it, not Maurten, as the locked system. PF30 gels tear reliably one-handed, GI tolerance has been clean across multiple rehearsals (B2B, June 7 long run), and the 30 g dose is a clean unit for every-30-min feeding. **Precision deliberately keeps the gels low-sodium and doses electrolytes separately** — so sodium continues to come from the LMNT in the handheld (~½ packet ≈ 500 mg per ~16–20 oz, targeting ~1000 mg sodium/L), never from the gel.
 
-**Maurten product lineup (locked):**
+**Precision Fuel product lineup (locked):**
 
 | Product | Serving | Carb | Sodium | Notes |
 |---|---|---|---|---|
-| Maurten Gel 100 | 1 pack (40 g) | 25 g | ~35 mg | Standard race gel, 8:1 malto:fructose hydrogel |
-| Maurten Gel 100 CAF | 1 pack (40 g) | 25 g | ~35 mg | + 100 mg caffeine — reserve for late-race kicks |
-| Maurten Gel 160 | 1 pack (65 g) | 40 g | ~35 mg | Higher-dose gel for peak-volume long runs |
-| Maurten Drink Mix 160 | 1 packet | 40 g | ~70 mg | Pre-race and easy-volume fueling |
-| Maurten Drink Mix 320 | 1 packet | 80 g | ~140 mg | Long-run flask concentrate for peak weeks |
+| PF 30 Gel (Original) | 1 pouch (51 g / 1.8 oz) | 30 g | minimal (~16 mg) | Workhorse gel, 1:0.8 malto:fructose, non-caffeinated |
+| PF 30 Caffeine Gel | 1 pouch | 30 g | minimal | + 100 mg caffeine — reserve for late-race kicks |
+| PF 90 Gel | 1 large pouch | 90 g | low | Single high-dose pouch — option to hit 90 g/hr without juggling multiple gels |
 
-- **Weeks 1–4 (40–50 g/hr):** 2 × Gel 100 per hour, OR 1 × Gel 100 + sips from Drink Mix 160.
-- **Weeks 5–8 (60–75 g/hr):** 1 × Gel 160 + 1 × Gel 100 per hour (65 g), OR 3 × Gel 100 per hour (75 g).
-- **Weeks 9–10 (90 g/hr):** 2 × Gel 160 + sips from Drink Mix 320 flask, OR 1 × Gel 160 + 2 × Gel 100 + drink-mix sips.
+**Standing protocol (Paul's current method, June 7):** take **1 PF30 at T−5→0** (right before the start), then **1 PF30 every 30 min** (30, 60, 90, 120 …). That cadence = 2 gels/hr = **60 g/hr** as the working baseline.
+
+- **Weeks 1–4 (40–50 g/hr):** ~1 PF30 every 35–40 min (early-build appetite ceiling — B2B confirmed ~50 g/hr was the race-effort limit).
+- **Weeks 5–8 (60–75 g/hr):** the standing 30-min cadence (60 g/hr); on the longer/peak efforts tighten the back-half gels to every ~25 min (~72 g/hr).
+- **Weeks 9–10 (90 g/hr):** 1 PF30 every 20 min (3/hr = 90 g/hr), OR a PF90 single-pouch to anchor the hour, OR PF30s + a PF carb drink-mix flask.
+
+**Fast-finish fueling rule (learned June 7):** when a long run has an embedded MP/threshold close, the back-half gel often comes due *during* the surge and is easy to skip under pace focus (Paul missed the 90-min gel on June 7 for exactly this reason — a focus call, not GI). **Pre-load it:** take the gel that would land mid-surge a few minutes early, *before* the fast finish begins, so the feeding is banked before attention narrows to pace.
 
 ### Bay to Breakers fuel rehearsal (Week 2 — first real practice, Maurten under load)
 
@@ -60,13 +62,13 @@ B2B (May 17) is the first race-pace effort long enough to need real fueling, and
 - **Weeks 7–10:** dial to 90 g/hr on peak long runs using gel + drink-mix flask combo. Race effort is appetite-suppressing — practicing only at easy pace doesn't transfer.
 - **Race-day reality check:** if 90 g/hr proves unsustainable at marathon effort by Week 10, lock to whatever the gut actually accepts (likely 70–75 g/hr) — never force a dose that risks GI failure mid-race.
 
-Maurten lock for the season still planned (PF30 was a one-race substitution due to shipping). When Maurten arrives, the next long run is the first real rehearsal under the brand.
+**Update June 7, 2026:** the Maurten plan is dropped — PF30 is the permanent system (see Section IV lock above). **June 7 long-run rehearsal (12.75 mi w/ MP finish):** 3 × PF30 at start / 30 min / 60 min = 90 g, **~50 g/hr actual; gut clean, no GI distress.** The 90-min gel was skipped during the fast finish (focus/pacing, not GI) — had it landed it would've been ~67 g/hr at the 65 g/hr target. Confirms tolerance is fine at the current dose; the only fix is feeding *before* the surge (see fast-finish rule above).
 
 ### C30 packaging — learned May 14, 2026 (historical, drove the brand switch)
 
 The C30 gel tear notch is unreliable. On the May 14 Thursday rehearsal the gel was hard to open and Paul nearly cut his mouth using teeth. The C30 drink mix wasn't the problem — only the gel pouch. This packaging failure was the deciding factor in switching to Maurten on May 14.
 
-**General fueling-procedure rules (apply to any gel, including Maurten):**
+**General fueling-procedure rules (apply to any gel, including PF30):**
 
 - **Two-hand pull only at pace.** Never teeth. If hands are wet/sweaty, dry on shirt first.
 - **Pre-check race-day gels at home** the night before — pull-test each pouch's tear notch with a one-handed dry-run tear. If a gel doesn't pop open easy, set it aside.
