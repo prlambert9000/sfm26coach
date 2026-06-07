@@ -109,13 +109,19 @@ Two consecutive 3+ readings → automatic 7-day cycling-only block, no run testi
 
 The plan's pace targets are set for a conservative 3:30 finish. The Week 7 Presidio Half Marathon Benchmark (June 21) is the official reassessment. To upgrade pace targets for a 3:20–3:25 finish, all three criteria must be met:
 
-- **Sub-1:44 finish time**
+- **Sub-1:37:30 finish time** (locked June 7, 2026 — see derivation below)
 - **Average HR under 170 BPM in the final 3 miles**
 - **Zero knee compensation crossing the finish line**
 
 Miss any one → hold 3:30 targets. Hit all three → upgrade to VDOT 56–57 paces: MP drops to 7:15–7:25, threshold to 7:00–7:10, VO2 to 6:35–6:45.
 
-**Note on the sub-1:44 gate:** This number was set when training was anchored to the slower VDOT 48–49 reference. Under the recalibrated VDOT 54 baseline, sub-1:44 is below current fitness and no longer a meaningful upgrade gate. Reassess the Pivot bar after the May 30 PAL 10K data lands — a sub-1:35 Presidio HM (with HR and knee criteria intact) would be a defensible VDOT 56–57 gate, but we'll calibrate using actual race data first.
+**Finish-time gate derivation (locked June 7, 2026 — replaces the stale sub-1:44 and the sub-1:35 placeholder).** The gate is set by the question: *what Presidio HM time gives confidence that 3:25 SF is realistically on the table, given the 5 weeks of training that still happen between the two races?* Method (Paul's framing, June 7):
+- **Direct same-terrain conversion.** Presidio HM and SF Marathon are roughly equivalent SF-bridge terrain, so convert between them directly via Riegel (marathon = HM × 2.085) without a flat-equivalent round-trip. 3:25 SF = 205 min ÷ 2.085 = **1:38:20 break-even** (the HM time that is the *same fitness* as a 3:25 marathon on equivalent terrain).
+- **Terrain check (June 7 web pull).** SF Marathon ~1,300 ft / 26.2 mi ≈ 50 ft/mi; Presidio Half ~800–1,200 ft / 13.1 mi ≈ 60–90 ft/mi. Presidio is comparable but **modestly hillier per mile** → a given Presidio time reflects *better* fitness than equal-terrain math assumes → if anything the gate could loosen, not tighten.
+- **Confidence shave.** Against the loosening factors (Presidio hillier/mi, Paul's proven even pacing — 2025 SF had only ~9 sec/mi late softening, no wall; better marathon conversion by SF after the 16/20-mi long runs), weigh the tightening factors (marathon hills compound late; asymmetric knee downside makes overreaching expensive). Net: a ~50-sec shave under break-even → **sub-1:37:30**.
+- **Bands:** sub-1:37:30 = confident 3:25. ~1:38:20 = coin-flip (break-even). **Sub-1:35 = 3:20 enters the conversation.** Slower than ~1:38:30 = hold 3:30; the conversion math doesn't support the upgrade.
+
+**Caveats on the gate:** (1) the Presidio gain figure is uncertain (sources ranged 800–1,215 ft); if the actual course proves notably flatter than SF per mile, tighten toward 1:36. (2) The **HR<170 co-gate's difficulty depends on the true max** — at the unconfirmed 180 placeholder, 170 = 94% (hard but holdable); if the June 9 max-HR test reveals a lower max, 170 becomes near-impossible to hold for 3 mi and that number drops too. The time gate is locked; the HR number firms up after June 9. (3) The HR + knee co-gates are what make the *time* trustworthy — a redlined/knee-compensated 1:37 doesn't extrapolate to a clean marathon; a 1:37 cruised at HR<170 with zero knee noise does.
 
 ---
 
@@ -229,7 +235,7 @@ Solo 5K simulation: **21:47 (7:00/mi)**. Max HR 183. 1-min HRR 33 BPM.
 | 2026-06-18 | Thu | 6 mi Progression Run | 4mi @ 9:00 / 2mi @ 7:35–7:45 (MP — taper for HM Sun) |
 | 2026-06-19 | Fri | Stability & Power | Spanish squat holds |
 | 2026-06-20 | Sat | Rest | Taper for HM |
-| 2026-06-21 | Sun | **Half Marathon Benchmark** | Presidio HM. **Pivot test:** finish-time gate TBD (will be recalibrated post-May 30 — original sub-1:44 was set off the old VDOT 48–49 reference) / HR<170 final 3mi / zero knee comp. |
+| 2026-06-21 | Sun | **Half Marathon Benchmark** | Presidio HM (Crissy Field → Presidio → out-and-back over the Golden Gate Bridge; ~60–90 ft/mi, modestly hillier per mile than SF). **Pivot test (all 3 to upgrade 3:30 → 3:25):** **sub-1:37:30** finish (locked Jun 7 — confident-3:25 gate, break-even 1:38:20; see Week 7 Pivot Strategy) / avg HR <170 final 3 mi / zero knee comp. Miss any one → hold 3:30. |
 
 ### Week 8 deload (Jun 22–28) — 28 mi | LR 10 mi
 | Date | Day | Workout | Notes |
