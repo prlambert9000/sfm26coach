@@ -74,7 +74,9 @@ The paces above are anchored to **goal** fitness (VDOT 54), not current fitness.
 
 **Confounders that legitimately depress pace at correct HR:** terrain (climbs), heat, residual leg fatigue from prior-day strength (Wed → Thu is a known one — log it), sleep debt, dehydration. With hilly home routes now the default, **climbs are the expected condition, not a confounder** — only flag terrain when a route is unusually steep relative to the week's norm. Note the others in the log so we can separate trend signal from noise.
 
-**Recalibration cadence:** every benchmark race (May 30 PAL 10K, June 21 Presidio HM) updates the VDOT and the pace table. If post-race fitness lands above VDOT 54, pace targets tighten; below, they hold. HR zones don't change — those are tied to your max HR (180), not to fitness.
+**Recalibration cadence:** every benchmark race (May 30 PAL 10K, June 21 Presidio HM) updates the VDOT and the pace table. If post-race fitness lands above VDOT 54, pace targets tighten; below, they hold. HR zones don't change with fitness — those are tied to your **max HR**, not to VDOT.
+
+**⚠️ HR zones are anchored to an UNCONFIRMED max of 180 (placeholder).** The 180 is an age-based estimate (Tanaka ≈ 179), never H10-confirmed — the cleanest H10 reads are two *submaximal* 167s, so the true max is unknown and could sit either side of 180. **A dedicated H10 max-HR test is scheduled for Tue June 9** (see the row below). The bands in the table above (easy ≤145, MP 150–160, threshold 155–165/cap 165) are the standard %-of-max zones computed off 180 — **once the true max is confirmed, recompute every band at the same percentages** (easy ~80%, MP ~83–89%, threshold ~86–92%/cap ~92%), and ideally re-anchor to heart-rate reserve (Karvonen) using a captured resting HR for a more individualized fit. Until then, treat the bands as provisional.
 
 ---
 
@@ -211,7 +213,7 @@ Solo 5K simulation: **21:47 (7:00/mi)**. Max HR 183. 1-min HRR 33 BPM.
 | Date | Day | Workout | Notes |
 |---|---|---|---|
 | 2026-06-08 | Mon | Hip Complex Circuit | Volume ramp |
-| 2026-06-09 | Tue | 4×1600m Track Tempo | 7:15–7:25 pace (threshold); 2 min rec |
+| 2026-06-09 | Tue | 4×1600m Track Tempo **+ H10 max-HR test** | 7:15–7:25 pace (threshold); 2 min rec. **Run the threshold set first — don't compromise it.** Then the max-HR capture we deferred from May 30 (illness): jog 3–4 min easy after rep 4 (enough to go hard again, not to recover), then **ONE maximal 600m** — build from threshold over the first 400m to an absolute all-out sprint the final 200m, to true volitional exhaustion. **Keep the watch recording and walk ~30s past the line** — peak HR usually lands 10–20s *after* the effort. Then easy CD jog home. **Why:** every HR zone is anchored to an unconfirmed 180 placeholder (age-based, never H10-confirmed; cleanest H10 reads are two submaximal 167s). Now that HR governs everything, we need the real number. **Gates:** knee 1/5 AM **and** fully recovered (cold is a week behind, Jun 7 LR was clean — cleared). **Abort:** chest tightness / dizziness / unusual SOB → stop, no heroics. **Knee-friendlier alt:** 2× all-out uphill 60–90s (final maximal) instead of flat sprinting. **Post-test workflow:** read peak from the H10 trace (Strava sidecar `max_hr`, or Polar Flow); **confirm it's the top of a smooth climb, not a 1-sample artifact spike** (after a true max effort a high end-peak is REAL — the ramp is how we tell). If confirmed, update (1) CLAUDE.md working max, (2) Strava max-HR setting, (3) recompute the HR zone bands below off the new max. Also grab lowest sleeping/resting HR from Apple Health so we can anchor zones to heart-rate reserve (Karvonen), not just %max. |
 | 2026-06-10 | Wed | Heavy Strength | Relative strength benchmarks |
 | 2026-06-11 | Thu | 8 mi Steady Base | 8:30 pace |
 | 2026-06-12 | Fri | Stability & Power | Knee tracking focus |
