@@ -1,5 +1,13 @@
 # Workout Log
 
+## June 8, 2026
+
+- **Workout:** Hip Complex Circuit (V6 Week 6 Monday — Phase 2 volume ramp). Mobility flush the day before Tuesday's 4×1600m threshold + H10 max-HR test.
+- **Type:** Mobility (BW only, ~20 min)
+- **Executed:** **Done as Rx** — full circuit (foam roller T-spine extensions, standing lunges w/ hip IR + extension, quadruped banded hip IR [PT], 90/90 switches, adductor rockbacks, quadruped hip CARs, half-kneeling couch stretch).
+- **Knee Status:** **1/5 — "fine."** Green. Streak holds — every V6 session 1/5 except the single 2/5 on Boston stairs.
+- **Notes:** Clean Rx execution to open Week 6. Knee 1/5 the morning before the max-HR test is exactly the green light that session is gated on — the test needs knee 1/5 AM, and it's there. Legs primed, hips opened ahead of tomorrow's threshold reps + the maximal 600m. Nothing to flag.
+
 ## June 7, 2026
 
 - **Workout:** 12 mi Long Run w/ MP fast-finish (V6 Week 5 Sunday — Phase 2 volume kickoff, longest run since B2B). Bayfront flat, 7:36 AM. Plan: first 10 mi @ 8:30–9:00 (HR cap 155) → last 2 mi @ MP 7:35–7:45 (HR 150–160).
