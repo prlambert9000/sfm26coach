@@ -554,3 +554,19 @@
 - **Knee Status:** 🟢 Green (short errand run, no issues reported)
 - **Notes:** Auto-logged from Strava.
 
+
+## June 9, 2026
+
+- **Workout:** Afternoon Run
+- **Type:** Run
+- **Distance:** 3.68 mi
+- **Time:** 31:19
+- **Avg Pace:** 8:31/mi
+- **Elevation Gain:** 395 ft
+- **Avg Heart Rate:** 142 bpm (max 168)
+- **Avg Cadence:** N/A
+- **Splits:** 8:42, 8:36, 8:22, 8:20
+- **Relative Effort:** 45.0
+- **Strava sidecar:** `strava/activities/18858738177.json`
+- **Knee Status:** (pending — update after reviewing)
+- **Notes:** Auto-logged from Strava. Awaiting athlete feedback.
