@@ -1,5 +1,18 @@
 # Workout Log
 
+## June 9, 2026
+
+- **Workout:** Planned: Home-Hills Threshold (3×5 min @ HR 155–165) **+ H10 max-HR test** (compressed evening session, solo-parenting week). **Actual: curtailed / max test aborted.** Recorded on **phone + H10 in the Strava app** (Apple Watch left at work — so a clean H10 trace, zero wrist-optical artifact).
+- **Type:** Run (partial tempo; max-HR test not completed)
+- **Distance:** 3.68 mi · ~31 min moving · avg **8:31/mi** · +395 ft (hilly home roads, ~107 ft/mi).
+- **HR:** avg **142.5**, **max 168** (H10). **HR zones:** Z1 (≤116) 1:08 · Z2 (117–144) 14:08 · Z3 (145–158) 12:49 · Z4 (159–173) 3:14 · Z5 0:00. **So ~16 min in Z3–Z4 — a real if-unstructured tempo stimulus got in.** Suffer score 45.
+- **Splits (pace / HR / elev):** 1: 8:42 / 125 / −106 (easy downhill WU) · 2: 8:36 / 151 / **+169** (the climb — threshold effort) · 3: 8:22 / 149 / −28 · 0.68: 8:20 / 148 / −33.
+- **Max-HR test: NOT completed — aborted mid-effort.** Max 168 is a *sub-maximal* read (quit halfway up the kick), **not** a confirmed max. But it edges past both prior H10 peaks (167, 167) on a half-hearted effort → true max is **≥168 and very likely higher**; leans against the "180 is too high" hunch. Test still owed — reschedule for a clean, fresh, organized day.
+- **Strava sidecar:** `strava/activities/18858738177.json` · [activity](https://www.strava.com/activities/18858738177)
+- **Knee Status:** **1/5 — green.** "No knee pain or anything." Held through hill climbing and the aborted kick. Streak intact.
+- **Athlete report:** *"Basically a disaster… a fail."* Left behind schedule in a rush, **changed the plan 3× while running**, fumbled keeping the phone screen unlocked, had **no defined plan in his head**, and was carrying cumulative load — **solo parenting, recent Boston travel/jet lag, post-illness, and leg fatigue built up including from Sunday's [June 7] long run.** Tried to kick up a hill and **quit halfway — "wasn't mentally there."** Mental fatigue primary, some leg fatigue secondary. **No knee pain.**
+- **Coaching read — this is auto-regulation, not failure.** Bailing on a maximal effort when depleted is the *correct* call, especially for a max-HR test (forcing a max while empty = garbage data + the higher-risk scenario). Nothing was lost: knee 1/5, ~16 min of tempo banked, and a useful 168 floor captured. The "fail" framing is too harsh — he read the signal and made the right decision. **What this actually is: a cumulative-fatigue + life-stress flag.** Boston jet lag → post-cold → a suffer-166 long run Sunday → solo parenting → a rushed, plan-less evening. That stack catches up. **Forward:** (1) **max-HR test deferred** — don't force it this week; reschedule when fresh, organized, and Sonia's back (or capture opportunistically at the Presidio HM finish kick June 21). (2) **Auto-regulate Wed heavy strength** — knee's fine so it's a go, but if the legs/CNS are flat, hold load, don't chase progression. (3) **Watch the fatigue trend into the weekend** — if still flat Thursday, make the base genuinely easy/short; protect Sunday's 14-miler, which is the week's one session that matters. No knee concern, no structural problem — just respect the fatigue and reset.
+
 ## June 8, 2026
 
 - **Workout:** Hip Complex Circuit (V6 Week 6 Monday — Phase 2 volume ramp). Mobility flush the day before Tuesday's 4×1600m threshold + H10 max-HR test.
@@ -553,20 +566,3 @@
 - **Relative Effort:** 21.0
 - **Knee Status:** 🟢 Green (short errand run, no issues reported)
 - **Notes:** Auto-logged from Strava.
-
-
-## June 9, 2026
-
-- **Workout:** Afternoon Run
-- **Type:** Run
-- **Distance:** 3.68 mi
-- **Time:** 31:19
-- **Avg Pace:** 8:31/mi
-- **Elevation Gain:** 395 ft
-- **Avg Heart Rate:** 142 bpm (max 168)
-- **Avg Cadence:** N/A
-- **Splits:** 8:42, 8:36, 8:22, 8:20
-- **Relative Effort:** 45.0
-- **Strava sidecar:** `strava/activities/18858738177.json`
-- **Knee Status:** (pending — update after reviewing)
-- **Notes:** Auto-logged from Strava. Awaiting athlete feedback.
