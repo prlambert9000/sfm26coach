@@ -1,5 +1,16 @@
 # Workout Log
 
+## June 12, 2026
+
+- **Workout:** Easy Steady Base — **recovers Thursday's missed run.** Solo parenting wiped out Wed (Heavy Strength) and Thu (Steady Base); Paul had a 1-hr evening window Fri and preferred a run over the gym after 3 days off. Prescribed easy by HR (≤145, climbs ≤155); landed steady.
+- **Type:** Run (easy/steady, hilly door route)
+- **Distance:** 5.53 mi · 47:00 moving · avg **8:29/mi** · **+705 ft** (~127 ft/mi — properly hilly west-side roads).
+- **HR:** avg **149.7**, **max 164** (no Z5, no end-of-run spike — clean trace). **HR zones:** Z1 (≤116) 0:43 · Z2 (117–144) 5:45 · **Z3 (145–158) 36:00** · Z4 (159–173) 4:32 · Z5 0:00. Suffer score 92.
+- **Splits (pace / HR / elev):** 1: 9:27 / 139 / **+196** · 2: 9:31 / 151 / **+250** (the big climb) · 3: 7:29 / 150 / −149 · 4: 9:01 / 154 / +65 · 5: 7:29 / 152 / **−326** · 5.5: 7:28 / 158 / −34. Classic hilly profile: grind up, fly down.
+- **Strava sidecar:** `strava/activities/18896693554.json` · [activity](https://www.strava.com/activities/18896693554)
+- **Knee Status:** **1/5 — green.** "Knee totally fine." Held through 705 ft of climbing + fast descents. Streak intact.
+- **Coaching read:** Landed as a **steady run, not the prescribed easy** — avg HR ~150 with 36 min in Z3 and suffer 92 vs the ≤145 target. Climb cap *was* honored (only 4.5 min Z4, max 164, never redlined); the drift is terrain — 705 ft pulls HR up regardless. Good re-entry after 3 days off, legs clearly bounced back from the Jun 9 fatigue flag (two forced rest days did their job). **Two consequences:** (1) more aerobic load banked than planned → keep Sat stability genuinely light, no grinding lower-body before Sunday; (2) Sun 14-miler — consciously back off the climbs so easy stays easy and the tank's there for the 5 @ MP. Max 164 < the 168 H10 floor, so no max-HR-test implications.
+
 ## June 9, 2026
 
 - **Workout:** Planned: Home-Hills Threshold (3×5 min @ HR 155–165) **+ H10 max-HR test** (compressed evening session, solo-parenting week). **Actual: curtailed / max test aborted.** Recorded on **phone + H10 in the Strava app** (Apple Watch left at work — so a clean H10 trace, zero wrist-optical artifact).
