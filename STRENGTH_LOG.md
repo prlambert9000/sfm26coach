@@ -10,7 +10,9 @@
 
 ## Current Recommended Weights
 
-*Last updated: 2026-06-03 (W5 Wed Heavy Strength, first normal-load session post-PAL-10K — squat bumped 165 → **175** (4×6 Good, knee fine during lift). **Calf raise unlocked: moved off DBs onto back-rack barbell at 155 lb** — the grip+balance ceiling that capped DB calf raises since W1 is gone. RDL held at 155 without straps (grip-limited again, hook grip helped but last set broke up) — working weight stays **165 w/ straps**; bring straps. Reverse Nordic Rx, resumed after taper-week skip. **Knee 2/5** — mild awareness on stairs at end of session, resolved quickly. **Lower-body load now frozen for the week per the 2+ rule — no further squat/calf increases until knee is back to 1/5.**)*
+*Last updated: 2026-06-13 (W6 Sat Stability & Power recapture — all mains Good at Rx, no weight changes; **single-leg RDL clean Good signal finally captured at 25 lb contralateral**, working weight confirmed. Knee 1/5. Prior heavy-day note below retained for context.)*
+
+*Prior update: 2026-06-03 (W5 Wed Heavy Strength, first normal-load session post-PAL-10K — squat bumped 165 → **175** (4×6 Good, knee fine during lift). **Calf raise unlocked: moved off DBs onto back-rack barbell at 155 lb** — the grip+balance ceiling that capped DB calf raises since W1 is gone. RDL held at 155 without straps (grip-limited again, hook grip helped but last set broke up) — working weight stays **165 w/ straps**; bring straps. Reverse Nordic Rx, resumed after taper-week skip. **Knee 2/5** — mild awareness on stairs at end of session, resolved quickly. **Lower-body load now frozen for the week per the 2+ rule — no further squat/calf increases until knee is back to 1/5.**)*
 
 Use a simple feel rating when reporting back: **Easy** (4+ reps left in tank), **Good** (2–3 reps in reserve), **Heavy** (grinding last rep), **Too heavy** (couldn't complete reps).
 
@@ -36,7 +38,7 @@ Use a simple feel rating when reporting back: **Easy** (4+ reps left in tank), *
 | Exercise | Recommended | Feel Target |
 |----------|-------------|-------------|
 | Bulgarian split squat | 25 lbs/hand | Good — 3-sec eccentric, hips square. Cleared 25 lb/hand @ 10 reps × 2 sets May 22 (athlete bumped mid-session from 20). |
-| Single-leg RDL (DB, contralateral) | 25 lbs (single, contralateral) | Held 25 lb contralateral May 22 at 8 reps (8–10 Rx range), no feel rating reported — hold load next loaded Fri to capture a clean signal. **Stay contralateral**, not bilateral — the anti-rotation challenge is the whole point (PT-flagged weakness). Bilateral is easier but trains less of what we need. Free hand reaches forward as counterbalance, 3-sec eccentric, don't bend the working knee. |
+| Single-leg RDL (DB, contralateral) | 25 lbs (single, contralateral) | **Clean Good signal landed Jun 13** (was "not reported" at this load May 8 + May 22) — 25 lb contralateral confirmed as the working weight. Consider a bump to 30 lb only if it next reads Easy. **Stay contralateral**, not bilateral — the anti-rotation challenge is the whole point (PT-flagged weakness). Bilateral is easier but trains less of what we need. Free hand reaches forward as counterbalance, 3-sec eccentric, don't bend the working knee. |
 | Spanish squat hold | Light band behind knees | 3 × 30–45 sec — vertical shin, deep knee bend, isometric |
 | Copenhagen plank | Bodyweight | 3 × 30 sec each side — adductor tension, top leg on bench. At top of prescribed range as of May 8; next progression is +5s or load (foot on bench → shin on bench). |
 | Side plank with hip abduction (PT) | Bodyweight | **Top toe pointing to floor** (IR of lifting leg). 8 reps each side. |
@@ -80,6 +82,19 @@ Bodyweight only. Pre-workout activation pattern; not a lift. Two rounds.
 ---
 
 ## Session Logs
+
+### 2026-06-13 — Sat Stability & Power (V6 Week 6 — recapture of the missed strength week)
+**Body Weight:** Not reported
+
+| Exercise | Weight Used | Sets×Reps | Feel | Notes |
+|----------|-------------|-----------|------|-------|
+| Bulgarian split squat | 25 lb/hand | 3 × 8–10 each side (Rx), 3-sec eccentric | Good ("work but not a struggle") | Held working weight, clean Rx. Good = keep 25 lb/hand. |
+| Single-leg RDL (DB, contralateral) | 25 lb single, contralateral | 3 × 8–10 each side (Rx), 3-sec eccentric | Good ("work but not a struggle") | **Clean feel signal finally captured** — 25 lb contralateral had been held twice (May 8, May 22) with no feel rating to read. Now confirmed Good → working weight stays **25 lb contralateral**. Stayed contralateral as Rx (anti-rotation = the PT-flagged point). |
+| Spanish squat hold | Light band | 3 × 30–45 sec (Rx) | As prescribed | Per plan, time-based. |
+| Copenhagen plank | Bodyweight | 3 × 30 sec each side (Rx) | As prescribed | Per plan, time-based. At top of range — next progression is +5s or shin-on-bench. |
+
+**Knee during session:** **1/5 — green throughout**, including loaded single-leg work. Streak intact.
+**Overall notes:** This session was the **Saturday recapture** of the week's missed strength — Wed Heavy Strength and Fri Stability & Power both fell to solo parenting, so the Sat shakeout was swapped for this Stability & Power block (kept crisp, no grinding, day before the 14-mi long run). All four mains done Rx with knee 1/5. **No weight changes** — everything read Good (2–3 in reserve), which is exactly what we want the day before a long run: a real stimulus, not a grind. **The data win: the single-leg RDL finally produced a clean feel rating at 25 lb contralateral** (Good) — it had been held at that load since May 8 with "not reported" feel both times, so the working weight (25 lb) is now confirmed rather than provisional. Next loaded Fri can consider a bump on the SL-RDL toward 30 lb if it reads Easy, but Good means hold for now. Wed Heavy Strength stays written off — not recaptured, and that's the right call this close to the HM taper. PT-block accessories (side plank w/ hip abd, dead bug, chin tucks) not reported — assume time-trimmed given the "keep it light" framing; flag to prioritize them next full Fri session.
 
 ### 2026-06-03 — Wed Heavy Strength (V6 Week 5 — first normal-load session post-PAL 10K)
 **Body Weight:** Not reported
