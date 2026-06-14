@@ -1,5 +1,21 @@
 # Workout Log
 
+## June 14, 2026
+
+- **Workout:** 14 mi Long Run w/ 5 mi @ MP fast-finish (V6 Week 6 Sunday — **longest run of the V6 plan**). Hilly home roads, normal morning slot (7:07 AM, Sonia back). Plan: first 9 mi easy by HR (140–155, Z2–low Z3) → last 5 mi @ MP (HR 150–160, ~7:35–7:45 readout), HR ceiling 160.
+- **Type:** Run (long, embedded MP fast-finish, hilly door route)
+- **Total distance:** **14.23 mi** in 1:59:44 moving · avg **8:25/mi** · avg HR **149.1** (H10) · **max 164**.
+- **Elevation:** **+936 ft** (Strava) / +1,053 ft (Apple), max elev 530 ft — properly hilly west-side route (~66 ft/mi). **Avg Power:** 243 W · **Calories:** 1,582 · **Suffer Score:** 231 (highest in the V6 log — 2 hrs nearly all in Z3 + the MP block).
+- **Avg Cadence (Apple Fitness — Strava JSON null per known gap):** 168 spm. **Effort:** 6/10 Moderate (athlete's Apple rating).
+- **HR zones:** Z1 (≤116) 0:45 · Z2 (117–144) 19:14 · **Z3 (145–158) 1:38:11** · Z4 (159–173) 1:30 · Z5 0:00. **~82% of the run in Z3** — a warm, sustained-tempo-leaning long run. Max 164, **no end-of-workout spike** (final 0.24 mi avg 159.7, zero Z5 — clean trace). Max 164 < the 168 H10 floor → no max-HR-test implications.
+- **Splits (pace / HR / elev):** 1: 7:57 / 135 / −91 (downhill WU) · 2: 8:04 / 149 / +13 · 3: 8:15 / 148 / −13 · 4: 8:35 / 148 / +23 · 5: 8:32 / 147 / +37 · **6: 10:22 / 152 / +268 (the big climb — pace blew out, HR stayed controlled at 152, never redlined)** · 7: 9:20 / 149 / +77 · **8: 7:40 / 143 / −291 (the descent — controlled, didn't bomb sub-7)** · 9: 8:57 / 143 / −89 · **MP block →** 10: 8:08 / 150 / +18 · 11: 7:33 / 153 / −34 · 12: 7:45 / 156 / +3 · 13: 8:00 / 155 / −19 · 14: 8:29 / 155 / +43 · 0.24: 8:59 / 160 / +45.
+- **Easy block (mi 1–9) — ran warm.** HR mostly 143–152 (upper half of the 140–155 easy band), vs June 7's flat-Bayfront 132–143. The driver is terrain — 936 ft of climbing on the door route pulls HR up where flat ground doesn't, and this was his longest run. Climb discipline was good: the mile-6 +268 ft climb hit 10:22 but HR only 152 (no redline), and the mile-8 −291 ft descent was controlled at 7:40. In-band, just hotter than the flat reference.
+- **MP block (mi 10–14) — HR nailed.** HR 150 / 153 / 156 / 155 / 155 — parked squarely in the 150–160 band, ceiling 160 never broken until the final 0.24. Paces 8:08 / 7:33 / 7:45 / 8:00 / 8:29 (avg ~7:59/mi, terrain-affected). On the flat/rolling miles 11–13 he ran 7:33 / 7:45 / 8:00 at HR 153–156 — i.e. **~7:45 MP readout hit on flat ground at the right HR, on tired legs in miles 11–13 of a 14-miler.** First MP block on hills, governed correctly by HR. Athlete: *"felt good, but heaviness trying to push at the end"* — legs went heavy in the close (expected on the longest run of the block); he still held the HR band and pace through it.
+- **Strava sidecar:** `strava/activities/18919704984.json` · [activity](https://www.strava.com/activities/18919704984)
+- **Knee Status:** **1/5 — green.** *"Felt small tinges occasionally but they always went away and I forgot about it. Feels totally fine now."* On a 936 ft hilly route with real descents (the patellofemoral joint's least-favorite stimulus), occasional tinges that self-resolved and zero lingering = a strong durability signal — but per the hill caveat, **log it as a terrain-load read**: the tinges are the hills/descents talking, not a flare. Streak holds (every V6 session 1/5 except the single Boston-stairs 2/5).
+- **Fueling (gut-training rehearsal #2) — Precision Fuel PF30 gels (30 g each):** **all 4 gels in, "mostly on schedule"** = ~120 g over ~2 hr ≈ **60 g/hr** (the Week 6 cadence target, hit). **Resolves the June 7 miss** — the pre-load-before-the-surge cue worked, no gel got skipped during the MP push this time. **"Bit of tummy stuff but nothing too bad, didn't slow me down."** Minor GI noise at 60 g/hr — first real chatter from the gut at this dose; not a problem, but a data point to watch as the cadence climbs toward 70–80 g/hr. Gut tolerated 4 gels through 2 hours and an MP finish.
+- **Coaching read — strong, complete session; the week's one workout that mattered, executed clean.** The scrambled solo-parenting week (missed Wed/Thu, the June 9 fatigue flag) did not cost the long run — he hit 14.23 mi with a correctly-governed 5-mi MP finish, knee 1/5, and all fuel in. Two honest notes: (1) the easy block ran warm (82% Z3, suffer 231) — partly terrain, partly that hilly door routes don't have a true "easy" gear, so the aerobic cost of this run was higher than June 7's flat 12-miler; banked fitness, but factor it into the coming week's recovery. (2) End-of-run leg heaviness + minor GI are both the expected edges of his longest run — nothing to act on, just the signals to keep logging as volume and fuel-dose climb. **Forward:** 7 days to the Presidio HM pivot test (June 21). This run says the engine and the gut are ready for a hard HM; keep the next few days genuinely easy and protect freshness into the taper week.
+
 ## June 12, 2026
 
 - **Workout:** Easy Steady Base — **recovers Thursday's missed run.** Solo parenting wiped out Wed (Heavy Strength) and Thu (Steady Base); Paul had a 1-hr evening window Fri and preferred a run over the gym after 3 days off. Prescribed easy by HR (≤145, climbs ≤155); landed steady.
@@ -577,35 +593,3 @@
 - **Relative Effort:** 21.0
 - **Knee Status:** 🟢 Green (short errand run, no issues reported)
 - **Notes:** Auto-logged from Strava.
-
-## June 12, 2026
-
-- **Workout:** Afternoon Run
-- **Type:** Run
-- **Distance:** 5.53 mi
-- **Time:** 46:58
-- **Avg Pace:** 8:29/mi
-- **Elevation Gain:** 705 ft
-- **Avg Heart Rate:** 150 bpm (max 164)
-- **Avg Cadence:** N/A
-- **Splits:** 9:27, 9:31, 7:29, 9:01, 7:29, 7:28
-- **Relative Effort:** 92.0
-- **Strava sidecar:** `strava/activities/18896693554.json`
-- **Knee Status:** (pending — update after reviewing)
-- **Notes:** Auto-logged from Strava. Awaiting athlete feedback.
-
-## June 14, 2026
-
-- **Workout:** Sunday long run HM
-- **Type:** Run
-- **Distance:** 14.23 mi
-- **Time:** 1:59:44
-- **Avg Pace:** 8:25/mi
-- **Elevation Gain:** 936 ft
-- **Avg Heart Rate:** 149 bpm (max 164)
-- **Avg Cadence:** N/A
-- **Splits:** 7:57, 8:04, 8:15, 8:35, 8:32, 10:22, 9:20, 7:40, 8:57, 8:08, 7:33, 7:45, 8:00, 8:29, 8:59
-- **Relative Effort:** 231.0
-- **Strava sidecar:** `strava/activities/18919704984.json`
-- **Knee Status:** (pending — update after reviewing)
-- **Notes:** Auto-logged from Strava. Awaiting athlete feedback.
