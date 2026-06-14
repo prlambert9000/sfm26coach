@@ -593,3 +593,19 @@
 - **Strava sidecar:** `strava/activities/18896693554.json`
 - **Knee Status:** (pending — update after reviewing)
 - **Notes:** Auto-logged from Strava. Awaiting athlete feedback.
+
+## June 14, 2026
+
+- **Workout:** Sunday long run HM
+- **Type:** Run
+- **Distance:** 14.23 mi
+- **Time:** 1:59:44
+- **Avg Pace:** 8:25/mi
+- **Elevation Gain:** 936 ft
+- **Avg Heart Rate:** 149 bpm (max 164)
+- **Avg Cadence:** N/A
+- **Splits:** 7:57, 8:04, 8:15, 8:35, 8:32, 10:22, 9:20, 7:40, 8:57, 8:08, 7:33, 7:45, 8:00, 8:29, 8:59
+- **Relative Effort:** 231.0
+- **Strava sidecar:** `strava/activities/18919704984.json`
+- **Knee Status:** (pending — update after reviewing)
+- **Notes:** Auto-logged from Strava. Awaiting athlete feedback.
