@@ -10,7 +10,9 @@
 
 ## Current Recommended Weights
 
-*Last updated: 2026-06-13 (W6 Sat Stability & Power recapture — all mains Good at Rx, no weight changes; **single-leg RDL clean Good signal finally captured at 25 lb contralateral**, working weight confirmed. Knee 1/5. Prior heavy-day note below retained for context.)*
+*Last updated: 2026-06-14 (athlete call — **back squat backed off 175 → 165** to protect the knee in HM-pivot week; the Jun 3 175 bump was the only session that produced a 2/5 reading. Reassess 175 post-HM at knee 1/5. No other changes.)*
+
+*Prior update: 2026-06-13 (W6 Sat Stability & Power recapture — all mains Good at Rx, no weight changes; **single-leg RDL clean Good signal finally captured at 25 lb contralateral**, working weight confirmed. Knee 1/5. Prior heavy-day note below retained for context.)*
 
 *Prior update: 2026-06-03 (W5 Wed Heavy Strength, first normal-load session post-PAL-10K — squat bumped 165 → **175** (4×6 Good, knee fine during lift). **Calf raise unlocked: moved off DBs onto back-rack barbell at 155 lb** — the grip+balance ceiling that capped DB calf raises since W1 is gone. RDL held at 155 without straps (grip-limited again, hook grip helped but last set broke up) — working weight stays **165 w/ straps**; bring straps. Reverse Nordic Rx, resumed after taper-week skip. **Knee 2/5** — mild awareness on stairs at end of session, resolved quickly. **Lower-body load now frozen for the week per the 2+ rule — no further squat/calf increases until knee is back to 1/5.**)*
 
@@ -25,7 +27,7 @@ Use a simple feel rating when reporting back: **Easy** (4+ reps left in tank), *
 
 | Exercise | Recommended | Feel Target |
 |----------|-------------|-------------|
-| Back squat | 175 lb, 4 × 6 | Good — 3-sec eccentric, hips break first then knees, knees track over toes. Cleared 175 Good Jun 3 (knee 1/5 during lift); **hold 175 — no bump while knee carries a 2+ reading.** |
+| Back squat | **165 lb, 4 × 6** | Good — 3-sec eccentric, hips break first then knees, knees track over toes. **Backed off 175 → 165 (Jun 14, athlete call):** the Jun 3 bump to 175 was the session that produced the only 2/5 knee reading of the block; not worth the risk in HM-pivot week. 165 has a long clean (knee-1/5) history. **Reassess 175 only post-HM, and only with the knee at 1/5.** |
 | Romanian deadlift (RDL) | 165 lb, 4 × 6 — **straps required** | Good — hinge, neutral spine, hamstring stretch. Grip is the limiter without straps; if no straps, **hook grip** helps but still fades by the last set (Jun 3: 155 hook-grip, last set broke up). Bring straps and the 165 posterior-chain load is clean. |
 | Standing calf raise | **155 lb back-rack barbell**, 4 × 10 | Good — full ROM (heel below step), 2-sec hold at top, 3-sec lower. **Moved off DBs to the bar Jun 3 — back rack kills the grip+balance ceiling that capped DB calf raises since W1.** Do it in the rack with safeties set, start flat-footed then add ROM. No feel rating captured yet at 155; calves likely still have room, but **hold 155 this week** (knee 2+) and capture a feel signal next session before progressing. |
 | Reverse Nordic | Bodyweight, 3 × 10 | Good — kneel on pad, knees hip-width, glutes squeezed (lock hip extension), 3-sec lower. Build depth slowly week over week (W1: ~45°). Stop on any sharp PF pain. |
