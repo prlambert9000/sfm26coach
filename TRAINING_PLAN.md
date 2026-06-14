@@ -234,7 +234,7 @@ Solo 5K simulation: **21:47 (7:00/mi)**. Max HR 183. 1-min HRR 33 BPM.
 |---|---|---|---|
 | 2026-06-15 | Mon | Hip Complex Circuit | Pre-HM focus. **Keep genuinely light — recovery from the Jun 14 long run (longest of the plan, suffer 231, ~82% Z3). Mobility only, no grinding.** |
 | 2026-06-16 | Tue | **3×1600m** Track Tempo | 7:15–7:25 pace (threshold); 2 min rec. **Trimmed from 5×1600m (edited Jun 14): taper sharpener for the Jun 21 HM pivot test, not a fitness block. Keep the pace/snap, cut the volume — the Jun 14 long run was costly and there's a recent (Jun 9) cumulative-fatigue flag, so protect freshness for the gated test. Add reps back only if the legs feel genuinely fresh on the day.** |
-| 2026-06-17 | Wed | Heavy Strength | Structural insurance |
+| 2026-06-17 | Wed | Heavy Strength | Structural insurance. **Maintain load, no progression (edited Jun 14) — pivot week, protect Sunday HM freshness. Hold all working weights; this session is knee/hip insurance, not a PR day.** |
 | 2026-06-18 | Thu | 6 mi Progression Run | 4mi @ 9:00 / 2mi @ 7:35–7:45 (MP — taper for HM Sun) |
 | 2026-06-19 | Fri | Stability & Power | Spanish squat holds |
 | 2026-06-20 | Sat | Rest | Taper for HM |
