@@ -1,5 +1,12 @@
 # Workout Log
 
+## June 15, 2026
+
+- **Workout:** Monday Hip Complex Circuit (mobility only, ~20 min, two rounds) — V6 Week 7, pivot week. Done this morning.
+- **Type:** Mobility / activation (bodyweight, PT-prescribed pattern)
+- **Knee Status:** **1/5 — green.** "All good." Streak holds — every V6 session 1/5 except the single Boston-stairs 2/5.
+- **Coaching read:** Clean start to pivot week. 6 days to the Presidio HM (June 21). Knee quiet after Sunday's 14-miler with 936 ft of climbing and a 5-mi MP finish — the durability signal continues to hold. Keep the week genuinely easy and protect freshness into Saturday.
+
 ## June 14, 2026
 
 - **Workout:** 14 mi Long Run w/ 5 mi @ MP fast-finish (V6 Week 6 Sunday — **longest run of the V6 plan**). Hilly home roads, normal morning slot (7:07 AM, Sonia back). Plan: first 9 mi easy by HR (140–155, Z2–low Z3) → last 5 mi @ MP (HR 150–160, ~7:35–7:45 readout), HR ceiling 160.
