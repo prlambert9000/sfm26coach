@@ -1,5 +1,19 @@
 # Workout Log
 
+## June 16, 2026
+
+- **Workout:** 3×1600m Track Tempo (V6 Week 7 Tuesday — pivot-week taper sharpener, trimmed from 5×1600m). Run from the door: jogged the 1.5 mi to the high-school track, did the reps on the flat oval, jogged home. Target 7:15–7:25/mi (threshold), 2 min recovery.
+- **Type:** Run (track threshold intervals, door-to-track)
+- **Total distance:** **8.09 mi** in 1:06:53 moving · avg **8:16/mi** · avg HR **146.7** (H10) · **max 164**.
+- **Elevation:** +192 ft (reps flat — 0 ft on the track laps; the gain is the jog home, +175 ft on the CD lap). **Avg Power:** 243 W · **Calories:** 871 · **Suffer Score:** 118.
+- **HR zones:** Z1 (≤116) 1:27 · Z2 (117–144) 22:09 · **Z3 (145–158) 30:46** · Z4 (159–173) 12:31 · Z5 0:00. **Zero Z5** — threshold work sat in upper Z3 / low Z4 exactly as it should. Max 164, **no end-of-workout spike** (clean trace). Max 164 < the 168 H10 floor → no max-HR-test implications.
+- **Rep breakdown (from Strava laps — see pace caveat):** WU jog to track (lap 1, 2.35 mi @ ~8:26, HR 133). Then the reps on the flat oval, HR building rep-over-rep: **Rep 1** HR avg ~153 / max 160 · **Rep 2** (lap 3, ~1600m) **426s = ~7:06**, HR 157 / 161 · **Rep 3** (lap 5, ~1600m) **429s = ~7:09**, HR 158 / 163. Recoveries 119s each (~2:00 — as prescribed). CD jog home (lap 7, 2.20 mi @ 8:59, +175 ft uphill). **Rep 1's lap got merged with its recovery jog** (lap button not split), so its standalone pace isn't cleanly isolated in the Strava data — reps 2 and 3 are clean.
+- **Pace caveat (track GPS underread):** Strava lap distances came back ~1574–1588m for the watch-template 1600m reps (GPS-short), so the per-rep **times** (~7:06, ~7:09) are accurate but the computed per-rep **paces** are biased slow by a few sec/mi. True rep pace was at or just under the 7:15–7:25 target — comfortably on/ahead of plan. **For exact rep paces/times, send the Apple Fitness Intervals screenshot** (the watch template's 1600m boundaries are the truth).
+- **Splits (pace / HR / elev):** 1: 8:23 / 125 / −128 (WU) · 2: 8:16 / 138 / −53 · 3: 7:52 / 147 / −6 · 4: 7:46 / 154 / −1 · 5: 7:52 / 156 / +1 · 6: 8:00 / 157 / −1 · 7: 9:01 / 146 / +29 (CD start) · 8: 8:58 / 151 / +115 (uphill home) · 0.09: 8:04 / 159 / +21. (Mile splits blend reps + 2-min recovery jogs; the lap data above is the rep-level truth.)
+- **Strava sidecar:** `strava/activities/18944037889.json` · [activity](https://www.strava.com/activities/18944037889)
+- **Knee Status:** **1/5 — green.** *"Felt good, knee 1/5."* On flat-track threshold reps — the kindest surface for the patellofemoral joint. Streak holds (every V6 session 1/5 except the single Boston-stairs 2/5).
+- **Coaching read — clean, on-target sharpener; freshness protected.** Reps 2 and 3 came in at ~7:06–7:09 (GPS-short, so a touch faster than the 7:15–7:25 target in truth), HR building a controlled 153→157→158 with maxes capped at 160–163 and zero Z5 — textbook threshold, not a max-effort dig. This was the trimmed 3-rep version (cut from 5×1600m on Jun 14 to protect legs for the Jun 21 HM pivot test), and it did its job: a pace/snap reminder without a fitness-block cost. Knee 1/5, felt good, suffer only 118. **Forward:** Wed Heavy Strength (maintain load, no progression — pivot week), then the taper continues toward the Presidio HM Sunday. Engine looks sharp and fresh for the gated test.
+
 ## June 15, 2026
 
 - **Workout:** Monday Hip Complex Circuit (mobility only, ~20 min, two rounds) — V6 Week 7, pivot week. Done this morning.
@@ -600,19 +614,3 @@
 - **Relative Effort:** 21.0
 - **Knee Status:** 🟢 Green (short errand run, no issues reported)
 - **Notes:** Auto-logged from Strava.
-
-## June 16, 2026
-
-- **Workout:** Morning Run
-- **Type:** Run
-- **Distance:** 8.09 mi
-- **Time:** 1:06:53
-- **Avg Pace:** 8:16/mi
-- **Elevation Gain:** 192 ft
-- **Avg Heart Rate:** 147 bpm (max 164)
-- **Avg Cadence:** N/A
-- **Splits:** 8:23, 8:16, 7:52, 7:46, 7:52, 8:00, 9:01, 8:58, 8:04
-- **Relative Effort:** 118.0
-- **Strava sidecar:** `strava/activities/18944037889.json`
-- **Knee Status:** (pending — update after reviewing)
-- **Notes:** Auto-logged from Strava. Awaiting athlete feedback.
