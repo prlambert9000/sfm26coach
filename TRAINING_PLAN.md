@@ -238,7 +238,7 @@ Solo 5K simulation: **21:47 (7:00/mi)**. Max HR 183. 1-min HRR 33 BPM.
 | 2026-06-18 | Thu | 6 mi Progression Run | 4mi @ 9:00 / 2mi @ 7:35–7:45 (MP — taper for HM Sun) |
 | 2026-06-19 | Fri | Stability & Power | Spanish squat holds |
 | 2026-06-20 | Sat | Rest | Taper for HM |
-| 2026-06-21 | Sun | **Half Marathon Benchmark** | Presidio HM (Crissy Field → Presidio → out-and-back over the Golden Gate Bridge; ~60–90 ft/mi, modestly hillier per mile than SF). **Pivot test (all 3 to upgrade 3:30 → 3:25):** **sub-1:37:30** finish (locked Jun 7 — confident-3:25 gate, break-even 1:38:20; see Week 7 Pivot Strategy) / avg HR <170 final 3 mi / zero knee comp. Miss any one → hold 3:30. |
+| 2026-06-21 | Sun | **Half Marathon Benchmark** | Presidio HM (Crissy Field → Presidio → out-and-back over the Golden Gate Bridge; ~60–90 ft/mi, modestly hillier per mile than SF). **Pivot test (all 3 to upgrade 3:30 → 3:25):** **sub-1:37:30** finish (locked Jun 7 — confident-3:25 gate, break-even 1:38:20; see Week 7 Pivot Strategy) / avg HR <170 final 3 mi / zero knee comp. Miss any one → hold 3:30. **Mile-by-mile pacing + gate strategy: see RACE_PLAN_PRESIDIO.md.** |
 
 ### Week 8 deload (Jun 22–28) — 28 mi | LR 10 mi
 | Date | Day | Workout | Notes |
