@@ -85,6 +85,19 @@ Bodyweight only. Pre-workout activation pattern; not a lift. Two rounds.
 
 ## Session Logs
 
+### 2026-06-17 — Wed Heavy Strength, time-cut (V6 Week 7 — HM-pivot week)
+**Body Weight:** Not reported
+
+| Exercise | Weight Used | Sets×Reps | Feel | Notes |
+|----------|-------------|-----------|------|-------|
+| Back squat | 165 lb (working, assumed — not reported) | 3 × 6 (vs Rx 4 × 6) | "Felt good" (general, no per-exercise rating) | One set short of Rx — early meeting cut the session. No progression signal; held at the Jun-14 backoff weight regardless. **Squat stays 165** — the 175 reassessment is gated to *post-HM* + knee 1/5, so no bump this week by design. |
+| Romanian deadlift (RDL) | 165 lb w/ straps (working, assumed — not reported) | 3 × 6 (vs Rx 4 × 6) | "Felt good" (general) | One set short. Working weight holds at **165 w/ straps**. |
+| Reverse Nordic | Bodyweight | 1 × 10 (vs Rx 3 × 10) | "Felt good" | Two sets short — time. Per plan, continue gradual depth build. |
+| Standing calf raise | — | **Skipped — time** | — | Dropped when the session got cut. Working weight stays 155 lb back-rack barbell; still no clean feel signal captured at 155 (carried over from Jun 3). |
+
+**Knee during session:** **1/5 — green throughout.** Confirms the knee is back to 1/5 after the lone 2/5 reading (Jun 3, on the 175 squat) that prompted the Jun-14 backoff to 165.
+**Overall notes:** Time-truncated heavy day — an early meeting cut squat and RDL to 3×6 (one set short of Rx 4×6), reverse Nordic to 1×10, and dropped the calf raise. Weights and per-exercise feel ratings weren't reported; assuming the working loads (squat 165, RDL 165 w/ straps) since nothing was flagged as a change. **No weight changes** — a cut session with no feel ratings generates no progression signal, and we're holding lower-body load through HM-pivot week anyway (Presidio HM is Sat Jun 21; the 175 squat reassessment is explicitly gated to *post*-HM with the knee at 1/5). **The real signal is the knee: 1/5 through loaded squat/RDL, four days out from the pivot HM.** That's exactly what we want going into the assessment — the chassis is quiet under load. Truncating the session this close to the HM is harmless-to-helpful (less accumulated fatigue into the taper). Calf raise still has no captured feel signal at 155; grab one on the first normal-load Wed *after* the HM.
+
 ### 2026-06-13 — Sat Stability & Power (V6 Week 6 — recapture of the missed strength week)
 **Body Weight:** Not reported
 
