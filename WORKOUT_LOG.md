@@ -1,5 +1,18 @@
 # Workout Log
 
+## June 18, 2026
+
+- **Workout:** 6 mi Progression Run (V6 Week 7 Thursday — pivot-week taper sharpener). Plan: 4 mi @ 9:00 easy → 2 mi @ MP 7:35–7:45. Hilly door route. **Cut short on time** — got 5.11 mi (~1 mi short, mostly off the MP finish).
+- **Type:** Run (progression, hilly door route, cut short)
+- **Total distance:** **5.11 mi** in 41:55 moving · avg **8:12/mi** · avg HR **144.6** (H10) · **max 161**.
+- **Elevation:** +232 ft. **Avg Power:** 244 W · **Calories:** 550 · **Suffer Score:** 69.
+- **HR zones:** Z1 (≤116) 1:01 · Z2 (117–144) 23:43 · **Z3 (145–158) 16:16** · Z4 (159–173) 0:55 · Z5 0:00. Easy block sat in Z2, MP work touched low Z4 — exactly the progression shape. Max 161, clean (no end-of-workout spike); 161 < the 168 H10 floor → no max-HR-test implications.
+- **Splits (pace / HR / elev):** 1: 8:03 / 131 / −130 (downhill WU) · 2: 8:06 / 141 / −43 · 3: 8:24 / 141 / −12 · **MP →** 4: **7:46 / 152 / +24** · 5: 8:45 / 156 / +135 (the climb — pace blew out but HR held the MP band) · 0.11: 7:34 / 156 / +6.
+- **Read vs plan — well-governed, just short.** Easy block (mi 1–3) read 8:03–8:24 — faster than the 9:00 pace target, but HR was 131–141 (solid Z2), so **by HR it was genuinely easy** — the door-route's downhill start (mi 1 −130 ft) makes pace read quick while effort stays low. HR is the governor and HR said easy. The MP portion he did get was dialed: mile 4 at **7:46 @ HR 152** is squarely in the MP readout (7:35–7:45) at the right HR; mile 5's +135 ft climb blew pace out to 8:45 but HR stayed in the MP band at 156 (correct — let pace float on the hill, hold the effort). He got ~1.1 mi of MP-effort instead of the full 2 before cutting on time.
+- **Strava sidecar:** `strava/activities/18973208185.json` · [activity](https://www.strava.com/activities/18973208185)
+- **Knee Status:** **1/5 — green** (today's run). Separately, **2/5 yesterday** during Wed Heavy Strength — squatting woke up mild awareness (no progression during/after). The run today did not aggravate it at all → the squat-driven 2 was structural-load awareness, not a flare, and it settled by morning. Per protocol the lone 2 means double the mobility flush that day; no escalation (a 2 is not the 3+ that triggers the escape valve). Streak otherwise holds.
+- **Coaching read — fine for taper week; freshness protected.** Cutting ~1 mi off a progression run 3 days before the Presidio HM pivot test costs nothing — taper week's job is freshness, not volume, and the MP he did hit was correctly HR-governed. The only thing to watch is the **knee 2/5 from squats** — it's the first 2 since the Boston-stairs read and it came off Heavy Strength, not running. It resolved to 1/5 by today's run, so no action beyond noting that **Fri Stability & Power (Spanish squat holds) should stay submaximal** — no grinding on knee-loaded patterns this close to the race. **Forward:** Fri stability lift (keep it light), Sat shakeout/rest, then the Presidio HM Sunday — the gated pivot test (sub-1:37:30 / avg HR <170 final 3 mi / zero knee comp).
+
 ## June 16, 2026
 
 - **Workout:** 3×1600m Track Tempo (V6 Week 7 Tuesday — pivot-week taper sharpener, trimmed from 5×1600m). Run from the door: jogged the 1.5 mi to the high-school track, did the reps on the flat oval, jogged home. Target 7:15–7:25/mi (threshold), 2 min recovery.
@@ -615,19 +628,3 @@
 - **Relative Effort:** 21.0
 - **Knee Status:** 🟢 Green (short errand run, no issues reported)
 - **Notes:** Auto-logged from Strava.
-
-## June 18, 2026
-
-- **Workout:** Morning Run
-- **Type:** Run
-- **Distance:** 5.11 mi
-- **Time:** 41:55
-- **Avg Pace:** 8:12/mi
-- **Elevation Gain:** 232 ft
-- **Avg Heart Rate:** 145 bpm (max 161)
-- **Avg Cadence:** N/A
-- **Splits:** 8:03, 8:06, 8:24, 7:46, 8:45, 7:34
-- **Relative Effort:** 69.0
-- **Strava sidecar:** `strava/activities/18973208185.json`
-- **Knee Status:** (pending — update after reviewing)
-- **Notes:** Auto-logged from Strava. Awaiting athlete feedback.
