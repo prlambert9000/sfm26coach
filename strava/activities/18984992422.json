@@ -1,0 +1,98 @@
+{
+  "activity_id": 18984992422,
+  "avg_cadence_spm": null,
+  "avg_hr": 124.0,
+  "avg_pace": "9:15/mi",
+  "avg_power_w": 206.6,
+  "calories": 307.0,
+  "date": "2026-06-19",
+  "date_heading": "June 19, 2026",
+  "description": "",
+  "distance_mi": 3.025,
+  "elapsed_time_s": 1682,
+  "elevation_gain_ft": 34.1,
+  "fetched_at": "2026-06-19T14:39:28Z",
+  "hr_zones": [
+    {
+      "max": 116,
+      "min": 0,
+      "time_s": 301.0
+    },
+    {
+      "max": 144,
+      "min": 117,
+      "time_s": 1377.0
+    },
+    {
+      "max": 158,
+      "min": 145,
+      "time_s": 0.0
+    },
+    {
+      "max": 173,
+      "min": 159,
+      "time_s": 0.0
+    },
+    {
+      "max": -1,
+      "min": 174,
+      "time_s": 0.0
+    }
+  ],
+  "laps": [
+    {
+      "avg_cadence_spm": null,
+      "avg_hr": 124.0,
+      "distance_m": 4860.2,
+      "distance_mi": 3.02,
+      "elapsed_time_s": 1681,
+      "elev_gain_ft": 34.1,
+      "lap_index": 1,
+      "max_hr": 141.0,
+      "moving_time_s": 1681,
+      "name": "Lap 1",
+      "pace": "9:17"
+    }
+  ],
+  "max_hr": 141.0,
+  "moving_time_s": 1678,
+  "name": "Easy jog",
+  "splits": [
+    {
+      "avg_hr": 113.57116104868913,
+      "distance_mi": 1.001,
+      "elev_diff_ft": -166.0,
+      "mile": 1,
+      "moving_time_s": 537,
+      "pace": "8:56"
+    },
+    {
+      "avg_hr": 126.54158964879852,
+      "distance_mi": 1.0,
+      "elev_diff_ft": -30.2,
+      "mile": 2,
+      "moving_time_s": 541,
+      "pace": "9:01"
+    },
+    {
+      "avg_hr": 131.03608247422682,
+      "distance_mi": 0.999,
+      "elev_diff_ft": 26.9,
+      "mile": 3,
+      "moving_time_s": 588,
+      "pace": "9:49"
+    },
+    {
+      "avg_hr": 129.91666666666666,
+      "distance_mi": 0.021,
+      "elev_diff_ft": -11.8,
+      "mile": 4,
+      "moving_time_s": 12,
+      "pace": "9:38"
+    }
+  ],
+  "start_local": "2026-06-19T06:47:41Z",
+  "strava_url": "https://www.strava.com/activities/18984992422",
+  "suffer_score": 9.0,
+  "type": "Run"
+}
