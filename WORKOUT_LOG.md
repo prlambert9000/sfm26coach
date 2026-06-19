@@ -1,5 +1,14 @@
 # Workout Log
 
+## June 19, 2026
+
+- **Workout:** Short easy run + strides (V6 Week 7 Friday — pivot-week pre-race primer; swapped Jun 18 from Stability & Power to drop knee-loaded gym work 2 days out from the HM). Plan: ~2–2.5 mi very easy (HR Z2 ~135–145) + 4–6 × ~20 sec strides on flat ground, relaxed builds (not sprints), full walk-back recovery. **Done.**
+- **Type:** Run (easy + strides, pre-race primer)
+- **Execution:** Completed as prescribed. **Strides done after stopping the watch** — so the strides won't appear in the recorded activity (and any end-of-file Strava sample is moot; the run was stopped before them). Self-reported: *"all felt good."*
+- **Strava sidecar:** none yet at log time (short run, Strava poll hadn't picked it up). Fold avg HR / distance / splits in from the JSON once it lands.
+- **Knee Status:** **1/5 — green.** *"All felt good, 1/5, though still a bit nervous about the right knee since Wednesday."* The Wednesday awareness was a lone **2/5 off Heavy Strength squats** (structural-load awareness, not a flare) — it settled to 1/5 on Thursday's progression run and held 1/5 through today's primer. Two consecutive running days (Thu, Fri) at 1/5 since the squat 2 = the knee absorbed both the lift and the runs with no progression. Per protocol a single 2 is well short of the 3+ escape-valve trigger; nothing to action.
+- **Coaching read — primed and clean; the nervousness is understandable but the data says go.** This was a textbook taper primer: easy legs woken up with a few strides, knee 1/5, no fatigue added. On the knee jitters — honest read: a 2/5 from squats that resolved within a day to 1/5 and stayed there across two runs is exactly the durability signal we want going into a race, not a warning sign. The squat-driven awareness was load-specific and it's gone; you've now run on it twice with zero return. That said, the nerves are good information — carry them into Sunday as **descent discipline** on the bridge out-and-back (shorten stride, quick cadence, don't bomb the downhills — the patellofemoral joint's least-favorite stimulus and the one place a quiet knee can get woken up). **Zero knee compensation crossing the line is one of the three pivot gates** — so listening to the knee Sunday is literally part of the test, not paranoia. **Forward:** Sat full rest (taper), then the **Presidio HM Sunday** — the gated pivot test (sub-1:37:30 / avg HR <170 final 3 mi / zero knee comp). See RACE_PLAN_PRESIDIO.md for mile-by-mile pacing. Lay out the kit Saturday night, fuel and hydrate, bed early.
+
 ## June 18, 2026
 
 - **Workout:** 6 mi Progression Run (V6 Week 7 Thursday — pivot-week taper sharpener). Plan: 4 mi @ 9:00 easy → 2 mi @ MP 7:35–7:45. Hilly door route. **Cut short on time** — got 5.11 mi (~1 mi short, mostly off the MP finish).
