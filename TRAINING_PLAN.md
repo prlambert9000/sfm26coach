@@ -123,6 +123,33 @@ Miss any one → hold 3:30 targets. Hit all three → upgrade to VDOT 56–57 pa
 
 **Caveats on the gate:** (1) the Presidio gain figure is uncertain (sources ranged 800–1,215 ft); if the actual course proves notably flatter than SF per mile, tighten toward 1:36. (2) The **HR<170 co-gate's difficulty depends on the true max** — at the unconfirmed 180 placeholder, 170 = 94% (hard but holdable); if the June 9 max-HR test reveals a lower max, 170 becomes near-impossible to hold for 3 mi and that number drops too. The time gate is locked; the HR number firms up after June 9. (3) The HR + knee co-gates are what make the *time* trustworthy — a redlined/knee-compensated 1:37 doesn't extrapolate to a clean marathon; a 1:37 cruised at HR<170 with zero knee noise does.
 
+### Race-Day Execution Plan (June 21, 2026)
+
+**Course (confirmed by athlete June 20):** Official Presidio HM is a **Golden Gate Bridge out-and-back over the hill** — 13.12 mi, **524 ft gain, ~74% paved / 23% unpaved**, two big climbs. Profile: flat start (~mi 0–2) → **Climb 1** to ~361 ft (peak ~mi 4) → descent into a dip (~mi 6.5) → **Climb 2** back up (peak ~mi 8.5) → **long descent** (~mi 9–11, ~350 ft drop) → **flat finish** (mi 11.15–13.1).
+
+**Hydration (locked — simplified, NOT the concentrate-dilute idea):** Single handheld, **½–¾ LMNT packet at normal proven strength** (~500–750 mg sodium). Drink to thirst — June Presidio mornings are cool/foggy/marine-layer, so fluid + sodium needs are on the LOW end. Aid stations are **water-only**: use them as **gel chasers** and to **top off the handheld** if drained late. *Rejected the concentrated-LMNT-then-dilute-as-you-go plan* — it's a marathon-grade solution and an unrehearsed race-day GI novelty on the Pivot test; over-engineering for a ~97-min cool effort. **Gel:** PF30 at start, then take the mid-race gel **in the dip (~mi 6.5)** before Climb 2.
+
+**Target splits (effort-based; HR governs, pace is the readout). Built to net ~1:36:54 — a ~36 s cushion under the 1:37:30 gate:**
+
+| Mile | Terrain | Target | Cumulative |
+|---|---|---|---|
+| 1 | Flat start — don't bank | 7:15 | 7:15 |
+| 2 | Flat / onto bridge | 7:10 | 14:25 |
+| 3 | Climb 1 begins | 7:45 | 22:10 |
+| 4 | Steep to peak 1 (slowest) | 8:20 | 30:30 |
+| 5 | Crest → roll → descend | 7:25 | 37:55 |
+| 6 | Descent (knee control) | 7:00 | 44:55 |
+| 7 | Dip → Climb 2 begins (gel) | 7:40 | 52:35 |
+| 8 | Steep Climb 2 (slow) | 8:20 | 1:00:55 |
+| 9 | Crest → begin descent | 7:20 | 1:08:15 |
+| 10 | Descent — final-3 begins | 7:00 | 1:15:15 |
+| 11 | Descent → flat (knee) | 7:00 | 1:22:15 |
+| 12 | Flat finish | 7:05 | 1:29:20 |
+| 13 | Flat — build | 6:55 | 1:36:15 |
+| 0.12 | Kick (last ~200m) | ~6:30 | **1:36:54** |
+
+**Execution keys:** (1) **Checkpoint — crest of Climb 2 (mi 9) ≤ ~1:08:15** (7:35/mi avg); if there, the descent + flat finish bank the rest. (2) **Climbs by effort, not pace** — the two 8:20 miles are correct, don't chase them back uphill. (3) **Final-3 HR<170 co-gate** starts at ~mi 10.1 (downhill) — the descent banks HR margin so the flat build (mi 12–13) can lift without dragging the 3-mi avg over 170; **hold the true kick to the last ~200m** (single end-spike won't move the 3-mi average and doubles as opportunistic near-max-HR capture). (4) **Knee = boss on the descents (mi 6, 10–11)** — quick cadence, short stride, no braking/bombing; any compensation → ease the downhill. A clean 1:38 beats a 1:36 that fails the zero-compensation gate.
+
 ---
 
 ## V. 12-Week Periodization Summary
