@@ -107,6 +107,8 @@ Two consecutive 3+ readings → automatic 7-day cycling-only block, no run testi
 
 ## IV. Week 7 Pivot Strategy
 
+> **RESOLVED June 21, 2026 — VERDICT: HOLD 3:30 (Gate 1 missed). But 3:25 is deferred, not dead.** Presidio HM result (watch; official chip time TBD): **1:38:03 moving / 1:38:19 elapsed, 12.945 mi GPS-short on the bridge, avg HR 155, max 164.** **Gate 2 (HR<170 final 3 mi): PASSED** — final-3-mi avg HR 154.6, never touched Z5 all day. **Gate 3 (zero knee comp): PASSED** — knee 1/5, no pain, fine hours later. **Gate 1 (sub-1:37:30): MISSED by ~35–50 s** — but 1:38:19 lands *exactly on the 1:38:20 break-even line* (= coin-flip 3:25 fitness per the bands below), and the clock was dragged by three fixable/external factors: **bridge-crowd near-walks, a side stitch on the mile-6 descent, and near-zero fueling (one gel in 98 min).** He was fuel/crowd/stitch-limited, not engine-limited (HR had 15 beats of headroom). **Coaching takeaway:** train paces stay at **VDOT 54 / 3:30** for now; the binding marathon constraint exposed today is **in-race fueling at high HR** (see WORKOUT_LOG Jun 21 + NUTRITION_GUIDE "Presidio HM high-HR fueling problem"). Re-examine a 3:25 upgrade only off a **cleaner fitness read** (a well-fueled tune-up or the marathon-pace long runs in the back half) — the fitness is there; a clean day was not. Full result detail in WORKOUT_LOG.md Jun 21.
+
 The plan's pace targets are set for a conservative 3:30 finish. The Week 7 Presidio Half Marathon Benchmark (June 21) is the official reassessment. To upgrade pace targets for a 3:20–3:25 finish, all three criteria must be met:
 
 - **Sub-1:37:30 finish time** (locked June 7, 2026 — see derivation below)
