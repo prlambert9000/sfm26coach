@@ -1,0 +1,170 @@
+{
+  "activity_id": 19013007310,
+  "avg_cadence_spm": null,
+  "avg_hr": 155.1,
+  "avg_pace": "7:34/mi",
+  "avg_power_w": 268.3,
+  "calories": 1409.0,
+  "date": "2026-06-21",
+  "date_heading": "June 21, 2026",
+  "description": "",
+  "distance_mi": 12.945,
+  "elapsed_time_s": 5899,
+  "elevation_gain_ft": 555.1,
+  "fetched_at": "2026-06-21T17:23:24Z",
+  "hr_zones": [
+    {
+      "max": 116,
+      "min": 0,
+      "time_s": 14.0
+    },
+    {
+      "max": 144,
+      "min": 117,
+      "time_s": 144.0
+    },
+    {
+      "max": 158,
+      "min": 145,
+      "time_s": 4454.0
+    },
+    {
+      "max": 173,
+      "min": 159,
+      "time_s": 1271.0
+    },
+    {
+      "max": -1,
+      "min": 174,
+      "time_s": 0.0
+    }
+  ],
+  "laps": [
+    {
+      "avg_cadence_spm": null,
+      "avg_hr": 155.1,
+      "distance_m": 20817.1,
+      "distance_mi": 12.935,
+      "elapsed_time_s": 5897,
+      "elev_gain_ft": 555.1,
+      "lap_index": 1,
+      "max_hr": 164.0,
+      "moving_time_s": 5897,
+      "name": "Lap 1",
+      "pace": "7:36"
+    }
+  ],
+  "max_hr": 164.0,
+  "moving_time_s": 5883,
+  "name": "Presidio Half Marathon",
+  "splits": [
+    {
+      "avg_hr": 145.58928571428572,
+      "distance_mi": 1.0,
+      "elev_diff_ft": -4.6,
+      "mile": 1,
+      "moving_time_s": 450,
+      "pace": "7:30"
+    },
+    {
+      "avg_hr": 154.62979683972912,
+      "distance_mi": 1.002,
+      "elev_diff_ft": 0.7,
+      "mile": 2,
+      "moving_time_s": 443,
+      "pace": "7:22"
+    },
+    {
+      "avg_hr": 156.94942528735632,
+      "distance_mi": 0.998,
+      "elev_diff_ft": 0.7,
+      "mile": 3,
+      "moving_time_s": 437,
+      "pace": "7:18"
+    },
+    {
+      "avg_hr": 159.2474645030426,
+      "distance_mi": 1.0,
+      "elev_diff_ft": 163.4,
+      "mile": 4,
+      "moving_time_s": 493,
+      "pace": "8:13"
+    },
+    {
+      "avg_hr": 158.23107569721117,
+      "distance_mi": 1.001,
+      "elev_diff_ft": 155.5,
+      "mile": 5,
+      "moving_time_s": 503,
+      "pace": "8:22"
+    },
+    {
+      "avg_hr": 157.63358778625954,
+      "distance_mi": 1.001,
+      "elev_diff_ft": -182.4,
+      "mile": 6,
+      "moving_time_s": 393,
+      "pace": "6:33"
+    },
+    {
+      "avg_hr": 158.3557894736842,
+      "distance_mi": 0.998,
+      "elev_diff_ft": 107.0,
+      "mile": 7,
+      "moving_time_s": 478,
+      "pace": "7:59"
+    },
+    {
+      "avg_hr": 152.70932754880695,
+      "distance_mi": 1.0,
+      "elev_diff_ft": -18.4,
+      "mile": 8,
+      "moving_time_s": 471,
+      "pace": "7:51"
+    },
+    {
+      "avg_hr": 156.21700223713646,
+      "distance_mi": 1.001,
+      "elev_diff_ft": 34.1,
+      "mile": 9,
+      "moving_time_s": 451,
+      "pace": "7:31"
+    },
+    {
+      "avg_hr": 153.57808857808857,
+      "distance_mi": 1.0,
+      "elev_diff_ft": -152.9,
+      "mile": 10,
+      "moving_time_s": 430,
+      "pace": "7:10"
+    },
+    {
+      "avg_hr": 150.03076923076924,
+      "distance_mi": 1.001,
+      "elev_diff_ft": -111.5,
+      "mile": 11,
+      "moving_time_s": 469,
+      "pace": "7:49"
+    },
+    {
+      "avg_hr": 154.17965367965368,
+      "distance_mi": 0.999,
+      "elev_diff_ft": 0.7,
+      "mile": 12,
+      "moving_time_s": 462,
+      "pace": "7:43"
+    },
+    {
+      "avg_hr": 159.49625935162095,
+      "distance_mi": 0.937,
+      "elev_diff_ft": -11.2,
+      "mile": 13,
+      "moving_time_s": 403,
+      "pace": "7:10"
+    }
+  ],
+  "start_local": "2026-06-21T08:01:12Z",
+  "strava_url": "https://www.strava.com/activities/19013007310",
+  "suffer_score": 235.0,
+  "type": "Run"
+}
