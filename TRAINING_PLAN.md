@@ -18,7 +18,7 @@ Replaces the v4 Chassis Build / Phase 1 framework. Knee has been managing well t
 - Single-purpose strength split: Wed heavy compound, Fri stability/power. No upper body — pure marathon specificity for 12 weeks.
 - "Escape valve" rule keyed to a 5-point knee pain scale with automatic bike substitution at 3+.
 - Explicit Week 7 Pivot test at the Presidio Half Marathon to gate any upgrade from 3:30 to 3:20–3:25.
-- Built-in gut-training progression peaking by Week 10 (PF30 gels, 70–80 g/hr race-day band; see NUTRITION_GUIDE).
+- Built-in gut-training progression peaking by Week 10 (Maurten Gel 100, 70–80 g/hr race-day band; see NUTRITION_GUIDE).
 
 **PT follow-up (May 15) is still on.** Until then, the plan still respects PT-prescribed mobility and core work — see PT_NOTES.md. Any restrictions she places at follow-up override the plan.
 
@@ -89,7 +89,7 @@ The paces above are anchored to **goal** fitness (VDOT 54), not current fitness.
 - **Thursday — Alternating base / progression.** Odd weeks: easy base. Even weeks: progression finish (last 2 mi @ 7:15–7:25 — threshold pace, ~20 sec/mi under MP).
 - **Friday — Stability & power (Cañada College).** Bulgarian split squats, single-leg RDLs (DB contralateral), Spanish squat holds, Copenhagen planks. No running.
 - **Saturday — Shakeout (3–4 mi) or rest.**
-- **Sunday — Long run.** Smoothed progression. Explicit gut-training rehearsals from Week 5 onward (PF30 gels, building toward the **70–80 g/hr race-day band** — target revised down from 90 on June 7; see NUTRITION_GUIDE).
+- **Sunday — Long run.** Smoothed progression. Explicit gut-training rehearsals from Week 5 onward (Maurten Gel 100 — re-locked Jun 21, was PF30; building toward the **70–80 g/hr race-day band**; see NUTRITION_GUIDE).
 
 **Schedule rule:** Strength and running do not stack on the same day. The Tue/Thu run / Wed/Fri lift split is intentional — it keeps lower-body fatigue from compounding across consecutive days.
 
@@ -295,7 +295,7 @@ Solo 5K simulation: **21:47 (7:00/mi)**. Max HR 183. 1-min HRR 33 BPM.
 | 2026-07-02 | Thu | 10 mi Medium-Long (NEW distance) | Bumped from 8 mi steady. Easy–steady by HR (Z2–low Z3, 140–152). Midweek aerobic-endurance builder — the marathon-specific addition. |
 | 2026-07-03 | Fri | **Consolidated Strength + PT** | Single strength day. **No heavy back squat.** Hip/glute/single-leg (Bulgarian, SL-RDL), RDL hinge, Copenhagen, Spanish squat hold, calf, reverse Nordic BW, PT block. Knee 2+ → drop loaded lower body, hold PT/mobility. |
 | 2026-07-04 | Sat | 4 mi Shakeout | 9:30+ easy. |
-| 2026-07-05 | Sun | 16 mi Long Run | inc 8 mi @ MP (HR 150–160; ~7:35–7:45 readout). Hilly home route OK — HR governs. **Fuel PF30 toward 70–80 g/hr AND practice taking gels at MP effort — the #1 Presidio fix.** |
+| 2026-07-05 | Sun | 16 mi Long Run | inc 8 mi @ MP (HR 150–160; ~7:35–7:45 readout). Hilly home route OK — HR governs. **Fuel Maurten Gel 100 (every ~25 min + drink-mix sips) toward 60–70 g/hr AND practice taking a gel mid-MP-block at effort — the #1 Presidio fix.** |
 
 ### Week 10 peak (Jul 6–12) — ~48 mi | LR 20 mi
 **Peak week.** 5 running days, 1 strength day. Highest volume of the build — then taper.
@@ -307,7 +307,7 @@ Solo 5K simulation: **21:47 (7:00/mi)**. Max HR 183. 1-min HRR 33 BPM.
 | 2026-07-09 | Thu | 10 mi Progression Run | Bumped from 8. 8 mi @ 9:00 easy / 2 mi @ 7:15–7:25 (threshold by HR). |
 | 2026-07-10 | Fri | **Consolidated Strength + PT (final loaded session)** | Last real strength day before taper. **No heavy back squat.** Same template as W9 Fri. Keep it crisp, no grinding. Knee 2+ → PT/mobility only. |
 | 2026-07-11 | Sat | 4 mi Shakeout | Fueling check (70–80 g/hr, gels-at-effort rehearsal). |
-| 2026-07-12 | Sun | 20 mi Long Run | Peak distance. Form focus. Hilly home route OK — HR governs. **Full race-fueling dress rehearsal: 70–80 g/hr including a caffeine PF30 in the back third, gels taken at effort.** |
+| 2026-07-12 | Sun | 20 mi Long Run | Peak distance. Form focus. Hilly home route OK — HR governs. **Full race-fueling dress rehearsal: Maurten Gel 100 every ~20–25 min + drink mix → 70–80 g/hr, including a Maurten CAF 100 in the back third (rehearse caffeine timing), gels taken at effort.** |
 
 ### Week 11 taper (Jul 13–19) — ~27 mi | LR 10 mi
 | Date | Day | Workout | Notes |
@@ -349,7 +349,7 @@ Detailed exercise lists, weights, and progression rules live in **STRENGTH_LOG.m
 
 ## VIII. Nutrition Reference
 
-See **NUTRITION_GUIDE.md** for the full pescatarian-aware framework: macro targets (125–140g P / 350–500g C / 60–80g F), 6 AM training-window timing, anti-inflammatory protocol (SMASH fish 3×/wk, omega-3, Vit C + collagen), and the gut-training progression (PF30, 70–80 g/hr race-day band) by week.
+See **NUTRITION_GUIDE.md** for the full pescatarian-aware framework: macro targets (125–140g P / 350–500g C / 60–80g F), 6 AM training-window timing, anti-inflammatory protocol (SMASH fish 3×/wk, omega-3, Vit C + collagen), and the gut-training progression (Maurten Gel 100 — re-locked Jun 21, 70–80 g/hr race-day band) by week.
 
 ---
 
