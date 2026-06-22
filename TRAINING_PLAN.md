@@ -174,12 +174,14 @@ Solo 5K simulation: **21:47 (7:00/mi)**. Max HR 183. 1-min HRR 33 BPM.
 - **Week 8 deload (Jun 22–28):** 28 mi | LR 10 mi
 
 ### Phase 3: Peak Volume & Power (Weeks 9–10)
-- **Week 9 (Jun 29–Jul 5):** 34 mi | LR 16 mi (8 mi @ MP)
-- **Week 10 peak (Jul 6–12):** 42 mi | LR 20 mi
+- **Week 9 (Jun 29–Jul 5):** ~44 mi | LR 16 mi (8 mi @ MP)
+- **Week 10 peak (Jul 6–12):** ~48 mi | LR 20 mi
 
 ### Phase 4: Taper & Race Readiness (Weeks 11–12)
-- **Week 11 (Jul 13–19):** 25 mi | LR 10 mi easy
+- **Week 11 (Jul 13–19):** ~27 mi | LR 10 mi easy
 - **Week 12 race week (Jul 20–26):** 12 mi + **SF MARATHON (Jul 26)**
+
+> **BACK-HALF REBALANCE (decided Jun 21, 2026 — "lean into running").** After the Presidio HM, Paul flagged that the plan was over-indexed on knee rehab at the cost of marathon-specific volume: running has never irritated the knee (every V6 run 1/5, including a 936-ft 14-miler and the hilly HM with descents), and the *only* two knee provocations all build were **weighted back squats** (Jun 17) and Boston stairs. Decision: **shift Weeks 8–12 toward a more normal marathon structure** — (1) **drop the heavy barbell back squat** (the one knee irritant) and **consolidate to ONE strength day/week** (hip/glute/single-leg + PT block, hinge/calf/Spanish-squat retained); (2) **convert the freed gym day into a 5th running day**, adding a midweek medium-long run; (3) **push peak from 42→~48 mpw.** Mon hip-mobility circuit stays (it's protective and doesn't displace running). **Knee guardrail (still the boss):** the *ramp rate* is deliberately capped — added volume is almost all easy aerobic miles (lowest injury risk), and the per-day knee-gate escape valves are unchanged. Any two 3+ readings or a single squat-style flare → reassess immediately. The hip/PT work is *kept* precisely because it's the likely reason the knee has stayed quiet; only the knee-loading barbell squat is removed.
 
 ---
 
@@ -271,49 +273,52 @@ Solo 5K simulation: **21:47 (7:00/mi)**. Max HR 183. 1-min HRR 33 BPM.
 | 2026-06-20 | Sat | Rest | Taper for HM |
 | 2026-06-21 | Sun | **Half Marathon Benchmark** | Presidio HM (Crissy Field → Presidio → out-and-back over the Golden Gate Bridge; ~60–90 ft/mi, modestly hillier per mile than SF). **Pivot test (all 3 to upgrade 3:30 → 3:25):** **sub-1:37:30** finish (locked Jun 7 — confident-3:25 gate, break-even 1:38:20; see Week 7 Pivot Strategy) / avg HR <170 final 3 mi / zero knee comp. Miss any one → hold 3:30. **Mile-by-mile pacing + gate strategy: see RACE_PLAN_PRESIDIO.md.** |
 
-### Week 8 deload (Jun 22–28) — 28 mi | LR 10 mi
+### Week 8 deload (Jun 22–28) — ~26 mi | LR 10 mi
+**Post-HM recovery week — apply the new structure (1 strength day, +1 run day) but keep volume genuinely low; do NOT lean volume into the deload. The lean-in mileage starts W9.** New weekly skeleton from here: Mon mobility · Tue track quality · **Wed easy run (was Heavy Strength)** · Thu run · **Fri consolidated Strength + PT (no heavy back squat)** · Sat shakeout/rest · Sun long.
 | Date | Day | Workout | Notes |
 |---|---|---|---|
-| 2026-06-22 | Mon | Hip Complex Circuit | Deload start |
-| 2026-06-23 | Tue | 4 mi Easy | 9:15–9:30 |
-| 2026-06-24 | Wed | Low-Volume Strength | Mobility & soft tissue |
-| 2026-06-25 | Thu | 6 mi Easy | 9:15–9:30 |
-| 2026-06-26 | Fri | Low-Volume Strength | Spanish squat holds |
-| 2026-06-27 | Sat | Rest | Full recovery |
-| 2026-06-28 | Sun | 10 mi Long Run | Easy aerobic flush |
+| 2026-06-22 | Mon | Hip Complex Circuit + full PT block | Deload start, day after the HM. Mobility + PT only — recovery. |
+| 2026-06-23 | Tue | 4 mi Easy | HR easy (Z2, ~135–145); 9:15–9:30 readout. No track this week — body's still clearing the HM. |
+| 2026-06-24 | Wed | 4 mi Easy (NEW run day) | Was Low-Volume Strength. Easy Z2 shakeout — 3 days post-HM, easy running is the better flush than a lift. |
+| 2026-06-25 | Thu | 6 mi Easy | Z2 easy, ~9:00–9:15 readout. |
+| 2026-06-26 | Fri | **Consolidated Strength + PT (light)** | The single weekly strength day. **No heavy back squat.** Hip/glute/single-leg + PT block + Spanish squat holds, light. Re-introduce load gently (first lift post-HM). Knee 2+ → mobility/PT only. |
+| 2026-06-27 | Sat | Rest or 30-min easy walk | Full recovery. |
+| 2026-06-28 | Sun | 10 mi Long Run | Easy aerobic flush by HR (Z2, 140–150). Fuel rehearsal — practice taking a gel at effort (the Presidio fix). |
 
-### Week 9 (Jun 29–Jul 5) — 34 mi | LR 16 mi
+### Week 9 (Jun 29–Jul 5) — ~44 mi | LR 16 mi
+**Lean-in build begins.** 5 running days, 1 strength day. Volume jumps via easy aerobic miles + a midweek medium-long (Thu).
 | Date | Day | Workout | Notes |
 |---|---|---|---|
-| 2026-06-29 | Mon | Hip Complex Circuit | Peak phase start |
-| 2026-06-30 | Tue | 6×1600m Track Tempo | 7:15–7:25 pace (threshold); 2 min rec |
-| 2026-07-01 | Wed | Heavy Strength | Maintain intensity |
-| 2026-07-02 | Thu | 8 mi Steady Base | 8:30 pace |
-| 2026-07-03 | Fri | Stability & Power | Copenhagen focus |
-| 2026-07-04 | Sat | 4 mi Shakeout | 9:30+ |
-| 2026-07-05 | Sun | 16 mi Long Run | inc 8 mi @ MP (HR 150–160; ~7:35–7:45 readout). Hilly home route OK — HR governs. Fuel PF30 toward 70–80 g/hr. |
+| 2026-06-29 | Mon | Hip Complex Circuit + PT | Peak phase start. |
+| 2026-06-30 | Tue | 6×1600m Track Tempo | 7:15–7:25 pace (threshold); 2 min rec. ~8 mi w/ WU+CD. |
+| 2026-07-01 | Wed | 6 mi Easy (NEW run day) | Was Heavy Strength. Easy Z2, ~9:00 readout. Recovery-paced — this is added aerobic volume, not a second quality day. |
+| 2026-07-02 | Thu | 10 mi Medium-Long (NEW distance) | Bumped from 8 mi steady. Easy–steady by HR (Z2–low Z3, 140–152). Midweek aerobic-endurance builder — the marathon-specific addition. |
+| 2026-07-03 | Fri | **Consolidated Strength + PT** | Single strength day. **No heavy back squat.** Hip/glute/single-leg (Bulgarian, SL-RDL), RDL hinge, Copenhagen, Spanish squat hold, calf, reverse Nordic BW, PT block. Knee 2+ → drop loaded lower body, hold PT/mobility. |
+| 2026-07-04 | Sat | 4 mi Shakeout | 9:30+ easy. |
+| 2026-07-05 | Sun | 16 mi Long Run | inc 8 mi @ MP (HR 150–160; ~7:35–7:45 readout). Hilly home route OK — HR governs. **Fuel PF30 toward 70–80 g/hr AND practice taking gels at MP effort — the #1 Presidio fix.** |
 
-### Week 10 peak (Jul 6–12) — 42 mi | LR 20 mi
+### Week 10 peak (Jul 6–12) — ~48 mi | LR 20 mi
+**Peak week.** 5 running days, 1 strength day. Highest volume of the build — then taper.
 | Date | Day | Workout | Notes |
 |---|---|---|---|
-| 2026-07-06 | Mon | Hip Complex Circuit | Final volume push |
-| 2026-07-07 | Tue | 3×2 mi Track Intervals | 7:15–7:25 pace (threshold); 3 min rec |
-| 2026-07-08 | Wed | Heavy Strength | Final heavy session |
-| 2026-07-09 | Thu | 8 mi Progression Run | 6mi @ 9:00 / 2mi @ 7:15–7:25 (threshold) |
-| 2026-07-10 | Fri | Stability & Power | Final power session |
-| 2026-07-11 | Sat | 4 mi Shakeout | Fueling check (70–80 g/hr) |
-| 2026-07-12 | Sun | 20 mi Long Run | Peak distance. Form focus. Hilly home route OK — HR governs. Fuel PF30 toward 70–80 g/hr. |
+| 2026-07-06 | Mon | Hip Complex Circuit + PT | Final volume push. |
+| 2026-07-07 | Tue | 3×2 mi Track Intervals | 7:15–7:25 pace (threshold); 3 min rec. ~8–9 mi. |
+| 2026-07-08 | Wed | 6 mi Easy (NEW run day) | Was Heavy Strength. Easy Z2 recovery between Tue quality and Thu medium-long. |
+| 2026-07-09 | Thu | 10 mi Progression Run | Bumped from 8. 8 mi @ 9:00 easy / 2 mi @ 7:15–7:25 (threshold by HR). |
+| 2026-07-10 | Fri | **Consolidated Strength + PT (final loaded session)** | Last real strength day before taper. **No heavy back squat.** Same template as W9 Fri. Keep it crisp, no grinding. Knee 2+ → PT/mobility only. |
+| 2026-07-11 | Sat | 4 mi Shakeout | Fueling check (70–80 g/hr, gels-at-effort rehearsal). |
+| 2026-07-12 | Sun | 20 mi Long Run | Peak distance. Form focus. Hilly home route OK — HR governs. **Full race-fueling dress rehearsal: 70–80 g/hr including a caffeine PF30 in the back third, gels taken at effort.** |
 
-### Week 11 taper (Jul 13–19) — 25 mi | LR 10 mi
+### Week 11 taper (Jul 13–19) — ~27 mi | LR 10 mi
 | Date | Day | Workout | Notes |
 |---|---|---|---|
-| 2026-07-13 | Mon | Hip Complex Circuit | Taper start |
-| 2026-07-14 | Tue | 4×1200m Track @ MP | 7:35–7:45 pace; 2 min rec |
-| 2026-07-15 | Wed | Maintenance Strength | Low volume / high intensity |
-| 2026-07-16 | Thu | 6 mi Easy | 9:15–9:30 |
-| 2026-07-17 | Fri | Maintenance Strength | Spanish squat holds |
-| 2026-07-18 | Sat | Rest | Taper consistency |
-| 2026-07-19 | Sun | 10 mi Long Run | Easy taper distance |
+| 2026-07-13 | Mon | Hip Complex Circuit + PT | Taper start. |
+| 2026-07-14 | Tue | 4×1200m Track @ MP | 7:35–7:45 pace; 2 min rec. ~6 mi. |
+| 2026-07-15 | Wed | 5 mi Easy (NEW run day) | Was Maintenance Strength. Easy Z2 taper miles. |
+| 2026-07-16 | Thu | 6 mi Easy | 9:15–9:30 readout, Z2. |
+| 2026-07-17 | Fri | **Maintenance Strength + PT (light)** | Single strength day, taper-light — keep PT block + Spanish squat holds + light single-leg; no heavy load, no grinding. |
+| 2026-07-18 | Sat | Rest | Taper consistency. |
+| 2026-07-19 | Sun | 10 mi Long Run | Easy taper distance, Z2. Final fueling tune-up. |
 
 ### Week 12 race week (Jul 20–26) — 12 mi + Marathon
 | Date | Day | Workout | Notes |
@@ -332,10 +337,12 @@ Solo 5K simulation: **21:47 (7:00/mi)**. Max HR 183. 1-min HRR 33 BPM.
 
 Detailed exercise lists, weights, and progression rules live in **STRENGTH_LOG.md**. The high level:
 
-- **Wed (Heavy Strength, Cañada College):** Back squat, RDL, standing calf raise, reverse Nordic. 3-second eccentric. Progress on Easy/Good feel.
-- **Fri (Stability & Power, Cañada College):** Bulgarian split squat, single-leg RDL (DB contralateral), Spanish squat hold, Copenhagen plank. Single-leg/anti-rotation focus, balanced knee-dominant + hip-dominant patterns.
-- **Mon (Hip Complex Circuit):** Mobility only. 90/90 switches, adductor rockbacks, foam rolling. ~20 min.
-- **PT-prescribed exercises (non-negotiable):** dead bug with banded pulldown, chin tuck + lifts, side plank with hip abduction (top toe pointing toward floor). See PT_NOTES.md. These are folded into the Mon hip circuit and Fri stability day.
+**Restructured Jun 21, 2026 (back-half rebalance — see Section V).** From Week 8: **two weighted gym days → ONE consolidated strength day/week**, and the **heavy barbell back squat is dropped** (it was the sole knee irritant of the build). The freed gym day becomes a 5th running day. Mon hip-mobility circuit stays.
+
+- **Fri (Consolidated Strength + PT, Cañada College):** the single weekly strength day. Hip/glute/single-leg focus (Bulgarian split squat, single-leg RDL DB contralateral), posterior-chain RDL hinge, Spanish squat hold (knee-friendly isometric), Copenhagen plank, standing calf raise, reverse Nordic BW, + the full PT block. Balanced hip-dominant + single-leg patterns; **no heavy bilateral back squat.** Knee 2+ that week → drop loaded lower body, hold PT/mobility.
+- **Mon (Hip Complex Circuit):** Mobility only. 90/90 switches, adductor rockbacks, foam rolling. ~20 min. (Kept — protective, doesn't displace a run.)
+- **PT-prescribed exercises (non-negotiable):** dead bug with banded pulldown, chin tuck + lifts, side plank with hip abduction (top toe pointing toward floor), quadruped banded hip IR. See PT_NOTES.md. Folded into the Mon hip circuit and the Fri strength day. **These are kept in full — they target the hip-IR root cause and are the likely reason the knee stayed quiet; the rebalance removes only the knee-loading barbell squat, not the rehab.**
+- **Back squat (retired Jun 21):** the heavy bilateral back squat is out for the rest of the build. If a loaded squat pattern is wanted, sub a lighter knee-friendly option (goblet/box squat) — but the Spanish squat hold already covers quad/VMO work without the patellofemoral load.
 - **Upper body:** dropped for the 12-week build. Conscious specificity choice — revisit post-marathon.
 
 ---

@@ -10,7 +10,9 @@
 
 ## Current Recommended Weights
 
-*Last updated: 2026-06-14 (athlete call — **back squat backed off 175 → 165** to protect the knee in HM-pivot week; the Jun 3 175 bump was the only session that produced a 2/5 reading. Reassess 175 post-HM at knee 1/5. No other changes.)*
+*Last updated: 2026-06-21 (**back-half rebalance — see TRAINING_PLAN Section V**). Two structural changes: **(1) consolidated to ONE strength day/week (Fri)** — the former Wed Heavy + Fri Stability merge into a single Fri "Strength + PT" session; the freed Wed becomes a 5th running day. **(2) Heavy barbell back squat RETIRED for the rest of the build** — it was the only exercise that ever produced a knee reading >1/5 (Jun 3 @ 175 → 2/5; Jun 17 held at 165), and the hip-IR root-cause work is what's protecting the knee, not the squat. The "reassess 175 post-HM" plan is cancelled; the squat is simply out. All other weights below carry forward unchanged — fold the Wed-day exercises (RDL, calf raise, reverse Nordic) into the single Fri session alongside the stability/single-leg/PT work. Spanish squat hold covers quad/VMO work without patellofemoral load. Knee-2+-that-week rule still freezes lower-body load.*
+
+*Prior update: 2026-06-14 (athlete call — **back squat backed off 175 → 165** to protect the knee in HM-pivot week; the Jun 3 175 bump was the only session that produced a 2/5 reading. [Superseded Jun 21 — squat retired entirely.])*
 
 *Prior update: 2026-06-13 (W6 Sat Stability & Power recapture — all mains Good at Rx, no weight changes; **single-leg RDL clean Good signal finally captured at 25 lb contralateral**, working weight confirmed. Knee 1/5. Prior heavy-day note below retained for context.)*
 
@@ -22,20 +24,20 @@ Use a simple feel rating when reporting back: **Easy** (4+ reps left in tank), *
 
 **Exercises marked (PT) are prescribed directly by Akanksha A Sojitra, PT.** See PT_NOTES.md for cues and references. Folded into Mon mobility and Fri stability sessions. Form: exhale slowly on effort; slow down on single-leg work.
 
-### Wed — Heavy Strength (Cañada College)
-3–4 sets × 6–8 reps at **75–85% 1RM**. 3-sec eccentric. Compound, posterior chain, knee-protective.
+### Strength load carried into the consolidated Fri day (formerly the Wed Heavy exercises)
+3–4 sets × 6–8 reps, 3-sec eccentric. Posterior chain + calf, knee-protective. **These now run on the single Fri strength day** alongside the stability/single-leg/PT block below.
 
 | Exercise | Recommended | Feel Target |
 |----------|-------------|-------------|
-| Back squat | **165 lb, 4 × 6** | Good — 3-sec eccentric, hips break first then knees, knees track over toes. **Backed off 175 → 165 (Jun 14, athlete call):** the Jun 3 bump to 175 was the session that produced the only 2/5 knee reading of the block; not worth the risk in HM-pivot week. 165 has a long clean (knee-1/5) history. **Reassess 175 only post-HM, and only with the knee at 1/5.** |
+| ~~Back squat~~ **RETIRED (Jun 21)** | — | **Dropped for the rest of the build.** The only exercise that ever pushed the knee past 1/5 (Jun 3 @ 175 → 2/5). Hip-IR rehab, not the squat, is what's protecting the knee. If a loaded squat pattern is ever wanted, sub a light goblet/box squat — but the Spanish squat hold already covers quad/VMO without the patellofemoral load. |
 | Romanian deadlift (RDL) | 165 lb, 4 × 6 — **straps required** | Good — hinge, neutral spine, hamstring stretch. Grip is the limiter without straps; if no straps, **hook grip** helps but still fades by the last set (Jun 3: 155 hook-grip, last set broke up). Bring straps and the 165 posterior-chain load is clean. |
 | Standing calf raise | **155 lb back-rack barbell**, 4 × 10 | Good — full ROM (heel below step), 2-sec hold at top, 3-sec lower. **Moved off DBs to the bar Jun 3 — back rack kills the grip+balance ceiling that capped DB calf raises since W1.** Do it in the rack with safeties set, start flat-footed then add ROM. No feel rating captured yet at 155; calves likely still have room, but **hold 155 this week** (knee 2+) and capture a feel signal next session before progressing. |
 | Reverse Nordic | Bodyweight, 3 × 10 | Good — kneel on pad, knees hip-width, glutes squeezed (lock hip extension), 3-sec lower. Build depth slowly week over week (W1: ~45°). Stop on any sharp PF pain. |
 
 **W1 calibration protocol (Wed May 6, first heavy session):** Warm up the bar (45 × 10, 95 × 5, 115 × 5), then build to a top set of 6 reps that feels Good (2–3 reps in reserve). Whatever weight that lands on becomes the working weight for Sets 2–4 and the W2 starting load. The seeds above are educated guesses for a 155-lb 42M with single-leg strength baseline (Bulgarian splits at 15 lb/hand cleared Good); they'll move 10–20 lb either way after one honest session. Same approach for RDL.
 
-### Fri — Stability & Power (Cañada College)
-3 sets × 8–10 reps per side, or time-based for isometrics. Single-leg, anti-rotation, knee-stability focus.
+### Fri — Consolidated Strength + PT (Cañada College) — the single weekly strength day
+3 sets × 8–10 reps per side, or time-based for isometrics. Single-leg, anti-rotation, knee-stability focus — **plus the posterior-chain RDL / calf / reverse Nordic load from the table above** (the former Wed exercises now live here). No heavy back squat. Order: warm-up + PT block first, then loaded work. If time-crunched, PT block + single-leg work are the keepers.
 
 | Exercise | Recommended | Feel Target |
 |----------|-------------|-------------|
