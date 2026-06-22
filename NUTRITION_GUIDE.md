@@ -57,6 +57,20 @@ Goal: train the gut to comfortably absorb **70–80 g/hr** by peak weeks. **Targ
 
 **Do NOT add LMNT to the Maurten Drink Mix bottle.** Maurten keeps the drink salt-minimal *by design* ("engineered for optimal carb absorption"); dumping ½ LMNT's salt load into it goes against the non-negotiable formulation and can disrupt the hydrogel. **Keep carbs and electrolytes in separate vessels:** Maurten Drink Mix (carb + its own 210 mg sodium) in one, and if more sodium is needed, take it separately (salt caps, or a second plain-water+LMNT source). Note the 160 alone runs ~420 mg sodium/L — *below* the ~1000 mg/L target and below Paul's proven ½-LMNT setup; fine for cool low-sweat Bay mornings, but for a warm marathon plan supplemental sodium. **Dial the exact carb + electrolyte architecture in the W8–W9 long-run rehearsals before locking the race-day setup.**
 
+### Marathon race-day fluid/fuel architecture (draft, set Jun 21, 2026 — refine through the rehearsals)
+
+**The handheld is a carb vessel, NOT the water supply.** A 500 ml handheld can't hydrate a 3.5-hr marathon and isn't meant to — the SF Marathon's aid stations (~every 2–3 mi ≈ every 15–20 min) are the hydration source. Division of labor: **self-carry the carb (aid stations don't stock Maurten); get water from the course.**
+
+- **Hydration:** aid-station water, to thirst.
+- **Carb backbone:** Maurten Gel 100 every ~20–25 min — **no water chaser needed** (the hydrogel is designed to be taken without it); **CAF 100 in the back third** (~mi 16 + ~mi 20–22).
+- **Easy-sip supplement:** Drink Mix 160 in the handheld (ideally a collapsible **soft flask** — sip down over the first half where forcing gels at effort is hardest, then pocket/toss it; optional spare DM packet to remix mid-race for a back-half sip option).
+- **Total:** ~8–9 gels + 1 drink mix ≈ **70 g/hr**, in the 70–80 band.
+- **Electrolytes:** **none engineered.** Paul is not a salty sweater and has never run low; SF July is cool/foggy with an early start (low sweat/sodium loss). DM's 210 mg + aid-station electrolyte cups cover it. **No LMNT in the race, never mixed into the Maurten.** Optional: a couple of salt caps in a pocket as warm-day insurance, taken only if needed.
+
+### Self-supported long-run rehearsal setup (Paul's method, Jun 21 — simulates the race exactly)
+
+Training long runs from the door have **no aid stations**, so to rehearse the race architecture faithfully: **carry the handheld (Drink Mix 160) + gels exactly as race day, PLUS a hydration vest filled with water-only to play the role of the aid stations.** Drink the vest water to thirst (standing in for course water), keep the handheld strictly for carb sips, and take gels on the race cadence. This reproduces the exact race split — carb self-carried, water "from the course" — on an unsupported route, and lets the W8–W10 long runs dress-rehearse the real fueling without routing around fountains. (Bonus: vest-vs-handheld carry feel, and whether the firmer Maurten goes down at MP-block HR, both get tested under race-like load.)
+
 **Fast-finish fueling rule (learned June 7):** when a long run has an embedded MP/threshold close, the back-half gel often comes due *during* the surge and is easy to skip under pace focus (Paul missed the 90-min gel on June 7 for exactly this reason — a focus call, not GI). **Pre-load it:** take the gel that would land mid-surge a few minutes early, *before* the fast finish begins, so the feeding is banked before attention narrows to pace.
 
 ### Bay to Breakers fuel rehearsal (Week 2 — first real practice, Maurten under load)
