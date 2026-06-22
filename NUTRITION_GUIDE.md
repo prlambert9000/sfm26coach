@@ -65,7 +65,7 @@ Goal: train the gut to comfortably absorb **70–80 g/hr** by peak weeks. **Targ
 - **Carb backbone:** Maurten Gel 100 every ~20–25 min — **no water chaser needed** (the hydrogel is designed to be taken without it); **CAF 100 in the back third** (~mi 16 + ~mi 20–22).
 - **Easy-sip supplement:** Drink Mix 160 in the handheld (ideally a collapsible **soft flask** — sip down over the first half where forcing gels at effort is hardest, then pocket/toss it; optional spare DM packet to remix mid-race for a back-half sip option).
 - **Total:** ~8–9 gels + 1 drink mix ≈ **70 g/hr**, in the 70–80 band.
-- **Electrolytes:** **none engineered.** Paul is not a salty sweater and has never run low; SF July is cool/foggy with an early start (low sweat/sodium loss). DM's 210 mg + aid-station electrolyte cups cover it. **No LMNT in the race, never mixed into the Maurten.** Optional: a couple of salt caps in a pocket as warm-day insurance, taken only if needed.
+- **Electrolytes:** **none engineered.** Paul is not a salty sweater and has never run low; SF July is cool/foggy with an early start (low sweat/sodium loss). DM's 210 mg + aid-station electrolyte cups cover it. **No LMNT in the race, never mixed into the Maurten.** **Warm-day backup: SaltStick Electrolyte Fastchews (chewable, chosen Jun 21 over GU Roctane capsules)** — carried in a pocket, taken only if needed. **Chewable over capsule deliberately: no water required to take them**, which fits Paul's high-HR-intake problem (a capsule needs a swallow + water — the exact friction we're avoiding); ~100 mg sodium per serving (check per-chew count), 1–2 as needed.
 
 ### Self-supported long-run rehearsal setup (Paul's method, Jun 21 — simulates the race exactly)
 
