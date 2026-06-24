@@ -1,5 +1,26 @@
 # Workout Log
 
+## June 24, 2026
+
+- **Workout:** 4 mi Easy (V6 Week 8 deload day 3 — Wed, the NEW easy-run day that replaced Heavy Strength in the back-half rebalance). Easy Z2 shakeout, 3 days post the Presidio HM. **Done.**
+- **Type:** Run (easy Z2 deload, hilly door route). Strava sidecar: `strava/activities/19049732691.json`.
+- **The numbers:** **4.21 mi** in 37:41 moving · avg **8:58/mi** · avg HR **132** (H10) · **max 141** · +200 ft · avg power 222 W · **suffer 29** · 444 cal.
+- **HR zones:** Z1 (≤116) 2:19 · **Z2 (117–144) 35:22** · Z3+ **0:00.** Entirely Z2 — textbook easy deload, never touched steady. Max 141 clean (no end-of-workout spike), well under the 168 H10 floor → no max-HR implications.
+- **Splits (pace / HR / elev):** 1: 8:30 / 121 / −130 (downhill start) · 2: 8:24 / 132 / −52 · 3: 8:57 / 135 / +17 · 4: 9:38 / 137 / +107 (the climb — pace floats out, HR barely moves) · 0.2: 10:51 / 138 / +39. **HR-governed exactly right:** pace drifted 8:24→9:38 across the rolling door route while HR held 132→137 — let pace float on the hills, hold the easy effort.
+- **Knee Status:** **1/5 — green.** No knee awareness; *"felt generally good."* Streak holds.
+- **Recovery read — ~80% back from the HM.** Paul: *"Felt generally good though I'm only about 80% recovered from Sunday's half, a bit of fatigue and soreness still."* That's a normal recovery curve 3 days out from a hard, under-fueled HM (suffer 235, his highest in the V6 log) — the deload week is doing its job. The HR confirms it: 132 avg at 8:58/mi is a hair higher HR-for-pace than a fully-fresh easy day, consistent with residual fatigue, but well within easy.
+- **NEW WATCH ITEM — right hamstring twinge.** Paul: *"my right hamstring had a bit of a twinge, nothing too concerning yet."* Logged as a watch item, not an alarm. Two reasons to keep an eye on it: (1) it's the **same leg as the historically tender right knee**, and (2) it showed up in the recovery window after a hilly bridge HM with heavy eccentric descent load — most likely residual fatigue/tightness from that, not an acute strain. **Action:** add right-hamstring/posterior-chain attention to mobility this week (gentle dynamic warm-up, no aggressive static stretching of an irritated hamstring, hydrate/foam-roll), watch how it behaves on Thu's 6 mi and especially Sunday's 10 mi long run. Escalate if it sharpens, alters gait, or moves from "twinge" to a pull sensation.
+- **Tuesday (Jun 23) skipped — full rest day, correct call.** Paul skipped yesterday's 4 mi easy *"to give my body and mind a full rest / recovery day."* In a deload week, 2 days off a hard under-fueled HM, with residual fatigue + soreness present, a full rest day is exactly right — auto-regulation, not slacking. Volume isn't the point of a deload; recovery is. Zero fitness cost. (See separate Jun 23 entry.)
+- **Strava sidecar:** `strava/activities/19049732691.json` · [activity](https://www.strava.com/activities/19049732691). Cadence null per the known Apple→Strava gap.
+- **Coaching read — recovery is tracking, just respect the hamstring.** Three days post a brutal, fuel-starved HM you're 80% back with a clean 1/5 knee and a textbook all-Z2 deload run — that's a healthy curve. The one new variable is the right-hamstring twinge; it's almost certainly HM residue, but it's in the problem leg so it gets logged and watched rather than waved off. **Forward:** Thu 6 mi easy (Z2) — if the hamstring is still talking, keep it strictly easy and shorten if it sharpens; Fri is the first post-HM consolidated strength + PT (go light, re-introduce load gently, knee/hamstring 2+ → PT & mobility only); Sun is the 10 mi long run that doubles as the **fueling-fix rehearsal** (practice taking a gel at effort — the Presidio lesson). Nothing here changes the plan; the deload is working.
+
+## June 23, 2026
+
+- **Workout:** 4 mi Easy (V6 Week 8 deload day 2 — Tue). **SKIPPED — full rest/recovery day taken instead.**
+- **Type:** Rest (planned easy run swapped for complete rest).
+- **Why:** Paul: *"I skipped yesterday's run to give my body and mind a full rest / recovery day."* Two days off the Presidio HM (his hardest V6 effort, suffer 235), in a deload week, with residual fatigue + soreness still present — a full rest day is correct auto-regulation. Deload weeks are about recovery, not accumulating miles; skipping a 4 mi easy here costs nothing and likely sped the recovery curve (he was 80% back by Wed — see Jun 24 entry).
+- **Knee Status:** N/A (no run). No knee complaints reported.
+
 ## June 21, 2026
 
 - **Workout:** **Presidio Half Marathon — the Week 7 Pivot Assessment** (Crissy Field → Presidio → out-and-back over the Golden Gate Bridge). 13.1 mi. The gated test: (1) sub-1:37:30, (2) avg HR <170 final 3 mi, (3) zero knee compensation. **Finished.**
@@ -657,19 +678,3 @@
 - **Relative Effort:** 21.0
 - **Knee Status:** 🟢 Green (short errand run, no issues reported)
 - **Notes:** Auto-logged from Strava.
-
-## June 24, 2026
-
-- **Workout:** Morning Run
-- **Type:** Run
-- **Distance:** 4.21 mi
-- **Time:** 37:41
-- **Avg Pace:** 8:58/mi
-- **Elevation Gain:** 200 ft
-- **Avg Heart Rate:** 132 bpm (max 141)
-- **Avg Cadence:** N/A
-- **Splits:** 8:30, 8:24, 8:57, 9:38, 10:51
-- **Relative Effort:** 29.0
-- **Strava sidecar:** `strava/activities/19049732691.json`
-- **Knee Status:** (pending — update after reviewing)
-- **Notes:** Auto-logged from Strava. Awaiting athlete feedback.
