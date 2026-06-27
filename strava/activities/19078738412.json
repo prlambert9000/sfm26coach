@@ -1,0 +1,98 @@
+{
+  "activity_id": 19078738412,
+  "avg_cadence_spm": null,
+  "avg_hr": 132.8,
+  "avg_pace": "9:15/mi",
+  "avg_power_w": 233.0,
+  "calories": 423.0,
+  "date": "2026-06-26",
+  "date_heading": "June 26, 2026",
+  "description": "",
+  "distance_mi": 3.568,
+  "elapsed_time_s": 1983,
+  "elevation_gain_ft": 475.1,
+  "fetched_at": "2026-06-27T04:05:29Z",
+  "hr_zones": [
+    {
+      "max": 116,
+      "min": 0,
+      "time_s": 141.0
+    },
+    {
+      "max": 144,
+      "min": 117,
+      "time_s": 1541.0
+    },
+    {
+      "max": 158,
+      "min": 145,
+      "time_s": 297.0
+    },
+    {
+      "max": 173,
+      "min": 159,
+      "time_s": 0.0
+    },
+    {
+      "max": -1,
+      "min": 174,
+      "time_s": 0.0
+    }
+  ],
+  "laps": [
+    {
+      "avg_cadence_spm": null,
+      "avg_hr": 132.8,
+      "distance_m": 5740.9,
+      "distance_mi": 3.567,
+      "elapsed_time_s": 1983,
+      "elev_gain_ft": 475.1,
+      "lap_index": 1,
+      "max_hr": 149.0,
+      "moving_time_s": 1983,
+      "name": "Lap 1",
+      "pace": "9:16"
+    }
+  ],
+  "max_hr": 149.0,
+  "moving_time_s": 1979,
+  "name": "Morning Run",
+  "splits": [
+    {
+      "avg_hr": 126.11447811447812,
+      "distance_mi": 1.001,
+      "elev_diff_ft": 160.1,
+      "mile": 1,
+      "moving_time_s": 596,
+      "pace": "9:56"
+    },
+    {
+      "avg_hr": 139.0797342192691,
+      "distance_mi": 1.0,
+      "elev_diff_ft": 193.6,
+      "mile": 2,
+      "moving_time_s": 616,
+      "pace": "10:16"
+    },
+    {
+      "avg_hr": 131.7037037037037,
+      "distance_mi": 1.0,
+      "elev_diff_ft": -298.6,
+      "mile": 3,
+      "moving_time_s": 487,
+      "pace": "8:07"
+    },
+    {
+      "avg_hr": 135.38214285714287,
+      "distance_mi": 0.566,
+      "elev_diff_ft": -72.2,
+      "mile": 4,
+      "moving_time_s": 280,
+      "pace": "8:15"
+    }
+  ],
+  "start_local": "2026-06-26T06:46:10Z",
+  "strava_url": "https://www.strava.com/activities/19078738412",
+  "suffer_score": 28.0,
+  "type": "Run"
+}
