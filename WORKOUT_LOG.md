@@ -694,3 +694,19 @@
 - **Strava sidecar:** `strava/activities/19078738412.json`
 - **Knee Status:** (pending — update after reviewing)
 - **Notes:** Auto-logged from Strava. Awaiting athlete feedback.
+
+## June 29, 2026
+
+- **Workout:** Victoria morning
+- **Type:** Run
+- **Distance:** 11.44 mi
+- **Time:** 1:37:32
+- **Avg Pace:** 8:32/mi
+- **Elevation Gain:** 566 ft
+- **Avg Heart Rate:** 150 bpm (max 179)
+- **Avg Cadence:** N/A
+- **Splits:** 9:28, 8:19, 8:18, 8:33, 9:04, 8:24, 8:37, 8:29, 8:21, 8:28, 8:14, 7:24
+- **Relative Effort:** 190.0
+- **Strava sidecar:** `strava/activities/19111562474.json`
+- **Knee Status:** (pending — update after reviewing)
+- **Notes:** Auto-logged from Strava. Awaiting athlete feedback.

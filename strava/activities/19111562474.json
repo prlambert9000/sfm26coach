@@ -1,0 +1,162 @@
+{
+  "activity_id": 19111562474,
+  "avg_cadence_spm": null,
+  "avg_hr": 149.6,
+  "avg_pace": "8:32/mi",
+  "avg_power_w": 236.7,
+  "calories": 1225.0,
+  "date": "2026-06-29",
+  "date_heading": "June 29, 2026",
+  "description": "",
+  "distance_mi": 11.44,
+  "elapsed_time_s": 5862,
+  "elevation_gain_ft": 565.6,
+  "fetched_at": "2026-06-29T15:40:40Z",
+  "hr_zones": [
+    {
+      "max": 116,
+      "min": 0,
+      "time_s": 0.0
+    },
+    {
+      "max": 144,
+      "min": 117,
+      "time_s": 2424.0
+    },
+    {
+      "max": 158,
+      "min": 145,
+      "time_s": 1370.0
+    },
+    {
+      "max": 173,
+      "min": 159,
+      "time_s": 1565.0
+    },
+    {
+      "max": -1,
+      "min": 174,
+      "time_s": 491.0
+    }
+  ],
+  "laps": [
+    {
+      "avg_cadence_spm": null,
+      "avg_hr": 149.6,
+      "distance_m": 18408.0,
+      "distance_mi": 11.438,
+      "elapsed_time_s": 5862,
+      "elev_gain_ft": 565.6,
+      "lap_index": 1,
+      "max_hr": 179.0,
+      "moving_time_s": 5853,
+      "name": "Lap 1",
+      "pace": "8:32"
+    }
+  ],
+  "max_hr": 179.0,
+  "moving_time_s": 5852,
+  "name": "Victoria morning",
+  "splits": [
+    {
+      "avg_hr": 128.84303350970018,
+      "distance_mi": 1.001,
+      "elev_diff_ft": 61.7,
+      "mile": 1,
+      "moving_time_s": 569,
+      "pace": "9:28"
+    },
+    {
+      "avg_hr": 129.00803212851406,
+      "distance_mi": 0.999,
+      "elev_diff_ft": -87.3,
+      "mile": 2,
+      "moving_time_s": 499,
+      "pace": "8:19"
+    },
+    {
+      "avg_hr": 136.93762575452718,
+      "distance_mi": 1.001,
+      "elev_diff_ft": 9.2,
+      "mile": 3,
+      "moving_time_s": 499,
+      "pace": "8:18"
+    },
+    {
+      "avg_hr": 145.1329365079365,
+      "distance_mi": 1.0,
+      "elev_diff_ft": -0.7,
+      "mile": 4,
+      "moving_time_s": 513,
+      "pace": "8:33"
+    },
+    {
+      "avg_hr": 145.7651515151515,
+      "distance_mi": 0.999,
+      "elev_diff_ft": -12.5,
+      "mile": 5,
+      "moving_time_s": 544,
+      "pace": "9:04"
+    },
+    {
+      "avg_hr": 145.13052208835342,
+      "distance_mi": 1.0,
+      "elev_diff_ft": 24.3,
+      "mile": 6,
+      "moving_time_s": 504,
+      "pace": "8:24"
+    },
+    {
+      "avg_hr": 150.30754352030948,
+      "distance_mi": 1.001,
+      "elev_diff_ft": 13.8,
+      "mile": 7,
+      "moving_time_s": 517,
+      "pace": "8:37"
+    },
+    {
+      "avg_hr": 158.1031746031746,
+      "distance_mi": 1.0,
+      "elev_diff_ft": -7.9,
+      "mile": 8,
+      "moving_time_s": 509,
+      "pace": "8:29"
+    },
+    {
+      "avg_hr": 161.91365461847388,
+      "distance_mi": 0.999,
+      "elev_diff_ft": -30.8,
+      "mile": 9,
+      "moving_time_s": 500,
+      "pace": "8:21"
+    },
+    {
+      "avg_hr": 164.08416833667334,
+      "distance_mi": 1.0,
+      "elev_diff_ft": 37.4,
+      "mile": 10,
+      "moving_time_s": 508,
+      "pace": "8:28"
+    },
+    {
+      "avg_hr": 173.19635627530366,
+      "distance_mi": 1.001,
+      "elev_diff_ft": 13.8,
+      "mile": 11,
+      "moving_time_s": 495,
+      "pace": "8:14"
+    },
+    {
+      "avg_hr": 175.51282051282053,
+      "distance_mi": 0.442,
+      "elev_diff_ft": -66.3,
+      "mile": 12,
+      "moving_time_s": 196,
+      "pace": "7:24"
+    }
+  ],
+  "start_local": "2026-06-29T06:31:38Z",
+  "strava_url": "https://www.strava.com/activities/19111562474",
+  "suffer_score": 190.0,
+  "type": "Run"
+}
