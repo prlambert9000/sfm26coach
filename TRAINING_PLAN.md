@@ -290,11 +290,11 @@ Solo 5K simulation: **21:47 (7:00/mi)**. Max HR 183. 1-min HRR 33 BPM.
 | Date | Day | Workout | Notes |
 |---|---|---|---|
 | 2026-06-29 | Mon | 10 mi Long Run **(DONE — was Hip Complex Circuit)** | Week 8 Sunday LR moved to Mon; family trip to BC Sat/Sun meant no running. No H10 (left home) — wrist-optical only; PE Z2/Z3. **Fueling breakthrough: Maurten DM 160 + 4 gels (2× CAF) ≈ 77 g/hr, GI clean.** Knee 1/5, hamstring 1/5. |
-| 2026-06-30 | Tue | **Hip Complex Circuit + PT** | Shifted from Mon — extra recovery day after Monday's long run before Wednesday's track. |
-| 2026-07-01 | Wed | **6×1600m Track Tempo** | Shifted from Tue: 48h recovery between long run and quality. 7:15–7:25 pace; 2 min rec. ~8 mi w/ WU+CD. Track is pace-governed — no H10 needed. |
-| 2026-07-02 | Thu | **6 mi Easy** | Reduced from 10 mi medium-long — Wed track + Thu 10-mi on still-tired legs is too compressed. Keep Z2, ~9:00 readout. |
-| 2026-07-03 | Fri | **Consolidated Strength + PT** | Single strength day. **No heavy back squat.** Hip/glute/single-leg (Bulgarian, SL-RDL), RDL hinge, Copenhagen, Spanish squat hold, calf, reverse Nordic BW, PT block. Knee 2+ → drop loaded lower body, hold PT/mobility. |
-| 2026-07-04 | Sat | 4 mi Shakeout | 9:30+ easy. |
+| 2026-06-30 | Tue | **Hip Complex Circuit + PT (bodyweight)** | Shifted from Mon. BC-adapted: all BW — 90/90 switches, adductor rockbacks, glute bridges, quadruped hip CARs; skip banded exercises if no bands. |
+| 2026-07-01 | Wed | **6×5 min Road Threshold Reps** | No track in BC — substitutes for 6×1600m. 1.5 mi WU jog → 6×5 min @ threshold RPE (hard/controlled, 7/10, can't hold conversation), 2 min jog recovery → 1.5 mi CD. ~8 mi total. RPE governs (no H10). Flat-ish road preferred; if hilly, run by effort not pace. |
+| 2026-07-02 | Thu | **6 mi Easy** | Z2 by RPE (conversational). No H10 — run by feel. BC roads/trails fine. |
+| 2026-07-03 | Fri | **Bodyweight Strength + PT (BC)** | No gym — BW only. Dynamic WU + 90/90 PAILs + glute bridges + BW Bulgarian split squats + SL-RDL balance + Spanish squat hold + Copenhagen plank (chair) + reverse Nordics (anchored) + single-leg calf raises. Skip loaded versions; keep PT block intact. Knee 2+ → PT/mobility only. |
+| 2026-07-04 | Sat | Rest or easy shakeout (travel day home) | Fly home to Redwood City. Rest is fine; 20–30 min easy jog optional if time allows before flight. |
 | 2026-07-05 | Sun | 16 mi Long Run | inc 8 mi @ MP (HR 150–160; ~7:35–7:45 readout). Hilly home route OK — HR governs. **Fuel: DM 160 handheld + gels every ~25 min (2× CAF in back half) → 70–80 g/hr (confirmed achievable Jun 29). #1 priority: take at least 2 gels during the MP block at HR 150–160 — the remaining validation before the Jul 12 dress rehearsal.** |
 
 ### Week 10 peak (Jul 6–12) — ~48 mi | LR 20 mi
