@@ -1,5 +1,46 @@
 # Workout Log
 
+## June 29, 2026
+
+- **Workout:** Long Run — Week 8 Sunday deload LR moved to Monday (family trip to BC Sat/Sun, no running those days). Victoria, BC. **Done.**
+- **Type:** Run (long, easy-progressive — fueling rehearsal #3). Strava sidecar: `strava/activities/19111562474.json` · [activity](https://www.strava.com/activities/19111562474). **⚠️ No H10 (left home) — ALL HR data is wrist-optical only and unreliable.** Do not use for zone analysis or max-HR inference.
+- **The numbers:** **11.44 mi** in 97:32 moving (97:42 elapsed) · avg **8:32/mi** · avg HR **149.6** *(wrist optical — disregard)* · **max 179** *(wrist optical artifact — not a valid reading)* · +566 ft · avg power 237 W · **suffer 190** *(inflated by optical HR drift)* · 1,225 cal.
+- **Splits (pace / elev) — HR wrist-optical, noted but not analyzed:**
+  1: 9:28 / +62 ft · 2: 8:19 / −87 ft · 3: 8:18 / +9 ft · 4: 8:33 / flat · 5: 9:04 / −13 ft · 6: 8:24 / +24 ft · 7: 8:37 / +14 ft · 8: 8:29 / −8 ft · 9: 8:21 / −31 ft · 10: 8:28 / +37 ft · 11: 8:14 / +14 ft · 0.44: 7:24 / −66 ft. Natural progressive shape — eased in at 9:28, settled ~8:18–8:37 through the middle, lifted to 8:14 for mile 11, finished with a 7:24 kick.
+- **Perceived effort:** Z2 and Z3 throughout. Felt controlled and comfortable.
+- **Knee Status:** **1/5 — green.** Comfortable throughout the 11.44 miles.
+- **Hamstring:** **Good.** Right-hamstring twinge from Jun 24 fully resolved; no recurrence on this longer, hillier effort. Clear.
+- **Fueling — BREAKTHROUGH: system confirmed at ~71 g/hr, GI clean:**
+  - Maurten DM 160 in 500 ml handheld (40 g carb) · CAF 100 at T−5 (25 g + 100 mg caf) · Gel 100 at 25 min (25 g) · Gel 100 at 50 min (25 g) · CAF 100 at 80 min (25 g + 100 mg caf).
+  - Finished handheld ~mi 7 (~60 min); refilled with plain water from a fountain. Hydration: good.
+  - **In-run carbs: ~115 g / 97 min ≈ 71 g/hr** — bottom of the 70–80 g/hr race-day band. Including the T−5 pre-load: ~140 g total.
+  - **Total caffeine: 200 mg** (2 × CAF 100). Zero GI distress, no stitch, no nausea, no bloating.
+- **Coaching read — Presidio fix confirmed working at easy-to-moderate effort; 1.44 mi bonus over plan.** One gel in 97 min at Presidio (fuel-starved close) → 4 gels + drink mix in 97 min today, GI perfectly clean and 71 g/hr. The Maurten hydrogel format, caffeine front-loading, and drink-mix steady-sip approach all worked as designed. He also ran 11.44 mi (1.44 over the 10-mi plan) with a natural progressive finish — a positive signal heading into Week 9. **Critical validation still outstanding:** today's effort was easy/moderate (PE Z2/Z3). The system must now prove itself at HR 150–160 MP effort. On **Sun Jul 5 (16 mi inc 8 @ MP)**, deliberately take gels during the MP block. That's the remaining test before the Jul 12 full dress rehearsal.
+- **Week 9 schedule adjusted:** Mon long run shifts the week's rhythm one day. Tue = Hip Complex Circuit (from Mon), Wed = 6×1600m Track (from Tue, 48h recovery after today's long run), Thu = 6 mi Easy (reduced from 10 mi medium-long — Wed track + Thu 10-mi back-to-back on still-tired legs is too compressed). Volume still ~44 mi. See TRAINING_PLAN.md Week 9.
+- **H10 note:** No H10 this trip — bring it home before Sun's 16-mi LR. Easy days: run by RPE (conversational = Z2). Track Wed is pace-governed, manageable without H10; the 16-mi LR with 8 @ MP really needs reliable HR data.
+
+## June 28, 2026
+
+- **Workout:** 10 mi Long Run (V6 Week 8 Sunday — fueling rehearsal). **MISSED — family trip to BC** (flying day, baggage issues). Completed the following day (see Jun 29).
+- **Type:** Rest / travel day.
+- **Knee Status:** N/A.
+
+## June 27, 2026
+
+- **Workout:** Rest or 30-min easy walk (V6 Week 8 Saturday). **REST — flew to BC; baggage situation precluded any run.** Fine — travel stress counts as load, and the long run was what mattered.
+- **Type:** Rest / travel day.
+- **Knee Status:** N/A.
+
+## June 26, 2026
+
+- **Workout:** V6 Week 8 Friday — plan was **Consolidated Strength + PT (light)**. Paul ran an easy 3.57 mi instead. **Missed strength/PT session — last lift was Jun 17 (9 days prior heading into this run).** Fri Jul 3 is non-negotiable.
+- **Type:** Run (easy Z2, hilly route). Strava sidecar: `strava/activities/19078738412.json`.
+- **The numbers:** **3.57 mi** in 32:59 moving · avg **9:15/mi** · avg HR **133** (H10) · **max 149** · +475 ft · avg power 233 W · **suffer 28** · 423 cal.
+- **HR zones:** Z1 (≤116) 2:21 · **Z2 (117–144) 25:41** · Z3 (145–158) 4:57 · Z4+ 0:00. Textbook easy flush — entirely Z2 except 5 min Z3 on the climbs.
+- **Splits (pace / HR / elev):** 1: 9:56 / 126 / +160 · 2: 10:16 / 139 / +194 · 3: 8:07 / 132 / −299 · 0.57: 8:15 / 135 / −72. Hilly route — climbs mi 1–2 drove up pace with HR staying easy, fast descent mi 3.
+- **Knee Status:** No feedback received.
+- **Missed strength note:** The hip ER/abductor PT block (Copenhagen, Spanish squat hold, SL-RDL) was skipped this week. **Fri Jul 3 Consolidated Strength + PT is the priority** — heading into the biggest week of the build without the PT insurance is a risk given the knee history.
+
 ## June 24, 2026
 
 - **Workout:** 4 mi Easy (V6 Week 8 deload day 3 — Wed, the NEW easy-run day that replaced Heavy Strength in the back-half rebalance). Easy Z2 shakeout, 3 days post the Presidio HM. **Done.**
@@ -679,18 +720,3 @@
 - **Knee Status:** 🟢 Green (short errand run, no issues reported)
 - **Notes:** Auto-logged from Strava.
 
-## June 26, 2026
-
-- **Workout:** Morning Run
-- **Type:** Run
-- **Distance:** 3.57 mi
-- **Time:** 32:59
-- **Avg Pace:** 9:15/mi
-- **Elevation Gain:** 475 ft
-- **Avg Heart Rate:** 133 bpm (max 149)
-- **Avg Cadence:** N/A
-- **Splits:** 9:56, 10:16, 8:07, 8:15
-- **Relative Effort:** 28.0
-- **Strava sidecar:** `strava/activities/19078738412.json`
-- **Knee Status:** (pending — update after reviewing)
-- **Notes:** Auto-logged from Strava. Awaiting athlete feedback.

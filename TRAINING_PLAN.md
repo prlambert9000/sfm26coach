@@ -289,13 +289,13 @@ Solo 5K simulation: **21:47 (7:00/mi)**. Max HR 183. 1-min HRR 33 BPM.
 **Lean-in build begins.** 5 running days, 1 strength day. Volume jumps via easy aerobic miles + a midweek medium-long (Thu).
 | Date | Day | Workout | Notes |
 |---|---|---|---|
-| 2026-06-29 | Mon | Hip Complex Circuit + PT | Peak phase start. |
-| 2026-06-30 | Tue | 6×1600m Track Tempo | 7:15–7:25 pace (threshold); 2 min rec. ~8 mi w/ WU+CD. |
-| 2026-07-01 | Wed | 6 mi Easy (NEW run day) | Was Heavy Strength. Easy Z2, ~9:00 readout. Recovery-paced — this is added aerobic volume, not a second quality day. |
-| 2026-07-02 | Thu | 10 mi Medium-Long (NEW distance) | Bumped from 8 mi steady. Easy–steady by HR (Z2–low Z3, 140–152). Midweek aerobic-endurance builder — the marathon-specific addition. |
+| 2026-06-29 | Mon | 10 mi Long Run **(DONE — was Hip Complex Circuit)** | Week 8 Sunday LR moved to Mon; family trip to BC Sat/Sun meant no running. No H10 (left home) — wrist-optical only; PE Z2/Z3. **Fueling breakthrough: Maurten DM 160 + 4 gels (2× CAF) ≈ 77 g/hr, GI clean.** Knee 1/5, hamstring 1/5. |
+| 2026-06-30 | Tue | **Hip Complex Circuit + PT** | Shifted from Mon — extra recovery day after Monday's long run before Wednesday's track. |
+| 2026-07-01 | Wed | **6×1600m Track Tempo** | Shifted from Tue: 48h recovery between long run and quality. 7:15–7:25 pace; 2 min rec. ~8 mi w/ WU+CD. Track is pace-governed — no H10 needed. |
+| 2026-07-02 | Thu | **6 mi Easy** | Reduced from 10 mi medium-long — Wed track + Thu 10-mi on still-tired legs is too compressed. Keep Z2, ~9:00 readout. |
 | 2026-07-03 | Fri | **Consolidated Strength + PT** | Single strength day. **No heavy back squat.** Hip/glute/single-leg (Bulgarian, SL-RDL), RDL hinge, Copenhagen, Spanish squat hold, calf, reverse Nordic BW, PT block. Knee 2+ → drop loaded lower body, hold PT/mobility. |
 | 2026-07-04 | Sat | 4 mi Shakeout | 9:30+ easy. |
-| 2026-07-05 | Sun | 16 mi Long Run | inc 8 mi @ MP (HR 150–160; ~7:35–7:45 readout). Hilly home route OK — HR governs. **Fuel Maurten Gel 100 (every ~25 min + drink-mix sips) toward 60–70 g/hr AND practice taking a gel mid-MP-block at effort — the #1 Presidio fix.** |
+| 2026-07-05 | Sun | 16 mi Long Run | inc 8 mi @ MP (HR 150–160; ~7:35–7:45 readout). Hilly home route OK — HR governs. **Fuel: DM 160 handheld + gels every ~25 min (2× CAF in back half) → 70–80 g/hr (confirmed achievable Jun 29). #1 priority: take at least 2 gels during the MP block at HR 150–160 — the remaining validation before the Jul 12 dress rehearsal.** |
 
 ### Week 10 peak (Jul 6–12) — ~48 mi | LR 20 mi
 **Peak week.** 5 running days, 1 strength day. Highest volume of the build — then taper.
