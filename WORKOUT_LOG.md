@@ -1,5 +1,18 @@
 # Workout Log
 
+## July 1, 2026
+
+- **Workout:** 6×5 min Road Threshold Reps (V6 Week 9 Wednesday — BC-adapted, no track available). **Done as prescribed.**
+- **Type:** Run (threshold reps by RPE). Strava sidecar: `strava/activities/19138988485.json` · [activity](https://www.strava.com/activities/19138988485). **⚠️ No H10 (BC trip) — HR is wrist-optical only; treat as directional, not a valid zone/max reference.**
+- **The numbers:** **8.51 mi** in 66:36 moving (66:39 elapsed) · avg **7:50/mi** · avg HR 149.5 *(wrist optical)* · max 162 *(wrist optical)* · +213 ft · avg power 254 W · suffer 128 · 902 cal.
+- **Structure (laps):** 1.5 mi WU (12:23, 8:16/mi) → 6×5 min reps w/ 2 min jog recovery → 1.5 mi CD (12:16, 8:03/mi).
+  - Rep paces: **7:04, 7:07, 7:33, 7:21, 7:11, 7:28** (avg ~7:17/mi).
+  - HR zones (wrist-optical, directional only): Z1 0:53 · Z2 12:48 · **Z3 (145–158) 47:30 — the large majority of the session** · Z4 (159–173) 5:25 · Z5 0:00. HR sat in Z3 through nearly the whole session, including recoveries (HR lags behind the pace changes at only 5-min/2-min intervals) — very little Z4 spillover.
+- **Perceived effort:** 7/10, hard-but-controlled per plan. Reps held a tight 7:04–7:33 band despite no track/pace guidance — good pacing discipline by feel.
+- **Knee Status:** **1/5 — green.** Totally fine, no issues.
+- **Hamstring:** **1/5 — brief mention only.** Paul noted "a hint of hamstring, just a bit of tightness" during/after — resolved by the time he reported it, no lingering issue. Same right hamstring that had a twinge Jun 24 and was clear Jun 29; watch for any recurrence pattern on hard efforts (this is now the second faint appearance after a quality session) but not currently actionable.
+- **Coaching read:** Strong session — this was the road substitute for 6×1600m track (no track in BC) and it worked: paces were consistent rep-to-rep without a track or watch pace guidance, and HR stayed in threshold Z3 for the bulk of the work with minimal Z4 drift, exactly the intended physiological target. Knee clean. The hamstring blip is minor and resolved, but log it — two faint appearances after hard sessions (Jun 24, Jul 1) is worth a one-line watch, not yet a pattern requiring action. No plan changes; continue as scheduled (Thu 6 mi easy, Fri BW strength + PT, Sat travel day home, Sun 16 mi LR with 8 @ MP).
+
 ## June 29, 2026
 
 - **Workout:** Long Run — Week 8 Sunday deload LR moved to Monday (family trip to BC Sat/Sun, no running those days). Victoria, BC. **Done.**
@@ -719,20 +732,3 @@
 - **Relative Effort:** 21.0
 - **Knee Status:** 🟢 Green (short errand run, no issues reported)
 - **Notes:** Auto-logged from Strava.
-
-
-## July 1, 2026
-
-- **Workout:** Tofino
-- **Type:** Run
-- **Distance:** 8.51 mi
-- **Time:** 1:06:36
-- **Avg Pace:** 7:50/mi
-- **Elevation Gain:** 213 ft
-- **Avg Heart Rate:** 150 bpm (max 162)
-- **Avg Cadence:** N/A
-- **Splits:** 8:23, 7:31, 7:25, 7:45, 7:50, 7:45, 7:53, 8:07, 7:50
-- **Relative Effort:** 128.0
-- **Strava sidecar:** `strava/activities/19138988485.json`
-- **Knee Status:** (pending — update after reviewing)
-- **Notes:** Auto-logged from Strava. Awaiting athlete feedback.
