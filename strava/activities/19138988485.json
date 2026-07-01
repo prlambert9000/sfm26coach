@@ -1,0 +1,307 @@
+{
+  "activity_id": 19138988485,
+  "avg_cadence_spm": null,
+  "avg_hr": 149.5,
+  "avg_pace": "7:50/mi",
+  "avg_power_w": 253.9,
+  "calories": 902.0,
+  "date": "2026-07-01",
+  "date_heading": "July 1, 2026",
+  "description": "",
+  "distance_mi": 8.508,
+  "elapsed_time_s": 3999,
+  "elevation_gain_ft": 212.6,
+  "fetched_at": "2026-07-01T15:50:37Z",
+  "hr_zones": [
+    {
+      "max": 116,
+      "min": 0,
+      "time_s": 53.0
+    },
+    {
+      "max": 144,
+      "min": 117,
+      "time_s": 768.0
+    },
+    {
+      "max": 158,
+      "min": 145,
+      "time_s": 2850.0
+    },
+    {
+      "max": 173,
+      "min": 159,
+      "time_s": 325.0
+    },
+    {
+      "max": -1,
+      "min": 174,
+      "time_s": 0.0
+    }
+  ],
+  "laps": [
+    {
+      "avg_cadence_spm": null,
+      "avg_hr": 134.7,
+      "distance_m": 2412.3,
+      "distance_mi": 1.499,
+      "elapsed_time_s": 743,
+      "elev_gain_ft": 49.9,
+      "lap_index": 1,
+      "max_hr": 145.0,
+      "moving_time_s": 743,
+      "name": "Lap 1",
+      "pace": "8:16"
+    },
+    {
+      "avg_cadence_spm": null,
+      "avg_hr": 152.3,
+      "distance_m": 1135.4,
+      "distance_mi": 0.706,
+      "elapsed_time_s": 299,
+      "elev_gain_ft": 14.4,
+      "lap_index": 2,
+      "max_hr": 157.0,
+      "moving_time_s": 299,
+      "name": "Lap 2",
+      "pace": "7:04"
+    },
+    {
+      "avg_cadence_spm": null,
+      "avg_hr": 152.8,
+      "distance_m": 393.2,
+      "distance_mi": 0.244,
+      "elapsed_time_s": 120,
+      "elev_gain_ft": 7.2,
+      "lap_index": 3,
+      "max_hr": 158.0,
+      "moving_time_s": 120,
+      "name": "Lap 3",
+      "pace": "8:11"
+    },
+    {
+      "avg_cadence_spm": null,
+      "avg_hr": 155.7,
+      "distance_m": 1130.7,
+      "distance_mi": 0.703,
+      "elapsed_time_s": 300,
+      "elev_gain_ft": 0.0,
+      "lap_index": 4,
+      "max_hr": 159.0,
+      "moving_time_s": 300,
+      "name": "Lap 4",
+      "pace": "7:07"
+    },
+    {
+      "avg_cadence_spm": null,
+      "avg_hr": 152.1,
+      "distance_m": 365.7,
+      "distance_mi": 0.227,
+      "elapsed_time_s": 119,
+      "elev_gain_ft": 0.0,
+      "lap_index": 5,
+      "max_hr": 159.0,
+      "moving_time_s": 119,
+      "name": "Lap 5",
+      "pace": "8:44"
+    },
+    {
+      "avg_cadence_spm": null,
+      "avg_hr": 155.4,
+      "distance_m": 1067.0,
+      "distance_mi": 0.663,
+      "elapsed_time_s": 300,
+      "elev_gain_ft": 21.7,
+      "lap_index": 6,
+      "max_hr": 161.0,
+      "moving_time_s": 300,
+      "name": "Lap 6",
+      "pace": "7:33"
+    },
+    {
+      "avg_cadence_spm": null,
+      "avg_hr": 152.6,
+      "distance_m": 346.9,
+      "distance_mi": 0.216,
+      "elapsed_time_s": 120,
+      "elev_gain_ft": 0.7,
+      "lap_index": 7,
+      "max_hr": 162.0,
+      "moving_time_s": 120,
+      "name": "Lap 7",
+      "pace": "9:17"
+    },
+    {
+      "avg_cadence_spm": null,
+      "avg_hr": 153.0,
+      "distance_m": 1095.6,
+      "distance_mi": 0.681,
+      "elapsed_time_s": 300,
+      "elev_gain_ft": 0.0,
+      "lap_index": 8,
+      "max_hr": 157.0,
+      "moving_time_s": 300,
+      "name": "Lap 8",
+      "pace": "7:21"
+    },
+    {
+      "avg_cadence_spm": null,
+      "avg_hr": 150.1,
+      "distance_m": 364.4,
+      "distance_mi": 0.226,
+      "elapsed_time_s": 120,
+      "elev_gain_ft": 0.0,
+      "lap_index": 9,
+      "max_hr": 157.0,
+      "moving_time_s": 120,
+      "name": "Lap 9",
+      "pace": "8:50"
+    },
+    {
+      "avg_cadence_spm": null,
+      "avg_hr": 155.3,
+      "distance_m": 1119.6,
+      "distance_mi": 0.696,
+      "elapsed_time_s": 300,
+      "elev_gain_ft": 9.8,
+      "lap_index": 10,
+      "max_hr": 160.0,
+      "moving_time_s": 300,
+      "name": "Lap 10",
+      "pace": "7:11"
+    },
+    {
+      "avg_cadence_spm": null,
+      "avg_hr": 152.0,
+      "distance_m": 343.8,
+      "distance_mi": 0.214,
+      "elapsed_time_s": 120,
+      "elev_gain_ft": 6.6,
+      "lap_index": 11,
+      "max_hr": 161.0,
+      "moving_time_s": 120,
+      "name": "Lap 11",
+      "pace": "9:22"
+    },
+    {
+      "avg_cadence_spm": null,
+      "avg_hr": 154.2,
+      "distance_m": 1077.5,
+      "distance_mi": 0.67,
+      "elapsed_time_s": 300,
+      "elev_gain_ft": 32.2,
+      "lap_index": 12,
+      "max_hr": 160.0,
+      "moving_time_s": 300,
+      "name": "Lap 12",
+      "pace": "7:28"
+    },
+    {
+      "avg_cadence_spm": null,
+      "avg_hr": 153.3,
+      "distance_m": 385.9,
+      "distance_mi": 0.24,
+      "elapsed_time_s": 120,
+      "elev_gain_ft": 5.9,
+      "lap_index": 13,
+      "max_hr": 160.0,
+      "moving_time_s": 120,
+      "name": "Lap 13",
+      "pace": "8:20"
+    },
+    {
+      "avg_cadence_spm": null,
+      "avg_hr": 149.8,
+      "distance_m": 2450.9,
+      "distance_mi": 1.523,
+      "elapsed_time_s": 736,
+      "elev_gain_ft": 63.6,
+      "lap_index": 14,
+      "max_hr": 157.0,
+      "moving_time_s": 736,
+      "name": "Lap 14",
+      "pace": "8:03"
+    }
+  ],
+  "max_hr": 162.0,
+  "moving_time_s": 3996,
+  "name": "Tofino",
+  "splits": [
+    {
+      "avg_hr": 131.42544731610337,
+      "distance_mi": 1.0,
+      "elev_diff_ft": -4.6,
+      "mile": 1,
+      "moving_time_s": 503,
+      "pace": "8:23"
+    },
+    {
+      "avg_hr": 145.9622222222222,
+      "distance_mi": 1.001,
+      "elev_diff_ft": -30.8,
+      "mile": 2,
+      "moving_time_s": 451,
+      "pace": "7:31"
+    },
+    {
+      "avg_hr": 154.457399103139,
+      "distance_mi": 1.002,
+      "elev_diff_ft": -7.9,
+      "mile": 3,
+      "moving_time_s": 446,
+      "pace": "7:25"
+    },
+    {
+      "avg_hr": 154.86637931034483,
+      "distance_mi": 0.998,
+      "elev_diff_ft": 14.4,
+      "mile": 4,
+      "moving_time_s": 464,
+      "pace": "7:45"
+    },
+    {
+      "avg_hr": 153.3134328358209,
+      "distance_mi": 1.001,
+      "elev_diff_ft": -10.5,
+      "mile": 5,
+      "moving_time_s": 470,
+      "pace": "7:50"
+    },
+    {
+      "avg_hr": 153.8774193548387,
+      "distance_mi": 1.0,
+      "elev_diff_ft": 5.9,
+      "mile": 6,
+      "moving_time_s": 465,
+      "pace": "7:45"
+    },
+    {
+      "avg_hr": 153.11252653927812,
+      "distance_mi": 1.0,
+      "elev_diff_ft": 26.9,
+      "mile": 7,
+      "moving_time_s": 473,
+      "pace": "7:53"
+    },
+    {
+      "avg_hr": 149.15400410677617,
+      "distance_mi": 1.0,
+      "elev_diff_ft": 1.3,
+      "mile": 8,
+      "moving_time_s": 487,
+      "pace": "8:07"
+    },
+    {
+      "avg_hr": 151.29535864978902,
+      "distance_mi": 0.504,
+      "elev_diff_ft": -2.6,
+      "mile": 9,
+      "moving_time_s": 237,
+      "pace": "7:50"
+    }
+  ],
+  "start_local": "2026-07-01T07:19:48Z",
+  "strava_url": "https://www.strava.com/activities/19138988485",
+  "suffer_score": 128.0,
+  "type": "Run"
+}

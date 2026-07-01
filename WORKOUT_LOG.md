@@ -720,3 +720,19 @@
 - **Knee Status:** 🟢 Green (short errand run, no issues reported)
 - **Notes:** Auto-logged from Strava.
 
+
+## July 1, 2026
+
+- **Workout:** Tofino
+- **Type:** Run
+- **Distance:** 8.51 mi
+- **Time:** 1:06:36
+- **Avg Pace:** 7:50/mi
+- **Elevation Gain:** 213 ft
+- **Avg Heart Rate:** 150 bpm (max 162)
+- **Avg Cadence:** N/A
+- **Splits:** 8:23, 7:31, 7:25, 7:45, 7:50, 7:45, 7:53, 8:07, 7:50
+- **Relative Effort:** 128.0
+- **Strava sidecar:** `strava/activities/19138988485.json`
+- **Knee Status:** (pending — update after reviewing)
+- **Notes:** Auto-logged from Strava. Awaiting athlete feedback.
