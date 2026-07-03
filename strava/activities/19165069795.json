@@ -1,0 +1,122 @@
+{
+  "activity_id": 19165069795,
+  "avg_cadence_spm": null,
+  "avg_hr": 141.7,
+  "avg_pace": "8:29/mi",
+  "avg_power_w": 237.4,
+  "calories": 653.0,
+  "date": "2026-07-03",
+  "date_heading": "July 3, 2026",
+  "description": "",
+  "distance_mi": 6.085,
+  "elapsed_time_s": 3108,
+  "elevation_gain_ft": 299.2,
+  "fetched_at": "2026-07-03T16:06:25Z",
+  "hr_zones": [
+    {
+      "max": 116,
+      "min": 0,
+      "time_s": 0.0
+    },
+    {
+      "max": 144,
+      "min": 117,
+      "time_s": 1857.0
+    },
+    {
+      "max": 158,
+      "min": 145,
+      "time_s": 1238.0
+    },
+    {
+      "max": 173,
+      "min": 159,
+      "time_s": 2.0
+    },
+    {
+      "max": -1,
+      "min": 174,
+      "time_s": 0.0
+    }
+  ],
+  "laps": [
+    {
+      "avg_cadence_spm": null,
+      "avg_hr": 141.7,
+      "distance_m": 9789.1,
+      "distance_mi": 6.083,
+      "elapsed_time_s": 3107,
+      "elev_gain_ft": 299.2,
+      "lap_index": 1,
+      "max_hr": 163.0,
+      "moving_time_s": 3107,
+      "name": "Lap 1",
+      "pace": "8:31"
+    }
+  ],
+  "max_hr": 163.0,
+  "moving_time_s": 3097,
+  "name": "Victoria cruising",
+  "splits": [
+    {
+      "avg_hr": 129.89239332096474,
+      "distance_mi": 1.0,
+      "elev_diff_ft": -19.0,
+      "mile": 1,
+      "moving_time_s": 552,
+      "pace": "9:12"
+    },
+    {
+      "avg_hr": 139.75350701402806,
+      "distance_mi": 1.001,
+      "elev_diff_ft": 1.3,
+      "mile": 2,
+      "moving_time_s": 499,
+      "pace": "8:18"
+    },
+    {
+      "avg_hr": 143.35433070866142,
+      "distance_mi": 1.0,
+      "elev_diff_ft": 30.2,
+      "mile": 3,
+      "moving_time_s": 508,
+      "pace": "8:28"
+    },
+    {
+      "avg_hr": 145.83772819472617,
+      "distance_mi": 1.0,
+      "elev_diff_ft": -36.1,
+      "mile": 4,
+      "moving_time_s": 494,
+      "pace": "8:14"
+    },
+    {
+      "avg_hr": 146.60574948665297,
+      "distance_mi": 1.002,
+      "elev_diff_ft": 3.3,
+      "mile": 5,
+      "moving_time_s": 488,
+      "pace": "8:07"
+    },
+    {
+      "avg_hr": 145.22156862745098,
+      "distance_mi": 0.998,
+      "elev_diff_ft": 11.2,
+      "mile": 6,
+      "moving_time_s": 521,
+      "pace": "8:42"
+    },
+    {
+      "avg_hr": 152.8235294117647,
+      "distance_mi": 0.082,
+      "elev_diff_ft": -13.1,
+      "mile": 7,
+      "moving_time_s": 35,
+      "pace": "7:04"
+    }
+  ],
+  "start_local": "2026-07-03T07:47:58Z",
+  "strava_url": "https://www.strava.com/activities/19165069795",
+  "suffer_score": 73.0,
+  "type": "Run"
+}

@@ -732,3 +732,19 @@
 - **Relative Effort:** 21.0
 - **Knee Status:** 🟢 Green (short errand run, no issues reported)
 - **Notes:** Auto-logged from Strava.
+
+## July 3, 2026
+
+- **Workout:** Victoria cruising
+- **Type:** Run
+- **Distance:** 6.08 mi
+- **Time:** 51:37
+- **Avg Pace:** 8:29/mi
+- **Elevation Gain:** 299 ft
+- **Avg Heart Rate:** 142 bpm (max 163)
+- **Avg Cadence:** N/A
+- **Splits:** 9:12, 8:18, 8:28, 8:14, 8:07, 8:42, 7:04
+- **Relative Effort:** 73.0
+- **Strava sidecar:** `strava/activities/19165069795.json`
+- **Knee Status:** (pending — update after reviewing)
+- **Notes:** Auto-logged from Strava. Awaiting athlete feedback.
