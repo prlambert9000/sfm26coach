@@ -299,15 +299,22 @@ Solo 5K simulation: **21:47 (7:00/mi)**. Max HR 183. 1-min HRR 33 BPM.
 
 ### Week 10 peak (Jul 6–12) — ~48 mi | LR 20 mi
 **Peak week.** 5 running days, 1 strength day. Highest volume of the build — then taper.
+
+**⚠️ TWO STANDING ADJUSTMENTS THIS WEEK (updated Jul 6 PM):**
+
+1. **Right-hamstring maintenance (added Jul 6 after 3rd faint appearance Jul 5).** Every run this week adds a **posterior-chain warm-up block** to the standard 5-min pre-run activation: 2×10 dynamic leg swings/side (forward/back + lateral) + 10 walking hamstring reaches/side + 10 glute bridges. Foam-roll posterior chain (hamstrings, glutes, calves) daily — 60–90 sec each. **No aggressive static hamstring stretching** (an irritated hamstring hates it). Escalation gate: if the twinge sharpens, alters gait, or moves from "twinge" to a pull sensation → stop the run, mobility flush only, notify coach + PT contact.
+
+2. **Sun Jul 12 20-miler = race-format referendum (added Jul 6 PM).** This run decides Full vs First Half. **GO for the full requires all 3 physical gates:** (a) 20 mi completed; (b) knee 1/5, hamstring not escalated; (c) fuel protocol clean at MP effort. **AND** the mental gate: Paul finishes saying *"I want to go do this"* — not *"I could probably do it if I have to."* Miss any → drop to First Half. **Decision deadline: end of Wed Jul 15.** SFM in-person downgrade at Expo (Fri Jul 24 / Sat Jul 25) — $15 fee, based on availability. Insurance policy if Expo swap unavailable: run the full course, exit at the ~13.1 mi divergence in Golden Gate Park.
+
 | Date | Day | Workout | Notes |
 |---|---|---|---|
-| 2026-07-06 | Mon | Hip Complex Circuit + PT | Final volume push. |
-| 2026-07-07 | Tue | 3×2 mi Track Intervals | 7:15–7:25 pace (threshold); 3 min rec. ~8–9 mi. |
-| 2026-07-08 | Wed | 6 mi Easy (NEW run day) | Was Heavy Strength. Easy Z2 recovery between Tue quality and Thu medium-long. |
-| 2026-07-09 | Thu | 10 mi Progression Run | Bumped from 8. 8 mi @ 9:00 easy / 2 mi @ 7:15–7:25 (threshold by HR). |
-| 2026-07-10 | Fri | **Consolidated Strength + PT (final loaded session)** | Last real strength day before taper. **No heavy back squat.** Same template as W9 Fri. Keep it crisp, no grinding. Knee 2+ → PT/mobility only. |
-| 2026-07-11 | Sat | 4 mi Shakeout | Fueling check (70–80 g/hr, gels-at-effort rehearsal). |
-| 2026-07-12 | Sun | 20 mi Long Run | Peak distance. Form focus. Hilly home route OK — HR governs. **Full race-fueling dress rehearsal: Maurten Gel 100 every ~20–25 min + drink mix → 70–80 g/hr, including a Maurten CAF 100 in the back third (rehearse caffeine timing), gels taken at effort.** |
+| 2026-07-06 | Mon | Hip Complex Circuit + PT | Final volume push. **Hamstring:** foam roll posterior chain 5 min at the end (hamstrings/glutes/calves). |
+| 2026-07-07 | Tue | 3×2 mi Track Intervals | 7:15–7:25 pace (threshold); 3 min rec. ~8–9 mi. **Add posterior-chain warm-up (leg swings, walking hamstring reaches, glute bridges) to activation.** Stop the reps if hamstring sharpens. |
+| 2026-07-08 | Wed | 6 mi Easy (NEW run day) | Was Heavy Strength. Easy Z2 recovery between Tue quality and Thu medium-long. **Add posterior-chain warm-up.** Morning slot (workday). |
+| 2026-07-09 | Thu | 10 mi Progression Run | Bumped from 8. 8 mi @ 9:00 easy / 2 mi @ 7:15–7:25 (threshold by HR). **Add posterior-chain warm-up.** If hamstring twinges during the easy block → skip the progression finish, run the last 2 easy. |
+| 2026-07-10 | Fri | **Consolidated Strength + PT (final loaded session)** | Last real strength day before taper. **No heavy back squat.** Same template as W9 Fri. Keep it crisp, no grinding. Knee 2+ → PT/mobility only. **Skip loaded SL-RDL this week (hamstring load) — sub BW glute bridge march or side-lying hip abduction. Keep the rest of the PT/hip block intact.** |
+| 2026-07-11 | Sat | 4 mi Shakeout | Fueling check (70–80 g/hr, gels-at-effort rehearsal). **Add posterior-chain warm-up.** Lay out gels + drink mix + LMNT + water bottle tonight for tomorrow. Bed early. |
+| 2026-07-12 | Sun | 20 mi Long Run **— RACE-FORMAT REFERENDUM (see standing adjustments above)** | Peak distance. Form focus. Hilly home route OK — HR governs. **Full race-fueling dress rehearsal: Maurten Gel 100 at T−5 and every ~20–25 min + drink mix → 70–80 g/hr, including a Maurten CAF 100 in the back third (rehearse caffeine timing), gels taken at effort.** Start in the cool morning slot, road surface (no technical trails), proper pre-run breakfast 2–3 hr out — mirror race-day conditions as closely as possible. **Post-run: report knee 1–5, hamstring status, MP-block execution, fuel GI — and your honest mental read on the marathon.** |
 
 ### Week 11 taper (Jul 13–19) — ~27 mi | LR 10 mi
 | Date | Day | Workout | Notes |
