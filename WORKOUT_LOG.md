@@ -1,5 +1,19 @@
 # Workout Log
 
+## July 5, 2026
+
+- **Workout:** 16 mi Long Run w/ 8 mi @ MP (V6 Week 9 Sunday — was the last MP-fueling validation before the Jul 12 20-mi dress rehearsal). **Aborted mid-run — MP block never attempted, walk/run from mi 10.7 to the finish.** Hilly single-track along Cañada Rd (shade-seeking on a hot day). Turned around at mi 8.
+- **Type:** Run (long — heat + terrain + prior-week deficit forced a walk/run finish). Strava sidecar: `strava/activities/19195772364.json` · [activity](https://www.strava.com/activities/19195772364).
+- **The numbers:** **16.12 mi** in 2:40:58 moving (2:41:01 elapsed) · avg **9:59/mi** · avg HR **145.3** (H10) · **max 160** · **+1,686 ft** · avg power 216 W · **suffer 261 — highest in the V6 log** · 1,961 cal.
+- **HR zones:** Z1 (≤116) 1:14 · Z2 (117–144) 53:38 · **Z3 (145–158) 1:45:16** · Z4 (159–173) 0:39 · Z5 0:00. Never touched threshold — engine was not the limiter, environment was.
+- **Splits (pace / HR / elev):** 1: 10:00 / 135 / +195 · 2: 10:06 / 146 / +248 (opening climb) · 3: 7:50 / 146 / −98 · 4: 8:18 / 150 / −53 · 5: 8:32 / 147 / −105 · 6: 9:17 / 148 / −45 · 7: 9:58 / 148 / −20 · **8: 10:19 / 146 / −6 (turnaround)** · 9: 9:32 / 149 / +1 · 10: 9:58 / 150 / +3 · **11: 10:25 / 150 / +70 (walk starts here) · 12: 11:02 / 144 / +76 · 13: 11:38 / 143 / +98 · 14: 11:23 / 145 / −3 · 15: 11:23 / 142 / −102 · 16: 10:25 / 139 / −236** · 0.12: 7:25 / 147 / −34.
+- **Athlete report:** *"Brutal. Hot to start. Ran the single-track trail along Cañada road for shade — added a lot of undulations and technical footing. Turned around at 8mi, couldn't pick up the pace much at all due to terrain + heat. Started to feel worse at 9mi, got hot and dizzy, by 10.7mi had to walk. Walk/run the rest of the way home — sometimes walking up hills with HR still 140–150. Good I brought extra water or I'd have been in trouble. Full week of travel with bad eating/drinking/sleep the week before probably didn't help."*
+- **Knee Status:** Not mentioned in the report — request confirmation. Working assumption 1/5 (streak).
+- **What actually happened, physiologically — depletion + heat, NOT a fitness collapse.** Three evidence chains: (1) **HR was DROPPING while effort was going UP** — HR came down from ~150 (mi 10) to 139–143 (mi 12–15) while pace blew out from 10:00 to 11:30+/mi. That is the exact same signature as Presidio (Jun 21) when he was under-fueled: an empty tank *suppresses* HR because the legs/CNS can't generate the output. (2) **Total Z4 time: 39 seconds all day** — the engine was never asked to work at threshold. Max HR 160, well under the 168 H10 floor. This wasn't a race-effort read, it was a heat/depletion cap on an easy-to-steady run. (3) **HR 140–150 walking a hill in heat is normal**, not alarming — heat lifts HR ~5–10 bpm at any workload, cumulative dehydration/depletion drives it further, and walking a grade at 145 for a 42-yr-old in those conditions is expected.
+- **Confounders (all real, all stacked):** (a) **Heat** — first meaningfully hot day of the build; not heat-acclimatized. (b) **Technical single-track** — Cañada trail undulations + footing add ~15–25% aerobic cost vs road at the same pace and load the small stabilizers, so glycogen burn is elevated. (c) **Prior-week travel deficit** — poor sleep, food, hydration all week going into an already-demanding long run = a partially-empty glycogen tank pre-start. (d) **In-run fueling** — not detailed in the report; suspect intake dropped off as heat/nausea built (the Presidio pattern). (e) **Dizziness at mi 9–10** — classic heat + depletion signal; smart call bringing the extra water, that likely prevented worse.
+- **Plan cost — the MP-fueling validation did not happen.** Yesterday's #1 job was to prove 2 gels can go down at HR 150–160 (the last piece before the Jul 12 dress rehearsal). Never got to MP effort. That data point is still open.
+- **Coaching read — this is an environment + prep verdict, not a fitness verdict, but it triggers a bigger race-day conversation.** The engine wasn't touched. Presidio 15 days ago said 3:30 SF fitness is real, and Jul 1's threshold reps 4 days ago (7:04–7:33, HR 155–158, knee 1/5) said the engine is sharp. But: (a) fueling-at-effort is still unproven; (b) if hot conditions + a hilly course + any prior deficit can produce yesterday's meltdown at mile 10–11, then July 26 has real environmental risk; (c) Paul flagged the mental piece — *"dreading it a bit"* — which is real information at 20 days out. Separate response to Paul addresses the "run full / drop to half / defer" question; no plan changes locked yet pending his call.
+
 ## July 1, 2026
 
 - **Workout:** 6×5 min Road Threshold Reps (V6 Week 9 Wednesday — BC-adapted, no track available). **Done as prescribed.**
@@ -749,18 +763,3 @@
 - **Knee Status:** (pending — update after reviewing)
 - **Notes:** Auto-logged from Strava. Awaiting athlete feedback.
 
-## July 5, 2026
-
-- **Workout:** Hot long run
-- **Type:** Run
-- **Distance:** 16.12 mi
-- **Time:** 2:40:58
-- **Avg Pace:** 9:59/mi
-- **Elevation Gain:** 1686 ft
-- **Avg Heart Rate:** 145 bpm (max 160)
-- **Avg Cadence:** N/A
-- **Splits:** 10:00, 10:06, 7:50, 8:18, 8:32, 9:17, 9:58, 10:19, 9:32, 9:58, 10:25, 11:02, 11:38, 11:23, 11:23, 10:25, 7:25
-- **Relative Effort:** 261.0
-- **Strava sidecar:** `strava/activities/19195772364.json`
-- **Knee Status:** (pending — update after reviewing)
-- **Notes:** Auto-logged from Strava. Awaiting athlete feedback.
