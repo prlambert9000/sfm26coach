@@ -748,3 +748,19 @@
 - **Strava sidecar:** `strava/activities/19165069795.json`
 - **Knee Status:** (pending — update after reviewing)
 - **Notes:** Auto-logged from Strava. Awaiting athlete feedback.
+
+## July 5, 2026
+
+- **Workout:** Hot long run
+- **Type:** Run
+- **Distance:** 16.12 mi
+- **Time:** 2:40:58
+- **Avg Pace:** 9:59/mi
+- **Elevation Gain:** 1686 ft
+- **Avg Heart Rate:** 145 bpm (max 160)
+- **Avg Cadence:** N/A
+- **Splits:** 10:00, 10:06, 7:50, 8:18, 8:32, 9:17, 9:58, 10:19, 9:32, 9:58, 10:25, 11:02, 11:38, 11:23, 11:23, 10:25, 7:25
+- **Relative Effort:** 261.0
+- **Strava sidecar:** `strava/activities/19195772364.json`
+- **Knee Status:** (pending — update after reviewing)
+- **Notes:** Auto-logged from Strava. Awaiting athlete feedback.

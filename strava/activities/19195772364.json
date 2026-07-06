@@ -1,0 +1,202 @@
+{
+  "activity_id": 19195772364,
+  "avg_cadence_spm": null,
+  "avg_hr": 145.3,
+  "avg_pace": "9:59/mi",
+  "avg_power_w": 216.3,
+  "calories": 1961.0,
+  "date": "2026-07-05",
+  "date_heading": "July 5, 2026",
+  "description": "",
+  "distance_mi": 16.12,
+  "elapsed_time_s": 9661,
+  "elevation_gain_ft": 1686.4,
+  "fetched_at": "2026-07-06T04:11:16Z",
+  "hr_zones": [
+    {
+      "max": 116,
+      "min": 0,
+      "time_s": 74.0
+    },
+    {
+      "max": 144,
+      "min": 117,
+      "time_s": 3218.0
+    },
+    {
+      "max": 158,
+      "min": 145,
+      "time_s": 6316.0
+    },
+    {
+      "max": 173,
+      "min": 159,
+      "time_s": 39.0
+    },
+    {
+      "max": -1,
+      "min": 174,
+      "time_s": 0.0
+    }
+  ],
+  "laps": [
+    {
+      "avg_cadence_spm": null,
+      "avg_hr": 145.3,
+      "distance_m": 25938.4,
+      "distance_mi": 16.117,
+      "elapsed_time_s": 9661,
+      "elev_gain_ft": 1686.4,
+      "lap_index": 1,
+      "max_hr": 160.0,
+      "moving_time_s": 9658,
+      "name": "Lap 1",
+      "pace": "9:59"
+    }
+  ],
+  "max_hr": 160.0,
+  "moving_time_s": 9658,
+  "name": "Hot long run",
+  "splits": [
+    {
+      "avg_hr": 134.5346869712352,
+      "distance_mi": 1.001,
+      "elev_diff_ft": 194.9,
+      "mile": 1,
+      "moving_time_s": 600,
+      "pace": "10:00"
+    },
+    {
+      "avg_hr": 146.25247524752476,
+      "distance_mi": 1.0,
+      "elev_diff_ft": 248.0,
+      "mile": 2,
+      "moving_time_s": 606,
+      "pace": "10:06"
+    },
+    {
+      "avg_hr": 146.25586353944564,
+      "distance_mi": 1.0,
+      "elev_diff_ft": -97.8,
+      "mile": 3,
+      "moving_time_s": 470,
+      "pace": "7:50"
+    },
+    {
+      "avg_hr": 149.85542168674698,
+      "distance_mi": 1.0,
+      "elev_diff_ft": -52.5,
+      "mile": 4,
+      "moving_time_s": 498,
+      "pace": "8:18"
+    },
+    {
+      "avg_hr": 147.06640625,
+      "distance_mi": 1.001,
+      "elev_diff_ft": -105.0,
+      "mile": 5,
+      "moving_time_s": 512,
+      "pace": "8:32"
+    },
+    {
+      "avg_hr": 148.2590579710145,
+      "distance_mi": 0.999,
+      "elev_diff_ft": -45.3,
+      "mile": 6,
+      "moving_time_s": 556,
+      "pace": "9:17"
+    },
+    {
+      "avg_hr": 147.95400340715503,
+      "distance_mi": 0.999,
+      "elev_diff_ft": -19.7,
+      "mile": 7,
+      "moving_time_s": 598,
+      "pace": "9:58"
+    },
+    {
+      "avg_hr": 146.2306425041186,
+      "distance_mi": 1.0,
+      "elev_diff_ft": -5.9,
+      "mile": 8,
+      "moving_time_s": 619,
+      "pace": "10:19"
+    },
+    {
+      "avg_hr": 149.24452554744525,
+      "distance_mi": 1.0,
+      "elev_diff_ft": 1.3,
+      "mile": 9,
+      "moving_time_s": 572,
+      "pace": "9:32"
+    },
+    {
+      "avg_hr": 149.78865979381445,
+      "distance_mi": 1.001,
+      "elev_diff_ft": 2.6,
+      "mile": 10,
+      "moving_time_s": 598,
+      "pace": "9:58"
+    },
+    {
+      "avg_hr": 149.93286219081273,
+      "distance_mi": 1.0,
+      "elev_diff_ft": 70.2,
+      "mile": 11,
+      "moving_time_s": 625,
+      "pace": "10:25"
+    },
+    {
+      "avg_hr": 143.57397504456327,
+      "distance_mi": 0.999,
+      "elev_diff_ft": 76.1,
+      "mile": 12,
+      "moving_time_s": 662,
+      "pace": "11:02"
+    },
+    {
+      "avg_hr": 142.555,
+      "distance_mi": 1.0,
+      "elev_diff_ft": 98.4,
+      "mile": 13,
+      "moving_time_s": 698,
+      "pace": "11:38"
+    },
+    {
+      "avg_hr": 144.6775956284153,
+      "distance_mi": 1.0,
+      "elev_diff_ft": -2.6,
+      "mile": 14,
+      "moving_time_s": 683,
+      "pace": "11:23"
+    },
+    {
+      "avg_hr": 141.52908067542214,
+      "distance_mi": 1.0,
+      "elev_diff_ft": -102.4,
+      "mile": 15,
+      "moving_time_s": 683,
+      "pace": "11:23"
+    },
+    {
+      "avg_hr": 138.59001782531195,
+      "distance_mi": 1.001,
+      "elev_diff_ft": -236.2,
+      "mile": 16,
+      "moving_time_s": 626,
+      "pace": "10:25"
+    },
+    {
+      "avg_hr": 147.47916666666666,
+      "distance_mi": 0.117,
+      "elev_diff_ft": -33.5,
+      "mile": 17,
+      "moving_time_s": 52,
+      "pace": "7:25"
+    }
+  ],
+  "start_local": "2026-07-05T14:35:42Z",
+  "strava_url": "https://www.strava.com/activities/19195772364",
+  "suffer_score": 261.0,
+  "type": "Run"
+}
