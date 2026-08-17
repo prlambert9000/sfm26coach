@@ -1,0 +1,114 @@
+{
+  "activity_id": 19779960069,
+  "avg_cadence_spm": null,
+  "avg_hr": 153.6,
+  "avg_pace": "8:21/mi",
+  "avg_power_w": 240.0,
+  "calories": 562.0,
+  "date": "2026-08-17",
+  "date_heading": "August 17, 2026",
+  "description": "",
+  "distance_mi": 5.096,
+  "elapsed_time_s": 2557,
+  "elevation_gain_ft": 232.9,
+  "fetched_at": "2026-08-17T14:53:38Z",
+  "hr_zones": [
+    {
+      "max": 116,
+      "min": 0,
+      "time_s": 0.0
+    },
+    {
+      "max": 144,
+      "min": 117,
+      "time_s": 401.0
+    },
+    {
+      "max": 158,
+      "min": 145,
+      "time_s": 1488.0
+    },
+    {
+      "max": 173,
+      "min": 159,
+      "time_s": 663.0
+    },
+    {
+      "max": -1,
+      "min": 174,
+      "time_s": 0.0
+    }
+  ],
+  "laps": [
+    {
+      "avg_cadence_spm": null,
+      "avg_hr": 153.6,
+      "distance_m": 8199.0,
+      "distance_mi": 5.095,
+      "elapsed_time_s": 2557,
+      "elev_gain_ft": 232.9,
+      "lap_index": 1,
+      "max_hr": 164.0,
+      "moving_time_s": 2557,
+      "name": "Lap 1",
+      "pace": "8:22"
+    }
+  ],
+  "max_hr": 164.0,
+  "moving_time_s": 2552,
+  "name": "Morning Run",
+  "splits": [
+    {
+      "avg_hr": 143.18762886597938,
+      "distance_mi": 1.001,
+      "elev_diff_ft": -130.6,
+      "mile": 1,
+      "moving_time_s": 486,
+      "pace": "8:06"
+    },
+    {
+      "avg_hr": 149.24307036247336,
+      "distance_mi": 1.0,
+      "elev_diff_ft": -43.3,
+      "mile": 2,
+      "moving_time_s": 469,
+      "pace": "7:49"
+    },
+    {
+      "avg_hr": 155.85594989561588,
+      "distance_mi": 0.999,
+      "elev_diff_ft": -11.2,
+      "mile": 3,
+      "moving_time_s": 479,
+      "pace": "7:59"
+    },
+    {
+      "avg_hr": 158.44646464646465,
+      "distance_mi": 1.0,
+      "elev_diff_ft": 23.6,
+      "mile": 4,
+      "moving_time_s": 497,
+      "pace": "8:17"
+    },
+    {
+      "avg_hr": 159.4493006993007,
+      "distance_mi": 1.0,
+      "elev_diff_ft": 144.4,
+      "mile": 5,
+      "moving_time_s": 572,
+      "pace": "9:32"
+    },
+    {
+      "avg_hr": 159.54166666666666,
+      "distance_mi": 0.094,
+      "elev_diff_ft": -11.8,
+      "mile": 6,
+      "moving_time_s": 49,
+      "pace": "8:40"
+    }
+  ],
+  "start_local": "2026-08-17T06:23:04Z",
+  "strava_url": "https://www.strava.com/activities/19779960069",
+  "suffer_score": 100.0,
+  "type": "Run"
+}
