@@ -1,0 +1,104 @@
+{
+  "activity_id": 20056068421,
+  "avg_cadence_spm": null,
+  "avg_hr": null,
+  "avg_pace": "11:17/mi",
+  "avg_power_w": null,
+  "calories": 1019.0,
+  "date": "2026-09-06",
+  "date_heading": "September 6, 2026",
+  "description": "",
+  "distance_mi": 7.251,
+  "elapsed_time_s": 4991,
+  "elevation_gain_ft": 613.8,
+  "fetched_at": "2026-09-06T17:15:07Z",
+  "hr_zones": null,
+  "laps": [
+    {
+      "avg_cadence_spm": null,
+      "avg_hr": null,
+      "distance_m": 11669.5,
+      "distance_mi": 7.251,
+      "elapsed_time_s": 5010,
+      "elev_gain_ft": 613.8,
+      "lap_index": 1,
+      "max_hr": null,
+      "moving_time_s": 4991,
+      "name": "Lap 1",
+      "pace": "11:28"
+    }
+  ],
+  "max_hr": null,
+  "moving_time_s": 4909,
+  "name": "Getting lost in Valencia",
+  "splits": [
+    {
+      "avg_hr": null,
+      "distance_mi": 1.001,
+      "elev_diff_ft": 46.9,
+      "mile": 1,
+      "moving_time_s": 578,
+      "pace": "9:38"
+    },
+    {
+      "avg_hr": null,
+      "distance_mi": 0.999,
+      "elev_diff_ft": 121.7,
+      "mile": 2,
+      "moving_time_s": 691,
+      "pace": "11:31"
+    },
+    {
+      "avg_hr": null,
+      "distance_mi": 1.001,
+      "elev_diff_ft": -69.9,
+      "mile": 3,
+      "moving_time_s": 615,
+      "pace": "10:15"
+    },
+    {
+      "avg_hr": null,
+      "distance_mi": 1.0,
+      "elev_diff_ft": -96.1,
+      "mile": 4,
+      "moving_time_s": 608,
+      "pace": "10:08"
+    },
+    {
+      "avg_hr": null,
+      "distance_mi": 1.0,
+      "elev_diff_ft": -25.9,
+      "mile": 5,
+      "moving_time_s": 724,
+      "pace": "12:04"
+    },
+    {
+      "avg_hr": null,
+      "distance_mi": 1.0,
+      "elev_diff_ft": 102.7,
+      "mile": 6,
+      "moving_time_s": 786,
+      "pace": "13:06"
+    },
+    {
+      "avg_hr": null,
+      "distance_mi": 1.0,
+      "elev_diff_ft": -126.3,
+      "mile": 7,
+      "moving_time_s": 697,
+      "pace": "11:37"
+    },
+    {
+      "avg_hr": null,
+      "distance_mi": 0.25,
+      "elev_diff_ft": 46.9,
+      "mile": 8,
+      "moving_time_s": 210,
+      "pace": "13:59"
+    }
+  ],
+  "start_local": "2026-09-06T08:09:19Z",
+  "strava_url": "https://www.strava.com/activities/20056068421",
+  "suffer_score": null,
+  "type": "Run"
+}

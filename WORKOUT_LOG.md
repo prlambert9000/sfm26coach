@@ -914,3 +914,18 @@
 - **Strava sidecar:** `strava/activities/19852485947.json`
 - **Knee Status:** (pending — update after reviewing)
 - **Notes:** Auto-logged from Strava. Awaiting athlete feedback.
+
+## September 6, 2026
+
+- **Workout:** Getting lost in Valencia
+- **Type:** Run
+- **Distance:** 7.25 mi
+- **Time:** 1:21:49
+- **Avg Pace:** 11:17/mi
+- **Elevation Gain:** 614 ft
+- **Avg Heart Rate:** N/A
+- **Avg Cadence:** N/A
+- **Splits:** 9:38, 11:31, 10:15, 10:08, 12:04, 13:06, 11:37, 13:59
+- **Strava sidecar:** `strava/activities/20056068421.json`
+- **Knee Status:** (pending — update after reviewing)
+- **Notes:** Auto-logged from Strava. Awaiting athlete feedback.
