@@ -929,3 +929,19 @@
 - **Strava sidecar:** `strava/activities/20056068421.json`
 - **Knee Status:** (pending — update after reviewing)
 - **Notes:** Auto-logged from Strava. Awaiting athlete feedback.
+
+## September 21, 2026
+
+- **Workout:** Oh Hi
+- **Type:** Run
+- **Distance:** 3.18 mi
+- **Time:** 29:54
+- **Avg Pace:** 9:24/mi
+- **Elevation Gain:** 129 ft
+- **Avg Heart Rate:** 144 bpm (max 156)
+- **Avg Cadence:** N/A
+- **Splits:** 8:59, 9:27, 9:50, 9:13
+- **Relative Effort:** 45.0
+- **Strava sidecar:** `strava/activities/20275031470.json`
+- **Knee Status:** (pending — update after reviewing)
+- **Notes:** Auto-logged from Strava. Awaiting athlete feedback.

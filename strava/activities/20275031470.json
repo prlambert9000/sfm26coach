@@ -1,0 +1,98 @@
+{
+  "activity_id": 20275031470,
+  "avg_cadence_spm": null,
+  "avg_hr": 144.0,
+  "avg_pace": "9:24/mi",
+  "avg_power_w": 213.0,
+  "calories": 356.0,
+  "date": "2026-09-21",
+  "date_heading": "September 21, 2026",
+  "description": "",
+  "distance_mi": 3.179,
+  "elapsed_time_s": 1807,
+  "elevation_gain_ft": 129.3,
+  "fetched_at": "2026-09-22T07:52:31Z",
+  "hr_zones": [
+    {
+      "max": 116,
+      "min": 0,
+      "time_s": 0.0
+    },
+    {
+      "max": 144,
+      "min": 117,
+      "time_s": 697.0
+    },
+    {
+      "max": 158,
+      "min": 145,
+      "time_s": 1097.0
+    },
+    {
+      "max": 173,
+      "min": 159,
+      "time_s": 0.0
+    },
+    {
+      "max": -1,
+      "min": 174,
+      "time_s": 0.0
+    }
+  ],
+  "laps": [
+    {
+      "avg_cadence_spm": null,
+      "avg_hr": 144.0,
+      "distance_m": 5108.3,
+      "distance_mi": 3.174,
+      "elapsed_time_s": 1807,
+      "elev_gain_ft": 129.3,
+      "lap_index": 0,
+      "max_hr": 156.0,
+      "moving_time_s": 1808,
+      "name": "Lap 0",
+      "pace": "9:30"
+    }
+  ],
+  "max_hr": 156.0,
+  "moving_time_s": 1794,
+  "name": "Oh Hi",
+  "splits": [
+    {
+      "avg_hr": 134.44155844155844,
+      "distance_mi": 1.002,
+      "elev_diff_ft": -76.8,
+      "mile": 1,
+      "moving_time_s": 540,
+      "pace": "8:59"
+    },
+    {
+      "avg_hr": 145.80500894454383,
+      "distance_mi": 0.999,
+      "elev_diff_ft": 0.7,
+      "mile": 2,
+      "moving_time_s": 566,
+      "pace": "9:27"
+    },
+    {
+      "avg_hr": 149.52559726962457,
+      "distance_mi": 1.001,
+      "elev_diff_ft": 59.7,
+      "mile": 3,
+      "moving_time_s": 591,
+      "pace": "9:50"
+    },
+    {
+      "avg_hr": 152.8556701030928,
+      "distance_mi": 0.175,
+      "elev_diff_ft": 6.6,
+      "mile": 4,
+      "moving_time_s": 97,
+      "pace": "9:13"
+    }
+  ],
+  "start_local": "2026-09-21T16:50:58Z",
+  "strava_url": "https://www.strava.com/activities/20275031470",
+  "suffer_score": 45.0,
+  "type": "Run"
+}
