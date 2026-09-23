@@ -1,0 +1,106 @@
+{
+  "activity_id": 20289307751,
+  "avg_cadence_spm": null,
+  "avg_hr": 104.9,
+  "avg_pace": "22:28/mi",
+  "avg_power_w": null,
+  "calories": 639.0,
+  "date": "2026-09-22",
+  "date_heading": "September 22, 2026",
+  "description": "",
+  "distance_mi": 4.689,
+  "elapsed_time_s": 7204,
+  "elevation_gain_ft": 1045.9,
+  "fetched_at": "2026-09-23T07:54:13Z",
+  "hr_zones": [
+    {
+      "max": 116,
+      "min": 0,
+      "time_s": 4649.0
+    },
+    {
+      "max": 144,
+      "min": 117,
+      "time_s": 1674.0
+    },
+    {
+      "max": 158,
+      "min": 145,
+      "time_s": 0.0
+    },
+    {
+      "max": 173,
+      "min": 159,
+      "time_s": 0.0
+    },
+    {
+      "max": -1,
+      "min": 174,
+      "time_s": 0.0
+    }
+  ],
+  "laps": [
+    {
+      "avg_cadence_spm": null,
+      "avg_hr": 104.9,
+      "distance_m": 7783.2,
+      "distance_mi": 4.836,
+      "elapsed_time_s": 7204,
+      "elev_gain_ft": 1045.9,
+      "lap_index": 0,
+      "max_hr": 144.0,
+      "moving_time_s": 7204,
+      "name": "Lap 0",
+      "pace": "24:50"
+    }
+  ],
+  "max_hr": 144.0,
+  "moving_time_s": 6323,
+  "name": "Ojai Hike",
+  "splits": [
+    {
+      "avg_hr": 91.49751243781094,
+      "distance_mi": 1.0,
+      "elev_diff_ft": 57.1,
+      "mile": 1,
+      "moving_time_s": 1206,
+      "pace": "20:06"
+    },
+    {
+      "avg_hr": 118.92846385542168,
+      "distance_mi": 1.0,
+      "elev_diff_ft": 383.2,
+      "mile": 2,
+      "moving_time_s": 1348,
+      "pace": "22:28"
+    },
+    {
+      "avg_hr": 113.87393162393163,
+      "distance_mi": 1.0,
+      "elev_diff_ft": 98.4,
+      "mile": 3,
+      "moving_time_s": 1406,
+      "pace": "23:26"
+    },
+    {
+      "avg_hr": 97.92251169004676,
+      "distance_mi": 1.0,
+      "elev_diff_ft": -496.1,
+      "mile": 4,
+      "moving_time_s": 1533,
+      "pace": "25:33"
+    },
+    {
+      "avg_hr": 99.47176913425345,
+      "distance_mi": 0.836,
+      "elev_diff_ft": -213.3,
+      "mile": 5,
+      "moving_time_s": 830,
+      "pace": "16:33"
+    }
+  ],
+  "start_local": "2026-09-22T14:25:45Z",
+  "strava_url": "https://www.strava.com/activities/20289307751",
+  "suffer_score": 25.0,
+  "type": "Hike"
+}

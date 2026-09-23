@@ -945,3 +945,19 @@
 - **Strava sidecar:** `strava/activities/20275031470.json`
 - **Knee Status:** (pending — update after reviewing)
 - **Notes:** Auto-logged from Strava. Awaiting athlete feedback.
+
+## September 22, 2026
+
+- **Workout:** Ojai Hike
+- **Type:** Hike
+- **Distance:** 4.69 mi
+- **Time:** 1:45:23
+- **Avg Pace:** 22:28/mi
+- **Elevation Gain:** 1046 ft
+- **Avg Heart Rate:** 105 bpm (max 144)
+- **Avg Cadence:** N/A
+- **Splits:** 20:06, 22:28, 23:26, 25:33, 16:33
+- **Relative Effort:** 25.0
+- **Strava sidecar:** `strava/activities/20289307751.json`
+- **Knee Status:** (pending — update after reviewing)
+- **Notes:** Auto-logged from Strava. Awaiting athlete feedback.
