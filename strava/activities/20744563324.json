@@ -1,0 +1,114 @@
+{
+  "activity_id": 20744563324,
+  "avg_cadence_spm": null,
+  "avg_hr": 149.2,
+  "avg_pace": "9:49/mi",
+  "avg_power_w": 220.3,
+  "calories": 665.0,
+  "date": "2026-10-26",
+  "date_heading": "October 26, 2026",
+  "description": "",
+  "distance_mi": 5.506,
+  "elapsed_time_s": 3248,
+  "elevation_gain_ft": 710.6,
+  "fetched_at": "2026-10-27T08:13:10Z",
+  "hr_zones": [
+    {
+      "max": 116,
+      "min": 0,
+      "time_s": 0.0
+    },
+    {
+      "max": 144,
+      "min": 117,
+      "time_s": 1553.0
+    },
+    {
+      "max": 158,
+      "min": 145,
+      "time_s": 969.0
+    },
+    {
+      "max": 173,
+      "min": 159,
+      "time_s": 471.0
+    },
+    {
+      "max": -1,
+      "min": 174,
+      "time_s": 251.0
+    }
+  ],
+  "laps": [
+    {
+      "avg_cadence_spm": null,
+      "avg_hr": 149.2,
+      "distance_m": 8856.9,
+      "distance_mi": 5.503,
+      "elapsed_time_s": 3248,
+      "elev_gain_ft": 710.6,
+      "lap_index": 0,
+      "max_hr": 179.0,
+      "moving_time_s": 3248,
+      "name": "Lap 0",
+      "pace": "9:50"
+    }
+  ],
+  "max_hr": 179.0,
+  "moving_time_s": 3244,
+  "name": "Afternoon Run",
+  "splits": [
+    {
+      "avg_hr": 156.7332268370607,
+      "distance_mi": 1.001,
+      "elev_diff_ft": 185.0,
+      "mile": 1,
+      "moving_time_s": 638,
+      "pace": "10:37"
+    },
+    {
+      "avg_hr": 158.27637444279347,
+      "distance_mi": 0.999,
+      "elev_diff_ft": 251.3,
+      "mile": 2,
+      "moving_time_s": 731,
+      "pace": "12:11"
+    },
+    {
+      "avg_hr": 139.3776493256262,
+      "distance_mi": 0.999,
+      "elev_diff_ft": -145.0,
+      "mile": 3,
+      "moving_time_s": 519,
+      "pace": "8:39"
+    },
+    {
+      "avg_hr": 149.43362831858408,
+      "distance_mi": 1.0,
+      "elev_diff_ft": 62.3,
+      "mile": 4,
+      "moving_time_s": 565,
+      "pace": "9:25"
+    },
+    {
+      "avg_hr": 139.63442940038684,
+      "distance_mi": 1.001,
+      "elev_diff_ft": -328.1,
+      "mile": 5,
+      "moving_time_s": 519,
+      "pace": "8:38"
+    },
+    {
+      "avg_hr": 145.309963099631,
+      "distance_mi": 0.502,
+      "elev_diff_ft": -50.5,
+      "mile": 6,
+      "moving_time_s": 272,
+      "pace": "9:02"
+    }
+  ],
+  "start_local": "2026-10-26T16:11:45Z",
+  "strava_url": "https://www.strava.com/activities/20744563324",
+  "suffer_score": 106.0,
+  "type": "Run"
+}

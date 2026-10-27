@@ -993,3 +993,19 @@
 - **Strava sidecar:** `strava/activities/20641970026.json`
 - **Knee Status:** (pending — update after reviewing)
 - **Notes:** Auto-logged from Strava. Awaiting athlete feedback.
+
+## October 26, 2026
+
+- **Workout:** Afternoon Run
+- **Type:** Run
+- **Distance:** 5.51 mi
+- **Time:** 54:04
+- **Avg Pace:** 9:49/mi
+- **Elevation Gain:** 711 ft
+- **Avg Heart Rate:** 149 bpm (max 179)
+- **Avg Cadence:** N/A
+- **Splits:** 10:37, 12:11, 8:39, 9:25, 8:38, 9:02
+- **Relative Effort:** 106.0
+- **Strava sidecar:** `strava/activities/20744563324.json`
+- **Knee Status:** (pending — update after reviewing)
+- **Notes:** Auto-logged from Strava. Awaiting athlete feedback.
