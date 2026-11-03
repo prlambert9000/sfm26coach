@@ -1,0 +1,98 @@
+{
+  "activity_id": 20836820973,
+  "avg_cadence_spm": null,
+  "avg_hr": 144.7,
+  "avg_pace": "9:09/mi",
+  "avg_power_w": 222.3,
+  "calories": 413.0,
+  "date": "2026-11-02",
+  "date_heading": "November 2, 2026",
+  "description": "",
+  "distance_mi": 3.782,
+  "elapsed_time_s": 2147,
+  "elevation_gain_ft": 380.6,
+  "fetched_at": "2026-11-03T09:52:16Z",
+  "hr_zones": [
+    {
+      "max": 116,
+      "min": 0,
+      "time_s": 32.0
+    },
+    {
+      "max": 144,
+      "min": 117,
+      "time_s": 750.0
+    },
+    {
+      "max": 158,
+      "min": 145,
+      "time_s": 1272.0
+    },
+    {
+      "max": 173,
+      "min": 159,
+      "time_s": 4.0
+    },
+    {
+      "max": -1,
+      "min": 174,
+      "time_s": 0.0
+    }
+  ],
+  "laps": [
+    {
+      "avg_cadence_spm": null,
+      "avg_hr": 144.7,
+      "distance_m": 6071.7,
+      "distance_mi": 3.773,
+      "elapsed_time_s": 2147,
+      "elev_gain_ft": 380.6,
+      "lap_index": 0,
+      "max_hr": 159.0,
+      "moving_time_s": 2076,
+      "name": "Lap 0",
+      "pace": "9:10"
+    }
+  ],
+  "max_hr": 159.0,
+  "moving_time_s": 2075,
+  "name": "Afternoon Run",
+  "splits": [
+    {
+      "avg_hr": 141.42561205273068,
+      "distance_mi": 1.0,
+      "elev_diff_ft": -44.0,
+      "mile": 1,
+      "moving_time_s": 537,
+      "pace": "8:57"
+    },
+    {
+      "avg_hr": 141.12072072072073,
+      "distance_mi": 1.0,
+      "elev_diff_ft": -26.9,
+      "mile": 2,
+      "moving_time_s": 581,
+      "pace": "9:41"
+    },
+    {
+      "avg_hr": 146.14258188824664,
+      "distance_mi": 1.001,
+      "elev_diff_ft": -28.9,
+      "mile": 3,
+      "moving_time_s": 519,
+      "pace": "8:39"
+    },
+    {
+      "avg_hr": 151.47706422018348,
+      "distance_mi": 0.782,
+      "elev_diff_ft": 118.1,
+      "mile": 4,
+      "moving_time_s": 439,
+      "pace": "9:21"
+    }
+  ],
+  "start_local": "2026-11-02T16:30:39Z",
+  "strava_url": "https://www.strava.com/activities/20836820973",
+  "suffer_score": 57.0,
+  "type": "Run"
+}
