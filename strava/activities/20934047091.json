@@ -1,0 +1,106 @@
+{
+  "activity_id": 20934047091,
+  "avg_cadence_spm": null,
+  "avg_hr": 147.3,
+  "avg_pace": "8:33/mi",
+  "avg_power_w": 233.7,
+  "calories": 439.0,
+  "date": "2026-11-08",
+  "date_heading": "November 8, 2026",
+  "description": "",
+  "distance_mi": 4.056,
+  "elapsed_time_s": 2085,
+  "elevation_gain_ft": 252.0,
+  "fetched_at": "2026-11-10T20:56:50Z",
+  "hr_zones": [
+    {
+      "max": 116,
+      "min": 0,
+      "time_s": 0.0
+    },
+    {
+      "max": 144,
+      "min": 117,
+      "time_s": 733.0
+    },
+    {
+      "max": 158,
+      "min": 145,
+      "time_s": 1271.0
+    },
+    {
+      "max": 173,
+      "min": 159,
+      "time_s": 77.0
+    },
+    {
+      "max": -1,
+      "min": 174,
+      "time_s": 0.0
+    }
+  ],
+  "laps": [
+    {
+      "avg_cadence_spm": null,
+      "avg_hr": 147.3,
+      "distance_m": 6525.8,
+      "distance_mi": 4.055,
+      "elapsed_time_s": 2085,
+      "elev_gain_ft": 252.0,
+      "lap_index": 0,
+      "max_hr": 160.0,
+      "moving_time_s": 2085,
+      "name": "Lap 0",
+      "pace": "8:34"
+    }
+  ],
+  "max_hr": 160.0,
+  "moving_time_s": 2081,
+  "name": "Morning Run",
+  "splits": [
+    {
+      "avg_hr": 140.13360323886639,
+      "distance_mi": 1.002,
+      "elev_diff_ft": -117.5,
+      "mile": 1,
+      "moving_time_s": 496,
+      "pace": "8:15"
+    },
+    {
+      "avg_hr": 144.12244897959184,
+      "distance_mi": 1.0,
+      "elev_diff_ft": -66.3,
+      "mile": 2,
+      "moving_time_s": 490,
+      "pace": "8:10"
+    },
+    {
+      "avg_hr": 149.50984251968504,
+      "distance_mi": 0.999,
+      "elev_diff_ft": 27.6,
+      "mile": 3,
+      "moving_time_s": 508,
+      "pace": "8:28"
+    },
+    {
+      "avg_hr": 153.73712255772648,
+      "distance_mi": 1.0,
+      "elev_diff_ft": 154.2,
+      "mile": 4,
+      "moving_time_s": 564,
+      "pace": "9:24"
+    },
+    {
+      "avg_hr": 159.82608695652175,
+      "distance_mi": 0.054,
+      "elev_diff_ft": -0.7,
+      "mile": 5,
+      "moving_time_s": 23,
+      "pace": "7:08"
+    }
+  ],
+  "start_local": "2026-11-08T08:21:24Z",
+  "strava_url": "https://www.strava.com/activities/20934047091",
+  "suffer_score": 62.0,
+  "type": "Run"
+}

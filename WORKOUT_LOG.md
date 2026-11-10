@@ -1041,3 +1041,19 @@
 - **Strava sidecar:** `strava/activities/20836820973.json`
 - **Knee Status:** (pending — update after reviewing)
 - **Notes:** Auto-logged from Strava. Awaiting athlete feedback.
+
+## November 8, 2026
+
+- **Workout:** Morning Run
+- **Type:** Run
+- **Distance:** 4.06 mi
+- **Time:** 34:41
+- **Avg Pace:** 8:33/mi
+- **Elevation Gain:** 252 ft
+- **Avg Heart Rate:** 147 bpm (max 160)
+- **Avg Cadence:** N/A
+- **Splits:** 8:15, 8:10, 8:28, 9:24, 7:08
+- **Relative Effort:** 62.0
+- **Strava sidecar:** `strava/activities/20934047091.json`
+- **Knee Status:** (pending — update after reviewing)
+- **Notes:** Auto-logged from Strava. Awaiting athlete feedback.
